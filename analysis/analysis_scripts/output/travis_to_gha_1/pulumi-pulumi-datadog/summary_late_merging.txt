@@ -1,0 +1,34 @@
+Missed Activity
+=========================
+Branch stack72/provider-binary-version has 579 days of missed activity!
+MEDIUM SEVERITY
+Branch stack72/provider-binary-version, 579 seconds
+
+Branch Deviation
+=========================
+Average deviation: 548.8888888888889 days
+Branch deps/update-pulumi-terraform-fdafc00b3f moved away from main with 1004 days, 455.1111111111111 more than average
+Branch jaxxstorm/tar-providers moved away from main with 598 days, 49.111111111111086 more than average
+Branch jaxxstorm/virtualenv-fixes moved away from main with 670 days, 121.11111111111109 more than average
+Branch justin/py moved away from main with 1152 days, 603.1111111111111 more than average
+Branch stack72/provider-binary-version moved away from main with 579 days, 30.111111111111086 more than average
+Branch useLatestBridge moved away from main with 815 days, 266.1111111111111 more than average
+MEDIUM SEVERITY
+Branch deps/update-pulumi-terraform-fdafc00b3f, 1004 days
+Branch justin/py, 1152 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.1111111111111111 days
+Branch deps/update-pulumi-terraform-fdafc00b3f is unsynced with 0 days, 0.1111111111111111 more than average
+Branch jaxxstorm/tar-providers is unsynced with 0 days, 0.1111111111111111 more than average
+Branch jaxxstorm/virtualenv-fixes is unsynced with 0 days, 0.1111111111111111 more than average
+Branch justin/py is unsynced with 0 days, 0.1111111111111111 more than average
+Branch master is unsynced with 0 days, 0.1111111111111111 more than average
+Branch stack72/v3.12.0 is unsynced with 0 days, 0.1111111111111111 more than average
+Branch update-github-actions-workflows-27 is unsynced with 0 days, 0.1111111111111111 more than average
+Branch useLatestBridge is unsynced with 0 days, 0.1111111111111111 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch stack72/provider-binary-version, -1 days

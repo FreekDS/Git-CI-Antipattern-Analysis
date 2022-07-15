@@ -1,0 +1,156 @@
+{
+  "slow_build": {
+    "Build": {
+      "data": {
+        "2021-04-10T15:16:17Z": 630000.0,
+        "2021-04-20T01:37:23Z": 754000.0,
+        "2021-04-27T18:42:45Z": 81729000.0,
+        "2021-05-04T20:37:25Z": 710400.0,
+        "2021-06-22T10:11:38Z": 5520285.714285715
+      },
+      "tool": "Github Actions",
+      "total avg": 17868737.14285714,
+      "quartiles": {
+        "q1": 710400.0,
+        "q3": 5520285.714285715,
+        "iqr": 4809885.714285715
+      },
+      "classification": {
+        "high_severity": {
+          "62": 81729000,
+          "69": 20652000
+        },
+        "medium_severity": {
+          "70": 12182000
+        }
+      }
+    },
+    "Publish": {
+      "data": {
+        "2021-04-09T01:52:15Z": 106500.0,
+        "2021-04-24T13:47:12Z": 135000.0,
+        "2021-05-09T07:40:43Z": 139200.0,
+        "2021-05-22T09:55:26Z": 143000.0,
+        "2021-06-25T13:36:30Z": 129333.33333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 130606.66666666667,
+      "quartiles": {
+        "q1": 129333.33333333333,
+        "q3": 139200.0,
+        "iqr": 9866.666666666672
+      },
+      "classification": {
+        "high_severity": {
+          "54": 158000,
+          "55": 160000
+        },
+        "medium_severity": {
+          "56": 144000,
+          "57": 143000,
+          "58": 151000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-npm-badge": 765,
+      "bartolkaruza-patch-1": 0,
+      "chore/buildForWeb": 223,
+      "chore/renameCiStep": 497,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "feat/addItemStyleForAndroid": 387,
+      "feat/disablePickerItem": 386,
+      "fix/dropdownColorProp": 387,
+      "issue-2": 0,
+      "issue-5": 0,
+      "issue-6": 0,
+      "master": 0,
+      "patch-readme-1": 0,
+      "pr/kaiguo/58": 0,
+      "undefined": 0
+    },
+    "branch deviation": {
+      "add-npm-badge": 793,
+      "bartolkaruza-patch-1": 1068,
+      "chore/buildForWeb": 223,
+      "chore/renameCiStep": 508,
+      "dependabot/npm_and_yarn/async-2.6.4": -1,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 20,
+      "feat/addItemStyleForAndroid": 387,
+      "feat/disablePickerItem": 386,
+      "fix/dropdownColorProp": 387,
+      "issue-2": 1027,
+      "issue-5": 1027,
+      "issue-6": 1021,
+      "master": 0,
+      "patch-readme-1": 809,
+      "pr/kaiguo/58": 711,
+      "undefined": 508
+    },
+    "unsynced activity": {
+      "add-npm-badge": -29,
+      "bartolkaruza-patch-1": 0,
+      "chore/buildForWeb": -1,
+      "chore/renameCiStep": -12,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "feat/addItemStyleForAndroid": -1,
+      "feat/disablePickerItem": -1,
+      "fix/dropdownColorProp": -1,
+      "issue-2": 0,
+      "issue-5": 0,
+      "issue-6": 0,
+      "master": 0,
+      "patch-readme-1": 0,
+      "pr/kaiguo/58": 0,
+      "undefined": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "add-npm-badge",
+          "chore/renameCiStep",
+          "feat/addItemStyleForAndroid",
+          "fix/dropdownColorProp"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "bartolkaruza-patch-1",
+          "issue-2",
+          "issue-5",
+          "issue-6"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "chore/buildForWeb",
+          "feat/addItemStyleForAndroid",
+          "feat/disablePickerItem",
+          "fix/dropdownColorProp"
+        ],
+        "high_severity": [
+          "add-npm-badge",
+          "chore/renameCiStep"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Build": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "Publish": {
+      "data": [],
+      "release_build_count": 12
+    }
+  },
+  "skip_failing_tests": {}
+}

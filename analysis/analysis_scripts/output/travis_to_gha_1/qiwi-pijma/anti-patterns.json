@@ -1,0 +1,298 @@
+{
+  "slow_build": {
+    "CodeQL": {
+      "data": {
+        "2021-03-11T09:21:08Z": 343882.35294117645,
+        "2021-03-18T17:58:38Z": 158904.7619047619,
+        "2021-04-01T06:34:15Z": 143321.42857142858
+      },
+      "tool": "Github Actions",
+      "total avg": 215369.51447245563,
+      "quartiles": {
+        "q1": 151113.09523809524,
+        "q3": 251393.55742296917,
+        "iqr": 100280.46218487393
+      },
+      "classification": {
+        "high_severity": {
+          "39": 5001000,
+          "40": 4716000
+        },
+        "medium_severity": {}
+      }
+    },
+    "CI": {
+      "data": {
+        "2021-04-01T08:02:30Z": 606600.0
+      },
+      "tool": "Github Actions",
+      "total avg": 606600.0,
+      "quartiles": {
+        "q1": 606600.0,
+        "q3": 606600.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "8": 1794000,
+          "10": 3352000,
+          "18": 812000
+        },
+        "medium_severity": {}
+      }
+    },
+    "pijma": {
+      "data": {
+        "2021-03-01T20:39:50Z": 341222.22222222225,
+        "2021-03-09T01:04:04Z": 329842.1052631579,
+        "2021-03-16T09:44:11Z": 364296.2962962963,
+        "2021-03-23T09:48:55Z": 399500.0,
+        "2021-04-01T08:04:50Z": 429818.1818181818
+      },
+      "tool": "TravisCI",
+      "total avg": 372935.76111997163,
+      "quartiles": {
+        "q1": 341222.22222222225,
+        "q3": 399500.0,
+        "iqr": 58277.77777777775
+      },
+      "classification": {
+        "high_severity": {
+          "2187": 535000,
+          "2188": 494000,
+          "2192": 1105000,
+          "2213": 495000,
+          "2221": 503000,
+          "2281": 517000,
+          "2285": 491000,
+          "2287": 526000,
+          "2290": 487000,
+          "2300": 554000,
+          "2304": 619000,
+          "2307": 495000,
+          "2309": 506000,
+          "2310": 509000
+        },
+        "medium_severity": {
+          "2131": 419000,
+          "2135": 449000,
+          "2144": 418000,
+          "2176": 405000,
+          "2184": 414000,
+          "2191": 410000,
+          "2201": 477000,
+          "2204": 447000,
+          "2209": 466000,
+          "2230": 471000,
+          "2233": 463000,
+          "2236": 455000,
+          "2240": 449000,
+          "2243": 480000,
+          "2246": 465000,
+          "2273": 473000,
+          "2276": 469000,
+          "2283": 433000,
+          "2294": 405000,
+          "2311": 413000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "Modal-editing": 0,
+      "add-cjs-bundles": 50,
+      "button-docs": 0,
+      "button-extra-states": 0,
+      "contributing": 0,
+      "docs": 0,
+      "feat/table": 0,
+      "feat/tabs": 0,
+      "fix-entry-point": 0,
+      "gh-pages": 0,
+      "header-drop-down-separated": 0,
+      "master": 0,
+      "mobile-select": 0,
+      "modal-new-awesome-animation": 0,
+      "new-test": 0,
+      "new-test-2": 0,
+      "phone-field": 0,
+      "renovate/husky-2.x": 0,
+      "renovate/lerna-monorepo": 0,
+      "renovate/webpack-4.x": 0,
+      "select-control": 0,
+      "stub-title": 0,
+      "test": 0
+    },
+    "branch deviation": {
+      "Modal-editing": 1195,
+      "add-cjs-bundles": 50,
+      "button-docs": 1286,
+      "button-extra-states": 1124,
+      "contributing": 435,
+      "docs": 435,
+      "feat/table": 894,
+      "feat/tabs": 952,
+      "fix-entry-point": 54,
+      "gh-pages": 2,
+      "header-drop-down-separated": 853,
+      "master": 0,
+      "mobile-select": 1303,
+      "modal-new-awesome-animation": 1114,
+      "new-test": 915,
+      "new-test-2": 915,
+      "phone-field": 967,
+      "renovate/husky-2.x": 1073,
+      "renovate/lerna-monorepo": 1073,
+      "renovate/webpack-4.x": 1073,
+      "select-control": 1316,
+      "stub-title": 1055,
+      "test": 915
+    },
+    "unsynced activity": {
+      "Modal-editing": 0,
+      "add-cjs-bundles": -1,
+      "button-docs": 0,
+      "button-extra-states": 0,
+      "contributing": 0,
+      "docs": 0,
+      "feat/table": 0,
+      "feat/tabs": 0,
+      "fix-entry-point": 0,
+      "gh-pages": 0,
+      "header-drop-down-separated": 0,
+      "master": 0,
+      "mobile-select": 0,
+      "modal-new-awesome-animation": 0,
+      "new-test": 0,
+      "new-test-2": 0,
+      "phone-field": 0,
+      "renovate/husky-2.x": 0,
+      "renovate/lerna-monorepo": 0,
+      "renovate/webpack-4.x": 0,
+      "select-control": 0,
+      "stub-title": 0,
+      "test": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "add-cjs-bundles"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "Modal-editing",
+          "button-docs",
+          "button-extra-states",
+          "mobile-select",
+          "modal-new-awesome-animation",
+          "select-control"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "add-cjs-bundles"
+        ]
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "CodeQL": {
+      "data": [],
+      "release_build_count": 37
+    },
+    "CI": {
+      "data": [
+        {
+          "started_at": "2021-04-01T13:02:39Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        },
+        {
+          "started_at": "2021-04-01T13:19:42Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        },
+        {
+          "started_at": "2021-04-01T13:35:58Z",
+          "used_tool": "Github Actions",
+          "number": 8
+        },
+        {
+          "started_at": "2021-04-01T14:12:19Z",
+          "used_tool": "Github Actions",
+          "number": 9
+        },
+        {
+          "started_at": "2021-04-01T14:52:42Z",
+          "used_tool": "Github Actions",
+          "number": 10
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 8
+    },
+    "pijma": {
+      "data": [
+        {
+          "started_at": "2021-03-10T14:34:50Z",
+          "used_tool": "TravisCI",
+          "number": 2164
+        },
+        {
+          "started_at": "2021-03-10T14:35:38Z",
+          "used_tool": "TravisCI",
+          "number": 2165
+        },
+        {
+          "started_at": "2021-03-10T15:02:01Z",
+          "used_tool": "TravisCI",
+          "number": 2161
+        },
+        {
+          "started_at": "2021-03-10T15:11:24Z",
+          "used_tool": "TravisCI",
+          "number": 2168
+        },
+        {
+          "started_at": "2021-03-10T17:33:05Z",
+          "used_tool": "TravisCI",
+          "number": 2187
+        },
+        {
+          "started_at": "2021-03-10T17:54:58Z",
+          "used_tool": "TravisCI",
+          "number": 2188
+        },
+        {
+          "started_at": "2021-03-11T07:39:49Z",
+          "used_tool": "TravisCI",
+          "number": 2192
+        },
+        {
+          "started_at": "2021-03-15T20:15:29Z",
+          "used_tool": "TravisCI",
+          "number": 2265
+        },
+        {
+          "started_at": "2021-03-16T09:52:27Z",
+          "used_tool": "TravisCI",
+          "number": 2269
+        },
+        {
+          "started_at": "2021-03-22T12:51:06Z",
+          "used_tool": "TravisCI",
+          "number": 2283
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 124
+    }
+  },
+  "skip_failing_tests": {}
+}

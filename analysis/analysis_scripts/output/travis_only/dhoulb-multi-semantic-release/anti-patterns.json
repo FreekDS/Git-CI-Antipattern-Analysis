@@ -1,0 +1,63 @@
+{
+  "slow_build": {
+    "multi-semantic-release": {
+      "data": {
+        "2021-04-29T22:44:02Z": 123000.0,
+        "2021-05-07T23:29:20Z": 116750.0,
+        "2021-05-29T10:35:56Z": 125000.0,
+        "2021-06-09T00:12:48Z": 123400.0
+      },
+      "tool": "TravisCI",
+      "total avg": 122037.5,
+      "quartiles": {
+        "q1": 121437.5,
+        "q3": 123800.0,
+        "iqr": 2362.5
+      },
+      "classification": {
+        "high_severity": {
+          "146": 164000,
+          "153": 134000,
+          "155": 130000
+        },
+        "medium_severity": {
+          "139": 125000,
+          "147": 124000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "multi-semantic-release": {
+      "data": [],
+      "release_build_count": 14
+    }
+  },
+  "skip_failing_tests": {}
+}

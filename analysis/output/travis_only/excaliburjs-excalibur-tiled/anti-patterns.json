@@ -1,0 +1,72 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/engine.io-6.1.2": 0,
+      "dependabot/npm_and_yarn/node-forge-1.3.1": 0,
+      "feature/limit-camera-to-map-bounds": 0,
+      "ludum-50": 0,
+      "main": 0,
+      "master": 0,
+      "renovate/actions-cache-3.x": 0,
+      "renovate/actions-checkout-3.x": 0,
+      "renovate/actions-setup-node-3.x": 0,
+      "renovate/fast-xml-parser-4.x": 0,
+      "renovate/jasmine-4.x": 0,
+      "renovate/karma-jasmine-5.x": 0,
+      "renovate/pako-2.x": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/engine.io-6.1.2": 91,
+      "dependabot/npm_and_yarn/node-forge-1.3.1": 49,
+      "feature/limit-camera-to-map-bounds": 182,
+      "ludum-50": 59,
+      "main": 0,
+      "master": 623,
+      "renovate/actions-cache-3.x": 64,
+      "renovate/actions-checkout-3.x": 84,
+      "renovate/actions-setup-node-3.x": 88,
+      "renovate/fast-xml-parser-4.x": 67,
+      "renovate/jasmine-4.x": 12,
+      "renovate/karma-jasmine-5.x": 11,
+      "renovate/pako-2.x": 5
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/engine.io-6.1.2": 0,
+      "dependabot/npm_and_yarn/node-forge-1.3.1": 0,
+      "feature/limit-camera-to-map-bounds": 0,
+      "ludum-50": 0,
+      "main": 0,
+      "master": 0,
+      "renovate/actions-cache-3.x": 0,
+      "renovate/actions-checkout-3.x": 0,
+      "renovate/actions-setup-node-3.x": 0,
+      "renovate/fast-xml-parser-4.x": 0,
+      "renovate/jasmine-4.x": 0,
+      "renovate/karma-jasmine-5.x": 0,
+      "renovate/pako-2.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/engine.io-6.1.2",
+          "feature/limit-camera-to-map-bounds"
+        ],
+        "high_severity": [
+          "master"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

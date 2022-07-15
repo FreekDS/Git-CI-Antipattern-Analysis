@@ -1,0 +1,112 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2020-02-03T17:26:59Z": 84666.66666666667
+      },
+      "tool": "Github Actions",
+      "total avg": 84666.66666666667,
+      "quartiles": {
+        "q1": 84666.66666666667,
+        "q3": 84666.66666666667,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 99000
+        },
+        "medium_severity": {}
+      }
+    },
+    "dictionary-types": {
+      "data": {
+        "2019-12-20T21:54:45Z": 53500.0,
+        "2020-01-09T20:26:00Z": 56625.0,
+        "2020-01-16T21:49:59Z": 57333.333333333336,
+        "2020-01-27T00:05:52Z": 57307.692307692305,
+        "2020-02-03T00:09:55Z": 54666.666666666664
+      },
+      "tool": "TravisCI",
+      "total avg": 55886.53846153846,
+      "quartiles": {
+        "q1": 54666.666666666664,
+        "q3": 57307.692307692305,
+        "iqr": 2641.0256410256407
+      },
+      "classification": {
+        "high_severity": {
+          "183": 63000,
+          "198": 62000
+        },
+        "medium_severity": {
+          "165": 59000,
+          "167": 59000,
+          "171": 58000,
+          "173": 60000,
+          "175": 58000,
+          "177": 61000,
+          "179": 60000,
+          "181": 59000,
+          "185": 61000,
+          "187": 60000,
+          "189": 59000,
+          "192": 60000,
+          "194": 59000,
+          "196": 61000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0,
+      "renovate/lock-file-maintenance": 0,
+      "renovate/main-lock-file-maintenance": 321,
+      "renovate/main-semantic-release-19.x": 0
+    },
+    "branch deviation": {
+      "main": 0,
+      "renovate/lock-file-maintenance": 470,
+      "renovate/main-lock-file-maintenance": 1,
+      "renovate/main-semantic-release-19.x": -1
+    },
+    "unsynced activity": {
+      "main": 0,
+      "renovate/lock-file-maintenance": 0,
+      "renovate/main-lock-file-maintenance": 319,
+      "renovate/main-semantic-release-19.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/main-lock-file-maintenance"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/lock-file-maintenance"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/main-lock-file-maintenance"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 3
+    },
+    "dictionary-types": {
+      "data": [],
+      "release_build_count": 18
+    }
+  },
+  "skip_failing_tests": {}
+}

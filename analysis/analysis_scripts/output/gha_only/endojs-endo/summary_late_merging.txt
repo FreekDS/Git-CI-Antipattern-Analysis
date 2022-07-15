@@ -1,0 +1,215 @@
+Missed Activity
+=========================
+Branch 8-quick-tame-error has 787 days of missed activity!
+Branch 326-lockdown-options-reform has 732 days of missed activity!
+Branch 709-export-as has 378 days of missed activity!
+Branch 709-smr-tests has 378 days of missed activity!
+Branch ava has 543 days of missed activity!
+Branch kris/endo-module-override has 638 days of missed activity!
+Branch partial-intrinsic-reform has 694 days of missed activity!
+Branch prepare-stack-trace has 692 days of missed activity!
+Branch release-2022-01-27-03-28-33 has 117 days of missed activity!
+Branch remove-deprecated-noTame-options has 726 days of missed activity!
+MEDIUM SEVERITY
+Branch 8-quick-tame-error, 787 seconds
+Branch 326-lockdown-options-reform, 732 seconds
+Branch 709-export-as, 378 seconds
+Branch 709-smr-tests, 378 seconds
+Branch ava, 543 seconds
+Branch kris/endo-module-override, 638 seconds
+Branch partial-intrinsic-reform, 694 seconds
+Branch prepare-stack-trace, 692 seconds
+Branch release-2022-01-27-03-28-33, 117 seconds
+Branch remove-deprecated-noTame-options, 726 seconds
+
+Branch Deviation
+=========================
+Average deviation: 400.09708737864077 days
+Branch 0.6-stable moved away from main with 823 days, 422.90291262135923 more than average
+Branch 8-quick-tame-error moved away from main with 787 days, 386.90291262135923 more than average
+Branch 14-actions moved away from main with 831 days, 430.90291262135923 more than average
+Branch 224-expose-compartment moved away from main with 798 days, 397.90291262135923 more than average
+Branch 248-transform-endowments moved away from main with 791 days, 390.90291262135923 more than average
+Branch 326-lockdown-options-reform moved away from main with 732 days, 331.90291262135923 more than average
+Branch 377-compartment-wrapper moved away from main with 676 days, 275.90291262135923 more than average
+Branch 535-ava-xs moved away from main with 409 days, 8.902912621359235 more than average
+Branch 626-broken-link moved away from main with 425 days, 24.902912621359235 more than average
+Branch 655-compartment-mapper moved away from main with 403 days, 2.902912621359235 more than average
+Branch abandon/varint moved away from main with 603 days, 202.90291262135923 more than average
+Branch ava moved away from main with 541 days, 140.90291262135923 more than average
+Branch compartment-typescript moved away from main with 434 days, 33.902912621359235 more than average
+Branch compatibility-tests moved away from main with 739 days, 338.90291262135923 more than average
+Branch deep-stacks moved away from main with 595 days, 194.90291262135923 more than average
+Branch delta-tame-error moved away from main with 831 days, 430.90291262135923 more than average
+Branch doc-tweaks moved away from main with 708 days, 307.90291262135923 more than average
+Branch feral moved away from main with 403 days, 2.902912621359235 more than average
+Branch intrinsic-reform moved away from main with 709 days, 308.90291262135923 more than average
+Branch kris/endo-compartmap-addendum moved away from main with 672 days, 271.90291262135923 more than average
+Branch kris/endo-cycles moved away from main with 636 days, 235.90291262135923 more than average
+Branch kris/endo-fix-archive-encoding moved away from main with 636 days, 235.90291262135923 more than average
+Branch kris/endo-import-hook moved away from main with 636 days, 235.90291262135923 more than average
+Branch kris/endo-json-errors moved away from main with 636 days, 235.90291262135923 more than average
+Branch kris/endo-module-override moved away from main with 638 days, 237.90291262135923 more than average
+Branch kris/endo-stack moved away from main with 628 days, 227.90291262135923 more than average
+Branch kris/make-compartment moved away from main with 688 days, 287.90291262135923 more than average
+Branch kris/quick-fix moved away from main with 628 days, 227.90291262135923 more than average
+Branch kris/restore-cm-cjs moved away from main with 578 days, 177.90291262135923 more than average
+Branch kris/ses-import-hook-alias moved away from main with 636 days, 235.90291262135923 more than average
+Branch kris/varint moved away from main with 612 days, 211.90291262135923 more than average
+Branch kris-seserr moved away from main with 524 days, 123.90291262135923 more than average
+Branch make-hardener-types moved away from main with 448 days, 47.902912621359235 more than average
+Branch markm-161-more-missing-tschecks moved away from main with 485 days, 84.90291262135923 more than average
+Branch markm-stop-enabling-O-p-constructor moved away from main with 472 days, 71.90291262135923 more than average
+Branch markm-yarn-lockin-acorn8 moved away from main with 450 days, 49.902912621359235 more than average
+Branch partial-intrinsic-reform moved away from main with 696 days, 295.90291262135923 more than average
+Branch prepare-stack-trace moved away from main with 692 days, 291.90291262135923 more than average
+Branch reject-entries-symbols moved away from main with 467 days, 66.90291262135923 more than average
+Branch remove-deprecated-noTame-options moved away from main with 727 days, 326.90291262135923 more than average
+Branch safari-defProps-bug moved away from main with 449 days, 48.902912621359235 more than average
+Branch safe-v8ish-errors moved away from main with 727 days, 326.90291262135923 more than average
+Branch supress-rejections moved away from main with 578 days, 177.90291262135923 more than average
+Branch test-error-manipulation moved away from main with 693 days, 292.90291262135923 more than average
+Branch update-yarn-lock moved away from main with 426 days, 25.902912621359235 more than average
+Branch use_ava_wip moved away from main with 581 days, 180.90291262135923 more than average
+Branch use_ava moved away from main with 588 days, 187.90291262135923 more than average
+Branch whitelist-more moved away from main with 618 days, 217.90291262135923 more than average
+Branch wip-make-hardener-integration-test moved away from main with 580 days, 179.90291262135923 more than average
+Branch xscm moved away from main with 529 days, 128.90291262135923 more than average
+MEDIUM SEVERITY
+Branch 0.6-stable, 823 days
+Branch 8-quick-tame-error, 787 days
+Branch 14-actions, 831 days
+Branch 224-expose-compartment, 798 days
+Branch 248-transform-endowments, 791 days
+Branch 326-lockdown-options-reform, 732 days
+Branch 377-compartment-wrapper, 676 days
+Branch compatibility-tests, 739 days
+Branch delta-tame-error, 831 days
+Branch doc-tweaks, 708 days
+Branch intrinsic-reform, 709 days
+Branch kris/endo-compartmap-addendum, 672 days
+Branch kris/endo-cycles, 636 days
+Branch kris/endo-fix-archive-encoding, 636 days
+Branch kris/endo-import-hook, 636 days
+Branch kris/endo-json-errors, 636 days
+Branch kris/endo-module-override, 638 days
+Branch kris/endo-stack, 628 days
+Branch kris/make-compartment, 688 days
+Branch kris/quick-fix, 628 days
+Branch kris/ses-import-hook-alias, 636 days
+Branch partial-intrinsic-reform, 696 days
+Branch prepare-stack-trace, 692 days
+Branch remove-deprecated-noTame-options, 727 days
+Branch safe-v8ish-errors, 727 days
+Branch test-error-manipulation, 693 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.05825242718446602 days
+Branch 0.6-stable is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 14-actions is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 126-no-domains is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 175 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 224-expose-compartment is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 248-transform-endowments is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 377-compartment-wrapper is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 535-ava-xs is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 626-broken-link is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 655-compartment-mapper is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 709-export-as is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 709-fix-multi is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 709-smr-tests is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 794-test-fixture-maker is unsynced with 0 days, 0.05825242718446602 more than average
+Branch 4310-markm-refactor-marshalSaveError is unsynced with 0 days, 0.05825242718446602 more than average
+Branch abandon/varint is unsynced with 0 days, 0.05825242718446602 more than average
+Branch alt-harden is unsynced with 0 days, 0.05825242718446602 more than average
+Branch atomic-actions is unsynced with 0 days, 0.05825242718446602 more than average
+Branch ava is unsynced with 2 days, 2.058252427184466 more than average
+Branch better-ses-ava is unsynced with 0 days, 0.05825242718446602 more than average
+Branch compartment-apply-precompiled is unsynced with 0 days, 0.05825242718446602 more than average
+Branch compartment-make-scope-proxy is unsynced with 0 days, 0.05825242718446602 more than average
+Branch compartment-typescript is unsynced with 0 days, 0.05825242718446602 more than average
+Branch compatibility-tests is unsynced with 0 days, 0.05825242718446602 more than average
+Branch deep-stacks is unsynced with 0 days, 0.05825242718446602 more than average
+Branch delta-tame-error is unsynced with 0 days, 0.05825242718446602 more than average
+Branch dependabot/npm_and_yarn/node-fetch-2.6.7 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch dev-run-cli is unsynced with 0 days, 0.05825242718446602 more than average
+Branch doc-tweaks is unsynced with 0 days, 0.05825242718446602 more than average
+Branch feral is unsynced with 0 days, 0.05825242718446602 more than average
+Branch intrinsic-reform is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/endo-compartmap-addendum is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/endo-cycles is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/endo-fix-archive-encoding is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/endo-import-hook is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/endo-json-errors is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/endo-stack is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/make-compartment is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/quick-fix is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/restore-cm-cjs is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/ses-import-hook-alias is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris/varint is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-cm-relax-name-label is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-doc-math-date is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-failing-test-for-commonjs-namespace-export is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-harden-type is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-node-16 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-seserr is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-sestival-notes-2021 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-sketch-api-docs is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-temp is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kris-with4 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch kumabundle is unsynced with 0 days, 0.05825242718446602 more than average
+Branch least-authority-2021 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch make-hardener-types is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-161-more-missing-tschecks is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-assert-raise is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-evil-safe-resolve is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-safe-promises is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-scopeproxy-has-reform is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-stop-enabling-O-p-constructor is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-test-freeze-module-namespace is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-weakmap-double-kludge is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-weakmap-kludge is unsynced with 0 days, 0.05825242718446602 more than average
+Branch markm-yarn-lockin-acorn8 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch master is unsynced with 0 days, 0.05825242718446602 more than average
+Branch mhofman/compartment-make-scope-proxy is unsynced with 0 days, 0.05825242718446602 more than average
+Branch mhofman/fix-eventual-send-unhandled-rejection is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-endo-run is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-esmodule-interop-optional is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-failing-cjs-analyzer is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-failing-tests-for-cjs-compat is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-import-meta-url is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-is-learning is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-more-cjs-fixes is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-refactor-cjs-mjs-separation is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-require-resolve is unsynced with 0 days, 0.05825242718446602 more than average
+Branch naugtur-wasm is unsynced with 0 days, 0.05825242718446602 more than average
+Branch reject-entries-symbols is unsynced with 0 days, 0.05825242718446602 more than average
+Branch safari-defProps-bug is unsynced with 0 days, 0.05825242718446602 more than average
+Branch safe-v8ish-errors is unsynced with 0 days, 0.05825242718446602 more than average
+Branch scope-proxy-perf-up is unsynced with 0 days, 0.05825242718446602 more than average
+Branch supress-rejections is unsynced with 0 days, 0.05825242718446602 more than average
+Branch ta/bump-deps is unsynced with 0 days, 0.05825242718446602 more than average
+Branch ta/rm-conditionChecker is unsynced with 0 days, 0.05825242718446602 more than average
+Branch ta/yaml-eslint-config is unsynced with 0 days, 0.05825242718446602 more than average
+Branch ta/1118-with-mfig-eproxy-type2 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch test-error-manipulation is unsynced with 0 days, 0.05825242718446602 more than average
+Branch update-yarn-lock is unsynced with 0 days, 0.05825242718446602 more than average
+Branch upgrade-2021-05 is unsynced with 0 days, 0.05825242718446602 more than average
+Branch use_ava_wip is unsynced with 0 days, 0.05825242718446602 more than average
+Branch use_ava is unsynced with 0 days, 0.05825242718446602 more than average
+Branch whitelist-more is unsynced with 0 days, 0.05825242718446602 more than average
+Branch wip-make-hardener-integration-test is unsynced with 0 days, 0.05825242718446602 more than average
+Branch xscm is unsynced with 0 days, 0.05825242718446602 more than average
+Branch xsnap-submod is unsynced with 0 days, 0.05825242718446602 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch 8-quick-tame-error, -1 days
+Branch 326-lockdown-options-reform, -1 days
+Branch ava, 2 days
+Branch kris/endo-module-override, -1 days
+Branch partial-intrinsic-reform, -2 days
+Branch prepare-stack-trace, -1 days
+Branch release-2022-01-27-03-28-33, -1 days
+Branch remove-deprecated-noTame-options, -1 days

@@ -1,0 +1,143 @@
+{
+  "slow_build": {
+    "messagebird": {
+      "data": {
+        "2021-03-01T15:01:10Z": 43285.71428571428
+      },
+      "tool": "Github Actions",
+      "total avg": 43285.71428571428,
+      "quartiles": {
+        "q1": 43285.71428571428,
+        "q3": 43285.71428571428,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "6": 60000,
+          "7": 54000,
+          "9": 56000,
+          "10": 53000,
+          "11": 53000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-contacts-and-groups": 1326,
+      "bump-version-220": 1326,
+      "chore/update-readme": 441,
+      "feat/webhook-signature-jwt": 223,
+      "fix/dependency-vulnerability": 991,
+      "fix/dtslint-security-issue": 319,
+      "fix/publish-workflow": 0,
+      "fix/update-dtslint": 441,
+      "fix/101-add-video": 22,
+      "fix-package-json": 1763,
+      "master": 0,
+      "npm-publish-action": 740,
+      "remove-sandbox-readme": 236,
+      "remove-yarn-lock": 740,
+      "update-testing-ci": 1763,
+      "v2-3-0": 1210
+    },
+    "branch deviation": {
+      "add-contacts-and-groups": 1330,
+      "bump-version-220": 1326,
+      "chore/update-readme": 441,
+      "feat/webhook-signature-jwt": 223,
+      "fix/dependency-vulnerability": 991,
+      "fix/dtslint-security-issue": 319,
+      "fix/publish-workflow": 739,
+      "fix/update-dtslint": 441,
+      "fix/101-add-video": 27,
+      "fix-package-json": 1763,
+      "master": 0,
+      "npm-publish-action": 742,
+      "remove-sandbox-readme": 236,
+      "remove-yarn-lock": 740,
+      "update-testing-ci": 1763,
+      "v2-3-0": 1211
+    },
+    "unsynced activity": {
+      "add-contacts-and-groups": -4,
+      "bump-version-220": -1,
+      "chore/update-readme": -1,
+      "feat/webhook-signature-jwt": -1,
+      "fix/dependency-vulnerability": -1,
+      "fix/dtslint-security-issue": -1,
+      "fix/publish-workflow": 0,
+      "fix/update-dtslint": -1,
+      "fix/101-add-video": -6,
+      "fix-package-json": -1,
+      "master": 0,
+      "npm-publish-action": -2,
+      "remove-sandbox-readme": -1,
+      "remove-yarn-lock": -1,
+      "update-testing-ci": -1,
+      "v2-3-0": -2
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "add-contacts-and-groups",
+          "bump-version-220",
+          "fix-package-json",
+          "update-testing-ci"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-contacts-and-groups",
+          "bump-version-220",
+          "fix-package-json",
+          "update-testing-ci"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "add-contacts-and-groups",
+          "bump-version-220",
+          "chore/update-readme",
+          "feat/webhook-signature-jwt",
+          "fix/dependency-vulnerability",
+          "fix/dtslint-security-issue",
+          "fix/publish-workflow",
+          "fix/update-dtslint",
+          "fix/101-add-video",
+          "fix-package-json",
+          "master",
+          "npm-publish-action",
+          "remove-sandbox-readme",
+          "remove-yarn-lock",
+          "update-testing-ci",
+          "v2-3-0"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "messagebird": {
+      "data": [
+        {
+          "started_at": "2021-03-01T15:52:03Z",
+          "used_tool": "Github Actions",
+          "number": 9
+        },
+        {
+          "started_at": "2021-03-01T15:54:04Z",
+          "used_tool": "Github Actions",
+          "number": 10
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

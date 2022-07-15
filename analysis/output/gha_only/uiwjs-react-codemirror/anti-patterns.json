@@ -1,0 +1,99 @@
+{
+  "slow_build": {
+    "Build & Deploy": {
+      "data": {
+        "2021-05-10T14:15:46Z": 142875.0,
+        "2021-05-27T02:45:21Z": 144571.42857142858,
+        "2021-06-16T15:45:42Z": 128200.0,
+        "2021-07-01T17:45:26Z": 150375.0
+      },
+      "tool": "Github Actions",
+      "total avg": 141505.35714285716,
+      "quartiles": {
+        "q1": 139206.25,
+        "q3": 146022.32142857142,
+        "iqr": 6816.07142857142
+      },
+      "classification": {
+        "high_severity": {
+          "87": 164000,
+          "93": 162000,
+          "97": 158000,
+          "107": 159000,
+          "109": 158000,
+          "111": 160000
+        },
+        "medium_severity": {
+          "86": 156000,
+          "91": 148000,
+          "98": 147000,
+          "105": 153000,
+          "110": 149000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "doc3": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "renovate/codemirror": 13,
+      "renovate/husky-8.x": 0,
+      "renovate/react-monorepo": 747,
+      "v3": 0
+    },
+    "branch deviation": {
+      "doc3": 217,
+      "gh-pages": -1,
+      "master": 0,
+      "renovate/codemirror": -15,
+      "renovate/husky-8.x": -4,
+      "renovate/react-monorepo": 8,
+      "v3": 42
+    },
+    "unsynced activity": {
+      "doc3": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "renovate/codemirror": 28,
+      "renovate/husky-8.x": 0,
+      "renovate/react-monorepo": 738,
+      "v3": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "renovate/codemirror"
+        ],
+        "high_severity": [
+          "renovate/react-monorepo"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "v3"
+        ],
+        "high_severity": [
+          "doc3"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "renovate/codemirror"
+        ],
+        "high_severity": [
+          "renovate/react-monorepo"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Build & Deploy": {
+      "data": [],
+      "release_build_count": 28
+    }
+  },
+  "skip_failing_tests": {}
+}

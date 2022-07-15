@@ -1,0 +1,221 @@
+{
+  "slow_build": {
+    "Build": {
+      "data": {
+        "2019-12-09T01:06:11Z": 84806.45161290323
+      },
+      "tool": "Github Actions",
+      "total avg": 84806.45161290323,
+      "quartiles": {
+        "q1": 84806.45161290323,
+        "q3": 84806.45161290323,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "6": 111000,
+          "7": 91000,
+          "11": 93000,
+          "14": 153000,
+          "15": 103000,
+          "16": 91000,
+          "17": 102000,
+          "19": 122000,
+          "20": 108000,
+          "23": 98000,
+          "25": 86000,
+          "32": 88000,
+          "35": 103000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Commitlint": {
+      "data": {
+        "2019-12-09T00:58:49Z": 51625.0
+      },
+      "tool": "Github Actions",
+      "total avg": 51625.0,
+      "quartiles": {
+        "q1": 51625.0,
+        "q3": 51625.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 55000,
+          "3": 56000,
+          "8": 56000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node CI": {
+      "data": {
+        "2019-12-09T00:42:41Z": 71750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 71750.0,
+      "quartiles": {
+        "q1": 71750.0,
+        "q3": 71750.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 112000,
+          "2": 87000,
+          "4": 73000
+        },
+        "medium_severity": {}
+      }
+    },
+    "react-optimize": {
+      "data": {
+        "2019-11-04T22:48:24Z": 71333.33333333333,
+        "2019-12-07T14:21:07Z": 109800.0
+      },
+      "tool": "TravisCI",
+      "total avg": 90566.66666666666,
+      "quartiles": {
+        "q1": 80950.0,
+        "q3": 100183.33333333333,
+        "iqr": 19233.33333333333
+      },
+      "classification": {
+        "high_severity": {
+          "13": 141000,
+          "14": 139000,
+          "15": 142000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-timeout": 0,
+      "dependabot/npm_and_yarn/babel/core-7.18.2": 0,
+      "dependabot/npm_and_yarn/babel/preset-env-7.18.2": 0,
+      "dependabot/npm_and_yarn/babel/preset-react-7.17.12": 0,
+      "dependabot/npm_and_yarn/babel-loader-8.2.5": 0,
+      "dependabot/npm_and_yarn/commitlint/cli-13.1.0": 0,
+      "dependabot/npm_and_yarn/commitlint/config-conventional-13.1.0": 0,
+      "dependabot/npm_and_yarn/eslint-plugin-react-7.30.0": 0,
+      "dependabot/npm_and_yarn/husky-7.0.1": 0,
+      "dependabot/npm_and_yarn/karma-6.3.3": 0,
+      "dependabot/npm_and_yarn/karma-chrome-launcher-3.1.1": 0,
+      "dependabot/npm_and_yarn/karma-coverage-2.2.0": 0,
+      "dependabot/npm_and_yarn/mocha-9.0.3": 0,
+      "dependabot/npm_and_yarn/mocha-10.0.0": 0,
+      "dependabot/npm_and_yarn/prettier-2.6.2": 0,
+      "dependabot/npm_and_yarn/sinon-11.1.2": 0,
+      "dependabot/npm_and_yarn/tar-4.4.15": 0,
+      "dependabot/npm_and_yarn/webpack-and-karma-webpack-5.48.0": 0,
+      "dependabot/npm_and_yarn/webpack-cli-4.9.2": 0,
+      "greenkeeper/husky-4.0.3": 0,
+      "greenkeeper/husky-4.0.6": 0,
+      "greenkeeper/monorepo.enzyme-20191220001729": 0,
+      "master": 0,
+      "typescript-migration": 0
+    },
+    "branch deviation": {
+      "add-timeout": 879,
+      "dependabot/npm_and_yarn/babel/core-7.18.2": -20,
+      "dependabot/npm_and_yarn/babel/preset-env-7.18.2": -20,
+      "dependabot/npm_and_yarn/babel/preset-react-7.17.12": -11,
+      "dependabot/npm_and_yarn/babel-loader-8.2.5": -1,
+      "dependabot/npm_and_yarn/commitlint/cli-13.1.0": 277,
+      "dependabot/npm_and_yarn/commitlint/config-conventional-13.1.0": 284,
+      "dependabot/npm_and_yarn/eslint-plugin-react-7.30.0": -13,
+      "dependabot/npm_and_yarn/husky-7.0.1": 303,
+      "dependabot/npm_and_yarn/karma-6.3.3": 338,
+      "dependabot/npm_and_yarn/karma-chrome-launcher-3.1.1": -1,
+      "dependabot/npm_and_yarn/karma-coverage-2.2.0": -1,
+      "dependabot/npm_and_yarn/mocha-9.0.3": 284,
+      "dependabot/npm_and_yarn/mocha-10.0.0": -1,
+      "dependabot/npm_and_yarn/prettier-2.6.2": -1,
+      "dependabot/npm_and_yarn/sinon-11.1.2": 282,
+      "dependabot/npm_and_yarn/tar-4.4.15": 275,
+      "dependabot/npm_and_yarn/webpack-and-karma-webpack-5.48.0": 276,
+      "dependabot/npm_and_yarn/webpack-cli-4.9.2": -1,
+      "greenkeeper/husky-4.0.3": 848,
+      "greenkeeper/husky-4.0.6": 847,
+      "greenkeeper/monorepo.enzyme-20191220001729": 868,
+      "master": 0,
+      "typescript-migration": 549
+    },
+    "unsynced activity": {
+      "add-timeout": 0,
+      "dependabot/npm_and_yarn/babel/core-7.18.2": 0,
+      "dependabot/npm_and_yarn/babel/preset-env-7.18.2": 0,
+      "dependabot/npm_and_yarn/babel/preset-react-7.17.12": 0,
+      "dependabot/npm_and_yarn/babel-loader-8.2.5": 0,
+      "dependabot/npm_and_yarn/commitlint/cli-13.1.0": 0,
+      "dependabot/npm_and_yarn/commitlint/config-conventional-13.1.0": 0,
+      "dependabot/npm_and_yarn/eslint-plugin-react-7.30.0": 0,
+      "dependabot/npm_and_yarn/husky-7.0.1": 0,
+      "dependabot/npm_and_yarn/karma-6.3.3": 0,
+      "dependabot/npm_and_yarn/karma-chrome-launcher-3.1.1": 0,
+      "dependabot/npm_and_yarn/karma-coverage-2.2.0": 0,
+      "dependabot/npm_and_yarn/mocha-9.0.3": 0,
+      "dependabot/npm_and_yarn/mocha-10.0.0": 0,
+      "dependabot/npm_and_yarn/prettier-2.6.2": 0,
+      "dependabot/npm_and_yarn/sinon-11.1.2": 0,
+      "dependabot/npm_and_yarn/tar-4.4.15": 0,
+      "dependabot/npm_and_yarn/webpack-and-karma-webpack-5.48.0": 0,
+      "dependabot/npm_and_yarn/webpack-cli-4.9.2": 0,
+      "greenkeeper/husky-4.0.3": 0,
+      "greenkeeper/husky-4.0.6": 0,
+      "greenkeeper/monorepo.enzyme-20191220001729": 0,
+      "master": 0,
+      "typescript-migration": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/karma-6.3.3",
+          "typescript-migration"
+        ],
+        "high_severity": [
+          "add-timeout",
+          "greenkeeper/husky-4.0.3",
+          "greenkeeper/husky-4.0.6",
+          "greenkeeper/monorepo.enzyme-20191220001729"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "Build": {
+      "data": [
+        {
+          "started_at": "2019-12-09T01:13:35Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        },
+        {
+          "started_at": "2019-12-09T01:19:13Z",
+          "used_tool": "Github Actions",
+          "number": 8
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 13
+    },
+    "react-optimize": {
+      "data": [],
+      "release_build_count": 8
+    }
+  },
+  "skip_failing_tests": {}
+}

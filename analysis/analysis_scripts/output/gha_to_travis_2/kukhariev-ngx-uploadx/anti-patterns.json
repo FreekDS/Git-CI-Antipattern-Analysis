@@ -1,0 +1,92 @@
+{
+  "slow_build": {
+    "ngx-uploadx": {
+      "data": {
+        "2018-02-06T17:05:13Z": 197000.0,
+        "2018-03-09T15:37:25Z": 193400.0
+      },
+      "tool": "TravisCI",
+      "total avg": 195200.0,
+      "quartiles": {
+        "q1": 194300.0,
+        "q3": 196100.0,
+        "iqr": 1800.0
+      },
+      "classification": {
+        "high_severity": {
+          "6": 324000,
+          "7": 309000,
+          "13": 209000,
+          "14": 215000,
+          "15": 229000,
+          "16": 219000,
+          "17": 211000,
+          "20": 265000,
+          "21": 203000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.x": 0,
+      "3.x": 0,
+      "Unauthorized-emulation": 0,
+      "error-handler-as-service": 0,
+      "get-requests-refactor": 0,
+      "ios-workaround": 0,
+      "master": 0,
+      "refactor-chunk-size": 0,
+      "store-service": 0
+    },
+    "branch deviation": {
+      "1.x": 1165,
+      "3.x": 606,
+      "Unauthorized-emulation": 58,
+      "error-handler-as-service": 608,
+      "get-requests-refactor": 419,
+      "ios-workaround": 247,
+      "master": 0,
+      "refactor-chunk-size": 340,
+      "store-service": 235
+    },
+    "unsynced activity": {
+      "1.x": 0,
+      "3.x": 0,
+      "Unauthorized-emulation": 0,
+      "error-handler-as-service": 0,
+      "get-requests-refactor": 0,
+      "ios-workaround": 0,
+      "master": 0,
+      "refactor-chunk-size": 0,
+      "store-service": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "error-handler-as-service"
+        ],
+        "high_severity": [
+          "1.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "ngx-uploadx": {
+      "data": [],
+      "release_build_count": 12
+    }
+  },
+  "skip_failing_tests": {}
+}

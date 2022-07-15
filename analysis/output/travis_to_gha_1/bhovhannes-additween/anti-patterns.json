@@ -1,0 +1,231 @@
+{
+  "slow_build": {
+    "Checks": {
+      "data": {
+        "2020-11-23T14:34:58Z": 44833.333333333336
+      },
+      "tool": "Github Actions",
+      "total avg": 44833.333333333336,
+      "quartiles": {
+        "q1": 44833.333333333336,
+        "q3": 44833.333333333336,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "6": 53000,
+          "7": 53000,
+          "12": 45000,
+          "14": 61000,
+          "16": 51000,
+          "17": 45000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/main.yml": {
+      "data": {
+        "2020-11-23T14:03:26Z": 333.3333333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 333.3333333333333,
+      "quartiles": {
+        "q1": 333.3333333333333,
+        "q3": 333.3333333333333,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 1000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Tests": {
+      "data": {
+        "2020-11-23T14:04:24Z": 38333.333333333336
+      },
+      "tool": "Github Actions",
+      "total avg": 38333.333333333336,
+      "quartiles": {
+        "q1": 38333.333333333336,
+        "q3": 38333.333333333336,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 50000
+        },
+        "medium_severity": {}
+      }
+    },
+    "additween": {
+      "data": {
+        "2020-10-10T00:10:00Z": 51391.30434782609,
+        "2020-10-17T01:43:30Z": 52625.0,
+        "2020-10-24T02:46:41Z": 48529.41176470588,
+        "2020-11-03T17:10:03Z": 51250.0,
+        "2020-11-17T13:58:47Z": 51416.666666666664
+      },
+      "tool": "TravisCI",
+      "total avg": 51042.47655583972,
+      "quartiles": {
+        "q1": 51250.0,
+        "q3": 51416.666666666664,
+        "iqr": 166.66666666666424
+      },
+      "classification": {
+        "high_severity": {
+          "669": 55000,
+          "670": 54000,
+          "672": 52000,
+          "671": 52000,
+          "680": 62000,
+          "679": 63000,
+          "681": 61000,
+          "683": 55000,
+          "689": 52000,
+          "693": 55000,
+          "692": 56000,
+          "694": 52000,
+          "698": 54000,
+          "699": 54000,
+          "700": 52000,
+          "702": 54000,
+          "711": 54000,
+          "719": 60000,
+          "721": 56000,
+          "724": 55000,
+          "725": 53000,
+          "726": 52000,
+          "728": 52000,
+          "736": 69000,
+          "741": 56000,
+          "740": 54000,
+          "739": 57000,
+          "744": 62000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0
+    },
+    "branch deviation": {
+      "main": 0
+    },
+    "unsynced activity": {
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "Checks": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "additween": {
+      "data": [
+        {
+          "started_at": "2020-10-11T00:16:38Z",
+          "used_tool": "TravisCI",
+          "number": 678
+        },
+        {
+          "started_at": "2020-10-11T10:23:18Z",
+          "used_tool": "TravisCI",
+          "number": 683
+        },
+        {
+          "started_at": "2020-10-13T12:42:05Z",
+          "used_tool": "TravisCI",
+          "number": 685
+        },
+        {
+          "started_at": "2020-10-15T13:48:08Z",
+          "used_tool": "TravisCI",
+          "number": 687
+        },
+        {
+          "started_at": "2020-10-15T20:28:25Z",
+          "used_tool": "TravisCI",
+          "number": 689
+        },
+        {
+          "started_at": "2020-10-16T14:52:25Z",
+          "used_tool": "TravisCI",
+          "number": 691
+        },
+        {
+          "started_at": "2020-10-22T17:05:26Z",
+          "used_tool": "TravisCI",
+          "number": 696
+        },
+        {
+          "started_at": "2020-10-24T02:46:48Z",
+          "used_tool": "TravisCI",
+          "number": 703
+        },
+        {
+          "started_at": "2020-10-27T12:01:13Z",
+          "used_tool": "TravisCI",
+          "number": 706
+        },
+        {
+          "started_at": "2020-10-28T21:22:54Z",
+          "used_tool": "TravisCI",
+          "number": 708
+        },
+        {
+          "started_at": "2020-10-29T19:57:58Z",
+          "used_tool": "TravisCI",
+          "number": 710
+        },
+        {
+          "started_at": "2020-11-03T17:10:05Z",
+          "used_tool": "TravisCI",
+          "number": 718
+        },
+        {
+          "started_at": "2020-11-07T05:09:22Z",
+          "used_tool": "TravisCI",
+          "number": 732
+        },
+        {
+          "started_at": "2020-11-17T13:58:47Z",
+          "used_tool": "TravisCI",
+          "number": 734
+        },
+        {
+          "started_at": "2020-11-18T12:47:49Z",
+          "used_tool": "TravisCI",
+          "number": 736
+        },
+        {
+          "started_at": "2020-11-19T12:31:47Z",
+          "used_tool": "TravisCI",
+          "number": 738
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 45
+    }
+  },
+  "skip_failing_tests": {}
+}

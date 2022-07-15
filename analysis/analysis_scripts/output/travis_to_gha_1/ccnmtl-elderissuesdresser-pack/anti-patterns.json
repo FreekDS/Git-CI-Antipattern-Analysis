@@ -1,0 +1,261 @@
+{
+  "slow_build": {
+    "build-and-test": {
+      "data": {
+        "2021-01-13T00:54:15Z": 3148000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 3148000.0,
+      "quartiles": {
+        "q1": 3148000.0,
+        "q3": 3148000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 21628000
+        },
+        "medium_severity": {}
+      }
+    },
+    "elderissuesdresser-pack": {
+      "data": {
+        "2020-12-03T14:26:29Z": 82250.0
+      },
+      "tool": "TravisCI",
+      "total avg": 82250.0,
+      "quartiles": {
+        "q1": 82250.0,
+        "q3": 82250.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "760": 88000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "beforeunload": 2124,
+      "codeql-analysis": 235,
+      "doppins/underscore-template-loader-from-0.8.0-below-0.9.0": 1756,
+      "fix-file-load": 846,
+      "fix-print-images": 2114,
+      "gdpr": 1466,
+      "greenkeeper/chai-4.0.0": 0,
+      "greenkeeper/chai-4.0.1": 0,
+      "greenkeeper/file-loader-0.11.2": 0,
+      "greenkeeper/webpack-4.17.3": 0,
+      "greenkeeper/webpack-4.28.4": 0,
+      "greenkeeper/webpack-4.35.0": 0,
+      "greenkeeper/webpack-4.36.0": 0,
+      "greenkeeper/webpack-4.36.1": 0,
+      "greenkeeper/webpack-4.37.0": 0,
+      "greenkeeper/webpack-4.38.0": 0,
+      "greenkeeper/webpack-4.39.0": 0,
+      "greenkeeper/webpack-4.39.1": 0,
+      "greenkeeper/webpack-4.39.2": 0,
+      "greenkeeper/webpack-4.39.3": 0,
+      "greenkeeper/webpack-4.40.0": 0,
+      "greenkeeper/webpack-4.40.1": 0,
+      "greenkeeper/webpack-4.40.2": 0,
+      "greenkeeper/webpack-4.41.0": 0,
+      "greenkeeper/webpack-4.41.1": 0,
+      "greenkeeper/webpack-4.41.2": 0,
+      "greenkeeper/webpack-4.41.3": 0,
+      "greenkeeper/webpack-4.41.4": 0,
+      "greenkeeper/webpack-4.41.5": 0,
+      "greenkeeper/webpack-4.41.6": 0,
+      "greenkeeper/webpack-4.42.0": 0,
+      "greenkeeper/webpack-4.42.1": 0,
+      "greenkeeper/webpack-4.43.0": 0,
+      "greenkeeper/webpack-cli-3.3.7": 0,
+      "greenkeeper/webpack-dev-server-3.7.2": 0,
+      "greenkeeper/webpack-pin-4.35.3": 0,
+      "hover-behavior": 2120,
+      "lockfile": 1433,
+      "master": 0,
+      "migration": 2126,
+      "node-modules-refs": 2120,
+      "prep-0.2.0": 235,
+      "remove-greenkeeperbadge": 724,
+      "remove-greenkeeperlockfile": 724,
+      "remove-scanjs": 234,
+      "update-syntax": 0
+    },
+    "branch deviation": {
+      "beforeunload": 2124,
+      "codeql-analysis": 235,
+      "doppins/underscore-template-loader-from-0.8.0-below-0.9.0": 1757,
+      "fix-file-load": 846,
+      "fix-print-images": 2116,
+      "gdpr": 1467,
+      "greenkeeper/chai-4.0.0": 1822,
+      "greenkeeper/chai-4.0.1": 1817,
+      "greenkeeper/file-loader-0.11.2": 1813,
+      "greenkeeper/webpack-4.17.3": 1350,
+      "greenkeeper/webpack-4.28.4": 1228,
+      "greenkeeper/webpack-4.35.0": 1068,
+      "greenkeeper/webpack-4.36.0": 1041,
+      "greenkeeper/webpack-4.36.1": 1040,
+      "greenkeeper/webpack-4.37.0": 1035,
+      "greenkeeper/webpack-4.38.0": 1032,
+      "greenkeeper/webpack-4.39.0": 1025,
+      "greenkeeper/webpack-4.39.1": 1025,
+      "greenkeeper/webpack-4.39.2": 1013,
+      "greenkeeper/webpack-4.39.3": 999,
+      "greenkeeper/webpack-4.40.0": 983,
+      "greenkeeper/webpack-4.40.1": 983,
+      "greenkeeper/webpack-4.40.2": 982,
+      "greenkeeper/webpack-4.41.0": 971,
+      "greenkeeper/webpack-4.41.1": 955,
+      "greenkeeper/webpack-4.41.2": 950,
+      "greenkeeper/webpack-4.41.3": 889,
+      "greenkeeper/webpack-4.41.4": 886,
+      "greenkeeper/webpack-4.41.5": 877,
+      "greenkeeper/webpack-4.41.6": 832,
+      "greenkeeper/webpack-4.42.0": 812,
+      "greenkeeper/webpack-4.42.1": 790,
+      "greenkeeper/webpack-4.43.0": 761,
+      "greenkeeper/webpack-cli-3.3.7": 1009,
+      "greenkeeper/webpack-dev-server-3.7.2": 1070,
+      "greenkeeper/webpack-pin-4.35.3": 1041,
+      "hover-behavior": 2123,
+      "lockfile": 1437,
+      "master": 0,
+      "migration": 2126,
+      "node-modules-refs": 2120,
+      "prep-0.2.0": 235,
+      "remove-greenkeeperbadge": 724,
+      "remove-greenkeeperlockfile": 724,
+      "remove-scanjs": 235,
+      "update-syntax": 261
+    },
+    "unsynced activity": {
+      "beforeunload": -1,
+      "codeql-analysis": -1,
+      "doppins/underscore-template-loader-from-0.8.0-below-0.9.0": -1,
+      "fix-file-load": -1,
+      "fix-print-images": -3,
+      "gdpr": -1,
+      "greenkeeper/chai-4.0.0": 0,
+      "greenkeeper/chai-4.0.1": 0,
+      "greenkeeper/file-loader-0.11.2": 0,
+      "greenkeeper/webpack-4.17.3": 0,
+      "greenkeeper/webpack-4.28.4": 0,
+      "greenkeeper/webpack-4.35.0": 0,
+      "greenkeeper/webpack-4.36.0": 0,
+      "greenkeeper/webpack-4.36.1": 0,
+      "greenkeeper/webpack-4.37.0": 0,
+      "greenkeeper/webpack-4.38.0": 0,
+      "greenkeeper/webpack-4.39.0": 0,
+      "greenkeeper/webpack-4.39.1": 0,
+      "greenkeeper/webpack-4.39.2": 0,
+      "greenkeeper/webpack-4.39.3": 0,
+      "greenkeeper/webpack-4.40.0": 0,
+      "greenkeeper/webpack-4.40.1": 0,
+      "greenkeeper/webpack-4.40.2": 0,
+      "greenkeeper/webpack-4.41.0": 0,
+      "greenkeeper/webpack-4.41.1": 0,
+      "greenkeeper/webpack-4.41.2": 0,
+      "greenkeeper/webpack-4.41.3": 0,
+      "greenkeeper/webpack-4.41.4": 0,
+      "greenkeeper/webpack-4.41.5": 0,
+      "greenkeeper/webpack-4.41.6": 0,
+      "greenkeeper/webpack-4.42.0": 0,
+      "greenkeeper/webpack-4.42.1": 0,
+      "greenkeeper/webpack-4.43.0": 0,
+      "greenkeeper/webpack-cli-3.3.7": 0,
+      "greenkeeper/webpack-dev-server-3.7.2": 0,
+      "greenkeeper/webpack-pin-4.35.3": 0,
+      "hover-behavior": -3,
+      "lockfile": -4,
+      "master": 0,
+      "migration": -1,
+      "node-modules-refs": -1,
+      "prep-0.2.0": -1,
+      "remove-greenkeeperbadge": -1,
+      "remove-greenkeeperlockfile": -1,
+      "remove-scanjs": -1,
+      "update-syntax": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "beforeunload",
+          "doppins/underscore-template-loader-from-0.8.0-below-0.9.0",
+          "fix-file-load",
+          "fix-print-images",
+          "gdpr",
+          "hover-behavior",
+          "lockfile",
+          "migration",
+          "node-modules-refs",
+          "remove-greenkeeperbadge",
+          "remove-greenkeeperlockfile"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "doppins/underscore-template-loader-from-0.8.0-below-0.9.0",
+          "gdpr",
+          "greenkeeper/chai-4.0.0",
+          "greenkeeper/chai-4.0.1",
+          "greenkeeper/file-loader-0.11.2",
+          "greenkeeper/webpack-4.17.3",
+          "lockfile"
+        ],
+        "high_severity": [
+          "beforeunload",
+          "fix-print-images",
+          "hover-behavior",
+          "migration",
+          "node-modules-refs"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "beforeunload",
+          "codeql-analysis",
+          "doppins/underscore-template-loader-from-0.8.0-below-0.9.0",
+          "fix-file-load",
+          "gdpr",
+          "migration",
+          "node-modules-refs",
+          "prep-0.2.0",
+          "remove-greenkeeperbadge",
+          "remove-greenkeeperlockfile",
+          "remove-scanjs"
+        ],
+        "high_severity": [
+          "fix-print-images",
+          "hover-behavior",
+          "lockfile"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "build-and-test": {
+      "data": [
+        {
+          "started_at": "2021-01-13T15:36:52Z",
+          "used_tool": "Github Actions",
+          "number": 4
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 3
+    },
+    "elderissuesdresser-pack": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

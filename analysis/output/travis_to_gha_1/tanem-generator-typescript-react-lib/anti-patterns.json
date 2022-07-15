@@ -1,0 +1,120 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2020-12-03T22:29:48Z": 47333.333333333336
+      },
+      "tool": "Github Actions",
+      "total avg": 47333.333333333336,
+      "quartiles": {
+        "q1": 47333.333333333336,
+        "q3": 47333.333333333336,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 58000
+        },
+        "medium_severity": {}
+      }
+    },
+    "generator-typescript-react-lib": {
+      "data": {
+        "2020-10-22T14:13:44Z": 52666.666666666664,
+        "2020-11-07T07:52:01Z": 44000.0,
+        "2020-11-16T00:54:54Z": 43500.0,
+        "2020-11-23T07:14:57Z": 41166.666666666664,
+        "2020-11-30T20:44:00Z": 42500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 44766.666666666664,
+      "quartiles": {
+        "q1": 42500.0,
+        "q3": 44000.0,
+        "iqr": 1500.0
+      },
+      "classification": {
+        "high_severity": {
+          "1631": 79000,
+          "1633": 49000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0,
+      "renovate/lock-file-maintenance": 70
+    },
+    "branch deviation": {
+      "master": 0,
+      "renovate/lock-file-maintenance": -7
+    },
+    "unsynced activity": {
+      "master": 0,
+      "renovate/lock-file-maintenance": 76
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "renovate/lock-file-maintenance"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "renovate/lock-file-maintenance"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "renovate/lock-file-maintenance"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "generator-typescript-react-lib": {
+      "data": [
+        {
+          "started_at": "2020-10-26T10:33:58Z",
+          "used_tool": "TravisCI",
+          "number": 1632
+        },
+        {
+          "started_at": "2020-11-23T07:14:57Z",
+          "used_tool": "TravisCI",
+          "number": 1637
+        },
+        {
+          "started_at": "2020-11-23T16:44:33Z",
+          "used_tool": "TravisCI",
+          "number": 1638
+        },
+        {
+          "started_at": "2020-11-26T20:38:10Z",
+          "used_tool": "TravisCI",
+          "number": 1640
+        },
+        {
+          "started_at": "2020-11-27T19:27:32Z",
+          "used_tool": "TravisCI",
+          "number": 1641
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 14
+    }
+  },
+  "skip_failing_tests": {}
+}

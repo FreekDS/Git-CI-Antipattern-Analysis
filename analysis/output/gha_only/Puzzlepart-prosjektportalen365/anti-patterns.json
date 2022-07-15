@@ -1,0 +1,156 @@
+{
+  "slow_build": {
+    "Build release (main)": {
+      "data": {
+        "2021-06-17T10:52:55Z": 675000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 675000.0,
+      "quartiles": {
+        "q1": 675000.0,
+        "q3": 675000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "CI (dev)": {
+      "data": {
+        "2021-04-13T08:08:43Z": 3587000.0,
+        "2021-04-21T10:54:42Z": 12104500.0,
+        "2021-05-03T07:56:06Z": 3380400.0,
+        "2021-05-18T14:02:48Z": 3460666.6666666665,
+        "2021-06-17T10:39:06Z": 1828000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 4872113.333333334,
+      "quartiles": {
+        "q1": 3380400.0,
+        "q3": 3587000.0,
+        "iqr": 206600.0
+      },
+      "classification": {
+        "high_severity": {
+          "21": 78590000,
+          "34": 4221000
+        },
+        "medium_severity": {
+          "17": 3657000,
+          "22": 3634000,
+          "24": 3639000,
+          "27": 3653000,
+          "28": 3622000
+        }
+      }
+    },
+    "Package SharePoint Framework": {
+      "data": {
+        "2021-04-13T06:51:25Z": 353000.0,
+        "2021-04-21T09:15:09Z": 339347.82608695654,
+        "2021-04-28T12:05:24Z": 318166.6666666667,
+        "2021-05-05T12:21:09Z": 419833.3333333333,
+        "2021-05-18T13:30:57Z": 353500.0,
+        "2021-06-17T09:14:58Z": 237000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 336807.97101449274,
+      "quartiles": {
+        "q1": 323461.95652173914,
+        "q3": 353375.0,
+        "iqr": 29913.043478260865
+      },
+      "classification": {
+        "high_severity": {
+          "74": 624000,
+          "77": 546000,
+          "78": 455000,
+          "81": 467000,
+          "84": 445000,
+          "85": 587000,
+          "86": 452000,
+          "89": 528000,
+          "90": 501000,
+          "101": 573000,
+          "102": 437000,
+          "103": 418000,
+          "104": 588000,
+          "106": 450000,
+          "109": 476000,
+          "110": 491000,
+          "111": 472000,
+          "112": 467000,
+          "113": 577000,
+          "114": 436000,
+          "117": 555000,
+          "118": 472000,
+          "121": 456000
+        },
+        "medium_severity": {
+          "83": 394000,
+          "87": 365000,
+          "95": 397000,
+          "96": 396000,
+          "97": 386000,
+          "115": 398000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "baerum-risk-matrix-custom-cells": 0,
+      "design-facelift": 0,
+      "dev": 71,
+      "feature/dynamic-aggregated-lists": 0,
+      "feature/help-content": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "baerum-risk-matrix-custom-cells": -28,
+      "design-facelift": -29,
+      "dev": -33,
+      "feature/dynamic-aggregated-lists": -35,
+      "feature/help-content": 212,
+      "main": 0
+    },
+    "unsynced activity": {
+      "baerum-risk-matrix-custom-cells": 0,
+      "design-facelift": 0,
+      "dev": 104,
+      "feature/dynamic-aggregated-lists": 0,
+      "feature/help-content": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dev"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "baerum-risk-matrix-custom-cells",
+          "design-facelift",
+          "main"
+        ],
+        "high_severity": [
+          "dev",
+          "feature/dynamic-aggregated-lists",
+          "feature/help-content"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dev"
+        ]
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

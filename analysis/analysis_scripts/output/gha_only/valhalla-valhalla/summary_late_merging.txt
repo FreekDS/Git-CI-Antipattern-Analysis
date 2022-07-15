@@ -1,0 +1,758 @@
+Missed Activity
+=========================
+Branch 1lessalgo has 531 days of missed activity!
+Branch TransitionCost_updates_uturns has 422 days of missed activity!
+Branch access_psv has 356 days of missed activity!
+Branch add_traffic has 1420 days of missed activity!
+Branch allow_restricted_thru has 406 days of missed activity!
+Branch anders-incidents-length has 365 days of missed activity!
+Branch andrianov_628 has 325 days of missed activity!
+Branch andrianov_962_1 has 280 days of missed activity!
+Branch cash-only-toll-fix has 230 days of missed activity!
+Branch ci_skip_proper has 387 days of missed activity!
+Branch cleanup has 489 days of missed activity!
+Branch conditional_updates has 462 days of missed activity!
+Branch create_signinfo_refactor_proper has 163 days of missed activity!
+Branch create_signinfo_refactor has 168 days of missed activity!
+Branch danpat_bidir_astar_refactor_1 has 406 days of missed activity!
+Branch danpat_break_through_uturns has 449 days of missed activity!
+Branch danpat_fix_circleci_ccache has 783 days of missed activity!
+Branch danpat_fix_run_with_server has 397 days of missed activity!
+Branch danpat_flow_mask_allowed_fix has 769 days of missed activity!
+Branch danpat_hierarchybuilder_compiler_warning_fix has 742 days of missed activity!
+Branch danpat_invalid_live_speeds has 478 days of missed activity!
+Branch danpat_isochrone_fix1 has 420 days of missed activity!
+Branch danpat_loki_speedup has 244 days of missed activity!
+Branch danpat-serializer-interface has 594 days of missed activity!
+Branch destination_updates has 524 days of missed activity!
+Branch dont-copy-tilebuilder has 638 days of missed activity!
+Branch exclude-cash-only-tolls has 230 days of missed activity!
+Branch exit_phrases has 705 days of missed activity!
+Branch expansion_exhaustion has 422 days of missed activity!
+Branch fix_build_live_traffic has 455 days of missed activity!
+Branch fix_int_ref_processing has 161 days of missed activity!
+Branch fix_invalid_commit_chk has 267 days of missed activity!
+Branch fix_traffic_test_when_a_new_minute_starts has 149 days of missed activity!
+Branch fix_truckcost has 631 days of missed activity!
+Branch fix-ci has 628 days of missed activity!
+Branch fix-cmake-endif has 420 days of missed activity!
+Branch fix-internal-turn-parameter has 276 days of missed activity!
+Branch fix-reverse-cost has 280 days of missed activity!
+Branch fix-slip-lane-infinite-loop has 258 days of missed activity!
+Branch heading-locate has 177 days of missed activity!
+Branch ignore_consecutive_closures has 453 days of missed activity!
+Branch increase_tc_for_uturns has 491 days of missed activity!
+Branch install-shapely has 199 days of missed activity!
+Branch internal_intersections has 867 days of missed activity!
+Branch interpolation_bug_fix has 786 days of missed activity!
+Branch intersection_missing_headings_563 has 149 days of missed activity!
+Branch issue-2387 has 607 days of missed activity!
+Branch kdiluca-collapseTurns-scenario2 has 498 days of missed activity!
+Branch kdiluca-junction has 882 days of missed activity!
+Branch kdiluca-multirestrictions has 845 days of missed activity!
+Branch kdiluca-osrm has 1552 days of missed activity!
+Branch kdiluca-rail_ferry has 712 days of missed activity!
+Branch kdiluca-roundabout-chord has 413 days of missed activity!
+Branch kdiluca-roundabout-exit has 428 days of missed activity!
+Branch kgv_fix_reach_based_prune has 264 days of missed activity!
+Branch kk_fast_fail has 311 days of missed activity!
+Branch kkdraftci has 489 days of missed activity!
+Branch lane_updates_v2 has 547 days of missed activity!
+Branch linux_build_fix has 357 days of missed activity!
+Branch ll_double_precision has 544 days of missed activity!
+Branch luajit_segfault has 721 days of missed activity!
+Branch matrix_doc_fix_links has 337 days of missed activity!
+Branch minimize-mingw-build has 461 days of missed activity!
+Branch missed_unaligned_read has 156 days of missed activity!
+Branch mookerji-fix-base64 has 681 days of missed activity!
+Branch mookerji-openlr-shape has 681 days of missed activity!
+Branch mookerji-valhalla-no-default-linear-references has 678 days of missed activity!
+Branch mookerji-yz-fix-ggg-pointer-invalidation has 831 days of missed activity!
+Branch motorcycle has 1458 days of missed activity!
+Branch ms-disable-statsd-if-not-configured has 189 days of missed activity!
+Branch mvr-cancel has 755 days of missed activity!
+Branch ninja_azure has 473 days of missed activity!
+Branch nit-enables-compiler-warnings has 484 days of missed activity!
+Branch nit-enables-compiler-warnings-thor has 484 days of missed activity!
+Branch nn_check_py_dev has 444 days of missed activity!
+Branch nn_fix_avoid_shortcuts has 358 days of missed activity!
+Branch nn_fix_avoids has 462 days of missed activity!
+Branch nn_fix_win_ci has 349 days of missed activity!
+Branch nn_mac_py_ci has 397 days of missed activity!
+Branch nn_older_versions_support has 425 days of missed activity!
+Branch nn_ways_to_edges has 434 days of missed activity!
+Branch nn_win_skip_ci has 366 days of missed activity!
+Branch nn_win_warnings has 397 days of missed activity!
+Branch nn-add-data-age has 206 days of missed activity!
+Branch nn-add-public-server has 163 days of missed activity!
+Branch nn-fix-graphreader-calls has 254 days of missed activity!
+Branch nn-fix-logger has 154 days of missed activity!
+Branch nn-fix-old-gcc has 157 days of missed activity!
+Branch nn-install-conan has 155 days of missed activity!
+Branch nn-overhaul-py has 157 days of missed activity!
+Branch nn-update-base-image has 253 days of missed activity!
+Branch nn-wiki-to-readme has 233 days of missed activity!
+Branch nutiteq-connectivity-map-construction has 381 days of missed activity!
+Branch parse_stages has 735 days of missed activity!
+Branch path_algo_config has 426 days of missed activity!
+Branch path_comparison_updates has 747 days of missed activity!
+Branch ped_access has 338 days of missed activity!
+Branch phoneme_cleanup has 217 days of missed activity!
+Branch phonemes has 223 days of missed activity!
+Branch preferred_lanes has 569 days of missed activity!
+Branch probable_restrictions has 209 days of missed activity!
+Branch py3_scripts_migrate has 232 days of missed activity!
+Branch rad_script_fixes has 833 days of missed activity!
+Branch rapidjson_schema_in_util has 757 days of missed activity!
+Branch release3.1.3 has 303 days of missed activity!
+Branch release3.1.4 has 224 days of missed activity!
+Branch remove_admindb has 614 days of missed activity!
+Branch remove_alt_name has 832 days of missed activity!
+Branch remove_interesection_props has 631 days of missed activity!
+Branch remove-x86 has 482 days of missed activity!
+Branch restrictioon-mm has 615 days of missed activity!
+Branch reuse-sample-get has 135 days of missed activity!
+Branch revert_sign_refactor has 166 days of missed activity!
+Branch revert-speed-assigner-for-tc has 299 days of missed activity!
+Branch roundabout_exit_processnig has 632 days of missed activity!
+Branch routing_through_conditional_destination_fix has 367 days of missed activity!
+Branch sf-candidate-search-refactoring has 758 days of missed activity!
+Branch sf-disable-statsd-client has 300 days of missed activity!
+Branch sf-fix-3262 has 279 days of missed activity!
+Branch sf-loki-z-level has 273 days of missed activity!
+Branch sf-shared-ptr has 371 days of missed activity!
+Branch sf-skadi-memory-fix has 734 days of missed activity!
+Branch sf-static-targets has 425 days of missed activity!
+Branch sf-stdlib-debug-mode has 310 days of missed activity!
+Branch shortcuts-to-bins has 480 days of missed activity!
+Branch silent_waypoints_phase2 has 232 days of missed activity!
+Branch stop_impact_speeds has 834 days of missed activity!
+Branch stop_impact_updates has 271 days of missed activity!
+Branch succinct-instruction has 337 days of missed activity!
+Branch sump_buster has 519 days of missed activity!
+Branch taginfo_updates has 358 days of missed activity!
+Branch tc-factor-v2 has 302 days of missed activity!
+Branch tc-vs-ramp-v2 has 309 days of missed activity!
+Branch time_allowed_updates has 783 days of missed activity!
+Branch toll_gantry has 614 days of missed activity!
+Branch ubsan_fix_shift_exponent_too_large has 161 days of missed activity!
+Branch unify_distance_conversion has 747 days of missed activity!
+MEDIUM SEVERITY
+Branch 1lessalgo, 531 seconds
+HIGH SEVERITY
+Branch TransitionCost_updates_uturns, 422 seconds
+HIGH SEVERITY
+Branch cleanup, 489 seconds
+HIGH SEVERITY
+Branch conditional_updates, 462 seconds
+HIGH SEVERITY
+Branch danpat_break_through_uturns, 449 seconds
+HIGH SEVERITY
+Branch danpat_fix_circleci_ccache, 783 seconds
+HIGH SEVERITY
+Branch danpat_flow_mask_allowed_fix, 769 seconds
+HIGH SEVERITY
+Branch danpat_hierarchybuilder_compiler_warning_fix, 742 seconds
+HIGH SEVERITY
+Branch danpat_invalid_live_speeds, 478 seconds
+HIGH SEVERITY
+Branch danpat_isochrone_fix1, 420 seconds
+HIGH SEVERITY
+Branch danpat-serializer-interface, 594 seconds
+HIGH SEVERITY
+Branch destination_updates, 524 seconds
+HIGH SEVERITY
+Branch dont-copy-tilebuilder, 638 seconds
+HIGH SEVERITY
+Branch exit_phrases, 705 seconds
+HIGH SEVERITY
+Branch expansion_exhaustion, 422 seconds
+HIGH SEVERITY
+Branch fix_build_live_traffic, 455 seconds
+HIGH SEVERITY
+Branch fix_truckcost, 631 seconds
+HIGH SEVERITY
+Branch fix-ci, 628 seconds
+HIGH SEVERITY
+Branch fix-cmake-endif, 420 seconds
+HIGH SEVERITY
+Branch ignore_consecutive_closures, 453 seconds
+HIGH SEVERITY
+Branch increase_tc_for_uturns, 491 seconds
+HIGH SEVERITY
+Branch internal_intersections, 867 seconds
+HIGH SEVERITY
+Branch interpolation_bug_fix, 786 seconds
+HIGH SEVERITY
+Branch issue-2387, 607 seconds
+HIGH SEVERITY
+Branch kdiluca-collapseTurns-scenario2, 498 seconds
+HIGH SEVERITY
+Branch kdiluca-junction, 882 seconds
+HIGH SEVERITY
+Branch kdiluca-multirestrictions, 845 seconds
+HIGH SEVERITY
+Branch kdiluca-rail_ferry, 712 seconds
+HIGH SEVERITY
+Branch kdiluca-roundabout-exit, 428 seconds
+HIGH SEVERITY
+Branch kkdraftci, 489 seconds
+HIGH SEVERITY
+Branch lane_updates_v2, 547 seconds
+HIGH SEVERITY
+Branch ll_double_precision, 544 seconds
+HIGH SEVERITY
+Branch luajit_segfault, 721 seconds
+HIGH SEVERITY
+Branch minimize-mingw-build, 461 seconds
+HIGH SEVERITY
+Branch mookerji-fix-base64, 681 seconds
+HIGH SEVERITY
+Branch mookerji-openlr-shape, 681 seconds
+HIGH SEVERITY
+Branch mookerji-valhalla-no-default-linear-references, 678 seconds
+HIGH SEVERITY
+Branch mookerji-yz-fix-ggg-pointer-invalidation, 831 seconds
+HIGH SEVERITY
+Branch mvr-cancel, 755 seconds
+HIGH SEVERITY
+Branch ninja_azure, 473 seconds
+HIGH SEVERITY
+Branch nit-enables-compiler-warnings, 484 seconds
+HIGH SEVERITY
+Branch nit-enables-compiler-warnings-thor, 484 seconds
+HIGH SEVERITY
+Branch nn_check_py_dev, 444 seconds
+HIGH SEVERITY
+Branch nn_fix_avoids, 462 seconds
+HIGH SEVERITY
+Branch nn_older_versions_support, 425 seconds
+HIGH SEVERITY
+Branch nn_ways_to_edges, 434 seconds
+HIGH SEVERITY
+Branch parse_stages, 735 seconds
+HIGH SEVERITY
+Branch path_algo_config, 426 seconds
+HIGH SEVERITY
+Branch path_comparison_updates, 747 seconds
+HIGH SEVERITY
+Branch preferred_lanes, 569 seconds
+HIGH SEVERITY
+Branch rad_script_fixes, 833 seconds
+HIGH SEVERITY
+Branch rapidjson_schema_in_util, 757 seconds
+HIGH SEVERITY
+Branch remove_admindb, 614 seconds
+HIGH SEVERITY
+Branch remove_alt_name, 832 seconds
+HIGH SEVERITY
+Branch remove_interesection_props, 631 seconds
+HIGH SEVERITY
+Branch remove-x86, 482 seconds
+HIGH SEVERITY
+Branch restrictioon-mm, 615 seconds
+HIGH SEVERITY
+Branch roundabout_exit_processnig, 632 seconds
+HIGH SEVERITY
+Branch sf-candidate-search-refactoring, 758 seconds
+HIGH SEVERITY
+Branch sf-skadi-memory-fix, 734 seconds
+HIGH SEVERITY
+Branch sf-static-targets, 425 seconds
+HIGH SEVERITY
+Branch shortcuts-to-bins, 480 seconds
+HIGH SEVERITY
+Branch stop_impact_speeds, 834 seconds
+HIGH SEVERITY
+Branch sump_buster, 519 seconds
+HIGH SEVERITY
+Branch time_allowed_updates, 783 seconds
+HIGH SEVERITY
+Branch toll_gantry, 614 seconds
+HIGH SEVERITY
+Branch unify_distance_conversion, 747 seconds
+HIGH SEVERITY
+Branch add_traffic, 1420 seconds
+Branch kdiluca-osrm, 1552 seconds
+Branch motorcycle, 1458 seconds
+
+Branch Deviation
+=========================
+Average deviation: 496.38928571428573 days
+Branch 1lessalgo moved away from main with 531 days, 34.610714285714266 more than average
+Branch abbreviations moved away from main with 647 days, 150.61071428571427 more than average
+Branch add_traffic moved away from main with 1406 days, 909.6107142857143 more than average
+Branch add-missing-third-party-headers moved away from main with 773 days, 276.61071428571427 more than average
+Branch addpredictedtraffic moved away from main with 1448 days, 951.6107142857143 more than average
+Branch ak-logger moved away from main with 815 days, 318.61071428571427 more than average
+Branch anders-double-bucket-prop-test moved away from main with 658 days, 161.61071428571427 more than average
+Branch anders-test moved away from main with 583 days, 86.61071428571427 more than average
+Branch bike_only moved away from main with 1121 days, 624.6107142857143 more than average
+Branch build-tile-bench moved away from main with 636 days, 139.61071428571427 more than average
+Branch bump-rapidjson moved away from main with 596 days, 99.61071428571427 more than average
+Branch collapse_ramps moved away from main with 701 days, 204.61071428571427 more than average
+Branch danpat_fix_circleci_ccache moved away from main with 783 days, 286.61071428571427 more than average
+Branch danpat_flow_mask_allowed_fix moved away from main with 769 days, 272.61071428571427 more than average
+Branch danpat_hierarchybuilder_compiler_warning_fix moved away from main with 742 days, 245.61071428571427 more than average
+Branch danpat_no_tty_no_color moved away from main with 919 days, 422.61071428571427 more than average
+Branch danpat_optional_sccache moved away from main with 848 days, 351.61071428571427 more than average
+Branch danpat_precision_preservation moved away from main with 551 days, 54.610714285714266 more than average
+Branch danpat_refactor_graphreader_singleton moved away from main with 793 days, 296.61071428571427 more than average
+Branch danpat_skip_notags moved away from main with 745 days, 248.61071428571427 more than average
+Branch danpat_subedge_traffic moved away from main with 715 days, 218.61071428571427 more than average
+Branch danpat_unity_build_fixes moved away from main with 770 days, 273.61071428571427 more than average
+Branch danpat-serializer-interface moved away from main with 594 days, 97.61071428571427 more than average
+Branch data_processing_overrides moved away from main with 688 days, 191.61071428571427 more than average
+Branch destination_updates moved away from main with 524 days, 27.610714285714266 more than average
+Branch diskgraphreader moved away from main with 757 days, 260.61071428571427 more than average
+Branch dont-copy-tilebuilder moved away from main with 638 days, 141.61071428571427 more than average
+Branch exit_phrases moved away from main with 705 days, 208.61071428571427 more than average
+Branch experiment-build-tile-bench moved away from main with 660 days, 163.61071428571427 more than average
+Branch fix_lanes_split_edge_v2 moved away from main with 562 days, 65.61071428571427 more than average
+Branch fix_truckcost moved away from main with 631 days, 134.61071428571427 more than average
+Branch fix-ci moved away from main with 628 days, 131.61071428571427 more than average
+Branch geos-c-bindings moved away from main with 894 days, 397.61071428571427 more than average
+Branch ghactions moved away from main with 591 days, 94.61071428571427 more than average
+Branch id_table_updates moved away from main with 708 days, 211.61071428571427 more than average
+Branch infer_turn_lanes moved away from main with 728 days, 231.61071428571427 more than average
+Branch internal_intersections moved away from main with 867 days, 370.61071428571427 more than average
+Branch interpolation_bug_fix moved away from main with 784 days, 287.61071428571427 more than average
+Branch irees-fix-valhalla-build-timezones moved away from main with 650 days, 153.61071428571427 more than average
+Branch issue-2387 moved away from main with 607 days, 110.61071428571427 more than average
+Branch kdiluca-admininfo moved away from main with 1001 days, 504.61071428571427 more than average
+Branch kdiluca-collapse-double-turn moved away from main with 539 days, 42.610714285714266 more than average
+Branch kdiluca-collapseTurns-scenario2 moved away from main with 498 days, 1.6107142857142662 more than average
+Branch kdiluca-junction moved away from main with 882 days, 385.61071428571427 more than average
+Branch kdiluca-multirestrictions moved away from main with 845 days, 348.61071428571427 more than average
+Branch kdiluca-osrm moved away from main with 1521 days, 1024.6107142857143 more than average
+Branch kdiluca-rail_ferry moved away from main with 713 days, 216.61071428571427 more than average
+Branch kdiluca-stopimpact moved away from main with 833 days, 336.61071428571427 more than average
+Branch kk_ev moved away from main with 1526 days, 1029.6107142857143 more than average
+Branch kk_incidents_loading-pb-stuff moved away from main with 594 days, 97.61071428571427 more than average
+Branch kk_more_precision moved away from main with 548 days, 51.610714285714266 more than average
+Branch kk_reach_perf moved away from main with 523 days, 26.610714285714266 more than average
+Branch lane_conn2 moved away from main with 615 days, 118.61071428571427 more than average
+Branch lane_conn3 moved away from main with 598 days, 101.61071428571427 more than average
+Branch lane_connectivity moved away from main with 792 days, 295.61071428571427 more than average
+Branch lane_updates_v2 moved away from main with 547 days, 50.610714285714266 more than average
+Branch lane_updates_v3 moved away from main with 554 days, 57.610714285714266 more than average
+Branch lane_updates moved away from main with 562 days, 65.61071428571427 more than average
+Branch leg_weight moved away from main with 828 days, 331.61071428571427 more than average
+Branch less_restriction_checking moved away from main with 639 days, 142.61071428571427 more than average
+Branch ll_double_precision moved away from main with 544 days, 47.610714285714266 more than average
+Branch luajit_segfault moved away from main with 721 days, 224.61071428571427 more than average
+Branch mookerji-build-tiles-checkpointing moved away from main with 644 days, 147.61071428571427 more than average
+Branch mookerji-fix-base64 moved away from main with 681 days, 184.61071428571427 more than average
+Branch mookerji-gbench moved away from main with 763 days, 266.61071428571427 more than average
+Branch mookerji-glog-nn-stage moved away from main with 729 days, 232.61071428571427 more than average
+Branch mookerji-openlr-shape moved away from main with 681 days, 184.61071428571427 more than average
+Branch mookerji-valhalla-no-default-linear-references moved away from main with 678 days, 181.61071428571427 more than average
+Branch mookerji-wrk-scripts moved away from main with 812 days, 315.61071428571427 more than average
+Branch mookerji-yz-fix-ggg-pointer-invalidation moved away from main with 831 days, 334.61071428571427 more than average
+Branch motorcycle moved away from main with 1455 days, 958.6107142857143 more than average
+Branch mps-reproduce-parseways moved away from main with 643 days, 146.61071428571427 more than average
+Branch mps-test moved away from main with 637 days, 140.61071428571427 more than average
+Branch mvr-cancel moved away from main with 755 days, 258.61071428571427 more than average
+Branch nodesnap_side_of_street moved away from main with 544 days, 47.610714285714266 more than average
+Branch parse_stages moved away from main with 735 days, 238.61071428571427 more than average
+Branch parsing_enhancements_master_test moved away from main with 804 days, 307.61071428571427 more than average
+Branch parsing_enhancements moved away from main with 804 days, 307.61071428571427 more than average
+Branch path_comparison_updates moved away from main with 747 days, 250.61071428571427 more than average
+Branch play moved away from main with 631 days, 134.61071428571427 more than average
+Branch preferred_lanes moved away from main with 569 days, 72.61071428571427 more than average
+Branch rad_script_fixes moved away from main with 833 days, 336.61071428571427 more than average
+Branch rapidjson_schema_in_util moved away from main with 757 days, 260.61071428571427 more than average
+Branch reach_v3_gurka moved away from main with 804 days, 307.61071428571427 more than average
+Branch refactorMM moved away from main with 813 days, 316.61071428571427 more than average
+Branch refactoring_mm_serilization moved away from main with 778 days, 281.61071428571427 more than average
+Branch regression-test moved away from main with 762 days, 265.61071428571427 more than average
+Branch remove_admindb moved away from main with 614 days, 117.61071428571427 more than average
+Branch remove_alt_name moved away from main with 832 days, 335.61071428571427 more than average
+Branch remove_interesection_props moved away from main with 631 days, 134.61071428571427 more than average
+Branch restrictioon-mm moved away from main with 616 days, 119.61071428571427 more than average
+Branch roundabout_exit_processnig moved away from main with 632 days, 135.61071428571427 more than average
+Branch safiefy-double-bucket moved away from main with 668 days, 171.61071428571427 more than average
+Branch safiefy-double-bucket-tests moved away from main with 663 days, 166.61071428571427 more than average
+Branch sf-candidate-search-refactoring moved away from main with 759 days, 262.61071428571427 more than average
+Branch sf-skadi-memory-fix moved away from main with 735 days, 238.61071428571427 more than average
+Branch stop_impact_speeds moved away from main with 834 days, 337.61071428571427 more than average
+Branch sump_buster moved away from main with 519 days, 22.610714285714266 more than average
+Branch tao_sssp moved away from main with 1460 days, 963.6107142857143 more than average
+Branch time_allowed_updates moved away from main with 783 days, 286.61071428571427 more than average
+Branch toll_gantry moved away from main with 614 days, 117.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_ca_ES moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_cs_CZ moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_de_DE moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_fr_FR moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_hi_IN moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_it_IT moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_pt_BR moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_ru_RU moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_sl_SI moved away from main with 721 days, 224.61071428571427 more than average
+Branch translations_locales-en-us-json--transifex_sv_SE moved away from main with 721 days, 224.61071428571427 more than average
+Branch try-flat-hash-set moved away from main with 674 days, 177.61071428571427 more than average
+Branch turn_channels moved away from main with 852 days, 355.61071428571427 more than average
+Branch unify_distance_conversion moved away from main with 747 days, 250.61071428571427 more than average
+Branch v4_shortcuts moved away from main with 922 days, 425.61071428571427 more than average
+Branch yuzhe/topk_search_refactoring moved away from main with 923 days, 426.61071428571427 more than average
+MEDIUM SEVERITY
+Branch add-missing-third-party-headers, 773 days
+Branch ak-logger, 815 days
+Branch bike_only, 1121 days
+Branch collapse_ramps, 701 days
+Branch danpat_fix_circleci_ccache, 783 days
+Branch danpat_flow_mask_allowed_fix, 769 days
+Branch danpat_hierarchybuilder_compiler_warning_fix, 742 days
+Branch danpat_no_tty_no_color, 919 days
+Branch danpat_optional_sccache, 848 days
+Branch danpat_refactor_graphreader_singleton, 793 days
+Branch danpat_skip_notags, 745 days
+Branch danpat_subedge_traffic, 715 days
+Branch danpat_unity_build_fixes, 770 days
+Branch data_processing_overrides, 688 days
+Branch diskgraphreader, 757 days
+Branch exit_phrases, 705 days
+Branch geos-c-bindings, 894 days
+Branch id_table_updates, 708 days
+Branch infer_turn_lanes, 728 days
+Branch internal_intersections, 867 days
+Branch interpolation_bug_fix, 784 days
+Branch kdiluca-admininfo, 1001 days
+Branch kdiluca-junction, 882 days
+Branch kdiluca-multirestrictions, 845 days
+Branch kdiluca-rail_ferry, 713 days
+Branch kdiluca-stopimpact, 833 days
+Branch lane_connectivity, 792 days
+Branch leg_weight, 828 days
+Branch luajit_segfault, 721 days
+Branch mookerji-gbench, 763 days
+Branch mookerji-glog-nn-stage, 729 days
+Branch mookerji-wrk-scripts, 812 days
+Branch mookerji-yz-fix-ggg-pointer-invalidation, 831 days
+Branch mvr-cancel, 755 days
+Branch parse_stages, 735 days
+Branch parsing_enhancements_master_test, 804 days
+Branch parsing_enhancements, 804 days
+Branch path_comparison_updates, 747 days
+Branch rad_script_fixes, 833 days
+Branch rapidjson_schema_in_util, 757 days
+Branch reach_v3_gurka, 804 days
+Branch refactorMM, 813 days
+Branch refactoring_mm_serilization, 778 days
+Branch regression-test, 762 days
+Branch remove_alt_name, 832 days
+Branch sf-candidate-search-refactoring, 759 days
+Branch sf-skadi-memory-fix, 735 days
+Branch stop_impact_speeds, 834 days
+Branch time_allowed_updates, 783 days
+Branch translations_locales-en-us-json--transifex_ca_ES, 721 days
+Branch translations_locales-en-us-json--transifex_cs_CZ, 721 days
+Branch translations_locales-en-us-json--transifex_de_DE, 721 days
+Branch translations_locales-en-us-json--transifex_fr_FR, 721 days
+Branch translations_locales-en-us-json--transifex_hi_IN, 721 days
+Branch translations_locales-en-us-json--transifex_it_IT, 721 days
+Branch translations_locales-en-us-json--transifex_pt_BR, 721 days
+Branch translations_locales-en-us-json--transifex_ru_RU, 721 days
+Branch translations_locales-en-us-json--transifex_sl_SI, 721 days
+Branch translations_locales-en-us-json--transifex_sv_SE, 721 days
+Branch turn_channels, 852 days
+Branch unify_distance_conversion, 747 days
+Branch v4_shortcuts, 922 days
+Branch yuzhe/topk_search_refactoring, 923 days
+HIGH SEVERITY
+Branch add_traffic, 1406 days
+Branch addpredictedtraffic, 1448 days
+Branch kdiluca-osrm, 1521 days
+Branch kk_ev, 1526 days
+Branch motorcycle, 1455 days
+Branch tao_sssp, 1460 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.33214285714285713 days
+Branch PPUturn_InternalRes is unsynced with 0 days, 0.33214285714285713 more than average
+Branch PencilPointUturn is unsynced with 0 days, 0.33214285714285713 more than average
+Branch abbreviations is unsynced with 0 days, 0.33214285714285713 more than average
+Branch add_traffic is unsynced with 13 days, 13.332142857142857 more than average
+Branch add-missing-third-party-headers is unsynced with 0 days, 0.33214285714285713 more than average
+Branch addpredictedtraffic is unsynced with 0 days, 0.33214285714285713 more than average
+Branch ak-logger is unsynced with 0 days, 0.33214285714285713 more than average
+Branch anders-double-bucket-prop-test is unsynced with 0 days, 0.33214285714285713 more than average
+Branch anders-test is unsynced with 0 days, 0.33214285714285713 more than average
+Branch anders-update-mason is unsynced with 0 days, 0.33214285714285713 more than average
+Branch andrianov_doc is unsynced with 0 days, 0.33214285714285713 more than average
+Branch andrianov_962 is unsynced with 0 days, 0.33214285714285713 more than average
+Branch bike_only is unsynced with 0 days, 0.33214285714285713 more than average
+Branch build-tile-bench is unsynced with 0 days, 0.33214285714285713 more than average
+Branch bump-rapidjson is unsynced with 0 days, 0.33214285714285713 more than average
+Branch cache-predicted-speeds is unsynced with 0 days, 0.33214285714285713 more than average
+Branch chrisparkfixlength is unsynced with 0 days, 0.33214285714285713 more than average
+Branch collapse_ramps is unsynced with 0 days, 0.33214285714285713 more than average
+Branch danpat_no_tty_no_color is unsynced with 0 days, 0.33214285714285713 more than average
+Branch danpat_optional_sccache is unsynced with 0 days, 0.33214285714285713 more than average
+Branch danpat_precision_preservation is unsynced with 0 days, 0.33214285714285713 more than average
+Branch danpat_refactor_graphreader_singleton is unsynced with 0 days, 0.33214285714285713 more than average
+Branch danpat_skip_notags is unsynced with 0 days, 0.33214285714285713 more than average
+Branch danpat_subedge_traffic is unsynced with 0 days, 0.33214285714285713 more than average
+Branch danpat_unity_build_fixes is unsynced with 0 days, 0.33214285714285713 more than average
+Branch danpat_waypoint_reachability is unsynced with 0 days, 0.33214285714285713 more than average
+Branch data_processing_overrides is unsynced with 0 days, 0.33214285714285713 more than average
+Branch default_languages is unsynced with 0 days, 0.33214285714285713 more than average
+Branch diskgraphreader is unsynced with 0 days, 0.33214285714285713 more than average
+Branch easier-mocking-of-incidents is unsynced with 0 days, 0.33214285714285713 more than average
+Branch elevation-with-patch is unsynced with 0 days, 0.33214285714285713 more than average
+Branch excessive_inline_removed is unsynced with 0 days, 0.33214285714285713 more than average
+Branch exclude-cash-only-tolls is unsynced with 0 days, 0.33214285714285713 more than average
+Branch experiment-build-tile-bench is unsynced with 0 days, 0.33214285714285713 more than average
+Branch external-sort is unsynced with 0 days, 0.33214285714285713 more than average
+Branch external-sort-gh is unsynced with 0 days, 0.33214285714285713 more than average
+Branch faster_build_times is unsynced with 0 days, 0.33214285714285713 more than average
+Branch fedora33-ci is unsynced with 0 days, 0.33214285714285713 more than average
+Branch fix_lanes_split_edge_v2 is unsynced with 0 days, 0.33214285714285713 more than average
+Branch fix_strange_detour is unsynced with 0 days, 0.33214285714285713 more than average
+Branch fix-prime_server-include is unsynced with 0 days, 0.33214285714285713 more than average
+Branch gdg_default_languages is unsynced with 0 days, 0.33214285714285713 more than average
+Branch gdg_new_default_language is unsynced with 0 days, 0.33214285714285713 more than average
+Branch geos-c-bindings is unsynced with 0 days, 0.33214285714285713 more than average
+Branch ghactions is unsynced with 0 days, 0.33214285714285713 more than average
+Branch gk_lane_connectivity_v2 is unsynced with 0 days, 0.33214285714285713 more than average
+Branch gk_lane_connectivity is unsynced with 0 days, 0.33214285714285713 more than average
+Branch gk_stop_yield is unsynced with 0 days, 0.33214285714285713 more than average
+Branch id_table_updates is unsynced with 0 days, 0.33214285714285713 more than average
+Branch incident-id-as-integer is unsynced with 0 days, 0.33214285714285713 more than average
+Branch infer_turn_lanes is unsynced with 0 days, 0.33214285714285713 more than average
+Branch integer-cost is unsynced with 0 days, 0.33214285714285713 more than average
+Branch interpolation_bug_fix is unsynced with 1 days, 1.332142857142857 more than average
+Branch irees-fix-valhalla-build-timezones is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kdiluca-admininfo is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kdiluca-collapse-double-turn is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kdiluca-long-streetnames is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kdiluca-osrm is unsynced with 30 days, 30.332142857142856 more than average
+Branch kdiluca-stopimpact is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kdiluca-strlen is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kgv_local_optimality is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kgv_point_to_master is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kk_ev is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kk_extend_search is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kk_incidents_loading-pb-stuff is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kk_more_precision is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kk_proceed is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kk_reach_perf is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kk_slim_pbf_api is unsynced with 0 days, 0.33214285714285713 more than average
+Branch kk_trivialbss is unsynced with 0 days, 0.33214285714285713 more than average
+Branch lane_conn2 is unsynced with 0 days, 0.33214285714285713 more than average
+Branch lane_conn3 is unsynced with 0 days, 0.33214285714285713 more than average
+Branch lane_connectivity is unsynced with 0 days, 0.33214285714285713 more than average
+Branch lane_updates_v3 is unsynced with 0 days, 0.33214285714285713 more than average
+Branch lane_updates is unsynced with 0 days, 0.33214285714285713 more than average
+Branch languages is unsynced with 0 days, 0.33214285714285713 more than average
+Branch leg_weight is unsynced with 0 days, 0.33214285714285713 more than average
+Branch less_restriction_checking is unsynced with 0 days, 0.33214285714285713 more than average
+Branch less-penalize-turn-channels is unsynced with 0 days, 0.33214285714285713 more than average
+Branch link-with-shared is unsynced with 0 days, 0.33214285714285713 more than average
+Branch master is unsynced with 0 days, 0.33214285714285713 more than average
+Branch memset_restrictions is unsynced with 0 days, 0.33214285714285713 more than average
+Branch missinglink/actions is unsynced with 0 days, 0.33214285714285713 more than average
+Branch mookerji-build-tiles-checkpointing is unsynced with 0 days, 0.33214285714285713 more than average
+Branch mookerji-gbench is unsynced with 0 days, 0.33214285714285713 more than average
+Branch mookerji-glog-nn-stage is unsynced with 0 days, 0.33214285714285713 more than average
+Branch mookerji-wrk-scripts is unsynced with 0 days, 0.33214285714285713 more than average
+Branch motorcycle is unsynced with 3 days, 3.3321428571428573 more than average
+Branch mps-reproduce-parseways is unsynced with 0 days, 0.33214285714285713 more than average
+Branch mps-test is unsynced with 0 days, 0.33214285714285713 more than average
+Branch name_pronunciation is unsynced with 0 days, 0.33214285714285713 more than average
+Branch new_heuristic_bidirastar is unsynced with 0 days, 0.33214285714285713 more than average
+Branch nn_legal_limit is unsynced with 0 days, 0.33214285714285713 more than average
+Branch nn-fix-build-description is unsynced with 0 days, 0.33214285714285713 more than average
+Branch nn-remove-geos is unsynced with 0 days, 0.33214285714285713 more than average
+Branch nn-temp-binding-fixes is unsynced with 0 days, 0.33214285714285713 more than average
+Branch nn-tilebuild-speedup is unsynced with 0 days, 0.33214285714285713 more than average
+Branch nn-tree-view is unsynced with 0 days, 0.33214285714285713 more than average
+Branch nn-win-log-error-only is unsynced with 0 days, 0.33214285714285713 more than average
+Branch nodesnap_side_of_street is unsynced with 0 days, 0.33214285714285713 more than average
+Branch parse-all is unsynced with 0 days, 0.33214285714285713 more than average
+Branch parsing_enhancements_master_test is unsynced with 0 days, 0.33214285714285713 more than average
+Branch parsing_enhancements is unsynced with 0 days, 0.33214285714285713 more than average
+Branch phonemes_bk is unsynced with 0 days, 0.33214285714285713 more than average
+Branch phonemes_update is unsynced with 0 days, 0.33214285714285713 more than average
+Branch play is unsynced with 0 days, 0.33214285714285713 more than average
+Branch probable_restrictions_v2 is unsynced with 0 days, 0.33214285714285713 more than average
+Branch ramp-vs-turn-channel is unsynced with 0 days, 0.33214285714285713 more than average
+Branch reach_v3_gurka is unsynced with 0 days, 0.33214285714285713 more than average
+Branch refactorMM is unsynced with 0 days, 0.33214285714285713 more than average
+Branch refactoring_mm_serilization is unsynced with 0 days, 0.33214285714285713 more than average
+Branch regression-test is unsynced with 0 days, 0.33214285714285713 more than average
+Branch roundabout-exit-angle is unsynced with 0 days, 0.33214285714285713 more than average
+Branch safiefy-double-bucket is unsynced with 0 days, 0.33214285714285713 more than average
+Branch safiefy-double-bucket-tests is unsynced with 0 days, 0.33214285714285713 more than average
+Branch segment-orientation is unsynced with 0 days, 0.33214285714285713 more than average
+Branch silent_waypoints-anders is unsynced with 0 days, 0.33214285714285713 more than average
+Branch skip_ci_test is unsynced with 0 days, 0.33214285714285713 more than average
+Branch slip-lanes is unsynced with 0 days, 0.33214285714285713 more than average
+Branch slip-lanes-poc is unsynced with 0 days, 0.33214285714285713 more than average
+Branch speeds_fix is unsynced with 0 days, 0.33214285714285713 more than average
+Branch taku/road-class-factor is unsynced with 0 days, 0.33214285714285713 more than average
+Branch tao_sssp is unsynced with 0 days, 0.33214285714285713 more than average
+Branch tc-factor is unsynced with 0 days, 0.33214285714285713 more than average
+Branch tc-factor-v2-hacked is unsynced with 0 days, 0.33214285714285713 more than average
+Branch test-mingw is unsynced with 0 days, 0.33214285714285713 more than average
+Branch thor-wall-werror is unsynced with 0 days, 0.33214285714285713 more than average
+Branch threadsafety is unsynced with 0 days, 0.33214285714285713 more than average
+Branch trace_json is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_ca_ES is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_cs_CZ is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_de_DE is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_fr_FR is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_hi_IN is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_it_IT is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_pt_BR is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_ru_RU is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_sl_SI is unsynced with 0 days, 0.33214285714285713 more than average
+Branch translations_locales-en-us-json--transifex_sv_SE is unsynced with 0 days, 0.33214285714285713 more than average
+Branch try-flat-hash-set is unsynced with 0 days, 0.33214285714285713 more than average
+Branch turn_channels is unsynced with 0 days, 0.33214285714285713 more than average
+Branch turn-channels-cost is unsynced with 0 days, 0.33214285714285713 more than average
+Branch update_homebrew_xcode is unsynced with 0 days, 0.33214285714285713 more than average
+Branch updated-translations is unsynced with 0 days, 0.33214285714285713 more than average
+Branch updates-googletest is unsynced with 0 days, 0.33214285714285713 more than average
+Branch v4_shortcuts is unsynced with 0 days, 0.33214285714285713 more than average
+Branch verba is unsynced with 0 days, 0.33214285714285713 more than average
+Branch yuzhe/topk_search_refactoring is unsynced with 0 days, 0.33214285714285713 more than average
+MEDIUM SEVERITY
+Branch 1lessalgo, -1 days
+Branch TransitionCost_updates_uturns, -1 days
+Branch access_psv, -1 days
+Branch allow_restricted_thru, -1 days
+Branch anders-incidents-length, -1 days
+Branch andrianov_628, -1 days
+Branch andrianov_962_1, -1 days
+Branch cash-only-toll-fix, -1 days
+Branch ci_skip_proper, -1 days
+Branch cleanup, -1 days
+Branch conditional_updates, -1 days
+Branch create_signinfo_refactor_proper, -1 days
+Branch create_signinfo_refactor, -1 days
+Branch danpat_bidir_astar_refactor_1, -1 days
+Branch danpat_break_through_uturns, -1 days
+Branch danpat_fix_circleci_ccache, -1 days
+Branch danpat_fix_run_with_server, -1 days
+Branch danpat_flow_mask_allowed_fix, -1 days
+Branch danpat_hierarchybuilder_compiler_warning_fix, -1 days
+Branch danpat_invalid_live_speeds, -1 days
+Branch danpat_isochrone_fix1, -1 days
+Branch danpat_loki_speedup, -1 days
+Branch danpat-serializer-interface, -1 days
+Branch destination_updates, -1 days
+Branch dont-copy-tilebuilder, -1 days
+Branch exit_phrases, -1 days
+Branch expansion_exhaustion, -1 days
+Branch fix_build_live_traffic, -1 days
+Branch fix_int_ref_processing, -1 days
+Branch fix_invalid_commit_chk, -1 days
+Branch fix_traffic_test_when_a_new_minute_starts, -1 days
+Branch fix_truckcost, -1 days
+Branch fix-ci, -1 days
+Branch fix-cmake-endif, -1 days
+Branch fix-internal-turn-parameter, -1 days
+Branch fix-reverse-cost, -1 days
+Branch fix-slip-lane-infinite-loop, -1 days
+Branch heading-locate, -1 days
+Branch ignore_consecutive_closures, -1 days
+Branch increase_tc_for_uturns, -1 days
+Branch install-shapely, -1 days
+Branch internal_intersections, -1 days
+Branch interpolation_bug_fix, 1 days
+Branch intersection_missing_headings_563, -1 days
+Branch issue-2387, -1 days
+Branch kdiluca-collapseTurns-scenario2, -1 days
+Branch kdiluca-junction, -1 days
+Branch kdiluca-multirestrictions, -1 days
+Branch kdiluca-rail_ferry, -1 days
+Branch kdiluca-roundabout-chord, -1 days
+Branch kdiluca-roundabout-exit, -1 days
+Branch kgv_fix_reach_based_prune, -1 days
+Branch kkdraftci, -1 days
+Branch lane_updates_v2, -1 days
+Branch linux_build_fix, -1 days
+Branch ll_double_precision, -1 days
+Branch luajit_segfault, -1 days
+Branch matrix_doc_fix_links, -1 days
+Branch minimize-mingw-build, -1 days
+Branch missed_unaligned_read, -1 days
+Branch mookerji-fix-base64, -1 days
+Branch mookerji-openlr-shape, -1 days
+Branch mookerji-valhalla-no-default-linear-references, -1 days
+Branch mookerji-yz-fix-ggg-pointer-invalidation, -1 days
+Branch ms-disable-statsd-if-not-configured, -1 days
+Branch mvr-cancel, -1 days
+Branch ninja_azure, -1 days
+Branch nit-enables-compiler-warnings, -1 days
+Branch nit-enables-compiler-warnings-thor, -1 days
+Branch nn_check_py_dev, -1 days
+Branch nn_fix_avoid_shortcuts, -1 days
+Branch nn_fix_avoids, -1 days
+Branch nn_fix_win_ci, -1 days
+Branch nn_mac_py_ci, -1 days
+Branch nn_older_versions_support, -1 days
+Branch nn_win_warnings, -1 days
+Branch nn-add-data-age, -1 days
+Branch nn-add-public-server, -1 days
+Branch nn-fix-graphreader-calls, -1 days
+Branch nn-fix-logger, -1 days
+Branch nn-fix-old-gcc, -1 days
+Branch nn-install-conan, -1 days
+Branch nn-overhaul-py, -1 days
+Branch nn-update-base-image, -1 days
+Branch nn-wiki-to-readme, -1 days
+Branch nutiteq-connectivity-map-construction, -1 days
+Branch parse_stages, -1 days
+Branch path_algo_config, -1 days
+Branch path_comparison_updates, -1 days
+Branch ped_access, -1 days
+Branch phoneme_cleanup, -1 days
+Branch phonemes, -1 days
+Branch preferred_lanes, -1 days
+Branch py3_scripts_migrate, -1 days
+Branch rad_script_fixes, -1 days
+Branch rapidjson_schema_in_util, -1 days
+Branch release3.1.3, -1 days
+Branch release3.1.4, -1 days
+Branch remove_admindb, -1 days
+Branch remove_alt_name, -1 days
+Branch remove_interesection_props, -1 days
+Branch remove-x86, -1 days
+Branch reuse-sample-get, -1 days
+Branch revert_sign_refactor, -1 days
+Branch revert-speed-assigner-for-tc, -1 days
+Branch roundabout_exit_processnig, -1 days
+Branch routing_through_conditional_destination_fix, -1 days
+Branch sf-candidate-search-refactoring, -1 days
+Branch sf-disable-statsd-client, -1 days
+Branch sf-fix-3262, -1 days
+Branch sf-loki-z-level, -1 days
+Branch sf-shared-ptr, -1 days
+Branch sf-skadi-memory-fix, -1 days
+Branch sf-static-targets, -1 days
+Branch sf-stdlib-debug-mode, -1 days
+Branch shortcuts-to-bins, -1 days
+Branch silent_waypoints_phase2, -1 days
+Branch stop_impact_speeds, -1 days
+Branch stop_impact_updates, -1 days
+Branch succinct-instruction, -1 days
+Branch sump_buster, -1 days
+Branch taginfo_updates, -1 days
+Branch tc-factor-v2, -1 days
+Branch tc-vs-ramp-v2, -1 days
+Branch time_allowed_updates, -1 days
+Branch toll_gantry, -1 days
+Branch ubsan_fix_shift_exponent_too_large, -1 days
+Branch unify_distance_conversion, -1 days
+HIGH SEVERITY
+Branch add_traffic, 13 days
+Branch kdiluca-osrm, 30 days
+Branch kk_fast_fail, -2 days
+Branch motorcycle, 3 days
+Branch nn_ways_to_edges, -5 days
+Branch nn_win_skip_ci, -2 days
+Branch probable_restrictions, -2 days
+Branch restrictioon-mm, -2 days

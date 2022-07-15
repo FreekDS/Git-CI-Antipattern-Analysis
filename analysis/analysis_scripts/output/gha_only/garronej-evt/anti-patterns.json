@@ -1,0 +1,143 @@
+{
+  "slow_build": {
+    ".github/workflows/publish-beta.yaml": {
+      "data": {
+        "2021-05-02T18:28:23Z": 67500.0,
+        "2021-05-13T03:32:10Z": 71000.0,
+        "2021-05-26T16:46:36Z": 81500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 73333.33333333333,
+      "quartiles": {
+        "q1": 69250.0,
+        "q3": 76250.0,
+        "iqr": 7000.0
+      },
+      "classification": {
+        "high_severity": {
+          "22": 88000
+        },
+        "medium_severity": {}
+      }
+    },
+    "ci": {
+      "data": {
+        "2021-04-16T02:07:40Z": 102500.0,
+        "2021-05-01T22:46:10Z": 82000.0,
+        "2021-05-09T00:43:34Z": 271750.0,
+        "2021-05-26T16:45:29Z": 76500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 133187.5,
+      "quartiles": {
+        "q1": 80625.0,
+        "q3": 144812.5,
+        "iqr": 64187.5
+      },
+      "classification": {
+        "high_severity": {
+          "213": 829000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/publish.yaml": {
+      "data": {
+        "2021-04-16T02:09:17Z": 97000.0,
+        "2021-05-08T01:16:44Z": 125000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 111000.0,
+      "quartiles": {
+        "q1": 104000.0,
+        "q3": 118000.0,
+        "iqr": 14000.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "43": 125000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "SelfManagedOperators": 0,
+      "add-code-of-conduct-1": 758,
+      "dependabot/npm_and_yarn/cached-path-relative-1.1.0": 0,
+      "dependabot/npm_and_yarn/moment-2.29.2": 0,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 0,
+      "develop": 0,
+      "latest": 0,
+      "latest-beta": 0,
+      "master": 0,
+      "renovate/configure": 0,
+      "v2_beta": 0
+    },
+    "branch deviation": {
+      "SelfManagedOperators": 785,
+      "add-code-of-conduct-1": 758,
+      "dependabot/npm_and_yarn/cached-path-relative-1.1.0": 105,
+      "dependabot/npm_and_yarn/moment-2.29.2": 34,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": -4,
+      "develop": 0,
+      "latest": 140,
+      "latest-beta": -11,
+      "master": 643,
+      "renovate/configure": 23,
+      "v2_beta": -11
+    },
+    "unsynced activity": {
+      "SelfManagedOperators": 0,
+      "add-code-of-conduct-1": -1,
+      "dependabot/npm_and_yarn/cached-path-relative-1.1.0": 0,
+      "dependabot/npm_and_yarn/moment-2.29.2": 0,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 0,
+      "develop": 0,
+      "latest": 0,
+      "latest-beta": 0,
+      "master": 0,
+      "renovate/configure": 0,
+      "v2_beta": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "add-code-of-conduct-1"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "SelfManagedOperators",
+          "add-code-of-conduct-1",
+          "master"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "add-code-of-conduct-1"
+        ]
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    ".github/workflows/publish-beta.yaml": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "ci": {
+      "data": [],
+      "release_build_count": 8
+    },
+    ".github/workflows/publish.yaml": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,53 @@
+Missed Activity
+=========================
+Branch 3x has 1006 days of missed activity!
+Branch add_psf_license has 454 days of missed activity!
+Branch add-w3c has 502 days of missed activity!
+Branch public has 1389 days of missed activity!
+Branch release_313 has 452 days of missed activity!
+MEDIUM SEVERITY
+Branch 3x, 1006 seconds
+HIGH SEVERITY
+Branch add_psf_license, 454 seconds
+HIGH SEVERITY
+Branch add-w3c, 502 seconds
+HIGH SEVERITY
+Branch public, 1389 seconds
+
+Branch Deviation
+=========================
+Average deviation: 758.9333333333333 days
+Branch 3x moved away from main with 1006 days, 247.06666666666672 more than average
+Branch czommerfelds/newer-licenses-are-not-supported moved away from main with 1501 days, 742.0666666666667 more than average
+Branch czommerfelds/update-dependencies moved away from main with 1501 days, 742.0666666666667 more than average
+Branch greenkeeper/update-to-node-10 moved away from main with 1466 days, 707.0666666666667 more than average
+Branch pr/76 moved away from main with 1109 days, 350.0666666666667 more than average
+Branch public moved away from main with 1389 days, 630.0666666666667 more than average
+Branch scottrwilliams-multi-license-fix moved away from main with 1747 days, 988.0666666666667 more than average
+MEDIUM SEVERITY
+Branch czommerfelds/newer-licenses-are-not-supported, 1501 days
+Branch czommerfelds/update-dependencies, 1501 days
+Branch greenkeeper/update-to-node-10, 1466 days
+Branch scottrwilliams-multi-license-fix, 1747 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -1.0 days
+Branch czommerfelds/newer-licenses-are-not-supported is unsynced with 0 days, 1.0 more than average
+Branch czommerfelds/update-dependencies is unsynced with 0 days, 1.0 more than average
+Branch dependabot/npm_and_yarn/minimist-1.2.6 is unsynced with 0 days, 1.0 more than average
+Branch dependabot/npm_and_yarn/test/data/proj-license-issue/hosted-git-info-2.8.9 is unsynced with 0 days, 1.0 more than average
+Branch dependabot/npm_and_yarn/test/data/proj-license-issue/y18n-3.2.2 is unsynced with 0 days, 1.0 more than average
+Branch greenkeeper/update-to-node-10 is unsynced with 0 days, 1.0 more than average
+Branch master is unsynced with 0 days, 1.0 more than average
+Branch neverendingqs-patch-1 is unsynced with 0 days, 1.0 more than average
+Branch pr/76 is unsynced with 0 days, 1.0 more than average
+Branch scottrwilliams-multi-license-fix is unsynced with 0 days, 1.0 more than average
+MEDIUM SEVERITY
+Branch 3x, -1 days
+Branch add-w3c, -1 days
+Branch public, -1 days
+Branch release_313, -1 days
+HIGH SEVERITY
+Branch add_psf_license, -11 days

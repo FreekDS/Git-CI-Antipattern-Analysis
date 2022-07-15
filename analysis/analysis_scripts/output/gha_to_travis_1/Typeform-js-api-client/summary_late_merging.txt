@@ -1,0 +1,91 @@
+Missed Activity
+=========================
+Branch Client-Api_Base_URL_Feature has 351 days of missed activity!
+Branch UA-756-deprecate-endpoint has 622 days of missed activity!
+Branch build/rollup has 979 days of missed activity!
+Branch feat/axios has 989 days of missed activity!
+Branch feat/create-client has 926 days of missed activity!
+Branch fix/BLOCKS-963_fix_workspace_types has -1 days of missed activity!
+Branch fix/types has 926 days of missed activity!
+Branch fix-release has 383 days of missed activity!
+Branch picsoung-patch-1 has 1272 days of missed activity!
+Branch refactor/typescript has 958 days of missed activity!
+Branch seti-536-no-deploy-window-check has 713 days of missed activity!
+Branch seti-648-reduce-workflow-execution-time has 645 days of missed activity!
+Branch snyk-fix-37b7e4d1a5e15cf9ef229cdb14e93968 has 416 days of missed activity!
+Branch tf-scott-add-atlantis has 638 days of missed activity!
+Branch use-common-travis-config has 716 days of missed activity!
+MEDIUM SEVERITY
+Branch build/rollup, 979 seconds
+HIGH SEVERITY
+Branch feat/axios, 989 seconds
+HIGH SEVERITY
+Branch picsoung-patch-1, 1272 seconds
+HIGH SEVERITY
+Branch refactor/typescript, 958 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 609.35 days
+Branch UA-756-deprecate-endpoint moved away from main with 623 days, 13.649999999999977 more than average
+Branch UA-756-deprecate-teams-mine-endpoint moved away from main with 643 days, 33.64999999999998 more than average
+Branch build/rollup moved away from main with 987 days, 377.65 more than average
+Branch feat/axios moved away from main with 989 days, 379.65 more than average
+Branch feat/create-client moved away from main with 926 days, 316.65 more than average
+Branch fix/types moved away from main with 926 days, 316.65 more than average
+Branch picsoung-patch-1 moved away from main with 1275 days, 665.65 more than average
+Branch refactor/typescript moved away from main with 967 days, 357.65 more than average
+Branch seti-536-no-deploy-window-check moved away from main with 714 days, 104.64999999999998 more than average
+Branch seti-648-reduce-workflow-execution-time moved away from main with 645 days, 35.64999999999998 more than average
+Branch tf-scott-add-atlantis moved away from main with 639 days, 29.649999999999977 more than average
+Branch use-common-travis-config moved away from main with 717 days, 107.64999999999998 more than average
+MEDIUM SEVERITY
+Branch build/rollup, 987 days
+Branch feat/axios, 989 days
+Branch picsoung-patch-1, 1275 days
+Branch refactor/typescript, 967 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -5.7 days
+Branch Client-Api_Base_URL_Feature is unsynced with -1 days, 4.7 more than average
+Branch UA-756-deprecate-endpoint is unsynced with -1 days, 4.7 more than average
+Branch UA-756-deprecate-teams-mine-endpoint is unsynced with 0 days, 5.7 more than average
+Branch feat/axios is unsynced with -1 days, 4.7 more than average
+Branch feat/create-client is unsynced with -1 days, 4.7 more than average
+Branch fix/BLOCKS-963_fix_workspace_types is unsynced with -1 days, 4.7 more than average
+Branch fix/types is unsynced with -1 days, 4.7 more than average
+Branch fix-release is unsynced with -1 days, 4.7 more than average
+Branch master is unsynced with 0 days, 5.7 more than average
+Branch picsoung-patch-1 is unsynced with -3 days, 2.7 more than average
+Branch rsaini/PI-474/GHA is unsynced with 0 days, 5.7 more than average
+Branch seti-536-no-deploy-window-check is unsynced with -1 days, 4.7 more than average
+Branch seti-648-reduce-workflow-execution-time is unsynced with -1 days, 4.7 more than average
+Branch snyk-fix-9283c3042f813aad76de6e6cff99e25b is unsynced with 0 days, 5.7 more than average
+Branch tf-scott-add-atlantis is unsynced with -1 days, 4.7 more than average
+Branch use-common-travis-config is unsynced with -1 days, 4.7 more than average
+Branch webhook_toggle is unsynced with 0 days, 5.7 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch Client-Api_Base_URL_Feature, -1 days
+Branch UA-756-deprecate-endpoint, -1 days
+Branch UA-756-deprecate-teams-mine-endpoint, 0 days
+Branch build/rollup, -9 days
+Branch feat/axios, -1 days
+Branch feat/create-client, -1 days
+Branch fix/BLOCKS-963_fix_workspace_types, -1 days
+Branch fix/types, -1 days
+Branch fix-release, -1 days
+Branch master, 0 days
+Branch picsoung-patch-1, -3 days
+Branch refactor/typescript, -9 days
+Branch rsaini/PI-474/GHA, 0 days
+Branch seti-536-no-deploy-window-check, -1 days
+Branch seti-648-reduce-workflow-execution-time, -1 days
+Branch snyk-fix-37b7e4d1a5e15cf9ef229cdb14e93968, -82 days
+Branch snyk-fix-9283c3042f813aad76de6e6cff99e25b, 0 days
+Branch tf-scott-add-atlantis, -1 days
+Branch use-common-travis-config, -1 days
+Branch webhook_toggle, 0 days

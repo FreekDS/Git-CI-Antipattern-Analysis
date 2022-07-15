@@ -1,0 +1,1201 @@
+{
+  "slow_build": {
+    "Run automated end-to-end tests": {
+      "data": {
+        "2020-12-01T08:16:43Z": 1308420.0,
+        "2020-12-08T08:56:30Z": 635816.3265306122,
+        "2020-12-15T09:31:43Z": 5862000.0,
+        "2020-12-22T12:03:57Z": 1204078.9473684211,
+        "2020-12-29T13:32:59Z": 712225.8064516129,
+        "2021-01-05T14:06:43Z": 2822343.75,
+        "2021-01-12T14:29:28Z": 1524564.1025641025
+      },
+      "tool": "Github Actions",
+      "total avg": 2009921.2761306784,
+      "quartiles": {
+        "q1": 958152.376910017,
+        "q3": 2173453.926282051,
+        "iqr": 1215301.5493720341
+      },
+      "classification": {
+        "high_severity": {
+          "293": 10265000,
+          "303": 11076000,
+          "333": 7151000,
+          "392": 63490000,
+          "429": 5834000,
+          "431": 5343000,
+          "473": 5834000,
+          "498": 6330000,
+          "534": 7190000,
+          "538": 6124000,
+          "543": 4686000,
+          "555": 5729000,
+          "556": 72067000,
+          "573": 8029000
+        },
+        "medium_severity": {
+          "284": 2199000,
+          "285": 2203000,
+          "289": 2219000,
+          "297": 2444000,
+          "300": 2502000,
+          "304": 2296000,
+          "307": 2324000,
+          "320": 2194000,
+          "323": 2391000,
+          "328": 2177000,
+          "331": 2383000,
+          "337": 2198000,
+          "341": 2230000,
+          "383": 2412000,
+          "385": 2320000,
+          "386": 2434000,
+          "398": 2512000,
+          "401": 2186000,
+          "402": 2735000,
+          "403": 2544000,
+          "405": 2199000,
+          "410": 2515000,
+          "416": 2340000,
+          "427": 2645000,
+          "428": 2347000,
+          "432": 2294000,
+          "433": 2561000,
+          "448": 2536000,
+          "450": 2552000,
+          "453": 2563000,
+          "454": 2786000,
+          "463": 2486000,
+          "466": 2501000,
+          "467": 2506000,
+          "469": 2193000,
+          "471": 2191000,
+          "472": 2602000,
+          "474": 2194000,
+          "475": 2498000,
+          "476": 2567000,
+          "478": 2572000,
+          "480": 2496000,
+          "483": 2180000,
+          "486": 2633000,
+          "487": 2230000,
+          "488": 2409000,
+          "489": 2278000,
+          "490": 2371000,
+          "494": 2480000,
+          "495": 2582000,
+          "496": 2546000,
+          "497": 2881000,
+          "500": 2598000,
+          "501": 2658000,
+          "502": 2202000,
+          "503": 2231000,
+          "504": 2522000,
+          "506": 2708000,
+          "508": 2543000,
+          "509": 2485000,
+          "510": 2593000,
+          "511": 2834000,
+          "512": 2879000,
+          "513": 2648000,
+          "514": 2561000,
+          "515": 2832000,
+          "516": 2583000,
+          "517": 2509000,
+          "518": 2485000,
+          "519": 2631000,
+          "520": 2471000,
+          "524": 2204000,
+          "525": 2532000,
+          "526": 2535000,
+          "530": 2187000,
+          "531": 2305000,
+          "532": 2371000,
+          "533": 2184000,
+          "535": 2667000,
+          "536": 2440000,
+          "537": 2347000,
+          "539": 2693000,
+          "544": 2632000,
+          "545": 2910000,
+          "546": 2292000,
+          "547": 2246000,
+          "549": 2728000,
+          "551": 2225000,
+          "552": 2589000,
+          "553": 2677000,
+          "554": 2656000,
+          "557": 2421000,
+          "558": 2265000,
+          "559": 2582000,
+          "560": 2625000,
+          "564": 2877000,
+          "565": 2931000,
+          "568": 2883000,
+          "569": 2573000,
+          "574": 2550000,
+          "580": 2954000,
+          "582": 2725000,
+          "584": 2366000,
+          "585": 2590000,
+          "586": 2434000,
+          "588": 2685000,
+          "589": 2487000,
+          "591": 2358000,
+          "592": 2309000,
+          "599": 2257000
+        }
+      }
+    },
+    "Run unit tests": {
+      "data": {
+        "2020-12-01T08:16:43Z": 380140.0,
+        "2020-12-08T08:56:30Z": 250000.0,
+        "2020-12-15T09:31:43Z": 527357.1428571428,
+        "2020-12-22T12:03:57Z": 403178.5714285714,
+        "2020-12-29T13:32:59Z": 306096.77419354836,
+        "2021-01-05T14:06:43Z": 592572.9166666666,
+        "2021-01-12T14:29:28Z": 468825.0
+      },
+      "tool": "Github Actions",
+      "total avg": 418310.0578779899,
+      "quartiles": {
+        "q1": 343118.3870967742,
+        "q3": 498091.0714285714,
+        "iqr": 154972.68433179724
+      },
+      "classification": {
+        "high_severity": {
+          "294": 982000,
+          "302": 804000,
+          "309": 1061000,
+          "312": 808000,
+          "313": 754000,
+          "316": 812000,
+          "323": 2446000,
+          "332": 832000,
+          "337": 735000,
+          "340": 783000,
+          "341": 858000,
+          "342": 737000,
+          "346": 733000,
+          "392": 771000,
+          "395": 798000,
+          "401": 859000,
+          "402": 740000,
+          "405": 755000,
+          "407": 898000,
+          "410": 750000,
+          "411": 786000,
+          "414": 872000,
+          "425": 752000,
+          "426": 798000,
+          "430": 751000,
+          "432": 825000,
+          "433": 734000,
+          "447": 753000,
+          "452": 770000,
+          "453": 852000,
+          "462": 793000,
+          "466": 733000,
+          "470": 797000,
+          "471": 821000,
+          "473": 739000,
+          "474": 884000,
+          "475": 747000,
+          "477": 1015000,
+          "479": 762000,
+          "482": 816000,
+          "483": 823000,
+          "485": 779000,
+          "486": 745000,
+          "493": 825000,
+          "497": 800000,
+          "500": 825000,
+          "504": 902000,
+          "506": 773000,
+          "507": 837000,
+          "511": 911000,
+          "512": 799000,
+          "513": 812000,
+          "514": 744000,
+          "515": 746000,
+          "516": 755000,
+          "518": 784000,
+          "519": 789000,
+          "523": 743000,
+          "524": 759000,
+          "525": 767000,
+          "530": 784000,
+          "532": 817000,
+          "536": 763000,
+          "538": 835000,
+          "542": 828000,
+          "543": 761000,
+          "544": 810000,
+          "545": 742000,
+          "548": 783000,
+          "550": 817000,
+          "551": 785000,
+          "552": 738000,
+          "553": 796000,
+          "554": 795000,
+          "555": 747000,
+          "558": 755000,
+          "559": 875000,
+          "563": 974000,
+          "564": 823000,
+          "568": 804000,
+          "572": 845000,
+          "579": 821000,
+          "581": 802000,
+          "582": 799000,
+          "583": 832000,
+          "584": 785000,
+          "585": 779000,
+          "587": 824000,
+          "588": 748000,
+          "590": 758000
+        },
+        "medium_severity": {
+          "306": 696000,
+          "345": 582000,
+          "350": 679000,
+          "358": 561000,
+          "393": 688000,
+          "394": 722000,
+          "396": 658000,
+          "397": 651000,
+          "398": 693000,
+          "409": 643000,
+          "412": 695000,
+          "419": 661000,
+          "431": 654000,
+          "438": 714000,
+          "449": 719000,
+          "465": 673000,
+          "468": 642000,
+          "469": 653000,
+          "472": 654000,
+          "487": 658000,
+          "488": 685000,
+          "489": 727000,
+          "501": 655000,
+          "502": 633000,
+          "503": 704000,
+          "505": 709000,
+          "509": 723000,
+          "510": 699000,
+          "517": 662000,
+          "529": 700000,
+          "531": 675000,
+          "533": 714000,
+          "534": 680000,
+          "535": 665000,
+          "537": 653000,
+          "546": 655000,
+          "556": 655000,
+          "557": 654000,
+          "562": 700000,
+          "567": 676000,
+          "580": 710000,
+          "591": 668000,
+          "598": 671000
+        }
+      }
+    },
+    "Script tests": {
+      "data": {
+        "2020-12-01T08:16:43Z": 577820.0,
+        "2020-12-08T08:56:30Z": 422632.6530612245,
+        "2020-12-15T09:31:43Z": 1221428.5714285714,
+        "2020-12-22T12:03:57Z": 872107.1428571428,
+        "2020-12-29T13:32:59Z": 607967.7419354839,
+        "2021-01-05T14:06:43Z": 1311802.0833333333,
+        "2021-01-12T14:29:28Z": 1640000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 950536.8846593937,
+      "quartiles": {
+        "q1": 592893.8709677419,
+        "q3": 1266615.3273809524,
+        "iqr": 673721.4564132105
+      },
+      "classification": {
+        "high_severity": {
+          "574": 3506000,
+          "587": 15148000,
+          "592": 13478000
+        },
+        "medium_severity": {
+          "304": 1886000,
+          "308": 1792000,
+          "314": 1807000,
+          "315": 1833000,
+          "318": 1821000,
+          "334": 1693000,
+          "339": 1721000,
+          "342": 1901000,
+          "343": 1669000,
+          "344": 1863000,
+          "347": 1809000,
+          "348": 1585000,
+          "352": 1937000,
+          "394": 1646000,
+          "395": 1754000,
+          "396": 1931000,
+          "397": 1817000,
+          "398": 1650000,
+          "399": 1966000,
+          "400": 1814000,
+          "403": 1535000,
+          "404": 1853000,
+          "407": 1846000,
+          "409": 1712000,
+          "411": 1825000,
+          "412": 1758000,
+          "413": 1855000,
+          "414": 1737000,
+          "416": 1762000,
+          "421": 1798000,
+          "427": 1656000,
+          "428": 1921000,
+          "432": 1841000,
+          "433": 1728000,
+          "434": 1797000,
+          "435": 1849000,
+          "440": 1738000,
+          "449": 1836000,
+          "451": 1593000,
+          "454": 1817000,
+          "455": 1812000,
+          "464": 1776000,
+          "467": 1610000,
+          "468": 1557000,
+          "470": 1552000,
+          "472": 1833000,
+          "473": 1834000,
+          "474": 1882000,
+          "475": 1629000,
+          "476": 1868000,
+          "477": 1485000,
+          "479": 2002000,
+          "481": 1665000,
+          "484": 1731000,
+          "485": 1612000,
+          "487": 1876000,
+          "488": 1932000,
+          "489": 1789000,
+          "490": 1556000,
+          "491": 1838000,
+          "495": 1804000,
+          "499": 1724000,
+          "502": 1983000,
+          "503": 1689000,
+          "504": 1858000,
+          "505": 1749000,
+          "506": 1800000,
+          "507": 1797000,
+          "508": 1844000,
+          "509": 1734000,
+          "511": 1497000,
+          "512": 1861000,
+          "513": 1554000,
+          "514": 1813000,
+          "515": 1722000,
+          "516": 1656000,
+          "517": 1833000,
+          "518": 1693000,
+          "519": 1532000,
+          "520": 1827000,
+          "521": 1808000,
+          "525": 1844000,
+          "526": 1911000,
+          "527": 1889000,
+          "531": 1795000,
+          "532": 1794000,
+          "533": 1569000,
+          "534": 1595000,
+          "535": 1895000,
+          "536": 1891000,
+          "537": 1558000,
+          "538": 1598000,
+          "539": 1710000,
+          "540": 1571000,
+          "544": 1835000,
+          "545": 1575000,
+          "546": 1771000,
+          "547": 1680000,
+          "548": 1848000,
+          "550": 1940000,
+          "552": 1743000,
+          "553": 1812000,
+          "554": 1619000,
+          "555": 1728000,
+          "556": 1937000,
+          "557": 1833000,
+          "558": 1477000,
+          "559": 1761000,
+          "560": 1990000,
+          "561": 1510000,
+          "564": 1946000,
+          "565": 1942000,
+          "566": 1492000,
+          "569": 1745000,
+          "570": 1784000,
+          "581": 1608000,
+          "582": 1968000,
+          "583": 1493000,
+          "584": 1794000,
+          "585": 1881000,
+          "586": 1634000,
+          "589": 1659000,
+          "590": 1699000,
+          "593": 1903000,
+          "600": 1490000
+        }
+      }
+    },
+    ".github/workflows/WebAutomatedTests.yml": {
+      "data": {
+        "2021-01-14T09:15:39Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Testing Atlas Build": {
+      "data": {
+        "2021-01-06T11:22:24Z": 206200.0,
+        "2021-01-13T14:46:22Z": 180000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 193100.0,
+      "quartiles": {
+        "q1": 186550.0,
+        "q3": 199650.0,
+        "iqr": 13100.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 413000,
+          "2": 432000,
+          "6": 274000
+        },
+        "medium_severity": {
+          "14": 209000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "backgroundImage-designproperty": 0,
+      "build/update-widgets-data": 12,
+      "chore/diff-changes-base": 0,
+      "chore/format-markdown": 0,
+      "chore/share-lib-widgets-POC": 0,
+      "crafting/esbuild": 0,
+      "data-widgets-release-2.1.1": 163,
+      "e2e-automation-podman": 0,
+      "feat/add-atlas-widget-style-inclusion-variables": 0,
+      "feat/atlas-2-3-migration": 0,
+      "feat/atlas-ref-app": 0,
+      "feat/base64-file": 0,
+      "feat/buildingblocks": 0,
+      "feat/charts-structure-preview": 0,
+      "feat/csp-css-base64-to-file": 0,
+      "feat/document-viewer-structure": 0,
+      "feat/groupbox-native": 0,
+      "feat/improve-prettifying": 0,
+      "feat/ivb-events": 0,
+      "feat/label-selector": 0,
+      "feat/linear-gradient": 0,
+      "feat/linear-gradient-new": 0,
+      "feat/native-charts": 0,
+      "feat/nc-661/column-chart-widget-native": 0,
+      "feat/piw-copyright-automations": 0,
+      "feat/poc-modules": 0,
+      "feat/prepare-widgets-9.6": 0,
+      "feat/preview-togglebuttons": 0,
+      "feat/pwt-csp-toggle-script": 0,
+      "feat/radio-buttons": 0,
+      "feat/release-uitls-with-zod": 0,
+      "feat/release-utils": 0,
+      "feat/screenshotwidgets": 0,
+      "feat/slider-feedback": 0,
+      "feat/tree-view-building-blocks-ui": 0,
+      "feat/update-preview-api": 0,
+      "feat/video-player-web-change-url-property-types": 0,
+      "fix/automation-native-modules": 253,
+      "fix/background-image": 0,
+      "fix/barcode-scanner": 0,
+      "fix/bump-version-app-events": 0,
+      "fix/calendar-more-not-respects-date": 0,
+      "fix/feedback-gallery-widget": 0,
+      "fix/geolocation-timeout": 0,
+      "fix/js-action-take-picture-clean-up-tmp-images": 0,
+      "fix/maps-native-improvements": 0,
+      "fix/native/app-events/clear-subs-on-app-background": 0,
+      "fix/native-bundle-performance": 0,
+      "fix/npm-release-error": 0,
+      "fix/piw-tools-sass": 0,
+      "fix/rich-text-firefox": 0,
+      "fix/workflow": 0,
+      "front-hands-presentation": 0,
+      "master": 0,
+      "mobile-resources-native-release-3.6.1": 0,
+      "mobile-resources-native-release-3.7.1": 0,
+      "mobile-resources-native-release-3.8.1": 0,
+      "moo/ensure-timers-are-unsubscribed-correctly": 0,
+      "native-template-dev-workflow": 0,
+      "nc/appium-ftw": 0,
+      "nc/bar-chart-tests": 0,
+      "nc/chore/NC-266_preview-pdf": 0,
+      "nc/craft/native-storybook": 0,
+      "nc/e2e-automation": 0,
+      "nc/e2e-automation-linux": 0,
+      "nc/e2e-automation-nctp-main": 0,
+      "nc/fix/NC-685_switch-native": 0,
+      "nc/rollup-strips-multiline-comment": 0,
+      "nc/signature-e2e-tests": 0,
+      "nc/workflow-improvements": 0,
+      "poc/tree-table": 0,
+      "radioButtons": 0,
+      "release/8.x": 0,
+      "release/8.8.0": 0,
+      "release/9.6.x": 0,
+      "release/9.12.x": 0,
+      "slider-web-release-2.0.1": 0,
+      "test/add-visual-testing": 0,
+      "test/fix-screenshots-baseline": 0,
+      "wc/html-node-poc": 0
+    },
+    "branch deviation": {
+      "backgroundImage-designproperty": 202,
+      "build/update-widgets-data": -1,
+      "chore/diff-changes-base": 459,
+      "chore/format-markdown": 92,
+      "chore/share-lib-widgets-POC": 243,
+      "crafting/esbuild": 168,
+      "data-widgets-release-2.1.1": 153,
+      "e2e-automation-podman": 33,
+      "feat/add-atlas-widget-style-inclusion-variables": 435,
+      "feat/atlas-2-3-migration": 434,
+      "feat/atlas-ref-app": 580,
+      "feat/base64-file": 862,
+      "feat/buildingblocks": 386,
+      "feat/charts-structure-preview": 70,
+      "feat/csp-css-base64-to-file": 71,
+      "feat/document-viewer-structure": 0,
+      "feat/groupbox-native": 408,
+      "feat/improve-prettifying": 239,
+      "feat/ivb-events": 351,
+      "feat/label-selector": 120,
+      "feat/linear-gradient": 776,
+      "feat/linear-gradient-new": 455,
+      "feat/native-charts": 629,
+      "feat/nc-661/column-chart-widget-native": 6,
+      "feat/piw-copyright-automations": 456,
+      "feat/poc-modules": 439,
+      "feat/prepare-widgets-9.6": 259,
+      "feat/preview-togglebuttons": 496,
+      "feat/pwt-csp-toggle-script": 48,
+      "feat/radio-buttons": 104,
+      "feat/release-uitls-with-zod": 0,
+      "feat/release-utils": 0,
+      "feat/screenshotwidgets": 406,
+      "feat/slider-feedback": 109,
+      "feat/tree-view-building-blocks-ui": 254,
+      "feat/update-preview-api": 680,
+      "feat/video-player-web-change-url-property-types": 335,
+      "fix/automation-native-modules": 253,
+      "fix/background-image": 776,
+      "fix/barcode-scanner": 860,
+      "fix/bump-version-app-events": 781,
+      "fix/calendar-more-not-respects-date": 693,
+      "fix/feedback-gallery-widget": 1,
+      "fix/geolocation-timeout": 552,
+      "fix/js-action-take-picture-clean-up-tmp-images": 490,
+      "fix/maps-native-improvements": 404,
+      "fix/native/app-events/clear-subs-on-app-background": 397,
+      "fix/native-bundle-performance": 110,
+      "fix/npm-release-error": 216,
+      "fix/piw-tools-sass": 196,
+      "fix/rich-text-firefox": 98,
+      "fix/workflow": 426,
+      "front-hands-presentation": 422,
+      "master": 0,
+      "mobile-resources-native-release-3.6.1": 49,
+      "mobile-resources-native-release-3.7.1": 47,
+      "mobile-resources-native-release-3.8.1": 16,
+      "moo/ensure-timers-are-unsubscribed-correctly": 113,
+      "native-template-dev-workflow": 121,
+      "nc/appium-ftw": 15,
+      "nc/bar-chart-tests": 110,
+      "nc/chore/NC-266_preview-pdf": 294,
+      "nc/craft/native-storybook": 105,
+      "nc/e2e-automation": 6,
+      "nc/e2e-automation-linux": 0,
+      "nc/e2e-automation-nctp-main": 6,
+      "nc/fix/NC-685_switch-native": 71,
+      "nc/rollup-strips-multiline-comment": 96,
+      "nc/signature-e2e-tests": 63,
+      "nc/workflow-improvements": 52,
+      "poc/tree-table": 93,
+      "radioButtons": 156,
+      "release/8.x": 62,
+      "release/8.8.0": 777,
+      "release/9.6.x": 135,
+      "release/9.12.x": 54,
+      "slider-web-release-2.0.1": 21,
+      "test/add-visual-testing": 683,
+      "test/fix-screenshots-baseline": 293,
+      "wc/html-node-poc": 9
+    },
+    "unsynced activity": {
+      "backgroundImage-designproperty": 0,
+      "build/update-widgets-data": 12,
+      "chore/diff-changes-base": 0,
+      "chore/format-markdown": 0,
+      "chore/share-lib-widgets-POC": 0,
+      "crafting/esbuild": 0,
+      "data-widgets-release-2.1.1": 9,
+      "e2e-automation-podman": 0,
+      "feat/add-atlas-widget-style-inclusion-variables": 0,
+      "feat/atlas-2-3-migration": 0,
+      "feat/atlas-ref-app": 0,
+      "feat/base64-file": 0,
+      "feat/buildingblocks": 0,
+      "feat/charts-structure-preview": 0,
+      "feat/csp-css-base64-to-file": 0,
+      "feat/document-viewer-structure": 0,
+      "feat/groupbox-native": 0,
+      "feat/improve-prettifying": 0,
+      "feat/ivb-events": 0,
+      "feat/label-selector": 0,
+      "feat/linear-gradient": 0,
+      "feat/linear-gradient-new": 0,
+      "feat/native-charts": 0,
+      "feat/nc-661/column-chart-widget-native": 0,
+      "feat/piw-copyright-automations": 0,
+      "feat/poc-modules": 0,
+      "feat/prepare-widgets-9.6": 0,
+      "feat/preview-togglebuttons": 0,
+      "feat/pwt-csp-toggle-script": 0,
+      "feat/radio-buttons": 0,
+      "feat/release-uitls-with-zod": 0,
+      "feat/release-utils": 0,
+      "feat/screenshotwidgets": 0,
+      "feat/slider-feedback": 0,
+      "feat/tree-view-building-blocks-ui": 0,
+      "feat/update-preview-api": 0,
+      "feat/video-player-web-change-url-property-types": 0,
+      "fix/automation-native-modules": 0,
+      "fix/background-image": 0,
+      "fix/barcode-scanner": 0,
+      "fix/bump-version-app-events": 0,
+      "fix/calendar-more-not-respects-date": 0,
+      "fix/feedback-gallery-widget": 0,
+      "fix/geolocation-timeout": 0,
+      "fix/js-action-take-picture-clean-up-tmp-images": 0,
+      "fix/maps-native-improvements": 0,
+      "fix/native/app-events/clear-subs-on-app-background": 0,
+      "fix/native-bundle-performance": 0,
+      "fix/npm-release-error": 0,
+      "fix/piw-tools-sass": 0,
+      "fix/rich-text-firefox": 0,
+      "fix/workflow": 0,
+      "front-hands-presentation": 0,
+      "master": 0,
+      "mobile-resources-native-release-3.6.1": 0,
+      "mobile-resources-native-release-3.7.1": 0,
+      "mobile-resources-native-release-3.8.1": 0,
+      "moo/ensure-timers-are-unsubscribed-correctly": 0,
+      "native-template-dev-workflow": 0,
+      "nc/appium-ftw": 0,
+      "nc/bar-chart-tests": 0,
+      "nc/chore/NC-266_preview-pdf": 0,
+      "nc/craft/native-storybook": 0,
+      "nc/e2e-automation": 0,
+      "nc/e2e-automation-linux": 0,
+      "nc/e2e-automation-nctp-main": 0,
+      "nc/fix/NC-685_switch-native": 0,
+      "nc/rollup-strips-multiline-comment": 0,
+      "nc/signature-e2e-tests": 0,
+      "nc/workflow-improvements": 0,
+      "poc/tree-table": 0,
+      "radioButtons": 0,
+      "release/8.x": 0,
+      "release/8.8.0": 0,
+      "release/9.6.x": 0,
+      "release/9.12.x": 0,
+      "slider-web-release-2.0.1": 0,
+      "test/add-visual-testing": 0,
+      "test/fix-screenshots-baseline": 0,
+      "wc/html-node-poc": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "build/update-widgets-data",
+          "data-widgets-release-2.1.1",
+          "fix/automation-native-modules"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "chore/diff-changes-base",
+          "feat/add-atlas-widget-style-inclusion-variables",
+          "feat/atlas-2-3-migration",
+          "feat/atlas-ref-app",
+          "feat/base64-file",
+          "feat/linear-gradient",
+          "feat/linear-gradient-new",
+          "feat/native-charts",
+          "feat/piw-copyright-automations",
+          "feat/poc-modules",
+          "feat/preview-togglebuttons",
+          "feat/update-preview-api",
+          "fix/background-image",
+          "fix/barcode-scanner",
+          "fix/bump-version-app-events",
+          "fix/calendar-more-not-respects-date",
+          "fix/geolocation-timeout",
+          "fix/js-action-take-picture-clean-up-tmp-images",
+          "release/8.8.0",
+          "test/add-visual-testing"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "build/update-widgets-data",
+          "data-widgets-release-2.1.1"
+        ]
+      }
+    },
+    "build_count": 5
+  },
+  "broken_release": {
+    "Run automated end-to-end tests": {
+      "data": [
+        {
+          "started_at": "2020-12-01T08:19:30Z",
+          "used_tool": "Github Actions",
+          "number": 283
+        },
+        {
+          "started_at": "2020-12-01T15:48:03Z",
+          "used_tool": "Github Actions",
+          "number": 295
+        },
+        {
+          "started_at": "2020-12-02T16:56:19Z",
+          "used_tool": "Github Actions",
+          "number": 312
+        },
+        {
+          "started_at": "2020-12-07T15:45:31Z",
+          "used_tool": "Github Actions",
+          "number": 330
+        },
+        {
+          "started_at": "2020-12-09T12:47:20Z",
+          "used_tool": "Github Actions",
+          "number": 352
+        },
+        {
+          "started_at": "2020-12-10T13:03:05Z",
+          "used_tool": "Github Actions",
+          "number": 361
+        },
+        {
+          "started_at": "2020-12-11T10:06:09Z",
+          "used_tool": "Github Actions",
+          "number": 372
+        },
+        {
+          "started_at": "2020-12-11T16:42:52Z",
+          "used_tool": "Github Actions",
+          "number": 377
+        },
+        {
+          "started_at": "2020-12-15T09:31:43Z",
+          "used_tool": "Github Actions",
+          "number": 381
+        },
+        {
+          "started_at": "2020-12-17T12:54:54Z",
+          "used_tool": "Github Actions",
+          "number": 391
+        },
+        {
+          "started_at": "2020-12-22T12:03:57Z",
+          "used_tool": "Github Actions",
+          "number": 395
+        },
+        {
+          "started_at": "2020-12-23T13:46:46Z",
+          "used_tool": "Github Actions",
+          "number": 407
+        },
+        {
+          "started_at": "2020-12-24T12:42:13Z",
+          "used_tool": "Github Actions",
+          "number": 412
+        },
+        {
+          "started_at": "2020-12-28T09:51:34Z",
+          "used_tool": "Github Actions",
+          "number": 425
+        },
+        {
+          "started_at": "2020-12-30T14:01:40Z",
+          "used_tool": "Github Actions",
+          "number": 438
+        },
+        {
+          "started_at": "2021-01-04T15:24:37Z",
+          "used_tool": "Github Actions",
+          "number": 451
+        },
+        {
+          "started_at": "2021-01-05T14:06:43Z",
+          "used_tool": "Github Actions",
+          "number": 464
+        },
+        {
+          "started_at": "2021-01-06T08:33:42Z",
+          "used_tool": "Github Actions",
+          "number": 468
+        },
+        {
+          "started_at": "2021-01-07T16:44:27Z",
+          "used_tool": "Github Actions",
+          "number": 511
+        },
+        {
+          "started_at": "2021-01-11T10:36:23Z",
+          "used_tool": "Github Actions",
+          "number": 523
+        },
+        {
+          "started_at": "2021-01-11T15:15:50Z",
+          "used_tool": "Github Actions",
+          "number": 540
+        },
+        {
+          "started_at": "2021-01-11T15:16:04Z",
+          "used_tool": "Github Actions",
+          "number": 541
+        },
+        {
+          "started_at": "2021-01-11T16:24:46Z",
+          "used_tool": "Github Actions",
+          "number": 545
+        },
+        {
+          "started_at": "2021-01-13T11:26:10Z",
+          "used_tool": "Github Actions",
+          "number": 572
+        },
+        {
+          "started_at": "2021-01-13T12:47:16Z",
+          "used_tool": "Github Actions",
+          "number": 575
+        },
+        {
+          "started_at": "2021-01-13T14:23:15Z",
+          "used_tool": "Github Actions",
+          "number": 578
+        },
+        {
+          "started_at": "2021-01-15T12:04:34Z",
+          "used_tool": "Github Actions",
+          "number": 593
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 35
+    },
+    "Run unit tests": {
+      "data": [
+        {
+          "started_at": "2020-12-01T08:19:30Z",
+          "used_tool": "Github Actions",
+          "number": 292
+        },
+        {
+          "started_at": "2020-12-01T15:48:03Z",
+          "used_tool": "Github Actions",
+          "number": 304
+        },
+        {
+          "started_at": "2020-12-02T16:56:19Z",
+          "used_tool": "Github Actions",
+          "number": 321
+        },
+        {
+          "started_at": "2020-12-07T15:45:31Z",
+          "used_tool": "Github Actions",
+          "number": 339
+        },
+        {
+          "started_at": "2020-12-09T12:47:19Z",
+          "used_tool": "Github Actions",
+          "number": 361
+        },
+        {
+          "started_at": "2020-12-10T13:03:05Z",
+          "used_tool": "Github Actions",
+          "number": 370
+        },
+        {
+          "started_at": "2020-12-11T10:06:09Z",
+          "used_tool": "Github Actions",
+          "number": 381
+        },
+        {
+          "started_at": "2020-12-11T16:42:52Z",
+          "used_tool": "Github Actions",
+          "number": 386
+        },
+        {
+          "started_at": "2020-12-15T09:31:43Z",
+          "used_tool": "Github Actions",
+          "number": 390
+        },
+        {
+          "started_at": "2020-12-17T12:54:54Z",
+          "used_tool": "Github Actions",
+          "number": 400
+        },
+        {
+          "started_at": "2020-12-22T12:03:57Z",
+          "used_tool": "Github Actions",
+          "number": 404
+        },
+        {
+          "started_at": "2020-12-23T13:46:46Z",
+          "used_tool": "Github Actions",
+          "number": 416
+        },
+        {
+          "started_at": "2020-12-24T12:42:13Z",
+          "used_tool": "Github Actions",
+          "number": 421
+        },
+        {
+          "started_at": "2020-12-28T09:51:35Z",
+          "used_tool": "Github Actions",
+          "number": 427
+        },
+        {
+          "started_at": "2020-12-30T14:01:40Z",
+          "used_tool": "Github Actions",
+          "number": 437
+        },
+        {
+          "started_at": "2021-01-04T15:24:37Z",
+          "used_tool": "Github Actions",
+          "number": 450
+        },
+        {
+          "started_at": "2021-01-05T14:06:43Z",
+          "used_tool": "Github Actions",
+          "number": 463
+        },
+        {
+          "started_at": "2021-01-06T08:33:42Z",
+          "used_tool": "Github Actions",
+          "number": 467
+        },
+        {
+          "started_at": "2021-01-11T10:36:23Z",
+          "used_tool": "Github Actions",
+          "number": 522
+        },
+        {
+          "started_at": "2021-01-11T15:15:50Z",
+          "used_tool": "Github Actions",
+          "number": 539
+        },
+        {
+          "started_at": "2021-01-11T15:16:04Z",
+          "used_tool": "Github Actions",
+          "number": 540
+        },
+        {
+          "started_at": "2021-01-13T11:26:10Z",
+          "used_tool": "Github Actions",
+          "number": 571
+        },
+        {
+          "started_at": "2021-01-13T12:47:15Z",
+          "used_tool": "Github Actions",
+          "number": 574
+        },
+        {
+          "started_at": "2021-01-13T14:23:15Z",
+          "used_tool": "Github Actions",
+          "number": 577
+        },
+        {
+          "started_at": "2021-01-15T12:04:34Z",
+          "used_tool": "Github Actions",
+          "number": 592
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 35
+    },
+    "Script tests": {
+      "data": [
+        {
+          "started_at": "2020-12-01T08:19:29Z",
+          "used_tool": "Github Actions",
+          "number": 294
+        },
+        {
+          "started_at": "2020-12-01T15:48:03Z",
+          "used_tool": "Github Actions",
+          "number": 306
+        },
+        {
+          "started_at": "2020-12-02T16:56:19Z",
+          "used_tool": "Github Actions",
+          "number": 323
+        },
+        {
+          "started_at": "2020-12-07T15:45:31Z",
+          "used_tool": "Github Actions",
+          "number": 341
+        },
+        {
+          "started_at": "2020-12-09T12:47:19Z",
+          "used_tool": "Github Actions",
+          "number": 363
+        },
+        {
+          "started_at": "2020-12-10T13:03:05Z",
+          "used_tool": "Github Actions",
+          "number": 372
+        },
+        {
+          "started_at": "2020-12-11T10:06:09Z",
+          "used_tool": "Github Actions",
+          "number": 383
+        },
+        {
+          "started_at": "2020-12-11T16:42:52Z",
+          "used_tool": "Github Actions",
+          "number": 388
+        },
+        {
+          "started_at": "2020-12-15T09:31:43Z",
+          "used_tool": "Github Actions",
+          "number": 392
+        },
+        {
+          "started_at": "2020-12-17T12:54:54Z",
+          "used_tool": "Github Actions",
+          "number": 402
+        },
+        {
+          "started_at": "2020-12-22T12:03:57Z",
+          "used_tool": "Github Actions",
+          "number": 406
+        },
+        {
+          "started_at": "2020-12-23T13:46:46Z",
+          "used_tool": "Github Actions",
+          "number": 418
+        },
+        {
+          "started_at": "2020-12-24T12:42:13Z",
+          "used_tool": "Github Actions",
+          "number": 423
+        },
+        {
+          "started_at": "2020-12-28T09:51:34Z",
+          "used_tool": "Github Actions",
+          "number": 429
+        },
+        {
+          "started_at": "2020-12-30T14:01:40Z",
+          "used_tool": "Github Actions",
+          "number": 439
+        },
+        {
+          "started_at": "2021-01-04T15:24:37Z",
+          "used_tool": "Github Actions",
+          "number": 452
+        },
+        {
+          "started_at": "2021-01-05T14:06:43Z",
+          "used_tool": "Github Actions",
+          "number": 465
+        },
+        {
+          "started_at": "2021-01-06T08:33:42Z",
+          "used_tool": "Github Actions",
+          "number": 469
+        },
+        {
+          "started_at": "2021-01-11T10:36:23Z",
+          "used_tool": "Github Actions",
+          "number": 524
+        },
+        {
+          "started_at": "2021-01-11T15:15:50Z",
+          "used_tool": "Github Actions",
+          "number": 541
+        },
+        {
+          "started_at": "2021-01-11T15:16:04Z",
+          "used_tool": "Github Actions",
+          "number": 542
+        },
+        {
+          "started_at": "2021-01-13T11:26:10Z",
+          "used_tool": "Github Actions",
+          "number": 573
+        },
+        {
+          "started_at": "2021-01-13T12:47:15Z",
+          "used_tool": "Github Actions",
+          "number": 576
+        },
+        {
+          "started_at": "2021-01-13T14:23:15Z",
+          "used_tool": "Github Actions",
+          "number": 579
+        },
+        {
+          "started_at": "2021-01-15T12:04:34Z",
+          "used_tool": "Github Actions",
+          "number": 594
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 35
+    },
+    "Testing Atlas Build": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

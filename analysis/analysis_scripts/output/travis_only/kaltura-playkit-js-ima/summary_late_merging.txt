@@ -1,0 +1,38 @@
+Missed Activity
+=========================
+Branch FEC-9173-1 has 1065 days of missed activity!
+Branch FEC-9173 has 1075 days of missed activity!
+MEDIUM SEVERITY
+Branch FEC-9173-1, 1065 seconds
+Branch FEC-9173, 1075 seconds
+
+Branch Deviation
+=========================
+Average deviation: 568.5454545454545 days
+Branch FEC-7486 moved away from main with 1635 days, 1066.4545454545455 more than average
+Branch FEC-8212 moved away from main with 1000 days, 431.4545454545455 more than average
+Branch FEC-8452 moved away from main with 1331 days, 762.4545454545455 more than average
+Branch FEC-9108-ADS moved away from main with 1042 days, 473.4545454545455 more than average
+Branch FEC-9173-1 moved away from main with 1063 days, 494.4545454545455 more than average
+Branch FEC-9173 moved away from main with 1069 days, 500.4545454545455 more than average
+Branch FEC-10064 moved away from main with 734 days, 165.4545454545455 more than average
+Branch FEC-10335-1 moved away from main with 668 days, 99.4545454545455 more than average
+Branch workspaces moved away from main with 1266 days, 697.4545454545455 more than average
+MEDIUM SEVERITY
+Branch FEC-7486, 1635 days
+Branch FEC-8452, 1331 days
+Branch FEC-9108-ADS, 1042 days
+Branch FEC-9173-1, 1063 days
+Branch FEC-9173, 1069 days
+Branch workspaces, 1266 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.3181818181818182 days
+Branch FEC-9173-1 is unsynced with 1 days, 0.6818181818181819 more than average
+Branch FEC-9173 is unsynced with 6 days, 5.681818181818182 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch FEC-9173-1, 1 days
+Branch FEC-9173, 6 days

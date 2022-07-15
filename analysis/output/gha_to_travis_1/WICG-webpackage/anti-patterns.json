@@ -1,0 +1,66 @@
+{
+  "slow_build": {
+    ".github/workflows/mirror.yml": {
+      "data": {
+        "2021-01-12T06:07:37Z": 17000.0,
+        "2021-01-27T18:13:16Z": 21000.0,
+        "2021-02-04T18:05:28Z": 18000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 18666.666666666668,
+      "quartiles": {
+        "q1": 17500.0,
+        "q3": 19500.0,
+        "iqr": 2000.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "22": 22000,
+          "23": 20000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "jyasskin-bundle-preload": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "gh-pages": 1,
+      "jyasskin-bundle-preload": 636,
+      "main": 0
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "jyasskin-bundle-preload": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "jyasskin-bundle-preload"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    ".github/workflows/mirror.yml": {
+      "data": [],
+      "release_build_count": 4
+    }
+  },
+  "skip_failing_tests": {}
+}

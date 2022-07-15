@@ -1,0 +1,115 @@
+{
+  "slow_build": {
+    "Node CI": {
+      "data": {
+        "2019-08-15T04:04:59Z": 43000.0,
+        "2019-09-01T07:18:45Z": 2784800.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1413900.0,
+      "quartiles": {
+        "q1": 728450.0,
+        "q3": 2099350.0,
+        "iqr": 1370900.0
+      },
+      "classification": {
+        "high_severity": {
+          "6": 13512000
+        },
+        "medium_severity": {}
+      }
+    },
+    "tinchi-api": {
+      "data": {
+        "2019-08-15T01:25:58Z": 53000.0,
+        "2019-09-01T07:19:06Z": 93400.0
+      },
+      "tool": "TravisCI",
+      "total avg": 73200.0,
+      "quartiles": {
+        "q1": 63100.0,
+        "q3": 83300.0,
+        "iqr": 20200.0
+      },
+      "classification": {
+        "high_severity": {
+          "15": 125000,
+          "16": 124000
+        },
+        "medium_severity": {
+          "17": 92000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/moment-2.29.2": 0,
+      "dev": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": -32,
+      "dependabot/npm_and_yarn/moment-2.29.2": -47,
+      "dev": 1157,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/moment-2.29.2": 0,
+      "dev": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "dev"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Node CI": {
+      "data": [
+        {
+          "started_at": "2019-08-15T04:04:59Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2019-09-01T07:18:45Z",
+          "used_tool": "Github Actions",
+          "number": 2
+        },
+        {
+          "started_at": "2019-09-01T07:20:02Z",
+          "used_tool": "Github Actions",
+          "number": 4
+        },
+        {
+          "started_at": "2019-09-01T07:24:39Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 6
+    },
+    "tinchi-api": {
+      "data": [],
+      "release_build_count": 7
+    }
+  },
+  "skip_failing_tests": {}
+}

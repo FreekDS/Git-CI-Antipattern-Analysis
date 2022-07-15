@@ -1,0 +1,892 @@
+{
+  "slow_build": {
+    "lunar": {
+      "data": {
+        "2019-04-01T16:30:30Z": 1484194.4444444445,
+        "2019-04-08T17:30:58Z": 1269156.862745098,
+        "2019-04-15T18:05:09Z": 2103616.4383561644,
+        "2019-04-22T18:09:57Z": 2182579.4392523365,
+        "2019-04-29T18:47:29Z": 2135333.3333333335,
+        "2019-05-06T19:30:57Z": 2079720.0
+      },
+      "tool": "TravisCI",
+      "total avg": 1875766.7530218961,
+      "quartiles": {
+        "q1": 1633075.8333333335,
+        "q3": 2127404.109589041,
+        "iqr": 494328.2762557077
+      },
+      "classification": {
+        "high_severity": {
+          "115": 2902000,
+          "156": 2910000,
+          "159": 3419000,
+          "160": 3047000,
+          "161": 2953000,
+          "163": 3189000,
+          "164": 3006000,
+          "165": 3083000,
+          "167": 2936000,
+          "171": 3274000,
+          "236": 2910000,
+          "265": 2911000,
+          "269": 2965000,
+          "338": 3153000,
+          "339": 2919000,
+          "344": 2973000,
+          "371": 2876000,
+          "383": 2909000,
+          "396": 2931000,
+          "397": 2941000,
+          "401": 2877000
+        },
+        "medium_severity": {
+          "57": 2306000,
+          "81": 2375000,
+          "95": 2288000,
+          "103": 2214000,
+          "108": 2132000,
+          "123": 2848000,
+          "147": 2829000,
+          "162": 2554000,
+          "183": 2682000,
+          "188": 2631000,
+          "189": 2751000,
+          "190": 2632000,
+          "192": 2728000,
+          "193": 2797000,
+          "195": 2582000,
+          "196": 2772000,
+          "198": 2692000,
+          "201": 2581000,
+          "205": 2583000,
+          "207": 2517000,
+          "209": 2789000,
+          "210": 2630000,
+          "211": 2133000,
+          "212": 2424000,
+          "213": 2562000,
+          "214": 2565000,
+          "216": 2167000,
+          "220": 2369000,
+          "223": 2358000,
+          "226": 2337000,
+          "228": 2398000,
+          "231": 2399000,
+          "233": 2571000,
+          "237": 2618000,
+          "238": 2628000,
+          "242": 2768000,
+          "243": 2713000,
+          "245": 2727000,
+          "246": 2808000,
+          "247": 2156000,
+          "248": 2600000,
+          "251": 2129000,
+          "252": 2619000,
+          "253": 2764000,
+          "255": 2652000,
+          "256": 2743000,
+          "257": 2607000,
+          "258": 2782000,
+          "262": 2660000,
+          "264": 2563000,
+          "267": 2642000,
+          "268": 2681000,
+          "271": 2598000,
+          "272": 2612000,
+          "274": 2644000,
+          "278": 2625000,
+          "280": 2592000,
+          "281": 2327000,
+          "279": 2188000,
+          "284": 2860000,
+          "290": 2527000,
+          "291": 2486000,
+          "292": 2620000,
+          "293": 2171000,
+          "296": 2681000,
+          "298": 2687000,
+          "300": 2748000,
+          "301": 2619000,
+          "303": 2578000,
+          "304": 2626000,
+          "305": 2602000,
+          "306": 2715000,
+          "307": 2633000,
+          "308": 2607000,
+          "309": 2195000,
+          "310": 2167000,
+          "311": 2735000,
+          "314": 2636000,
+          "319": 2644000,
+          "320": 2842000,
+          "321": 2818000,
+          "322": 2613000,
+          "323": 2651000,
+          "324": 2850000,
+          "325": 2140000,
+          "326": 2695000,
+          "328": 2647000,
+          "331": 2679000,
+          "333": 2618000,
+          "336": 2861000,
+          "340": 2178000,
+          "341": 2530000,
+          "342": 2176000,
+          "343": 2799000,
+          "345": 2736000,
+          "346": 2736000,
+          "348": 2696000,
+          "350": 2734000,
+          "358": 2718000,
+          "363": 2742000,
+          "365": 2803000,
+          "367": 2646000,
+          "374": 2755000,
+          "375": 2694000,
+          "376": 2164000,
+          "380": 2794000,
+          "381": 2754000,
+          "382": 2780000,
+          "386": 2143000,
+          "388": 2284000,
+          "389": 2155000,
+          "390": 2719000,
+          "394": 2163000,
+          "395": 2380000,
+          "400": 2806000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "autocomplete": 0,
+      "bugfix--autocomplete-isItemSelected": 0,
+      "ci-actions": 631,
+      "cleanup-emojis": 609,
+      "dark-colors": 517,
+      "default-value-overwrites-initial-value": 0,
+      "ext": 0,
+      "fix-apollo": 650,
+      "fix-storybook": 686,
+      "fo--popover-backup-2": 0,
+      "gh-pages": 0,
+      "ks_InlineRow": 0,
+      "ks_muted_TermList": 0,
+      "master": 0,
+      "mj--disable-auto-release": 751,
+      "new-translate": 660,
+      "sort-carets": 637,
+      "stefanie--fix-radio-button": 0,
+      "stefanie--fix-timeline-story": 0,
+      "tgeonetta--error-boundary": 0,
+      "v2": 686,
+      "v3": 434
+    },
+    "branch deviation": {
+      "autocomplete": -86,
+      "bugfix--autocomplete-isItemSelected": 197,
+      "ci-actions": 632,
+      "cleanup-emojis": 609,
+      "dark-colors": 516,
+      "default-value-overwrites-initial-value": 350,
+      "ext": 588,
+      "fix-apollo": 650,
+      "fix-storybook": 686,
+      "fo--popover-backup-2": 322,
+      "gh-pages": -1,
+      "ks_InlineRow": 464,
+      "ks_muted_TermList": 408,
+      "master": 0,
+      "mj--disable-auto-release": 751,
+      "new-translate": 663,
+      "sort-carets": 637,
+      "stefanie--fix-radio-button": 649,
+      "stefanie--fix-timeline-story": 440,
+      "tgeonetta--error-boundary": 384,
+      "v2": 687,
+      "v3": 434
+    },
+    "unsynced activity": {
+      "autocomplete": 0,
+      "bugfix--autocomplete-isItemSelected": 0,
+      "ci-actions": -1,
+      "cleanup-emojis": -1,
+      "dark-colors": 1,
+      "default-value-overwrites-initial-value": 0,
+      "ext": 0,
+      "fix-apollo": -1,
+      "fix-storybook": -1,
+      "fo--popover-backup-2": 0,
+      "gh-pages": 0,
+      "ks_InlineRow": 0,
+      "ks_muted_TermList": 0,
+      "master": 0,
+      "mj--disable-auto-release": -1,
+      "new-translate": -3,
+      "sort-carets": -1,
+      "stefanie--fix-radio-button": 0,
+      "stefanie--fix-timeline-story": 0,
+      "tgeonetta--error-boundary": 0,
+      "v2": -1,
+      "v3": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "fix-apollo",
+          "fix-storybook",
+          "mj--disable-auto-release",
+          "new-translate",
+          "sort-carets",
+          "v2"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "fix-apollo",
+          "fix-storybook",
+          "mj--disable-auto-release",
+          "new-translate",
+          "stefanie--fix-radio-button",
+          "v2"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "ci-actions",
+          "cleanup-emojis",
+          "dark-colors",
+          "fix-apollo",
+          "fix-storybook",
+          "mj--disable-auto-release",
+          "sort-carets",
+          "v2",
+          "v3"
+        ],
+        "high_severity": [
+          "new-translate"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "lunar": {
+      "data": [
+        {
+          "started_at": "2019-04-01T16:30:33Z",
+          "used_tool": "TravisCI",
+          "number": 2
+        },
+        {
+          "started_at": "2019-04-01T17:18:52Z",
+          "used_tool": "TravisCI",
+          "number": 4
+        },
+        {
+          "started_at": "2019-04-01T17:35:11Z",
+          "used_tool": "TravisCI",
+          "number": 6
+        },
+        {
+          "started_at": "2019-04-01T18:01:27Z",
+          "used_tool": "TravisCI",
+          "number": 8
+        },
+        {
+          "started_at": "2019-04-01T21:02:20Z",
+          "used_tool": "TravisCI",
+          "number": 10
+        },
+        {
+          "started_at": "2019-04-02T02:07:16Z",
+          "used_tool": "TravisCI",
+          "number": 21
+        },
+        {
+          "started_at": "2019-04-02T16:38:20Z",
+          "used_tool": "TravisCI",
+          "number": 24
+        },
+        {
+          "started_at": "2019-04-02T21:54:31Z",
+          "used_tool": "TravisCI",
+          "number": 27
+        },
+        {
+          "started_at": "2019-04-04T17:00:41Z",
+          "used_tool": "TravisCI",
+          "number": 46
+        },
+        {
+          "started_at": "2019-04-05T21:28:43Z",
+          "used_tool": "TravisCI",
+          "number": 64
+        },
+        {
+          "started_at": "2019-04-06T00:06:39Z",
+          "used_tool": "TravisCI",
+          "number": 66
+        },
+        {
+          "started_at": "2019-04-06T00:14:59Z",
+          "used_tool": "TravisCI",
+          "number": 68
+        },
+        {
+          "started_at": "2019-04-06T01:51:57Z",
+          "used_tool": "TravisCI",
+          "number": 70
+        },
+        {
+          "started_at": "2019-04-06T02:17:59Z",
+          "used_tool": "TravisCI",
+          "number": 72
+        },
+        {
+          "started_at": "2019-04-06T21:16:11Z",
+          "used_tool": "TravisCI",
+          "number": 74
+        },
+        {
+          "started_at": "2019-04-08T17:31:01Z",
+          "used_tool": "TravisCI",
+          "number": 76
+        },
+        {
+          "started_at": "2019-04-08T19:12:17Z",
+          "used_tool": "TravisCI",
+          "number": 80
+        },
+        {
+          "started_at": "2019-04-08T19:20:22Z",
+          "used_tool": "TravisCI",
+          "number": 78
+        },
+        {
+          "started_at": "2019-04-08T21:05:01Z",
+          "used_tool": "TravisCI",
+          "number": 82
+        },
+        {
+          "started_at": "2019-04-08T21:07:56Z",
+          "used_tool": "TravisCI",
+          "number": 83
+        },
+        {
+          "started_at": "2019-04-08T21:14:42Z",
+          "used_tool": "TravisCI",
+          "number": 84
+        },
+        {
+          "started_at": "2019-04-08T21:45:44Z",
+          "used_tool": "TravisCI",
+          "number": 85
+        },
+        {
+          "started_at": "2019-04-08T21:47:48Z",
+          "used_tool": "TravisCI",
+          "number": 86
+        },
+        {
+          "started_at": "2019-04-08T21:54:06Z",
+          "used_tool": "TravisCI",
+          "number": 88
+        },
+        {
+          "started_at": "2019-04-08T21:58:51Z",
+          "used_tool": "TravisCI",
+          "number": 90
+        },
+        {
+          "started_at": "2019-04-08T22:53:24Z",
+          "used_tool": "TravisCI",
+          "number": 96
+        },
+        {
+          "started_at": "2019-04-08T23:11:58Z",
+          "used_tool": "TravisCI",
+          "number": 97
+        },
+        {
+          "started_at": "2019-04-08T23:13:06Z",
+          "used_tool": "TravisCI",
+          "number": 98
+        },
+        {
+          "started_at": "2019-04-08T23:14:53Z",
+          "used_tool": "TravisCI",
+          "number": 100
+        },
+        {
+          "started_at": "2019-04-08T23:37:02Z",
+          "used_tool": "TravisCI",
+          "number": 101
+        },
+        {
+          "started_at": "2019-04-09T00:18:07Z",
+          "used_tool": "TravisCI",
+          "number": 102
+        },
+        {
+          "started_at": "2019-04-09T17:25:19Z",
+          "used_tool": "TravisCI",
+          "number": 104
+        },
+        {
+          "started_at": "2019-04-09T17:32:23Z",
+          "used_tool": "TravisCI",
+          "number": 106
+        },
+        {
+          "started_at": "2019-04-09T19:23:51Z",
+          "used_tool": "TravisCI",
+          "number": 108
+        },
+        {
+          "started_at": "2019-04-09T20:09:40Z",
+          "used_tool": "TravisCI",
+          "number": 109
+        },
+        {
+          "started_at": "2019-04-10T22:46:50Z",
+          "used_tool": "TravisCI",
+          "number": 116
+        },
+        {
+          "started_at": "2019-04-10T23:02:42Z",
+          "used_tool": "TravisCI",
+          "number": 118
+        },
+        {
+          "started_at": "2019-04-11T20:39:37Z",
+          "used_tool": "TravisCI",
+          "number": 121
+        },
+        {
+          "started_at": "2019-04-11T22:59:50Z",
+          "used_tool": "TravisCI",
+          "number": 124
+        },
+        {
+          "started_at": "2019-04-12T16:27:20Z",
+          "used_tool": "TravisCI",
+          "number": 128
+        },
+        {
+          "started_at": "2019-04-15T20:21:57Z",
+          "used_tool": "TravisCI",
+          "number": 131
+        },
+        {
+          "started_at": "2019-04-15T23:20:06Z",
+          "used_tool": "TravisCI",
+          "number": 138
+        },
+        {
+          "started_at": "2019-04-16T19:31:43Z",
+          "used_tool": "TravisCI",
+          "number": 140
+        },
+        {
+          "started_at": "2019-04-16T19:54:38Z",
+          "used_tool": "TravisCI",
+          "number": 142
+        },
+        {
+          "started_at": "2019-04-16T21:18:26Z",
+          "used_tool": "TravisCI",
+          "number": 144
+        },
+        {
+          "started_at": "2019-04-16T21:56:35Z",
+          "used_tool": "TravisCI",
+          "number": 146
+        },
+        {
+          "started_at": "2019-04-17T22:22:00Z",
+          "used_tool": "TravisCI",
+          "number": 169
+        },
+        {
+          "started_at": "2019-04-18T19:53:54Z",
+          "used_tool": "TravisCI",
+          "number": 189
+        },
+        {
+          "started_at": "2019-04-18T21:24:12Z",
+          "used_tool": "TravisCI",
+          "number": 193
+        },
+        {
+          "started_at": "2019-04-18T22:17:56Z",
+          "used_tool": "TravisCI",
+          "number": 196
+        },
+        {
+          "started_at": "2019-04-19T22:02:42Z",
+          "used_tool": "TravisCI",
+          "number": 199
+        },
+        {
+          "started_at": "2019-04-19T22:37:03Z",
+          "used_tool": "TravisCI",
+          "number": 200
+        },
+        {
+          "started_at": "2019-04-19T23:55:06Z",
+          "used_tool": "TravisCI",
+          "number": 202
+        },
+        {
+          "started_at": "2019-04-19T23:58:55Z",
+          "used_tool": "TravisCI",
+          "number": 203
+        },
+        {
+          "started_at": "2019-04-22T18:16:47Z",
+          "used_tool": "TravisCI",
+          "number": 208
+        },
+        {
+          "started_at": "2019-04-22T22:11:24Z",
+          "used_tool": "TravisCI",
+          "number": 217
+        },
+        {
+          "started_at": "2019-04-22T22:35:06Z",
+          "used_tool": "TravisCI",
+          "number": 218
+        },
+        {
+          "started_at": "2019-04-22T23:29:02Z",
+          "used_tool": "TravisCI",
+          "number": 221
+        },
+        {
+          "started_at": "2019-04-23T20:37:53Z",
+          "used_tool": "TravisCI",
+          "number": 235
+        },
+        {
+          "started_at": "2019-04-23T20:52:06Z",
+          "used_tool": "TravisCI",
+          "number": 236
+        },
+        {
+          "started_at": "2019-04-24T05:02:36Z",
+          "used_tool": "TravisCI",
+          "number": 259
+        },
+        {
+          "started_at": "2019-04-24T05:07:17Z",
+          "used_tool": "TravisCI",
+          "number": 260
+        },
+        {
+          "started_at": "2019-04-24T16:23:44Z",
+          "used_tool": "TravisCI",
+          "number": 261
+        },
+        {
+          "started_at": "2019-04-24T20:40:33Z",
+          "used_tool": "TravisCI",
+          "number": 276
+        },
+        {
+          "started_at": "2019-04-24T21:51:52Z",
+          "used_tool": "TravisCI",
+          "number": 281
+        },
+        {
+          "started_at": "2019-04-24T22:35:24Z",
+          "used_tool": "TravisCI",
+          "number": 282
+        },
+        {
+          "started_at": "2019-04-24T22:38:55Z",
+          "used_tool": "TravisCI",
+          "number": 283
+        },
+        {
+          "started_at": "2019-04-24T23:44:41Z",
+          "used_tool": "TravisCI",
+          "number": 285
+        },
+        {
+          "started_at": "2019-04-24T23:53:55Z",
+          "used_tool": "TravisCI",
+          "number": 286
+        },
+        {
+          "started_at": "2019-04-25T00:25:00Z",
+          "used_tool": "TravisCI",
+          "number": 287
+        },
+        {
+          "started_at": "2019-04-25T01:16:45Z",
+          "used_tool": "TravisCI",
+          "number": 288
+        },
+        {
+          "started_at": "2019-04-25T01:21:52Z",
+          "used_tool": "TravisCI",
+          "number": 289
+        },
+        {
+          "started_at": "2019-04-25T16:58:10Z",
+          "used_tool": "TravisCI",
+          "number": 293
+        },
+        {
+          "started_at": "2019-04-25T18:38:20Z",
+          "used_tool": "TravisCI",
+          "number": 294
+        },
+        {
+          "started_at": "2019-04-25T22:29:04Z",
+          "used_tool": "TravisCI",
+          "number": 299
+        },
+        {
+          "started_at": "2019-04-25T23:35:31Z",
+          "used_tool": "TravisCI",
+          "number": 302
+        },
+        {
+          "started_at": "2019-04-26T18:03:22Z",
+          "used_tool": "TravisCI",
+          "number": 309
+        },
+        {
+          "started_at": "2019-04-26T18:10:24Z",
+          "used_tool": "TravisCI",
+          "number": 310
+        },
+        {
+          "started_at": "2019-04-26T19:08:08Z",
+          "used_tool": "TravisCI",
+          "number": 312
+        },
+        {
+          "started_at": "2019-04-26T19:28:13Z",
+          "used_tool": "TravisCI",
+          "number": 313
+        },
+        {
+          "started_at": "2019-04-26T19:36:01Z",
+          "used_tool": "TravisCI",
+          "number": 315
+        },
+        {
+          "started_at": "2019-04-26T19:58:47Z",
+          "used_tool": "TravisCI",
+          "number": 316
+        },
+        {
+          "started_at": "2019-04-26T20:24:01Z",
+          "used_tool": "TravisCI",
+          "number": 317
+        },
+        {
+          "started_at": "2019-04-26T20:28:11Z",
+          "used_tool": "TravisCI",
+          "number": 318
+        },
+        {
+          "started_at": "2019-04-29T23:53:33Z",
+          "used_tool": "TravisCI",
+          "number": 329
+        },
+        {
+          "started_at": "2019-05-01T06:52:31Z",
+          "used_tool": "TravisCI",
+          "number": 334
+        },
+        {
+          "started_at": "2019-05-01T07:22:18Z",
+          "used_tool": "TravisCI",
+          "number": 335
+        },
+        {
+          "started_at": "2019-05-01T18:02:52Z",
+          "used_tool": "TravisCI",
+          "number": 340
+        },
+        {
+          "started_at": "2019-05-01T18:27:28Z",
+          "used_tool": "TravisCI",
+          "number": 341
+        },
+        {
+          "started_at": "2019-05-01T18:34:58Z",
+          "used_tool": "TravisCI",
+          "number": 342
+        },
+        {
+          "started_at": "2019-05-02T22:12:23Z",
+          "used_tool": "TravisCI",
+          "number": 347
+        },
+        {
+          "started_at": "2019-05-02T23:19:11Z",
+          "used_tool": "TravisCI",
+          "number": 349
+        },
+        {
+          "started_at": "2019-05-02T23:29:41Z",
+          "used_tool": "TravisCI",
+          "number": 352
+        },
+        {
+          "started_at": "2019-05-02T23:54:08Z",
+          "used_tool": "TravisCI",
+          "number": 353
+        },
+        {
+          "started_at": "2019-05-03T00:05:53Z",
+          "used_tool": "TravisCI",
+          "number": 354
+        },
+        {
+          "started_at": "2019-05-03T00:09:46Z",
+          "used_tool": "TravisCI",
+          "number": 356
+        },
+        {
+          "started_at": "2019-05-03T00:19:24Z",
+          "used_tool": "TravisCI",
+          "number": 359
+        },
+        {
+          "started_at": "2019-05-03T00:43:00Z",
+          "used_tool": "TravisCI",
+          "number": 360
+        },
+        {
+          "started_at": "2019-05-03T01:21:00Z",
+          "used_tool": "TravisCI",
+          "number": 361
+        },
+        {
+          "started_at": "2019-05-03T17:45:55Z",
+          "used_tool": "TravisCI",
+          "number": 362
+        },
+        {
+          "started_at": "2019-05-03T18:15:02Z",
+          "used_tool": "TravisCI",
+          "number": 364
+        },
+        {
+          "started_at": "2019-05-03T18:48:03Z",
+          "used_tool": "TravisCI",
+          "number": 366
+        },
+        {
+          "started_at": "2019-05-03T19:04:58Z",
+          "used_tool": "TravisCI",
+          "number": 367
+        },
+        {
+          "started_at": "2019-05-03T19:29:28Z",
+          "used_tool": "TravisCI",
+          "number": 368
+        },
+        {
+          "started_at": "2019-05-03T20:05:57Z",
+          "used_tool": "TravisCI",
+          "number": 369
+        },
+        {
+          "started_at": "2019-05-03T20:12:27Z",
+          "used_tool": "TravisCI",
+          "number": 370
+        },
+        {
+          "started_at": "2019-05-06T17:37:44Z",
+          "used_tool": "TravisCI",
+          "number": 372
+        },
+        {
+          "started_at": "2019-05-06T17:51:12Z",
+          "used_tool": "TravisCI",
+          "number": 373
+        },
+        {
+          "started_at": "2019-05-06T19:30:57Z",
+          "used_tool": "TravisCI",
+          "number": 376
+        },
+        {
+          "started_at": "2019-05-06T20:10:54Z",
+          "used_tool": "TravisCI",
+          "number": 378
+        },
+        {
+          "started_at": "2019-05-07T21:37:50Z",
+          "used_tool": "TravisCI",
+          "number": 384
+        },
+        {
+          "started_at": "2019-05-07T21:41:35Z",
+          "used_tool": "TravisCI",
+          "number": 385
+        },
+        {
+          "started_at": "2019-05-07T21:51:28Z",
+          "used_tool": "TravisCI",
+          "number": 386
+        },
+        {
+          "started_at": "2019-05-07T21:57:08Z",
+          "used_tool": "TravisCI",
+          "number": 387
+        },
+        {
+          "started_at": "2019-05-07T22:06:25Z",
+          "used_tool": "TravisCI",
+          "number": 388
+        },
+        {
+          "started_at": "2019-05-07T22:20:29Z",
+          "used_tool": "TravisCI",
+          "number": 389
+        },
+        {
+          "started_at": "2019-05-08T19:24:52Z",
+          "used_tool": "TravisCI",
+          "number": 391
+        },
+        {
+          "started_at": "2019-05-08T19:42:02Z",
+          "used_tool": "TravisCI",
+          "number": 392
+        },
+        {
+          "started_at": "2019-05-08T19:46:52Z",
+          "used_tool": "TravisCI",
+          "number": 393
+        },
+        {
+          "started_at": "2019-05-08T20:08:50Z",
+          "used_tool": "TravisCI",
+          "number": 394
+        },
+        {
+          "started_at": "2019-05-08T21:13:14Z",
+          "used_tool": "TravisCI",
+          "number": 395
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 270
+    }
+  },
+  "skip_failing_tests": {}
+}

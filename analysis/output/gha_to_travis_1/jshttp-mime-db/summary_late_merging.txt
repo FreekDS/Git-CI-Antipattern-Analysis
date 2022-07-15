@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1591.3333333333333 days
+Branch doug_encoding_wip moved away from main with 2705 days, 1113.6666666666667 more than average
+Branch encoding_flag moved away from main with 2705 days, 1113.6666666666667 more than average
+Branch ext-lookup moved away from main with 2015 days, 423.66666666666674 more than average
+Branch unify moved away from main with 2015 days, 423.66666666666674 more than average
+MEDIUM SEVERITY
+Branch doug_encoding_wip, 2705 days
+Branch encoding_flag, 2705 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,28 @@
+Missed Activity
+=========================
+Branch update-ava has 853 days of missed activity!
+MEDIUM SEVERITY
+Branch update-ava, 853 seconds
+
+Branch Deviation
+=========================
+Average deviation: 161.625 days
+Branch update-ava moved away from main with 853 days, 691.375 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/hexo-renderer-markdown-it-6.0.1, 105 days
+HIGH SEVERITY
+Branch update-ava, 853 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.125 days
+Branch dependabot/npm_and_yarn/fortawesome/fontawesome-svg-core-6.1.1 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/fortawesome/free-brands-svg-icons-6.1.1 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/fortawesome/free-regular-svg-icons-6.1.1 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/fortawesome/free-solid-svg-icons-6.1.1 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/hexo-renderer-markdown-it-6.0.1 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/prismjs-1.27.0 is unsynced with 0 days, 0.125 more than average
+Branch master is unsynced with 0 days, 0.125 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch update-ava, -1 days

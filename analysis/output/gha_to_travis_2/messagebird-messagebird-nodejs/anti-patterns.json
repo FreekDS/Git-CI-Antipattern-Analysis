@@ -1,0 +1,103 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "add-contacts-and-groups": 1326,
+      "bump-version-220": 1326,
+      "chore/update-readme": 441,
+      "feat/webhook-signature-jwt": 223,
+      "fix/dependency-vulnerability": 991,
+      "fix/dtslint-security-issue": 319,
+      "fix/publish-workflow": 0,
+      "fix/update-dtslint": 441,
+      "fix/101-add-video": 22,
+      "fix-package-json": 1763,
+      "master": 0,
+      "npm-publish-action": 740,
+      "remove-sandbox-readme": 236,
+      "remove-yarn-lock": 740,
+      "update-testing-ci": 1763,
+      "v2-3-0": 1210
+    },
+    "branch deviation": {
+      "add-contacts-and-groups": 1330,
+      "bump-version-220": 1326,
+      "chore/update-readme": 441,
+      "feat/webhook-signature-jwt": 223,
+      "fix/dependency-vulnerability": 991,
+      "fix/dtslint-security-issue": 319,
+      "fix/publish-workflow": 739,
+      "fix/update-dtslint": 441,
+      "fix/101-add-video": 27,
+      "fix-package-json": 1763,
+      "master": 0,
+      "npm-publish-action": 742,
+      "remove-sandbox-readme": 236,
+      "remove-yarn-lock": 740,
+      "update-testing-ci": 1763,
+      "v2-3-0": 1211
+    },
+    "unsynced activity": {
+      "add-contacts-and-groups": -4,
+      "bump-version-220": -1,
+      "chore/update-readme": -1,
+      "feat/webhook-signature-jwt": -1,
+      "fix/dependency-vulnerability": -1,
+      "fix/dtslint-security-issue": -1,
+      "fix/publish-workflow": 0,
+      "fix/update-dtslint": -1,
+      "fix/101-add-video": -6,
+      "fix-package-json": -1,
+      "master": 0,
+      "npm-publish-action": -2,
+      "remove-sandbox-readme": -1,
+      "remove-yarn-lock": -1,
+      "update-testing-ci": -1,
+      "v2-3-0": -2
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "add-contacts-and-groups",
+          "bump-version-220",
+          "fix-package-json",
+          "update-testing-ci"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-contacts-and-groups",
+          "bump-version-220",
+          "fix-package-json",
+          "update-testing-ci"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "add-contacts-and-groups",
+          "bump-version-220",
+          "chore/update-readme",
+          "feat/webhook-signature-jwt",
+          "fix/dependency-vulnerability",
+          "fix/dtslint-security-issue",
+          "fix/publish-workflow",
+          "fix/update-dtslint",
+          "fix/101-add-video",
+          "fix-package-json",
+          "master",
+          "npm-publish-action",
+          "remove-sandbox-readme",
+          "remove-yarn-lock",
+          "update-testing-ci",
+          "v2-3-0"
+        ]
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

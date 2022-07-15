@@ -1,0 +1,158 @@
+{
+  "slow_build": {
+    "Test": {
+      "data": {
+        "2020-02-13T05:51:50Z": 41888.88888888889,
+        "2020-02-21T21:03:59Z": 57000.0,
+        "2020-02-29T04:39:19Z": 44333.333333333336,
+        "2020-03-13T23:36:37Z": 39000.0,
+        "2020-03-21T20:40:55Z": 32888.88888888889
+      },
+      "tool": "Github Actions",
+      "total avg": 43022.222222222226,
+      "quartiles": {
+        "q1": 39000.0,
+        "q3": 44333.333333333336,
+        "iqr": 5333.333333333336
+      },
+      "classification": {
+        "high_severity": {
+          "19": 57000,
+          "22": 56000
+        },
+        "medium_severity": {
+          "7": 46000,
+          "17": 51000,
+          "18": 47000
+        }
+      }
+    },
+    "Update Prettier": {
+      "data": {
+        "2020-03-21T20:40:56Z": 29500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 29500.0,
+      "quartiles": {
+        "q1": 29500.0,
+        "q3": 29500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 33000,
+          "2": 36000,
+          "3": 30000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Release": {
+      "data": {
+        "2020-02-13T05:56:21Z": 57000.0,
+        "2020-03-13T23:50:28Z": 40000.0,
+        "2020-03-22T19:27:15Z": 44000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 47000.0,
+      "quartiles": {
+        "q1": 42000.0,
+        "q3": 50500.0,
+        "iqr": 8500.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 116000
+        },
+        "medium_severity": {}
+      }
+    },
+    "app.js": {
+      "data": {
+        "2020-01-09T20:44:15Z": 176000.0,
+        "2020-01-27T17:45:45Z": 178846.15384615384,
+        "2020-02-03T20:12:19Z": 170250.0,
+        "2020-02-13T02:26:45Z": 159000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 171024.03846153847,
+      "quartiles": {
+        "q1": 167437.5,
+        "q3": 176711.53846153847,
+        "iqr": 9274.038461538468
+      },
+      "classification": {
+        "high_severity": {
+          "274": 222000,
+          "282": 234000,
+          "285": 228000,
+          "288": 219000,
+          "293": 226000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "37/caching-per-instance": 1037,
+      "fix-update-prettier-workflow": 321,
+      "master": 0,
+      "renovate/node-fetch-3.x": 0,
+      "update-dependencies": 0
+    },
+    "branch deviation": {
+      "37/caching-per-instance": 1038,
+      "fix-update-prettier-workflow": 321,
+      "master": 0,
+      "renovate/node-fetch-3.x": 193,
+      "update-dependencies": 501
+    },
+    "unsynced activity": {
+      "37/caching-per-instance": -2,
+      "fix-update-prettier-workflow": 0,
+      "master": 0,
+      "renovate/node-fetch-3.x": 0,
+      "update-dependencies": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "37/caching-per-instance"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "37/caching-per-instance"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "37/caching-per-instance"
+        ]
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "Release": {
+      "data": [
+        {
+          "started_at": "2020-02-13T05:56:21Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 7
+    },
+    "app.js": {
+      "data": [],
+      "release_build_count": 10
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,104 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2021-04-09T08:31:35Z": 89250.0,
+        "2021-05-28T09:11:06Z": 125250.0,
+        "2021-06-21T15:37:16Z": 101500.0,
+        "2021-07-01T09:41:33Z": 82833.33333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 99708.33333333333,
+      "quartiles": {
+        "q1": 87645.83333333333,
+        "q3": 107437.5,
+        "iqr": 19791.66666666667
+      },
+      "classification": {
+        "high_severity": {
+          "9": 143000
+        },
+        "medium_severity": {
+          "5": 110000,
+          "6": 108000,
+          "10": 118000,
+          "11": 130000,
+          "12": 110000,
+          "13": 113000,
+          "16": 127000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "client-bumped": 0,
+      "connection2": 0,
+      "dependabot/npm_and_yarn/nanoid-3.3.2": 0,
+      "expires-to-date": 0,
+      "master": 0,
+      "master-0.0": 0,
+      "mastercard-regex": 0,
+      "mastercard-regex-parity": 0,
+      "mastercard-scheme-regex": 0,
+      "remove-warnings": 0,
+      "remove-warnings-parity": 0,
+      "sprint-21.12": 0,
+      "verification-target": 0,
+      "verification-target-parity": 0
+    },
+    "branch deviation": {
+      "client-bumped": 236,
+      "connection2": 234,
+      "dependabot/npm_and_yarn/nanoid-3.3.2": 20,
+      "expires-to-date": -1,
+      "master": 0,
+      "master-0.0": 20,
+      "mastercard-regex": 143,
+      "mastercard-regex-parity": 143,
+      "mastercard-scheme-regex": 143,
+      "remove-warnings": 107,
+      "remove-warnings-parity": 110,
+      "sprint-21.12": 308,
+      "verification-target": 195,
+      "verification-target-parity": 195
+    },
+    "unsynced activity": {
+      "client-bumped": 0,
+      "connection2": 0,
+      "dependabot/npm_and_yarn/nanoid-3.3.2": 0,
+      "expires-to-date": 0,
+      "master": 0,
+      "master-0.0": 0,
+      "mastercard-regex": 0,
+      "mastercard-regex-parity": 0,
+      "mastercard-scheme-regex": 0,
+      "remove-warnings": 0,
+      "remove-warnings-parity": 0,
+      "sprint-21.12": 0,
+      "verification-target": 0,
+      "verification-target-parity": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "client-bumped",
+          "connection2",
+          "sprint-21.12"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

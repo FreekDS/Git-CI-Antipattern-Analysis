@@ -1,0 +1,208 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2020-12-08T09:43:17Z": 618904.7619047619,
+        "2020-12-21T03:15:49Z": 5209333.333333333,
+        "2020-12-30T03:15:07Z": 1449117.6470588236,
+        "2021-01-12T13:34:39Z": 633657.1428571428,
+        "2021-01-20T03:15:39Z": 2291928.5714285714
+      },
+      "tool": "Github Actions",
+      "total avg": 2040588.2913165267,
+      "quartiles": {
+        "q1": 633657.1428571428,
+        "q3": 2291928.5714285714,
+        "iqr": 1658271.4285714286
+      },
+      "classification": {
+        "high_severity": {
+          "20": 10358000,
+          "26": 7162000,
+          "33": 54435000,
+          "35": 19041000,
+          "53": 19267000,
+          "96": 31004000
+        },
+        "medium_severity": {
+          "36": 4250000
+        }
+      }
+    },
+    "Release": {
+      "data": {
+        "2020-12-09T14:12:03Z": 178000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 178000.0,
+      "quartiles": {
+        "q1": 178000.0,
+        "q3": 178000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "generator-exist": {
+      "data": {
+        "2020-10-26T12:23:57Z": 777945.9459459459,
+        "2020-11-03T03:17:43Z": 809125.0,
+        "2020-11-10T03:22:07Z": 914545.4545454546,
+        "2020-11-17T03:22:47Z": 957307.6923076923
+      },
+      "tool": "TravisCI",
+      "total avg": 864731.0231997732,
+      "quartiles": {
+        "q1": 801330.2364864865,
+        "q3": 925236.0139860141,
+        "iqr": 123905.77749952755
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "2006": 927000,
+          "2018": 952000,
+          "2027": 931000,
+          "2036": 930000,
+          "2046": 944000,
+          "2049": 928000,
+          "2065": 930000,
+          "2066": 929000,
+          "2079": 1024000,
+          "2080": 998000,
+          "2081": 1075000,
+          "2085": 993000,
+          "2086": 1001000,
+          "2087": 1048000,
+          "2089": 986000,
+          "2088": 985000,
+          "2090": 1062000,
+          "2093": 1006000,
+          "2095": 993000,
+          "2096": 1005000,
+          "2097": 1066000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/babel/core-7.18.2": 0,
+      "dependabot/npm_and_yarn/eslint-8.16.0": 0,
+      "dependabot/npm_and_yarn/stylelint-14.8.5": 0,
+      "dependabot/npm_and_yarn/yeoman-generator-5.6.1": 0,
+      "feat-win": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/babel/core-7.18.2": -6,
+      "dependabot/npm_and_yarn/eslint-8.16.0": -3,
+      "dependabot/npm_and_yarn/stylelint-14.8.5": -6,
+      "dependabot/npm_and_yarn/yeoman-generator-5.6.1": -1,
+      "feat-win": 1281,
+      "main": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/babel/core-7.18.2": 0,
+      "dependabot/npm_and_yarn/eslint-8.16.0": 0,
+      "dependabot/npm_and_yarn/stylelint-14.8.5": 0,
+      "dependabot/npm_and_yarn/yeoman-generator-5.6.1": 0,
+      "feat-win": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/babel/core-7.18.2",
+          "dependabot/npm_and_yarn/eslint-8.16.0",
+          "dependabot/npm_and_yarn/stylelint-14.8.5",
+          "dependabot/npm_and_yarn/yeoman-generator-5.6.1",
+          "main"
+        ],
+        "high_severity": [
+          "feat-win"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [
+        {
+          "started_at": "2021-01-18T03:18:55Z",
+          "used_tool": "Github Actions",
+          "number": 70
+        },
+        {
+          "started_at": "2021-01-18T08:59:48Z",
+          "used_tool": "Github Actions",
+          "number": 78
+        },
+        {
+          "started_at": "2021-01-18T09:01:01Z",
+          "used_tool": "Github Actions",
+          "number": 79
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 27
+    },
+    "Release": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "generator-exist": {
+      "data": [
+        {
+          "started_at": "2020-10-30T16:46:02Z",
+          "used_tool": "TravisCI",
+          "number": 2021
+        },
+        {
+          "started_at": "2020-10-30T16:51:01Z",
+          "used_tool": "TravisCI",
+          "number": 2023
+        },
+        {
+          "started_at": "2020-10-30T21:42:01Z",
+          "used_tool": "TravisCI",
+          "number": 2025
+        },
+        {
+          "started_at": "2020-11-03T17:00:16Z",
+          "used_tool": "TravisCI",
+          "number": 2053
+        },
+        {
+          "started_at": "2020-11-03T17:42:26Z",
+          "used_tool": "TravisCI",
+          "number": 2055
+        },
+        {
+          "started_at": "2020-11-10T03:39:12Z",
+          "used_tool": "TravisCI",
+          "number": 2077
+        },
+        {
+          "started_at": "2020-11-18T03:32:34Z",
+          "used_tool": "TravisCI",
+          "number": 2092
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 60
+    }
+  },
+  "skip_failing_tests": {}
+}

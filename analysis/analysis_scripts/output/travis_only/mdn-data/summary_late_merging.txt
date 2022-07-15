@@ -1,0 +1,42 @@
+Missed Activity
+=========================
+Branch add-dependabot has 142 days of missed activity!
+Branch release-please--branches--main has 56 days of missed activity!
+Branch release-v2.0.26 has 91 days of missed activity!
+Branch teoli2003-14507 has 17 days of missed activity!
+Branch teoli2003-max-inline-size has 17 days of missed activity!
+MEDIUM SEVERITY
+Branch release-please--branches--main, 56 seconds
+HIGH SEVERITY
+Branch release-v2.0.26, 91 seconds
+HIGH SEVERITY
+Branch add-dependabot, 142 seconds
+
+Branch Deviation
+=========================
+Average deviation: 230.5 days
+Branch chrisdavidmills-patch-1 moved away from main with 855 days, 624.5 more than average
+Branch webkit-line-clamp moved away from main with 1074 days, 843.5 more than average
+MEDIUM SEVERITY
+Branch add-dependabot, 148 days
+HIGH SEVERITY
+Branch chrisdavidmills-patch-1, 855 days
+Branch webkit-line-clamp, 1074 days
+
+Unsynced activity
+=========================
+Average unsynced: -1.8 days
+Branch chrisdavidmills-patch-1 is unsynced with 0 days, 1.8 more than average
+Branch dependabot/npm_and_yarn/ajv-8.11.0 is unsynced with 0 days, 1.8 more than average
+Branch dependabot/npm_and_yarn/better-ajv-errors-1.2.0 is unsynced with 0 days, 1.8 more than average
+Branch main is unsynced with 0 days, 1.8 more than average
+Branch release-please--branches--main is unsynced with -1 days, 0.8 more than average
+Branch release-v2.0.26 is unsynced with -1 days, 0.8 more than average
+Branch webkit-line-clamp is unsynced with 0 days, 1.8 more than average
+MEDIUM SEVERITY
+Branch release-please--branches--main, -1 days
+Branch release-v2.0.26, -1 days
+Branch teoli2003-14507, -4 days
+HIGH SEVERITY
+Branch add-dependabot, -7 days
+Branch teoli2003-max-inline-size, -5 days

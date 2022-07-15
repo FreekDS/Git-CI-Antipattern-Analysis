@@ -1,0 +1,58 @@
+1. abstract
+
+2. Introduction
+    Identify problem
+        - detecting of anti patterns
+        - why do devs decide to change CI tool
+        -> research questions?
+    Say what we do to find solution to this problem
+        - develop tool
+        - perform analysis based on study by people of Mons
+
+3. Methodology overview
+    -> tool discussion (introduction)
+        - Link with CI Odor
+            * highlight similarities/differences
+        - Link with anti patterns from Duvall
+    -> analysis overview
+        - Link with work from people from Mons
+
+4. Command line analysis tool
+    - discuss workings
+        * CI detection
+        * Build collection
+        * Antipatterns and how they are detected
+            - late merging issue: no branch age collectible
+    - show/explain results
+    - validation
+
+5. Analysis
+    - analysis limitations
+        - no skip failing tests data
+        - sample size of 20 for travis -> gha
+        - no historical data of branches
+        - dataset is more than a year old (does not advocate for new changes)
+    - data collection
+        - show how data looks like
+    - analysis execution
+        - run of Python tool
+        - gathering of data using python
+        - visualization using matplotlib
+    - analysis results
+        - trends among anti patterns
+        - hypotheses of why developers switch
+
+Discussion
+    Threats to validity
+        Internal
+            - bugs in the implementation
+            - analysis performed on historical data
+        External
+            sampling bias
+    Future work
+        analysis on more recent dataset
+        analysis on larger samples
+
+Related work
+Summary
+References

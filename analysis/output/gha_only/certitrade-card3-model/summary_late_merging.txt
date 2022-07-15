@@ -1,0 +1,26 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 132.35714285714286 days
+Branch client-bumped moved away from main with 236 days, 103.64285714285714 more than average
+Branch connection2 moved away from main with 234 days, 101.64285714285714 more than average
+Branch mastercard-regex moved away from main with 143 days, 10.642857142857139 more than average
+Branch mastercard-regex-parity moved away from main with 143 days, 10.642857142857139 more than average
+Branch mastercard-scheme-regex moved away from main with 143 days, 10.642857142857139 more than average
+Branch sprint-21.12 moved away from main with 308 days, 175.64285714285714 more than average
+Branch verification-target moved away from main with 195 days, 62.64285714285714 more than average
+Branch verification-target-parity moved away from main with 195 days, 62.64285714285714 more than average
+MEDIUM SEVERITY
+Branch client-bumped, 236 days
+Branch connection2, 234 days
+Branch sprint-21.12, 308 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

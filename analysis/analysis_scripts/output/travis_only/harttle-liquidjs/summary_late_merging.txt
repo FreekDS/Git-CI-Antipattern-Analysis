@@ -1,0 +1,28 @@
+Missed Activity
+=========================
+Branch all-contributors/add-santialbo has 90 days of missed activity!
+MEDIUM SEVERITY
+Branch all-contributors/add-santialbo, 90 seconds
+
+Branch Deviation
+=========================
+Average deviation: 155.66666666666666 days
+Branch dbg moved away from main with 226 days, 70.33333333333334 more than average
+Branch perf-cross-engines moved away from main with 324 days, 168.33333333333334 more than average
+Branch v10 moved away from main with 295 days, 139.33333333333334 more than average
+MEDIUM SEVERITY
+Branch perf-cross-engines, 324 days
+Branch v10, 295 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.16666666666666666 days
+Branch dbg is unsynced with 0 days, 0.16666666666666666 more than average
+Branch gh-pages is unsynced with 0 days, 0.16666666666666666 more than average
+Branch master is unsynced with 0 days, 0.16666666666666666 more than average
+Branch perf-cross-engines is unsynced with 0 days, 0.16666666666666666 more than average
+Branch v10 is unsynced with 0 days, 0.16666666666666666 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch all-contributors/add-santialbo, -1 days

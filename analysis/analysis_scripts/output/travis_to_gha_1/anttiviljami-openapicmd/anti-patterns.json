@@ -1,0 +1,209 @@
+{
+  "slow_build": {
+    "Release": {
+      "data": {
+        "2019-10-23T14:32:10Z": 277714.28571428574
+      },
+      "tool": "Github Actions",
+      "total avg": 277714.28571428574,
+      "quartiles": {
+        "q1": 277714.28571428574,
+        "q3": 277714.28571428574,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "5": 368000,
+          "7": 437000,
+          "9": 669000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Test": {
+      "data": {
+        "2019-10-23T15:06:48Z": 307500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 307500.0,
+      "quartiles": {
+        "q1": 307500.0,
+        "q3": 307500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "11": 347000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/release.yml": {
+      "data": {
+        "2019-10-23T14:33:44Z": 333.3333333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 333.3333333333333,
+      "quartiles": {
+        "q1": 333.3333333333333,
+        "q3": 333.3333333333333,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 1000
+        },
+        "medium_severity": {}
+      }
+    },
+    "openapicmd": {
+      "data": {
+        "2019-10-23T14:16:35Z": 728312.5
+      },
+      "tool": "TravisCI",
+      "total avg": 728312.5,
+      "quartiles": {
+        "q1": 728312.5,
+        "q3": 728312.5,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "75": 3000000,
+          "86": 3000000,
+          "89": 3000000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 1,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 1,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "Release": {
+      "data": [
+        {
+          "started_at": "2019-10-23T14:32:10Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2019-10-23T14:42:02Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        },
+        {
+          "started_at": "2019-10-23T14:47:07Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        },
+        {
+          "started_at": "2019-10-23T14:48:12Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        },
+        {
+          "started_at": "2019-10-23T14:53:25Z",
+          "used_tool": "Github Actions",
+          "number": 8
+        },
+        {
+          "started_at": "2019-10-23T14:59:52Z",
+          "used_tool": "Github Actions",
+          "number": 9
+        },
+        {
+          "started_at": "2019-10-23T15:10:37Z",
+          "used_tool": "Github Actions",
+          "number": 12
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 7
+    },
+    "Test": {
+      "data": [
+        {
+          "started_at": "2019-10-23T15:06:48Z",
+          "used_tool": "Github Actions",
+          "number": 10
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 2
+    },
+    ".github/workflows/release.yml": {
+      "data": [
+        {
+          "started_at": "2019-10-23T14:33:44Z",
+          "used_tool": "Github Actions",
+          "number": 2
+        },
+        {
+          "started_at": "2019-10-23T14:34:16Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        },
+        {
+          "started_at": "2019-10-23T14:36:28Z",
+          "used_tool": "Github Actions",
+          "number": 4
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 3
+    },
+    "openapicmd": {
+      "data": [
+        {
+          "started_at": "2019-10-23T14:17:37Z",
+          "used_tool": "TravisCI",
+          "number": 75
+        },
+        {
+          "started_at": "2019-10-23T14:36:26Z",
+          "used_tool": "TravisCI",
+          "number": 80
+        },
+        {
+          "started_at": "2019-10-23T14:47:12Z",
+          "used_tool": "TravisCI",
+          "number": 86
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 9
+    }
+  },
+  "skip_failing_tests": {}
+}

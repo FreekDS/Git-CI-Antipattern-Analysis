@@ -1,0 +1,34 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 333.875 days
+Branch RUM-19169-fix-pipeline-versions moved away from main with 811 days, 477.125 more than average
+Branch RUM-22010-write-new-collectors moved away from main with 584 days, 250.125 more than average
+Branch RUM-22934-22307-eslint moved away from main with 447 days, 113.125 more than average
+Branch RUM-22934-23164-apply-fix-to-sdk moved away from main with 448 days, 114.125 more than average
+Branch RUM-22934-23239-prioritise-major-browser-and-os-version moved away from main with 448 days, 114.125 more than average
+Branch RUM-27171-tag-and-release moved away from main with 445 days, 111.125 more than average
+Branch add-sdk-version moved away from main with 573 days, 239.125 more than average
+Branch add-version-collector-and-event-driven-approach moved away from main with 567 days, 233.125 more than average
+Branch eggplant-hackathon-july-2021 moved away from main with 445 days, 111.125 more than average
+Branch exporting-instrumentation-version-collector moved away from main with 567 days, 233.125 more than average
+Branch goal-value-normalization-method moved away from main with 573 days, 239.125 more than average
+Branch making-version-non-dependant-on-bundling moved away from main with 562 days, 228.125 more than average
+Branch relax-triggering-rule moved away from main with 517 days, 183.125 more than average
+MEDIUM SEVERITY
+Branch RUM-19169-fix-pipeline-versions, 811 days
+Branch RUM-22010-write-new-collectors, 584 days
+Branch add-sdk-version, 573 days
+Branch add-version-collector-and-event-driven-approach, 567 days
+Branch exporting-instrumentation-version-collector, 567 days
+Branch goal-value-normalization-method, 573 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

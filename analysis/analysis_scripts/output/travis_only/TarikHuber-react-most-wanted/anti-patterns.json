@@ -1,0 +1,79 @@
+{
+  "slow_build": {
+    "react-most-wanted": {
+      "data": {
+        "2021-04-13T07:09:50Z": 696750.0,
+        "2021-04-30T18:09:37Z": 252000.0,
+        "2021-05-08T14:36:10Z": 231166.66666666666,
+        "2021-05-17T14:45:25Z": 1155000.0,
+        "2021-05-26T09:53:01Z": 172100.0,
+        "2021-06-07T22:06:37Z": 188500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 449252.7777777778,
+      "quartiles": {
+        "q1": 199166.66666666666,
+        "q3": 585562.5,
+        "iqr": 386395.8333333334
+      },
+      "classification": {
+        "high_severity": {
+          "1284": 1171000
+        },
+        "medium_severity": {
+          "1258": 1159000,
+          "1259": 1128000,
+          "1285": 1139000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dev": 556,
+      "master": 0,
+      "weisk-patch-1": 712
+    },
+    "branch deviation": {
+      "dev": 556,
+      "master": 0,
+      "weisk-patch-1": 712
+    },
+    "unsynced activity": {
+      "dev": -1,
+      "master": 0,
+      "weisk-patch-1": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "weisk-patch-1"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "weisk-patch-1"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "dev",
+          "weisk-patch-1"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "react-most-wanted": {
+      "data": [],
+      "release_build_count": 22
+    }
+  },
+  "skip_failing_tests": {}
+}

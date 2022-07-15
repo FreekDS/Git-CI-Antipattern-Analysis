@@ -1,0 +1,36 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "2.9.0": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "2.9.0": 498,
+      "main": 0
+    },
+    "unsynced activity": {
+      "2.9.0": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "2.9.0"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

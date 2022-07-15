@@ -1,0 +1,261 @@
+{
+  "slow_build": {
+    "Continuous Integration": {
+      "data": {
+        "2021-04-09T21:26:14Z": 138882.35294117648,
+        "2021-04-19T01:21:31Z": 239250.0,
+        "2021-05-13T16:28:52Z": 513000.0,
+        "2021-06-27T19:48:37Z": 359142.85714285716,
+        "2021-07-06T13:11:26Z": 494250.0
+      },
+      "tool": "Github Actions",
+      "total avg": 348905.0420168067,
+      "quartiles": {
+        "q1": 239250.0,
+        "q3": 494250.0,
+        "iqr": 255000.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "47": 513000,
+          "50": 581000,
+          "54": 515000,
+          "56": 591000,
+          "57": 521000,
+          "58": 514000
+        }
+      }
+    },
+    "Continuous Delivery": {
+      "data": {
+        "2021-04-19T14:41:04Z": 204500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 204500.0,
+      "quartiles": {
+        "q1": 204500.0,
+        "q3": 204500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "24": 207000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "bump/version": 0,
+      "css-fixes": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.9": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/markdown-it-12.3.2": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 0,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "develop": 919,
+      "feat/accessible-mode": 0,
+      "fix/better-html-handling": 0,
+      "fix/ie": 0,
+      "fix/register-guest-with-iframe-data": 1183,
+      "fix/triggers-done-at-last": 0,
+      "fix-date-fns-on-waiting-qeue": 0,
+      "fix-date-fns-on-waiting-queue": 0,
+      "fix-ie": 0,
+      "fix-multiple-issues": 0,
+      "fix-webrtc-refresh-page-issue": 0,
+      "gh-pages": 0,
+      "improve/email-domain-validation": 0,
+      "improve/replace-i18n-tool-1": 0,
+      "interface-improvements": 1253,
+      "juliagrala-patch-1": 0,
+      "lingohub_language_update_2021-05-13Z": 0,
+      "livechat-calls": 0,
+      "livechat-calls-with-patch": 0,
+      "master": 0,
+      "release/1.2.4": 0,
+      "release-1-1-0-version": 0,
+      "reply-quote-messages": 0,
+      "revert-222-widget": 0,
+      "revert-474-feat/ui-kit": 0,
+      "show-warning-transfer-chat": 0,
+      "survey-feedback": 0,
+      "update-sdk-version-alpha-29": 0
+    },
+    "branch deviation": {
+      "bump/version": 19,
+      "css-fixes": 152,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.9": 11,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 11,
+      "dependabot/npm_and_yarn/markdown-it-12.3.2": 11,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 11,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 11,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 11,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 11,
+      "develop": 0,
+      "feat/accessible-mode": 260,
+      "fix/better-html-handling": -5,
+      "fix/ie": 596,
+      "fix/register-guest-with-iframe-data": 1183,
+      "fix/triggers-done-at-last": -5,
+      "fix-date-fns-on-waiting-qeue": 917,
+      "fix-date-fns-on-waiting-queue": 917,
+      "fix-ie": 593,
+      "fix-multiple-issues": -7,
+      "fix-webrtc-refresh-page-issue": 246,
+      "gh-pages": -1,
+      "improve/email-domain-validation": -14,
+      "improve/replace-i18n-tool-1": 123,
+      "interface-improvements": 1253,
+      "juliagrala-patch-1": 622,
+      "lingohub_language_update_2021-05-13Z": 342,
+      "livechat-calls": 212,
+      "livechat-calls-with-patch": 218,
+      "master": 0,
+      "release/1.2.4": 917,
+      "release-1-1-0-version": 1001,
+      "reply-quote-messages": 1120,
+      "revert-222-widget": 1088,
+      "revert-474-feat/ui-kit": 606,
+      "show-warning-transfer-chat": 1190,
+      "survey-feedback": 1182,
+      "update-sdk-version-alpha-29": 981
+    },
+    "unsynced activity": {
+      "bump/version": 0,
+      "css-fixes": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.9": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/markdown-it-12.3.2": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 0,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "develop": 919,
+      "feat/accessible-mode": 0,
+      "fix/better-html-handling": 0,
+      "fix/ie": 0,
+      "fix/register-guest-with-iframe-data": 0,
+      "fix/triggers-done-at-last": 0,
+      "fix-date-fns-on-waiting-qeue": 0,
+      "fix-date-fns-on-waiting-queue": 0,
+      "fix-ie": 0,
+      "fix-multiple-issues": 0,
+      "fix-webrtc-refresh-page-issue": 0,
+      "gh-pages": 0,
+      "improve/email-domain-validation": 0,
+      "improve/replace-i18n-tool-1": 0,
+      "interface-improvements": 0,
+      "juliagrala-patch-1": 0,
+      "lingohub_language_update_2021-05-13Z": 0,
+      "livechat-calls": 0,
+      "livechat-calls-with-patch": 0,
+      "master": 0,
+      "release/1.2.4": 0,
+      "release-1-1-0-version": 0,
+      "reply-quote-messages": 0,
+      "revert-222-widget": 0,
+      "revert-474-feat/ui-kit": 0,
+      "show-warning-transfer-chat": 0,
+      "survey-feedback": 0,
+      "update-sdk-version-alpha-29": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop",
+          "fix/register-guest-with-iframe-data",
+          "interface-improvements"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "fix/register-guest-with-iframe-data",
+          "interface-improvements",
+          "release-1-1-0-version",
+          "reply-quote-messages",
+          "revert-222-widget",
+          "show-warning-transfer-chat",
+          "survey-feedback",
+          "update-sdk-version-alpha-29"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Continuous Integration": {
+      "data": [
+        {
+          "started_at": "2021-04-15T00:02:52Z",
+          "used_tool": "Github Actions",
+          "number": 33
+        },
+        {
+          "started_at": "2021-04-15T00:03:07Z",
+          "used_tool": "Github Actions",
+          "number": 34
+        },
+        {
+          "started_at": "2021-04-15T00:03:08Z",
+          "used_tool": "Github Actions",
+          "number": 35
+        },
+        {
+          "started_at": "2021-04-15T00:03:16Z",
+          "used_tool": "Github Actions",
+          "number": 36
+        },
+        {
+          "started_at": "2021-04-15T00:03:16Z",
+          "used_tool": "Github Actions",
+          "number": 37
+        },
+        {
+          "started_at": "2021-04-15T00:03:40Z",
+          "used_tool": "Github Actions",
+          "number": 38
+        },
+        {
+          "started_at": "2021-04-15T00:03:41Z",
+          "used_tool": "Github Actions",
+          "number": 39
+        },
+        {
+          "started_at": "2021-04-15T00:03:50Z",
+          "used_tool": "Github Actions",
+          "number": 40
+        },
+        {
+          "started_at": "2021-04-15T00:03:50Z",
+          "used_tool": "Github Actions",
+          "number": 41
+        },
+        {
+          "started_at": "2021-04-20T08:32:31Z",
+          "used_tool": "Github Actions",
+          "number": 44
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 13
+    },
+    "Continuous Delivery": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

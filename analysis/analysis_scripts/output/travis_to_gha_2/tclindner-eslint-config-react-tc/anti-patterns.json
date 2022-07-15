@@ -1,0 +1,99 @@
+{
+  "slow_build": {
+    "ci": {
+      "data": {
+        "2020-05-09T02:36:49Z": 186571.42857142858,
+        "2020-05-16T08:55:56Z": 376000.0,
+        "2020-05-25T19:26:54Z": 99750.0,
+        "2020-06-05T03:10:02Z": 142166.66666666666,
+        "2020-06-15T05:03:58Z": 204500.0,
+        "2020-06-22T05:08:50Z": 280200.0
+      },
+      "tool": "Github Actions",
+      "total avg": 214864.68253968252,
+      "quartiles": {
+        "q1": 153267.85714285713,
+        "q3": 261275.0,
+        "iqr": 108007.14285714287
+      },
+      "classification": {
+        "high_severity": {
+          "8": 549000,
+          "9": 519000,
+          "39": 459000
+        },
+        "medium_severity": {
+          "4": 287000,
+          "5": 401000,
+          "10": 351000,
+          "12": 331000,
+          "13": 330000,
+          "28": 355000,
+          "29": 401000,
+          "38": 311000
+        }
+      }
+    },
+    "Code scanning": {
+      "data": {
+        "2020-06-16T01:25:04Z": 278875.0
+      },
+      "tool": "Github Actions",
+      "total avg": 278875.0,
+      "quartiles": {
+        "q1": 278875.0,
+        "q3": 278875.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 332000,
+          "9": 284000,
+          "10": 423000,
+          "11": 407000,
+          "12": 543000,
+          "13": 281000,
+          "15": 351000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0
+    },
+    "branch deviation": {
+      "main": 0
+    },
+    "unsynced activity": {
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "ci": {
+      "data": [],
+      "release_build_count": 20
+    },
+    "Code scanning": {
+      "data": [],
+      "release_build_count": 6
+    }
+  },
+  "skip_failing_tests": {}
+}

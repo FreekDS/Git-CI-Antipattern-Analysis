@@ -1,0 +1,160 @@
+{
+  "slow_build": {
+    "Docker Image CI": {
+      "data": {
+        "2020-02-24T19:09:56Z": 81000.0,
+        "2020-03-11T08:03:06Z": 71000.0,
+        "2020-03-19T19:15:24Z": 164083.33333333334
+      },
+      "tool": "Github Actions",
+      "total avg": 105361.11111111112,
+      "quartiles": {
+        "q1": 76000.0,
+        "q3": 122541.66666666667,
+        "iqr": 46541.66666666667
+      },
+      "classification": {
+        "high_severity": {
+          "6": 770000,
+          "7": 345000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "allowconcurrent": 0,
+      "auth": 0,
+      "compatibility": 0,
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/pathval-1.1.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "events": 2904,
+      "feature/brokenConnectionDetection": 850,
+      "feature/extendTransferMessages": 0,
+      "fix-binary": 0,
+      "master": 0,
+      "michelle-express-rewrite": 0,
+      "refactoring/convertToLib": 983,
+      "refactoring/es": 992,
+      "refactoring/ts": 734,
+      "v0.2.9": 0,
+      "xhr-rewrite": 0,
+      "yosssi-master": 2983
+    },
+    "branch deviation": {
+      "allowconcurrent": 3097,
+      "auth": 3097,
+      "compatibility": 2897,
+      "dependabot/npm_and_yarn/ajv-6.12.6": -56,
+      "dependabot/npm_and_yarn/minimist-1.2.6": -96,
+      "dependabot/npm_and_yarn/pathval-1.1.1": -54,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": -70,
+      "events": 2917,
+      "feature/brokenConnectionDetection": 850,
+      "feature/extendTransferMessages": 434,
+      "fix-binary": 387,
+      "master": 0,
+      "michelle-express-rewrite": 2604,
+      "refactoring/convertToLib": 983,
+      "refactoring/es": 992,
+      "refactoring/ts": 734,
+      "v0.2.9": 1113,
+      "xhr-rewrite": 3241,
+      "yosssi-master": 2983
+    },
+    "unsynced activity": {
+      "allowconcurrent": 0,
+      "auth": 0,
+      "compatibility": 0,
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/pathval-1.1.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "events": -13,
+      "feature/brokenConnectionDetection": -1,
+      "feature/extendTransferMessages": 0,
+      "fix-binary": 0,
+      "master": 0,
+      "michelle-express-rewrite": 0,
+      "refactoring/convertToLib": -1,
+      "refactoring/es": -1,
+      "refactoring/ts": -1,
+      "v0.2.9": 0,
+      "xhr-rewrite": 0,
+      "yosssi-master": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "feature/brokenConnectionDetection",
+          "refactoring/convertToLib",
+          "refactoring/es"
+        ],
+        "high_severity": [
+          "events",
+          "yosssi-master"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "allowconcurrent",
+          "auth",
+          "events",
+          "xhr-rewrite",
+          "yosssi-master"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "feature/brokenConnectionDetection",
+          "refactoring/convertToLib",
+          "refactoring/es",
+          "refactoring/ts",
+          "yosssi-master"
+        ],
+        "high_severity": [
+          "events"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Docker Image CI": {
+      "data": [
+        {
+          "started_at": "2020-02-24T19:09:56Z",
+          "used_tool": "Github Actions",
+          "number": 2
+        },
+        {
+          "started_at": "2020-03-11T08:03:06Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        },
+        {
+          "started_at": "2020-03-11T09:04:29Z",
+          "used_tool": "Github Actions",
+          "number": 4
+        },
+        {
+          "started_at": "2020-03-14T07:10:08Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        },
+        {
+          "started_at": "2020-03-19T19:15:24Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 16
+    }
+  },
+  "skip_failing_tests": {}
+}

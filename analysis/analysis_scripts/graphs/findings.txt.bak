@@ -1,0 +1,184 @@
+SLOW BUILD
+===========
+
+
+1 CI ONLY
+
+	!LOG SCALE!: DO NOT GET FOOLED BY WHISKER SIZES
+	TO GET LINEAR WISHKER SCALE LOOK AT LINEAR PLOT
+		=> TravisCI => upper whisker > lower => more builds in Quartile group 4
+
+	GHA
+		Two outliers in both classes (after removal of outlier workflows)
+		Average and median value are little higher
+		
+		Shorter upper whisker: less variablility in upper quartile than with Travis
+		Box is bit smaller, less variation in distribution.
+	
+	
+	TRAVIS CI
+		Median is slightly lower than Travis
+		Box is slightly larger though, more variability in repositories.
+		Especially more variability in Q4
+		
+
+2 CI CHANGE
+
+	# TODO : before and after on same graph?
+
+	BEFORE
+	
+		GHA -> TRAVIS:
+			smaller boxplot, lower median, shorter upper whisker
+			=> in this dataset GHA generally speaking has lower slow build averages
+			
+		TRAVIS -> GHA
+			ranges much higherup to almost 400s
+	
+	AFTER
+		GHA -> TRAVIS
+			There are more outliers though: 3
+			Box plot indicates lower build values than with its counterpart
+			
+			There are still many repositories with 0s of build time on average
+			==> Although the repositories changed to Travis, it is not used often right after the change
+			==> based on median value which is at 0, no upper whisker
+			
+			Repositories that do have values are considered outliers immediately since there are so little.
+			
+		TRAVIS -> GHA
+			# outliers is more or less the same, 3
+			There are no repositories anymore that have an average of 0 slow build seconds
+			==> builds were generated for most repos after the change
+			
+	COMBINED
+		is it useful? prob not
+	
+	BEFORE VS AFTER
+		
+		Travis to Github
+			Before, median is slightly larger, so build are generally speaking slightly longer.
+			Upper whisker is larger, repo's in Q4 are quite variable.
+			
+		Github to Travis
+			Before: higher median, one outlier around 500s, there are repo's without builds
+			After: median is 0 (most repo's don't have builds until 1.5 months after change), more outliers, 2 outliers higher than before
+		
+		
+
+
+BROKEN RELEASE
+==============
+
+Single CI:
+	
+	Most repositories have NO broken release builds which is a good sign
+
+	Median is slightly higher in GHA than in TravisCI
+
+	There are more repositories with a high number of broken releases in TravisCI
+	
+
+CI change
+	
+	#! TODO: before vs after graphs
+
+	CARE: GHA -> TRAVIS SAMPLE SIZE IS ONLY 20 RATHER THAN 30
+	
+	BEFORE:
+			GHA -> TRAVIS: 50% of repo's have 50% broken releases before the change
+			TRAVIS -> GHA: most repo's have no broken releases, a few have between 20 and 40% of broken release builds
+							
+	AFTER:
+		GHA -> TRAVIS:
+			overall less broken releases when using TravisCI
+	
+	BEFORE VS AFTER
+		 
+		 Travis to Github:
+			Before: less broken builds, most of repo's have no broken builds, mostly <10 broken release builds, outliers in [10, 100]
+			After: higher median: more broken builds due to more builds being triggered, outliers are slightly higher
+	
+		Github to Travis:
+			Before: median at 1: ~50% of builds have 0 broken releases, three otuliers in [10, 100]
+			After: median is at 0: more builds that have no broken releases, but more outliers, some are even higher than 100 broken builds
+			
+
+
+LATE MERGING
+============
+
+no comparison before/after
+branch information history is not stored an thus cannot be collected
+
+
+CI ONLY
+
+	BRANCH COUNT
+		GHA: repositories on GHA have more branches in general
+			outliers: 2/30
+			median at 10
+		TRAVIS: more outliers: 4/30
+			median at 6
+			
+	
+	MISSED ACTIVITY:
+		time last commit of repo - time last sync this branch with main branch
+		=> time that branch is information behind of main
+		
+		GHA: 	only 3 outliers
+				More repo's in 4th quartile (with relatively high branch count (up to 100)
+		TRAVIS: many outliers (7/30 =~ 23.3%)
+	
+		Most repositories have no missed activity.
+		
+
+	BRANCH DEVIATION
+		time last commit - time last commit on branch
+		=> time that branch is behind or ahead (if negative value) of the main branch
+		
+		Both have no negative values => all branches should be up to date (on average)?
+		
+		GHA: branches deviate more with one outlier
+		TravisCI: less deviation, but 2 outliers
+		
+	
+	UNSYNCED ACTIVITY
+		time of last commit on branch - time of last sync with main
+		time of activity on this branch since it is last merged with main
+		
+		Most repositories have no unsynced activity in their branches (hence no visible box plot)
+		There are many outliers though => if there is unsynced activity, it is quite a lot.
+		
+		# TODO: put y min bound lower on graph?
+		
+	
+CI CHANGE
+	
+	BRANCHES:
+		GHA -> TRAVIS: (repos using Travis atm): less branches in general and no outliers
+						data is well distributed
+		TRAVIS -> GHA: (rpos using GHA atm): also small amount of branches, but some repo's have a lot
+						no repos is Q1
+			
+
+	MISSED ACTIVITY
+		still most repos have no missed activity
+		
+		repo's using GHA atm: less branches in general, but more outliers (6), no repos in Q4
+		repo's using Travis atm: more branches in general but less outliers (1)
+		
+	
+	BRANCH DEVIATION
+		
+		GHA -> TRAVISCI
+			some have value below 0 ==> there are (many) branches that are ahead of main
+			one outlier in deviation (could be documentation branch for example)
+			
+		TRAVIS -> GHA
+			no values below 0 ==> on average, all repositories are up to date
+			no data in Q1
+			
+	UNSYNCED ACTIVITY
+		mostly 0
+		a few outliers are lower than 0 (sync with master happened after last commit on branch)

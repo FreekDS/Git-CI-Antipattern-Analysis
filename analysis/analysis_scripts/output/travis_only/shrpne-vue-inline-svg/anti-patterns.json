@@ -1,0 +1,72 @@
+{
+  "slow_build": {
+    "vue-inline-svg": {
+      "data": {
+        "2021-04-14T23:17:59Z": 77000.0,
+        "2021-05-03T21:59:44Z": 97400.0,
+        "2021-05-11T22:24:25Z": 67000.0,
+        "2021-05-19T18:33:57Z": 65000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 76600.0,
+      "quartiles": {
+        "q1": 66500.0,
+        "q3": 82100.0,
+        "iqr": 15600.0
+      },
+      "classification": {
+        "high_severity": {
+          "54": 210000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "feat-add-types": 0,
+      "master": 0,
+      "v3": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": 5,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 247,
+      "feat-add-types": 330,
+      "master": 0,
+      "v3": 192
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "feat-add-types": 0,
+      "master": 0,
+      "v3": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feat-add-types"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "vue-inline-svg": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

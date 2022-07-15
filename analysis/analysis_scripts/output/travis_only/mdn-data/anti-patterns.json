@@ -1,0 +1,103 @@
+{
+  "slow_build": {
+    "data": {
+      "data": {
+        "2021-04-14T16:59:45Z": 30800.0,
+        "2021-04-21T23:41:43Z": 33750.0,
+        "2021-06-03T00:02:40Z": 34333.333333333336,
+        "2021-06-10T16:33:08Z": 30000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 32220.833333333336,
+      "quartiles": {
+        "q1": 30600.0,
+        "q3": 33895.833333333336,
+        "iqr": 3295.8333333333358
+      },
+      "classification": {
+        "high_severity": {
+          "1128": 41000,
+          "1133": 42000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-dependabot": 142,
+      "chrisdavidmills-patch-1": 0,
+      "dependabot/npm_and_yarn/ajv-8.11.0": 0,
+      "dependabot/npm_and_yarn/better-ajv-errors-1.2.0": 0,
+      "main": 0,
+      "release-please--branches--main": 56,
+      "release-v2.0.26": 91,
+      "teoli2003-14507": 17,
+      "teoli2003-max-inline-size": 17,
+      "webkit-line-clamp": 0
+    },
+    "branch deviation": {
+      "add-dependabot": 148,
+      "chrisdavidmills-patch-1": 855,
+      "dependabot/npm_and_yarn/ajv-8.11.0": 29,
+      "dependabot/npm_and_yarn/better-ajv-errors-1.2.0": 9,
+      "main": 0,
+      "release-please--branches--main": 56,
+      "release-v2.0.26": 92,
+      "teoli2003-14507": 21,
+      "teoli2003-max-inline-size": 21,
+      "webkit-line-clamp": 1074
+    },
+    "unsynced activity": {
+      "add-dependabot": -7,
+      "chrisdavidmills-patch-1": 0,
+      "dependabot/npm_and_yarn/ajv-8.11.0": 0,
+      "dependabot/npm_and_yarn/better-ajv-errors-1.2.0": 0,
+      "main": 0,
+      "release-please--branches--main": -1,
+      "release-v2.0.26": -1,
+      "teoli2003-14507": -4,
+      "teoli2003-max-inline-size": -5,
+      "webkit-line-clamp": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "release-please--branches--main",
+          "release-v2.0.26"
+        ],
+        "high_severity": [
+          "add-dependabot"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-dependabot"
+        ],
+        "high_severity": [
+          "chrisdavidmills-patch-1",
+          "webkit-line-clamp"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "release-please--branches--main",
+          "release-v2.0.26",
+          "teoli2003-14507"
+        ],
+        "high_severity": [
+          "add-dependabot",
+          "teoli2003-max-inline-size"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "data": {
+      "data": [],
+      "release_build_count": 12
+    }
+  },
+  "skip_failing_tests": {}
+}

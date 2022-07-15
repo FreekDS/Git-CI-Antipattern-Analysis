@@ -1,0 +1,61 @@
+{
+  "slow_build": {
+    "htpasswd-mgr": {
+      "data": {
+        "2021-05-10T07:48:49Z": 161000.0,
+        "2021-06-11T07:18:33Z": 172000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 166500.0,
+      "quartiles": {
+        "q1": 163750.0,
+        "q3": 169250.0,
+        "iqr": 5500.0
+      },
+      "classification": {
+        "high_severity": {
+          "51": 185000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "security-updates": 0,
+      "stable": 0
+    },
+    "branch deviation": {
+      "security-updates": 194,
+      "stable": 0
+    },
+    "unsynced activity": {
+      "security-updates": 0,
+      "stable": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "security-updates"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "htpasswd-mgr": {
+      "data": [],
+      "release_build_count": 4
+    }
+  },
+  "skip_failing_tests": {}
+}

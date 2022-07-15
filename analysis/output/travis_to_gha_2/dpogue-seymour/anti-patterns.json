@@ -1,0 +1,98 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2019-08-15T02:01:02Z": 63666.666666666664,
+        "2019-08-24T18:06:17Z": 18902000.0,
+        "2019-09-04T05:51:30Z": 23514000.0,
+        "2020-01-02T09:39:33Z": 89000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 10642166.666666668,
+      "quartiles": {
+        "q1": 82666.66666666667,
+        "q3": 20055000.0,
+        "iqr": 19972333.333333332
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "23": 23514000
+        }
+      }
+    },
+    "null": {
+      "data": {
+        "2019-06-25T06:20:13Z": 119666.66666666667,
+        "2019-07-08T05:44:20Z": 12524625.0,
+        "2019-08-15T02:02:38Z": 1000.0,
+        "2019-08-24T18:06:55Z": 1000.0,
+        "2019-09-04T05:52:07Z": 1000.0,
+        "2019-10-30T04:32:44Z": 1000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 2108048.611111111,
+      "quartiles": {
+        "q1": 1000.0,
+        "q3": 90000.0,
+        "iqr": 89000.0
+      },
+      "classification": {
+        "high_severity": {
+          "7": 304000,
+          "10": 38122000,
+          "12": 61382000
+        },
+        "medium_severity": {
+          "4": 113000,
+          "5": 123000,
+          "6": 123000,
+          "11": 101000,
+          "13": 93000,
+          "14": 92000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0,
+      "nightly": 0,
+      "workflow": 0
+    },
+    "branch deviation": {
+      "main": 0,
+      "nightly": 1424,
+      "workflow": 935
+    },
+    "unsynced activity": {
+      "main": 0,
+      "nightly": 0,
+      "workflow": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "nightly"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

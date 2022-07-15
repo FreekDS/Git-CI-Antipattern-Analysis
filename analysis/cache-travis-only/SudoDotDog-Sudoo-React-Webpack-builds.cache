@@ -1,0 +1,1 @@
+[{"state": "passed", "id": 225113428, "number": 404, "started_at": "2021-05-06T18:14:32Z", "ended_at": "2021-05-06T18:15:45Z", "duration": 209000, "created_by": "WMXPY", "event_type": "push", "branch": "master", "used_tool": "TravisCI", "test_results": {"": [[], [], []]}, "workflow": "Sudoo-React-Webpack"}]

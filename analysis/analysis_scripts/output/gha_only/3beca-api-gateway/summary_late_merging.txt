@@ -1,0 +1,46 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 901.7241379310345 days
+Branch greenkeeper/babel-eslint-10.0.2 moved away from main with 1072 days, 170.27586206896547 more than average
+Branch greenkeeper/babel-eslint-10.0.3 moved away from main with 1003 days, 101.27586206896547 more than average
+Branch greenkeeper/codecov-3.3.0 moved away from main with 1148 days, 246.27586206896547 more than average
+Branch greenkeeper/codecov-3.4.0 moved away from main with 1112 days, 210.27586206896547 more than average
+Branch greenkeeper/codecov-3.5.0 moved away from main with 1106 days, 204.27586206896547 more than average
+Branch greenkeeper/codecov-3.6.0 moved away from main with 978 days, 76.27586206896547 more than average
+Branch greenkeeper/codecov-3.6.1 moved away from main with 978 days, 76.27586206896547 more than average
+Branch greenkeeper/eslint-6.0.1 moved away from main with 1065 days, 163.27586206896547 more than average
+Branch greenkeeper/eslint-6.1.0 moved away from main with 1039 days, 137.27586206896547 more than average
+Branch greenkeeper/eslint-6.2.0 moved away from main with 1010 days, 108.27586206896547 more than average
+Branch greenkeeper/eslint-6.2.1 moved away from main with 1009 days, 107.27586206896547 more than average
+Branch greenkeeper/eslint-6.2.2 moved away from main with 1005 days, 103.27586206896547 more than average
+Branch greenkeeper/eslint-6.3.0 moved away from main with 998 days, 96.27586206896547 more than average
+Branch greenkeeper/eslint-6.4.0 moved away from main with 984 days, 82.27586206896547 more than average
+Branch greenkeeper/eslint-6.5.0 moved away from main with 969 days, 67.27586206896547 more than average
+Branch greenkeeper/eslint-6.5.1 moved away from main with 967 days, 65.27586206896547 more than average
+Branch greenkeeper/eslint-6.6.0 moved away from main with 942 days, 40.275862068965466 more than average
+Branch greenkeeper/express-4.17.0 moved away from main with 1104 days, 202.27586206896547 more than average
+Branch greenkeeper/express-4.17.1 moved away from main with 1095 days, 193.27586206896547 more than average
+Branch greenkeeper/nodemon-1.18.11 moved away from main with 1142 days, 240.27586206896547 more than average
+Branch greenkeeper/nodemon-1.19.0 moved away from main with 1120 days, 218.27586206896547 more than average
+Branch greenkeeper/nodemon-1.19.1 moved away from main with 1095 days, 193.27586206896547 more than average
+Branch greenkeeper/nodemon-1.19.2 moved away from main with 995 days, 93.27586206896547 more than average
+Branch greenkeeper/nodemon-1.19.3 moved away from main with 969 days, 67.27586206896547 more than average
+Branch greenkeeper/nodemon-1.19.4 moved away from main with 952 days, 50.275862068965466 more than average
+MEDIUM SEVERITY
+Branch greenkeeper/codecov-3.3.0, 1148 days
+Branch greenkeeper/codecov-3.4.0, 1112 days
+Branch greenkeeper/codecov-3.5.0, 1106 days
+Branch greenkeeper/express-4.17.0, 1104 days
+Branch greenkeeper/nodemon-1.18.11, 1142 days
+Branch greenkeeper/nodemon-1.19.0, 1120 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,224 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2020-07-11T21:16:57Z": 65944.44444444444,
+        "2020-07-24T23:52:15Z": 67166.66666666667,
+        "2020-08-01T10:33:08Z": 61714.28571428572,
+        "2020-08-08T16:29:36Z": 80363.63636363637,
+        "2020-08-20T13:38:36Z": 58083.333333333336
+      },
+      "tool": "Github Actions",
+      "total avg": 66654.4733044733,
+      "quartiles": {
+        "q1": 61714.28571428572,
+        "q3": 67166.66666666667,
+        "iqr": 5452.380952380954
+      },
+      "classification": {
+        "high_severity": {
+          "146": 81000,
+          "157": 97000,
+          "159": 101000,
+          "171": 80000,
+          "174": 123000,
+          "175": 80000,
+          "183": 76000,
+          "192": 85000,
+          "194": 81000,
+          "200": 98000,
+          "202": 168000,
+          "203": 165000,
+          "204": 159000,
+          "205": 190000,
+          "206": 87000,
+          "225": 89000
+        },
+        "medium_severity": {
+          "147": 70000,
+          "158": 72000,
+          "163": 72000,
+          "167": 70000,
+          "177": 71000,
+          "179": 73000,
+          "182": 74000,
+          "184": 72000,
+          "185": 68000,
+          "189": 68000,
+          "229": 70000
+        }
+      }
+    },
+    "Auto approve": {
+      "data": {
+        "2020-07-11T21:17:01Z": 18833.333333333332,
+        "2020-07-24T23:52:22Z": 16700.0,
+        "2020-08-03T11:29:28Z": 21500.0,
+        "2020-08-12T12:17:08Z": 17333.333333333332,
+        "2020-08-20T13:38:38Z": 17000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 18273.333333333332,
+      "quartiles": {
+        "q1": 17000.0,
+        "q3": 18833.333333333332,
+        "iqr": 1833.3333333333321
+      },
+      "classification": {
+        "high_severity": {
+          "56": 25000,
+          "57": 34000
+        },
+        "medium_severity": {
+          "42": 20000,
+          "43": 20000,
+          "44": 20000,
+          "47": 21000,
+          "48": 19000,
+          "53": 19000,
+          "60": 19000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [
+        {
+          "started_at": "2020-07-11T21:18:14Z",
+          "used_tool": "Github Actions",
+          "number": 147
+        },
+        {
+          "started_at": "2020-07-12T21:22:53Z",
+          "used_tool": "Github Actions",
+          "number": 150
+        },
+        {
+          "started_at": "2020-07-12T22:06:47Z",
+          "used_tool": "Github Actions",
+          "number": 153
+        },
+        {
+          "started_at": "2020-07-13T11:33:21Z",
+          "used_tool": "Github Actions",
+          "number": 156
+        },
+        {
+          "started_at": "2020-07-15T19:14:00Z",
+          "used_tool": "Github Actions",
+          "number": 159
+        },
+        {
+          "started_at": "2020-07-16T11:08:59Z",
+          "used_tool": "Github Actions",
+          "number": 162
+        },
+        {
+          "started_at": "2020-07-25T00:00:50Z",
+          "used_tool": "Github Actions",
+          "number": 166
+        },
+        {
+          "started_at": "2020-07-28T11:10:20Z",
+          "used_tool": "Github Actions",
+          "number": 171
+        },
+        {
+          "started_at": "2020-07-28T19:42:50Z",
+          "used_tool": "Github Actions",
+          "number": 174
+        },
+        {
+          "started_at": "2020-07-29T22:10:17Z",
+          "used_tool": "Github Actions",
+          "number": 177
+        },
+        {
+          "started_at": "2020-07-30T19:04:12Z",
+          "used_tool": "Github Actions",
+          "number": 183
+        },
+        {
+          "started_at": "2020-07-30T22:11:20Z",
+          "used_tool": "Github Actions",
+          "number": 186
+        },
+        {
+          "started_at": "2020-07-30T22:26:28Z",
+          "used_tool": "Github Actions",
+          "number": 189
+        },
+        {
+          "started_at": "2020-07-31T19:04:12Z",
+          "used_tool": "Github Actions",
+          "number": 192
+        },
+        {
+          "started_at": "2020-08-12T12:20:41Z",
+          "used_tool": "Github Actions",
+          "number": 214
+        },
+        {
+          "started_at": "2020-08-12T13:51:36Z",
+          "used_tool": "Github Actions",
+          "number": 220
+        },
+        {
+          "started_at": "2020-08-12T13:52:42Z",
+          "used_tool": "Github Actions",
+          "number": 221
+        },
+        {
+          "started_at": "2020-08-20T14:08:19Z",
+          "used_tool": "Github Actions",
+          "number": 224
+        },
+        {
+          "started_at": "2020-08-21T16:19:36Z",
+          "used_tool": "Github Actions",
+          "number": 228
+        },
+        {
+          "started_at": "2020-08-24T13:40:30Z",
+          "used_tool": "Github Actions",
+          "number": 232
+        },
+        {
+          "started_at": "2020-08-25T08:35:33Z",
+          "used_tool": "Github Actions",
+          "number": 233
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 27
+    }
+  },
+  "skip_failing_tests": {}
+}

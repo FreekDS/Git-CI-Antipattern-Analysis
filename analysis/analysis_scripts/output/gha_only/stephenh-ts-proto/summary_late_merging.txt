@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 482.57142857142856 days
+Branch broken_imports moved away from main with 971 days, 488.42857142857144 more than average
+Branch karma moved away from main with 640 days, 157.42857142857144 more than average
+Branch nest-js moved away from main with 745 days, 262.42857142857144 more than average
+MEDIUM SEVERITY
+Branch broken_imports, 971 days
+Branch nest-js, 745 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

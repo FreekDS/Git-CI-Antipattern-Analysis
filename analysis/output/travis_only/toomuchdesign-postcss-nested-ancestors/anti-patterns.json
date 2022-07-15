@@ -1,0 +1,66 @@
+{
+  "slow_build": {
+    "postcss-nested-ancestors": {
+      "data": {
+        "2021-04-26T17:02:21Z": 34000.0,
+        "2021-05-09T23:23:53Z": 29750.0,
+        "2021-06-01T01:09:05Z": 27800.0
+      },
+      "tool": "TravisCI",
+      "total avg": 30516.666666666668,
+      "quartiles": {
+        "q1": 28775.0,
+        "q3": 31875.0,
+        "iqr": 3100.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "166": 34000,
+          "167": 34000,
+          "184": 32000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0,
+      "renovate/escape-string-regexp-5.x": 0
+    },
+    "branch deviation": {
+      "master": 0,
+      "renovate/escape-string-regexp-5.x": -1
+    },
+    "unsynced activity": {
+      "master": 0,
+      "renovate/escape-string-regexp-5.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "renovate/escape-string-regexp-5.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "postcss-nested-ancestors": {
+      "data": [],
+      "release_build_count": 7
+    }
+  },
+  "skip_failing_tests": {}
+}

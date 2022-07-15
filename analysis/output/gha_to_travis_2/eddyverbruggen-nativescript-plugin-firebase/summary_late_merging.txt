@@ -1,0 +1,38 @@
+Missed Activity
+=========================
+Branch firebase-google has 1807 days of missed activity!
+Branch fix-marking-mode-none-crash has 405 days of missed activity!
+Branch issue699-mlkit-support has 1090 days of missed activity!
+Branch remote-config-fix-1048 has 893 days of missed activity!
+MEDIUM SEVERITY
+Branch firebase-google, 1807 seconds
+HIGH SEVERITY
+Branch issue699-mlkit-support, 1090 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 764.375 days
+Branch KkevinLi-firestore-onsnapshot moved away from main with 778 days, 13.625 more than average
+Branch cocoapods-dependency-failure-fix moved away from main with 957 days, 192.625 more than average
+Branch firebase-google moved away from main with 1807 days, 1042.625 more than average
+Branch issue699-mlkit-support moved away from main with 1090 days, 325.625 more than average
+Branch remote-config-fix-1048 moved away from main with 893 days, 128.625 more than average
+MEDIUM SEVERITY
+Branch firebase-google, 1807 days
+Branch issue699-mlkit-support, 1090 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.5 days
+Branch 10.6.x-maintenance is unsynced with 0 days, 0.5 more than average
+Branch KkevinLi-firestore-onsnapshot is unsynced with 0 days, 0.5 more than average
+Branch cocoapods-dependency-failure-fix is unsynced with 0 days, 0.5 more than average
+Branch master is unsynced with 0 days, 0.5 more than average
+MEDIUM SEVERITY
+Branch firebase-google, -1 days
+Branch fix-marking-mode-none-crash, -1 days
+Branch issue699-mlkit-support, -1 days
+Branch remote-config-fix-1048, -1 days
+HIGH SEVERITY

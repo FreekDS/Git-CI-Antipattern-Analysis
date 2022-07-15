@@ -1,0 +1,100 @@
+{
+  "slow_build": {
+    "webssh2": {
+      "data": {
+        "2017-05-19T23:50:08Z": 135923.07692307694,
+        "2017-05-27T00:49:49Z": 210055.55555555556,
+        "2017-06-03T05:46:07Z": 195571.42857142858,
+        "2017-06-14T02:01:08Z": 275000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 204137.51526251528,
+      "quartiles": {
+        "q1": 180659.34065934067,
+        "q3": 226291.6666666667,
+        "iqr": 45632.32600732602
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "34": 252000,
+          "39": 239000,
+          "41": 257000,
+          "43": 248000,
+          "45": 269000,
+          "49": 245000,
+          "56": 275000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dev": 0,
+      "dev-4": 0,
+      "main": 0,
+      "path-xterm4-vijay": 0,
+      "path-xterm4": 0
+    },
+    "branch deviation": {
+      "dev": 364,
+      "dev-4": 321,
+      "main": 0,
+      "path-xterm4-vijay": 907,
+      "path-xterm4": 960
+    },
+    "unsynced activity": {
+      "dev": 0,
+      "dev-4": 0,
+      "main": 0,
+      "path-xterm4-vijay": 0,
+      "path-xterm4": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "path-xterm4"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "webssh2": {
+      "data": [
+        {
+          "started_at": "2017-05-19T23:50:08Z",
+          "used_tool": "TravisCI",
+          "number": 5
+        },
+        {
+          "started_at": "2017-05-25T05:59:00Z",
+          "used_tool": "TravisCI",
+          "number": 24
+        },
+        {
+          "started_at": "2017-05-30T05:28:50Z",
+          "used_tool": "TravisCI",
+          "number": 48
+        },
+        {
+          "started_at": "2017-06-14T02:01:08Z",
+          "used_tool": "TravisCI",
+          "number": 56
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 46
+    }
+  },
+  "skip_failing_tests": {}
+}

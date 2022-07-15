@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+Branch renovate/renovate-32.x has 1 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/renovate-32.x, 1 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -0.5 days
+Branch master moved away from main with 0 days, 0.5 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch renovate/renovate-32.x, -1 days
+
+Unsynced activity
+=========================
+Average unsynced: 1.0 days
+Branch renovate/renovate-32.x is unsynced with 2 days, 1.0 more than average
+MEDIUM SEVERITY
+Branch renovate/renovate-32.x, 2 days
+HIGH SEVERITY

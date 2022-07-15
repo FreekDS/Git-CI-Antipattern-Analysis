@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+Branch renovate/lock-file-maintenance has 70 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/lock-file-maintenance, 70 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -3.5 days
+Branch master moved away from main with 0 days, 3.5 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch renovate/lock-file-maintenance, -7 days
+
+Unsynced activity
+=========================
+Average unsynced: 38.0 days
+Branch renovate/lock-file-maintenance is unsynced with 76 days, 38.0 more than average
+MEDIUM SEVERITY
+Branch renovate/lock-file-maintenance, 76 days
+HIGH SEVERITY

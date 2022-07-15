@@ -1,0 +1,472 @@
+{
+  "slow_build": {
+    "CodeQL": {
+      "data": {
+        "2020-11-20T11:35:26Z": 287800.0
+      },
+      "tool": "Github Actions",
+      "total avg": 287800.0,
+      "quartiles": {
+        "q1": 287800.0,
+        "q3": 287800.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "19": 1961000,
+          "21": 506000,
+          "22": 1090000
+        },
+        "medium_severity": {}
+      }
+    },
+    "CI": {
+      "data": {
+        "2020-11-20T11:35:15Z": 589567.5675675676
+      },
+      "tool": "Github Actions",
+      "total avg": 589567.5675675676,
+      "quartiles": {
+        "q1": 589567.5675675676,
+        "q3": 589567.5675675676,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "21": 785000,
+          "22": 2645000,
+          "23": 795000,
+          "24": 790000,
+          "25": 788000,
+          "26": 1877000,
+          "27": 1881000,
+          "28": 794000,
+          "29": 1876000,
+          "30": 789000,
+          "31": 1283000,
+          "32": 1460000,
+          "33": 1583000,
+          "34": 788000,
+          "35": 792000,
+          "36": 816000,
+          "37": 789000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Pull Request Labeler": {
+      "data": {
+        "2020-11-20T11:35:26Z": 165500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 165500.0,
+      "quartiles": {
+        "q1": 165500.0,
+        "q3": 165500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "9": 1170000,
+          "10": 213000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Auto approve": {
+      "data": {
+        "2020-10-07T00:12:09Z": 17285.714285714286,
+        "2020-10-14T13:29:06Z": 17500.0,
+        "2020-10-22T16:20:09Z": 40800.0,
+        "2020-11-01T10:30:16Z": 18652.17391304348,
+        "2020-11-08T10:41:35Z": 16300.0,
+        "2020-11-16T18:19:50Z": 139750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 41714.648033126294,
+      "quartiles": {
+        "q1": 17339.285714285714,
+        "q3": 35263.04347826087,
+        "iqr": 17923.757763975158
+      },
+      "classification": {
+        "high_severity": {
+          "57": 132000,
+          "83": 80000,
+          "123": 289000,
+          "124": 1063000,
+          "125": 158000
+        },
+        "medium_severity": {
+          "93": 48000
+        }
+      }
+    },
+    "API to readme": {
+      "data": {
+        "2020-10-07T14:35:58Z": 97142.85714285714,
+        "2020-10-14T14:38:53Z": 67125.0,
+        "2020-10-22T14:38:25Z": 55142.857142857145,
+        "2020-10-29T14:41:32Z": 66000.0,
+        "2020-11-06T14:35:44Z": 65125.0,
+        "2020-11-14T14:35:02Z": 66000.0,
+        "2020-11-21T14:35:25Z": 63000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 68505.10204081633,
+      "quartiles": {
+        "q1": 64062.5,
+        "q3": 66562.5,
+        "iqr": 2500.0
+      },
+      "classification": {
+        "high_severity": {
+          "132": 352000,
+          "133": 121000,
+          "134": 75000,
+          "148": 121000,
+          "160": 79000,
+          "162": 71000,
+          "168": 73000,
+          "169": 71000,
+          "170": 73000
+        },
+        "medium_severity": {
+          "155": 68000,
+          "157": 67000
+        }
+      }
+    },
+    "Merge me!": {
+      "data": {
+        "2020-10-07T01:01:09Z": 15000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 15000.0,
+      "quartiles": {
+        "q1": 15000.0,
+        "q3": 15000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "github-repository-provider": {
+      "data": {
+        "2020-10-07T02:06:06Z": 273894.7368421053,
+        "2020-10-14T12:15:28Z": 214181.81818181818,
+        "2020-10-22T16:21:19Z": 274705.8823529412,
+        "2020-11-01T10:30:41Z": 190668.9189189189,
+        "2020-11-08T10:41:52Z": 204606.0606060606,
+        "2020-11-16T18:39:48Z": 253333.33333333334
+      },
+      "tool": "TravisCI",
+      "total avg": 235231.79170586294,
+      "quartiles": {
+        "q1": 207000.0,
+        "q3": 268754.3859649123,
+        "iqr": 61754.385964912304
+      },
+      "classification": {
+        "high_severity": {
+          "2881": 369000,
+          "2885": 648000,
+          "2886": 650000,
+          "2893": 655000,
+          "2894": 422000,
+          "2902": 645000,
+          "2917": 644000,
+          "2922": 399000,
+          "2942": 659000,
+          "2943": 437000,
+          "2947": 674000,
+          "2948": 575000,
+          "2968": 654000,
+          "2995": 653000,
+          "3052": 788000,
+          "3053": 787000,
+          "3108": 767000,
+          "3109": 764000,
+          "3157": 768000,
+          "3188": 372000
+        },
+        "medium_severity": {
+          "2899": 358000,
+          "2918": 341000,
+          "3190": 342000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 7
+  },
+  "broken_release": {
+    "CodeQL": {
+      "data": [],
+      "release_build_count": 15
+    },
+    "CI": {
+      "data": [
+        {
+          "started_at": "2020-11-20T11:37:57Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        },
+        {
+          "started_at": "2020-11-20T11:42:24Z",
+          "used_tool": "Github Actions",
+          "number": 8
+        },
+        {
+          "started_at": "2020-11-20T16:25:07Z",
+          "used_tool": "Github Actions",
+          "number": 9
+        },
+        {
+          "started_at": "2020-11-20T16:47:08Z",
+          "used_tool": "Github Actions",
+          "number": 10
+        },
+        {
+          "started_at": "2020-11-20T17:01:49Z",
+          "used_tool": "Github Actions",
+          "number": 11
+        },
+        {
+          "started_at": "2020-11-20T17:14:52Z",
+          "used_tool": "Github Actions",
+          "number": 12
+        },
+        {
+          "started_at": "2020-11-20T17:32:06Z",
+          "used_tool": "Github Actions",
+          "number": 15
+        },
+        {
+          "started_at": "2020-11-20T18:50:17Z",
+          "used_tool": "Github Actions",
+          "number": 18
+        },
+        {
+          "started_at": "2020-11-20T19:18:28Z",
+          "used_tool": "Github Actions",
+          "number": 21
+        },
+        {
+          "started_at": "2020-11-20T19:49:50Z",
+          "used_tool": "Github Actions",
+          "number": 22
+        },
+        {
+          "started_at": "2020-11-20T23:03:28Z",
+          "used_tool": "Github Actions",
+          "number": 25
+        },
+        {
+          "started_at": "2020-11-21T00:44:42Z",
+          "used_tool": "Github Actions",
+          "number": 26
+        },
+        {
+          "started_at": "2020-11-21T19:49:17Z",
+          "used_tool": "Github Actions",
+          "number": 31
+        },
+        {
+          "started_at": "2020-11-21T20:30:36Z",
+          "used_tool": "Github Actions",
+          "number": 34
+        },
+        {
+          "started_at": "2020-11-21T23:58:16Z",
+          "used_tool": "Github Actions",
+          "number": 37
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 15
+    },
+    "API to readme": {
+      "data": [],
+      "release_build_count": 46
+    },
+    "github-repository-provider": {
+      "data": [
+        {
+          "started_at": "2020-10-07T14:08:19Z",
+          "used_tool": "TravisCI",
+          "number": 2874
+        },
+        {
+          "started_at": "2020-10-08T08:06:09Z",
+          "used_tool": "TravisCI",
+          "number": 2886
+        },
+        {
+          "started_at": "2020-10-13T01:53:32Z",
+          "used_tool": "TravisCI",
+          "number": 2894
+        },
+        {
+          "started_at": "2020-10-15T12:14:46Z",
+          "used_tool": "TravisCI",
+          "number": 2907
+        },
+        {
+          "started_at": "2020-10-15T12:31:55Z",
+          "used_tool": "TravisCI",
+          "number": 2908
+        },
+        {
+          "started_at": "2020-10-15T12:37:34Z",
+          "used_tool": "TravisCI",
+          "number": 2909
+        },
+        {
+          "started_at": "2020-10-15T14:41:05Z",
+          "used_tool": "TravisCI",
+          "number": 2910
+        },
+        {
+          "started_at": "2020-10-15T15:28:27Z",
+          "used_tool": "TravisCI",
+          "number": 2911
+        },
+        {
+          "started_at": "2020-10-15T21:19:55Z",
+          "used_tool": "TravisCI",
+          "number": 2914
+        },
+        {
+          "started_at": "2020-10-16T04:05:55Z",
+          "used_tool": "TravisCI",
+          "number": 2918
+        },
+        {
+          "started_at": "2020-10-22T18:30:11Z",
+          "used_tool": "TravisCI",
+          "number": 2928
+        },
+        {
+          "started_at": "2020-10-23T17:06:38Z",
+          "used_tool": "TravisCI",
+          "number": 2933
+        },
+        {
+          "started_at": "2020-10-26T12:43:53Z",
+          "used_tool": "TravisCI",
+          "number": 2943
+        },
+        {
+          "started_at": "2020-10-27T19:21:32Z",
+          "used_tool": "TravisCI",
+          "number": 2948
+        },
+        {
+          "started_at": "2020-11-01T18:40:49Z",
+          "used_tool": "TravisCI",
+          "number": 2968
+        },
+        {
+          "started_at": "2020-11-01T20:10:12Z",
+          "used_tool": "TravisCI",
+          "number": 2971
+        },
+        {
+          "started_at": "2020-11-01T20:19:40Z",
+          "used_tool": "TravisCI",
+          "number": 2974
+        },
+        {
+          "started_at": "2020-11-02T11:36:46Z",
+          "used_tool": "TravisCI",
+          "number": 2990
+        },
+        {
+          "started_at": "2020-11-02T18:09:21Z",
+          "used_tool": "TravisCI",
+          "number": 3007
+        },
+        {
+          "started_at": "2020-11-03T10:40:01Z",
+          "used_tool": "TravisCI",
+          "number": 3018
+        },
+        {
+          "started_at": "2020-11-03T19:35:00Z",
+          "used_tool": "TravisCI",
+          "number": 3049
+        },
+        {
+          "started_at": "2020-11-03T23:07:45Z",
+          "used_tool": "TravisCI",
+          "number": 3053
+        },
+        {
+          "started_at": "2020-11-05T00:57:08Z",
+          "used_tool": "TravisCI",
+          "number": 3083
+        },
+        {
+          "started_at": "2020-11-05T01:26:18Z",
+          "used_tool": "TravisCI",
+          "number": 3087
+        },
+        {
+          "started_at": "2020-11-05T23:39:00Z",
+          "used_tool": "TravisCI",
+          "number": 3097
+        },
+        {
+          "started_at": "2020-11-06T04:25:34Z",
+          "used_tool": "TravisCI",
+          "number": 3109
+        },
+        {
+          "started_at": "2020-11-08T10:29:28Z",
+          "used_tool": "TravisCI",
+          "number": 3141
+        },
+        {
+          "started_at": "2020-11-10T00:00:56Z",
+          "used_tool": "TravisCI",
+          "number": 3157
+        },
+        {
+          "started_at": "2020-11-16T19:35:50Z",
+          "used_tool": "TravisCI",
+          "number": 3188
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 167
+    }
+  },
+  "skip_failing_tests": {}
+}

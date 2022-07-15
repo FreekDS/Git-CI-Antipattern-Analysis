@@ -1,0 +1,106 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "allowconcurrent": 0,
+      "auth": 0,
+      "compatibility": 0,
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/pathval-1.1.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "events": 2904,
+      "feature/brokenConnectionDetection": 850,
+      "feature/extendTransferMessages": 0,
+      "fix-binary": 0,
+      "master": 0,
+      "michelle-express-rewrite": 0,
+      "refactoring/convertToLib": 983,
+      "refactoring/es": 992,
+      "refactoring/ts": 734,
+      "v0.2.9": 0,
+      "xhr-rewrite": 0,
+      "yosssi-master": 2983
+    },
+    "branch deviation": {
+      "allowconcurrent": 3097,
+      "auth": 3097,
+      "compatibility": 2897,
+      "dependabot/npm_and_yarn/ajv-6.12.6": -56,
+      "dependabot/npm_and_yarn/minimist-1.2.6": -96,
+      "dependabot/npm_and_yarn/pathval-1.1.1": -54,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": -70,
+      "events": 2917,
+      "feature/brokenConnectionDetection": 850,
+      "feature/extendTransferMessages": 434,
+      "fix-binary": 387,
+      "master": 0,
+      "michelle-express-rewrite": 2604,
+      "refactoring/convertToLib": 983,
+      "refactoring/es": 992,
+      "refactoring/ts": 734,
+      "v0.2.9": 1113,
+      "xhr-rewrite": 3241,
+      "yosssi-master": 2983
+    },
+    "unsynced activity": {
+      "allowconcurrent": 0,
+      "auth": 0,
+      "compatibility": 0,
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/pathval-1.1.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "events": -13,
+      "feature/brokenConnectionDetection": -1,
+      "feature/extendTransferMessages": 0,
+      "fix-binary": 0,
+      "master": 0,
+      "michelle-express-rewrite": 0,
+      "refactoring/convertToLib": -1,
+      "refactoring/es": -1,
+      "refactoring/ts": -1,
+      "v0.2.9": 0,
+      "xhr-rewrite": 0,
+      "yosssi-master": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "feature/brokenConnectionDetection",
+          "refactoring/convertToLib",
+          "refactoring/es"
+        ],
+        "high_severity": [
+          "events",
+          "yosssi-master"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "allowconcurrent",
+          "auth",
+          "events",
+          "xhr-rewrite",
+          "yosssi-master"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "feature/brokenConnectionDetection",
+          "refactoring/convertToLib",
+          "refactoring/es",
+          "refactoring/ts",
+          "yosssi-master"
+        ],
+        "high_severity": [
+          "events"
+        ]
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

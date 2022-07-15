@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 822.0 days
+Branch feat/go-libp2p-mdns-advertise moved away from main with 1139 days, 317.0 more than average
+Branch no-poll moved away from main with 1568 days, 746.0 more than average
+MEDIUM SEVERITY
+Branch no-poll, 1568 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

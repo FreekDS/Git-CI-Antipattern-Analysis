@@ -1,0 +1,56 @@
+Missed Activity
+=========================
+Branch owl-bot-copy has 70 days of missed activity!
+Branch release-please--branches--main--components--logging has 5 days of missed activity!
+MEDIUM SEVERITY
+Branch owl-bot-copy, 70 seconds
+Branch release-please--branches--main--components--logging, 5 seconds
+
+Branch Deviation
+=========================
+Average deviation: 307.625 days
+Branch autosynth-self moved away from main with 405 days, 97.375 more than average
+Branch autosynth-synthtool moved away from main with 404 days, 96.375 more than average
+Branch bcb-to-fb moved away from main with 483 days, 175.375 more than average
+Branch distributeMinified moved away from main with 399 days, 91.375 more than average
+Branch fix818 moved away from main with 533 days, 225.375 more than average
+Branch fix929 moved away from main with 540 days, 232.375 more than average
+Branch fix953 moved away from main with 547 days, 239.375 more than average
+Branch fix976 moved away from main with 512 days, 204.375 more than average
+Branch hackathon moved away from main with 431 days, 123.375 more than average
+Branch minDistro moved away from main with 399 days, 91.375 more than average
+Branch owl-bot-f085364f-6990-44b3-888d-64c8296d18c6 moved away from main with 312 days, 4.375 more than average
+Branch owl-bot-update-lock-72a7e410f5a01056b96eafd31021ae45c59abcf9152aabe555377fb784e9c17e moved away from main with 332 days, 24.375 more than average
+Branch owlbot-lock-1619563089664 moved away from main with 392 days, 84.375 more than average
+Branch owlbot-lock-1619563733136 moved away from main with 392 days, 84.375 more than average
+Branch ownerf1 moved away from main with 483 days, 175.375 more than average
+Branch release-v8.2.0 moved away from main with 540 days, 232.375 more than average
+Branch release-v9.0.1 moved away from main with 502 days, 194.375 more than average
+Branch release-v9.1.2 moved away from main with 418 days, 110.375 more than average
+Branch release-v9.2.4 moved away from main with 372 days, 64.375 more than average
+Branch revert-1063-minPackage moved away from main with 377 days, 69.375 more than average
+Branch traceSpan moved away from main with 358 days, 50.375 more than average
+Branch traceSpanDetect moved away from main with 357 days, 49.375 more than average
+Branch uglify moved away from main with 400 days, 92.375 more than average
+MEDIUM SEVERITY
+Branch bcb-to-fb, 483 days
+Branch fix818, 533 days
+Branch fix929, 540 days
+Branch fix953, 547 days
+Branch fix976, 512 days
+Branch hackathon, 431 days
+Branch ownerf1, 483 days
+Branch release-v8.2.0, 540 days
+Branch release-v9.0.1, 502 days
+Branch release-v9.1.2, 418 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 1.825 days
+Branch owl-bot-copy is unsynced with 68 days, 66.175 more than average
+Branch release-please--branches--main--components--logging is unsynced with 5 days, 3.175 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch owl-bot-copy, 68 days
+Branch release-please--branches--main--components--logging, 5 days

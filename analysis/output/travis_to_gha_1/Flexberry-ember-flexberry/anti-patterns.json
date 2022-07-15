@@ -1,0 +1,528 @@
+{
+  "slow_build": {
+    "DEPLOY": {
+      "data": {
+        "2021-01-15T08:00:27Z": 83571.42857142857
+      },
+      "tool": "Github Actions",
+      "total avg": 83571.42857142857,
+      "quartiles": {
+        "q1": 83571.42857142857,
+        "q3": 83571.42857142857,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "3": 115000,
+          "4": 98000,
+          "5": 102000,
+          "6": 115000,
+          "7": 102000
+        },
+        "medium_severity": {}
+      }
+    },
+    "CI": {
+      "data": {
+        "2021-01-09T08:49:36Z": 496722.22222222225
+      },
+      "tool": "Github Actions",
+      "total avg": 496722.22222222225,
+      "quartiles": {
+        "q1": 496722.22222222225,
+        "q3": 496722.22222222225,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "18": 502000,
+          "28": 555000,
+          "33": 582000,
+          "34": 521000,
+          "36": 528000,
+          "38": 533000,
+          "39": 541000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node.js CI": {
+      "data": {
+        "2020-12-06T07:43:40Z": 2508545.4545454546,
+        "2020-12-13T17:51:13Z": 1737714.2857142857,
+        "2020-12-22T09:05:36Z": 6547000.0,
+        "2021-01-12T05:49:26Z": 667500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 2865189.935064935,
+      "quartiles": {
+        "q1": 1470160.7142857143,
+        "q3": 3518159.090909091,
+        "iqr": 2047998.3766233765
+      },
+      "classification": {
+        "high_severity": {
+          "3": 20492000,
+          "12": 34185000,
+          "14": 12920000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/build.yml": {
+      "data": {
+        "2021-01-09T08:09:23Z": 103000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 103000.0,
+      "quartiles": {
+        "q1": 103000.0,
+        "q3": 103000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "148667-displaying-multiple-types": 0,
+      "180720-example": 0,
+      "add-olv-pagination-component": 0,
+      "autocomplete-in-modal": 0,
+      "colsconfig-column-localizaion-test": 0,
+      "column-width-test": 0,
+      "custom-scrollbars": 0,
+      "dependabot/npm_and_yarn/dexie-3.2.2": 0,
+      "develop": 1254,
+      "develop-stable": 0,
+      "dummy-test": 0,
+      "dummy-test-2": 0,
+      "dummy-test-3": 0,
+      "feature-796-open-in-modal": 0,
+      "feature-825-set-up-base-objects-for-forms-generation": 0,
+      "feature-828-exclude-localization": 0,
+      "feature-888-fix-load-usersetting-with-deleted-parametr": 0,
+      "feature-940-add-autocomplete-additional-loading": 0,
+      "feature-994-colsconfig": 0,
+      "feature-996-menu-in-modal-for-mobile": 0,
+      "feature-1231-adaptive-sidebar": 0,
+      "feature-1241-user-settins-by-folvComponentName": 0,
+      "feature-1251-add-lookup-data-loaded-event": 0,
+      "feature-1325-addon-order": 0,
+      "feature-1329-default-user-settings": 0,
+      "feature-1337-imports-actualized": 0,
+      "feature-100762-test-datepicker": 0,
+      "feature-108529-polymorphic-example": 0,
+      "feature-112492-cyrillic-characters": 0,
+      "feature-129475-tests-for-device": 0,
+      "feature-144315-pseudidetailes": 0,
+      "feature-157387-folv-goto-page-by-id": 0,
+      "feature-160112-fix-lock-route": 0,
+      "feature-168973-readonly": 0,
+      "feature-168987-lock-expiration": 0,
+      "feature-170275-column-config-locales-test": 0,
+      "feature-170277-lookup-default-ordering-test": 0,
+      "feature-170278-hierarchy-olv-in-lookup-test": 0,
+      "feature-173881-common-theme-remarks": 0,
+      "feature-173889-modal-table": 0,
+      "feature-174348-multiple-transactions-test": 0,
+      "feature-176006-icon-colours": 0,
+      "feature-176546-lookup-window-search-test": 0,
+      "feature-185811-limit-in-lookuplimit-hierarchy-olv-in-lookup": 0,
+      "feature-191138-flexberry-olv-": 0,
+      "feature-191507-add-computed-detail": 0,
+      "feature-194902-add-user-seting-to-lookup-at-editform": 0,
+      "feature-196267": 0,
+      "feature-199059-groupedit-mobile": 0,
+      "feature-199299-ghost": 0,
+      "feature-199299": 0,
+      "feature-203161": 0,
+      "feature-203457": 0,
+      "feature-async-loading-olv-rows": 0,
+      "feature-audit": 0,
+      "feature-ddau-flexberry-file": 0,
+      "feature-edit-form-with-olv": 0,
+      "feature-ember-update": 0,
+      "feature-ember-update-gen-cache": 0,
+      "feature-fake-backend": 0,
+      "feature-fix-update-lookup-value": 0,
+      "feature-lookup-filter-by-projection": 0,
+      "feature-mirage": 0,
+      "feature-olv-filter-by-projection": 0,
+      "feature-olv-menu-structure": 0,
+      "feature-prototype-by-odata": 0,
+      "feature-remove-default-theme": 0,
+      "feature-theming": 0,
+      "feature-update-ember-and-semantic": 0,
+      "feature-update-readme": 0,
+      "fix-984-olv-check-text": 0,
+      "fix-1207-delete-row-record": 0,
+      "fix-1254-dropdown-component": 0,
+      "fix-110922-toolbar-for-olv": 0,
+      "fix-116023-rowsPerpage": 0,
+      "fix-167415-generating-lookup-in-dropdown": 0,
+      "fix-171218-columns-settings-loading-ring": 0,
+      "fix-enable-save-button": 0,
+      "fix-eslint": 0,
+      "fix-folv-paging-after-delete-in-row": 0,
+      "fix-lookup-perfomance": 0,
+      "fix-olv-menu": 0,
+      "fixes-for-armti": 0,
+      "flexberry-groupedit-default-sort-test": 0,
+      "flexberry-lks-theme": 0,
+      "flexberry-toggler-with-inner-toggler-test": 0,
+      "gh-pages": 0,
+      "groupedit-rows-ordering": 0,
+      "issue-1257": 0,
+      "master": 0,
+      "nested-routes-for-details": 0,
+      "prototype-ember-application": 0,
+      "temp-203294": 0,
+      "test-limit-enum": 0,
+      "test-modal-dialog-with-image": 0,
+      "validations": 0
+    },
+    "branch deviation": {
+      "148667-displaying-multiple-types": 1737,
+      "180720-example": 1139,
+      "add-olv-pagination-component": 571,
+      "autocomplete-in-modal": 663,
+      "colsconfig-column-localizaion-test": 762,
+      "column-width-test": 1266,
+      "custom-scrollbars": 2279,
+      "dependabot/npm_and_yarn/dexie-3.2.2": -6,
+      "develop": 0,
+      "develop-stable": 2054,
+      "dummy-test": 40,
+      "dummy-test-2": 602,
+      "dummy-test-3": 21,
+      "feature-796-open-in-modal": 1055,
+      "feature-825-set-up-base-objects-for-forms-generation": 831,
+      "feature-828-exclude-localization": 832,
+      "feature-888-fix-load-usersetting-with-deleted-parametr": 921,
+      "feature-940-add-autocomplete-additional-loading": 845,
+      "feature-994-colsconfig": 679,
+      "feature-996-menu-in-modal-for-mobile": 767,
+      "feature-1231-adaptive-sidebar": 445,
+      "feature-1241-user-settins-by-folvComponentName": 489,
+      "feature-1251-add-lookup-data-loaded-event": 447,
+      "feature-1325-addon-order": 68,
+      "feature-1329-default-user-settings": 13,
+      "feature-1337-imports-actualized": 27,
+      "feature-100762-test-datepicker": 2071,
+      "feature-108529-polymorphic-example": 2147,
+      "feature-112492-cyrillic-characters": 2062,
+      "feature-129475-tests-for-device": 1799,
+      "feature-144315-pseudidetailes": 1790,
+      "feature-157387-folv-goto-page-by-id": 1622,
+      "feature-160112-fix-lock-route": 1525,
+      "feature-168973-readonly": 1235,
+      "feature-168987-lock-expiration": 1218,
+      "feature-170275-column-config-locales-test": 1058,
+      "feature-170277-lookup-default-ordering-test": 1040,
+      "feature-170278-hierarchy-olv-in-lookup-test": 1040,
+      "feature-173881-common-theme-remarks": 918,
+      "feature-173889-modal-table": 1215,
+      "feature-174348-multiple-transactions-test": 1196,
+      "feature-176006-icon-colours": 1219,
+      "feature-176546-lookup-window-search-test": 1040,
+      "feature-185811-limit-in-lookuplimit-hierarchy-olv-in-lookup": 916,
+      "feature-191138-flexberry-olv-": 883,
+      "feature-191507-add-computed-detail": 663,
+      "feature-194902-add-user-seting-to-lookup-at-editform": 856,
+      "feature-196267": 474,
+      "feature-199059-groupedit-mobile": 456,
+      "feature-199299-ghost": 551,
+      "feature-199299": 474,
+      "feature-203161": 480,
+      "feature-203457": 481,
+      "feature-async-loading-olv-rows": 2054,
+      "feature-audit": 2097,
+      "feature-ddau-flexberry-file": 2186,
+      "feature-edit-form-with-olv": 2169,
+      "feature-ember-update": 0,
+      "feature-ember-update-gen-cache": 88,
+      "feature-fake-backend": 2190,
+      "feature-fix-update-lookup-value": 469,
+      "feature-lookup-filter-by-projection": 320,
+      "feature-mirage": 2211,
+      "feature-olv-filter-by-projection": 329,
+      "feature-olv-menu-structure": 566,
+      "feature-prototype-by-odata": 1891,
+      "feature-remove-default-theme": 597,
+      "feature-theming": 1999,
+      "feature-update-ember-and-semantic": 1496,
+      "feature-update-readme": 1609,
+      "fix-984-olv-check-text": 826,
+      "fix-1207-delete-row-record": 517,
+      "fix-1254-dropdown-component": 451,
+      "fix-110922-toolbar-for-olv": 2128,
+      "fix-116023-rowsPerpage": 2062,
+      "fix-167415-generating-lookup-in-dropdown": 1223,
+      "fix-171218-columns-settings-loading-ring": 1310,
+      "fix-enable-save-button": 2146,
+      "fix-eslint": 36,
+      "fix-folv-paging-after-delete-in-row": 335,
+      "fix-lookup-perfomance": 2025,
+      "fix-olv-menu": 595,
+      "fixes-for-armti": 1037,
+      "flexberry-groupedit-default-sort-test": 750,
+      "flexberry-lks-theme": 1798,
+      "flexberry-toggler-with-inner-toggler-test": 756,
+      "gh-pages": -1,
+      "groupedit-rows-ordering": 2279,
+      "issue-1257": 316,
+      "master": 319,
+      "nested-routes-for-details": 2234,
+      "prototype-ember-application": 2349,
+      "temp-203294": 643,
+      "test-limit-enum": 2161,
+      "test-modal-dialog-with-image": 2244,
+      "validations": 1468
+    },
+    "unsynced activity": {
+      "148667-displaying-multiple-types": 0,
+      "180720-example": 0,
+      "add-olv-pagination-component": 0,
+      "autocomplete-in-modal": 0,
+      "colsconfig-column-localizaion-test": 0,
+      "column-width-test": 0,
+      "custom-scrollbars": 0,
+      "dependabot/npm_and_yarn/dexie-3.2.2": 0,
+      "develop": 1254,
+      "develop-stable": 0,
+      "dummy-test": 0,
+      "dummy-test-2": 0,
+      "dummy-test-3": 0,
+      "feature-796-open-in-modal": 0,
+      "feature-825-set-up-base-objects-for-forms-generation": 0,
+      "feature-828-exclude-localization": 0,
+      "feature-888-fix-load-usersetting-with-deleted-parametr": 0,
+      "feature-940-add-autocomplete-additional-loading": 0,
+      "feature-994-colsconfig": 0,
+      "feature-996-menu-in-modal-for-mobile": 0,
+      "feature-1231-adaptive-sidebar": 0,
+      "feature-1241-user-settins-by-folvComponentName": 0,
+      "feature-1251-add-lookup-data-loaded-event": 0,
+      "feature-1325-addon-order": 0,
+      "feature-1329-default-user-settings": 0,
+      "feature-1337-imports-actualized": 0,
+      "feature-100762-test-datepicker": 0,
+      "feature-108529-polymorphic-example": 0,
+      "feature-112492-cyrillic-characters": 0,
+      "feature-129475-tests-for-device": 0,
+      "feature-144315-pseudidetailes": 0,
+      "feature-157387-folv-goto-page-by-id": 0,
+      "feature-160112-fix-lock-route": 0,
+      "feature-168973-readonly": 0,
+      "feature-168987-lock-expiration": 0,
+      "feature-170275-column-config-locales-test": 0,
+      "feature-170277-lookup-default-ordering-test": 0,
+      "feature-170278-hierarchy-olv-in-lookup-test": 0,
+      "feature-173881-common-theme-remarks": 0,
+      "feature-173889-modal-table": 0,
+      "feature-174348-multiple-transactions-test": 0,
+      "feature-176006-icon-colours": 0,
+      "feature-176546-lookup-window-search-test": 0,
+      "feature-185811-limit-in-lookuplimit-hierarchy-olv-in-lookup": 0,
+      "feature-191138-flexberry-olv-": 0,
+      "feature-191507-add-computed-detail": 0,
+      "feature-194902-add-user-seting-to-lookup-at-editform": 0,
+      "feature-196267": 0,
+      "feature-199059-groupedit-mobile": 0,
+      "feature-199299-ghost": 0,
+      "feature-199299": 0,
+      "feature-203161": 0,
+      "feature-203457": 0,
+      "feature-async-loading-olv-rows": 0,
+      "feature-audit": 0,
+      "feature-ddau-flexberry-file": 0,
+      "feature-edit-form-with-olv": 0,
+      "feature-ember-update": 0,
+      "feature-ember-update-gen-cache": 0,
+      "feature-fake-backend": 0,
+      "feature-fix-update-lookup-value": 0,
+      "feature-lookup-filter-by-projection": 0,
+      "feature-mirage": 0,
+      "feature-olv-filter-by-projection": 0,
+      "feature-olv-menu-structure": 0,
+      "feature-prototype-by-odata": 0,
+      "feature-remove-default-theme": 0,
+      "feature-theming": 0,
+      "feature-update-ember-and-semantic": 0,
+      "feature-update-readme": 0,
+      "fix-984-olv-check-text": 0,
+      "fix-1207-delete-row-record": 0,
+      "fix-1254-dropdown-component": 0,
+      "fix-110922-toolbar-for-olv": 0,
+      "fix-116023-rowsPerpage": 0,
+      "fix-167415-generating-lookup-in-dropdown": 0,
+      "fix-171218-columns-settings-loading-ring": 0,
+      "fix-enable-save-button": 0,
+      "fix-eslint": 0,
+      "fix-folv-paging-after-delete-in-row": 0,
+      "fix-lookup-perfomance": 0,
+      "fix-olv-menu": 0,
+      "fixes-for-armti": 0,
+      "flexberry-groupedit-default-sort-test": 0,
+      "flexberry-lks-theme": 0,
+      "flexberry-toggler-with-inner-toggler-test": 0,
+      "gh-pages": 0,
+      "groupedit-rows-ordering": 0,
+      "issue-1257": 0,
+      "master": 0,
+      "nested-routes-for-details": 0,
+      "prototype-ember-application": 0,
+      "temp-203294": 0,
+      "test-limit-enum": 0,
+      "test-modal-dialog-with-image": 0,
+      "validations": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "custom-scrollbars",
+          "develop-stable",
+          "feature-100762-test-datepicker",
+          "feature-108529-polymorphic-example",
+          "feature-112492-cyrillic-characters",
+          "feature-129475-tests-for-device",
+          "feature-async-loading-olv-rows",
+          "feature-audit",
+          "feature-ddau-flexberry-file",
+          "feature-edit-form-with-olv",
+          "feature-fake-backend",
+          "feature-mirage",
+          "feature-prototype-by-odata",
+          "feature-theming",
+          "fix-110922-toolbar-for-olv",
+          "fix-116023-rowsPerpage",
+          "fix-enable-save-button",
+          "fix-lookup-perfomance",
+          "flexberry-lks-theme",
+          "groupedit-rows-ordering",
+          "nested-routes-for-details",
+          "prototype-ember-application",
+          "test-limit-enum",
+          "test-modal-dialog-with-image"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "DEPLOY": {
+      "data": [
+        {
+          "started_at": "2021-01-15T08:00:27Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2021-01-15T08:28:11Z",
+          "used_tool": "Github Actions",
+          "number": 2
+        },
+        {
+          "started_at": "2021-01-15T09:31:16Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        },
+        {
+          "started_at": "2021-01-15T11:09:24Z",
+          "used_tool": "Github Actions",
+          "number": 4
+        },
+        {
+          "started_at": "2021-01-15T12:56:22Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        },
+        {
+          "started_at": "2021-01-15T13:16:30Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        },
+        {
+          "started_at": "2021-01-15T13:18:09Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 7
+    },
+    "CI": {
+      "data": [],
+      "release_build_count": 7
+    },
+    "Node.js CI": {
+      "data": [
+        {
+          "started_at": "2020-12-06T07:43:40Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2020-12-14T10:14:47Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2020-12-14T10:21:53Z",
+          "used_tool": "Github Actions",
+          "number": 2
+        },
+        {
+          "started_at": "2020-12-17T06:11:33Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        },
+        {
+          "started_at": "2020-12-17T06:21:16Z",
+          "used_tool": "Github Actions",
+          "number": 4
+        },
+        {
+          "started_at": "2020-12-17T06:22:28Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        },
+        {
+          "started_at": "2020-12-17T06:44:20Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        },
+        {
+          "started_at": "2020-12-17T08:33:36Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        },
+        {
+          "started_at": "2020-12-17T08:36:24Z",
+          "used_tool": "Github Actions",
+          "number": 8
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 27
+    }
+  },
+  "skip_failing_tests": {}
+}

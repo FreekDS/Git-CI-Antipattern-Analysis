@@ -1,0 +1,88 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/normalize-url-4.5.1": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "renovate/debug-4.x": 225,
+      "renovate/locate-path-7.x": 0,
+      "renovate/meow-10.x": 0,
+      "renovate/node-14.x": 0,
+      "renovate/node-16.x": 0,
+      "renovate/package-info-4.x": 0,
+      "renovate/xo-0.x": 5
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": -337,
+      "dependabot/npm_and_yarn/normalize-url-4.5.1": -32,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": -94,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": -30,
+      "gh-pages": 349,
+      "master": 0,
+      "renovate/debug-4.x": -322,
+      "renovate/locate-path-7.x": -303,
+      "renovate/meow-10.x": -303,
+      "renovate/node-14.x": -372,
+      "renovate/node-16.x": -372,
+      "renovate/package-info-4.x": -37,
+      "renovate/xo-0.x": -303
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/normalize-url-4.5.1": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "renovate/debug-4.x": 546,
+      "renovate/locate-path-7.x": 0,
+      "renovate/meow-10.x": 302,
+      "renovate/node-14.x": 371,
+      "renovate/node-16.x": 0,
+      "renovate/package-info-4.x": 36,
+      "renovate/xo-0.x": 307
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/debug-4.x",
+          "renovate/xo-0.x"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/minimist-1.2.6",
+          "dependabot/npm_and_yarn/normalize-url-4.5.1",
+          "dependabot/npm_and_yarn/path-parse-1.0.7",
+          "dependabot/npm_and_yarn/trim-newlines-3.0.1",
+          "gh-pages",
+          "master",
+          "renovate/debug-4.x",
+          "renovate/locate-path-7.x",
+          "renovate/meow-10.x",
+          "renovate/node-14.x",
+          "renovate/node-16.x",
+          "renovate/package-info-4.x",
+          "renovate/xo-0.x"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "renovate/debug-4.x",
+          "renovate/node-14.x",
+          "renovate/xo-0.x"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

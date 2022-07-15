@@ -1,0 +1,46 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 996.046511627907 days
+Branch CONTINUE-push-menu-layout moved away from main with 1667 days, 670.953488372093 more than average
+Branch boxer moved away from main with 1466 days, 469.95348837209303 more than average
+Branch famin moved away from main with 2406 days, 1409.953488372093 more than average
+Branch famous-engine moved away from main with 2461 days, 1464.953488372093 more than average
+Branch famous-oh-three moved away from main with 2531 days, 1534.953488372093 more than average
+Branch karma-electron-issue-32 moved away from main with 1455 days, 458.95348837209303 more than average
+Branch karma-issue-3296 moved away from main with 1110 days, 113.95348837209303 more than average
+Branch make-props-cleaner moved away from main with 1002 days, 5.953488372093034 more than average
+Branch morphing-color-spiral moved away from main with 1474 days, 477.95348837209303 more than average
+Branch motor moved away from main with 2369 days, 1372.953488372093 more than average
+Branch motor-andrewreedy moved away from main with 2406 days, 1409.953488372093 more than average
+Branch multiple moved away from main with 2098 days, 1101.953488372093 more than average
+Branch quickfix-missing-famous-dep moved away from main with 1002 days, 5.953488372093034 more than average
+Branch reactivity moved away from main with 1004 days, 7.953488372093034 more than average
+Branch reactivity-with-decorators moved away from main with 1008 days, 11.953488372093034 more than average
+Branch trusktr/tmp-WIP moved away from main with 1002 days, 5.953488372093034 more than average
+Branch typescript-issue-32187 moved away from main with 1030 days, 33.953488372093034 more than average
+Branch uglifyjs-webpack-plugin-issue-327 moved away from main with 1389 days, 392.95348837209303 more than average
+Branch v18 moved away from main with 1445 days, 448.95348837209303 more than average
+Branch webpack-async-await-issue-4 moved away from main with 1465 days, 468.95348837209303 more than average
+MEDIUM SEVERITY
+Branch CONTINUE-push-menu-layout, 1667 days
+Branch boxer, 1466 days
+Branch famin, 2406 days
+Branch famous-engine, 2461 days
+Branch famous-oh-three, 2531 days
+Branch karma-electron-issue-32, 1455 days
+Branch morphing-color-spiral, 1474 days
+Branch motor, 2369 days
+Branch motor-andrewreedy, 2406 days
+Branch multiple, 2098 days
+Branch webpack-async-await-issue-4, 1465 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

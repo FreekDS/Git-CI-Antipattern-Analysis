@@ -1,0 +1,19 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 154.8 days
+Branch dependabot/npm_and_yarn/path-parse-1.0.7 moved away from main with 247 days, 92.19999999999999 more than average
+Branch feat-add-types moved away from main with 330 days, 175.2 more than average
+Branch v3 moved away from main with 192 days, 37.19999999999999 more than average
+MEDIUM SEVERITY
+Branch feat-add-types, 330 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

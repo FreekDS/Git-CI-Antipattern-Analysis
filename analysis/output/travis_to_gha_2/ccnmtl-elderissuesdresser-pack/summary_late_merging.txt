@@ -1,0 +1,111 @@
+Missed Activity
+=========================
+Branch beforeunload has 2124 days of missed activity!
+Branch codeql-analysis has 235 days of missed activity!
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0 has 1756 days of missed activity!
+Branch fix-file-load has 846 days of missed activity!
+Branch fix-print-images has 2114 days of missed activity!
+Branch gdpr has 1466 days of missed activity!
+Branch hover-behavior has 2120 days of missed activity!
+Branch lockfile has 1433 days of missed activity!
+Branch migration has 2126 days of missed activity!
+Branch node-modules-refs has 2120 days of missed activity!
+Branch prep-0.2.0 has 235 days of missed activity!
+Branch remove-greenkeeperbadge has 724 days of missed activity!
+Branch remove-greenkeeperlockfile has 724 days of missed activity!
+Branch remove-scanjs has 234 days of missed activity!
+MEDIUM SEVERITY
+Branch beforeunload, 2124 seconds
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0, 1756 seconds
+Branch fix-file-load, 846 seconds
+Branch fix-print-images, 2114 seconds
+Branch gdpr, 1466 seconds
+Branch hover-behavior, 2120 seconds
+Branch lockfile, 1433 seconds
+Branch migration, 2126 seconds
+Branch node-modules-refs, 2120 seconds
+Branch remove-greenkeeperbadge, 724 seconds
+Branch remove-greenkeeperlockfile, 724 seconds
+
+Branch Deviation
+=========================
+Average deviation: 1100.6304347826087 days
+Branch beforeunload moved away from main with 2124 days, 1023.3695652173913 more than average
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0 moved away from main with 1757 days, 656.3695652173913 more than average
+Branch fix-print-images moved away from main with 2116 days, 1015.3695652173913 more than average
+Branch gdpr moved away from main with 1467 days, 366.36956521739125 more than average
+Branch greenkeeper/chai-4.0.0 moved away from main with 1822 days, 721.3695652173913 more than average
+Branch greenkeeper/chai-4.0.1 moved away from main with 1817 days, 716.3695652173913 more than average
+Branch greenkeeper/file-loader-0.11.2 moved away from main with 1813 days, 712.3695652173913 more than average
+Branch greenkeeper/webpack-4.17.3 moved away from main with 1350 days, 249.36956521739125 more than average
+Branch greenkeeper/webpack-4.28.4 moved away from main with 1228 days, 127.36956521739125 more than average
+Branch hover-behavior moved away from main with 2123 days, 1022.3695652173913 more than average
+Branch lockfile moved away from main with 1437 days, 336.36956521739125 more than average
+Branch migration moved away from main with 2126 days, 1025.3695652173913 more than average
+Branch node-modules-refs moved away from main with 2120 days, 1019.3695652173913 more than average
+MEDIUM SEVERITY
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0, 1757 days
+Branch gdpr, 1467 days
+Branch greenkeeper/chai-4.0.0, 1822 days
+Branch greenkeeper/chai-4.0.1, 1817 days
+Branch greenkeeper/file-loader-0.11.2, 1813 days
+Branch greenkeeper/webpack-4.17.3, 1350 days
+Branch lockfile, 1437 days
+HIGH SEVERITY
+Branch beforeunload, 2124 days
+Branch fix-print-images, 2116 days
+Branch hover-behavior, 2123 days
+Branch migration, 2126 days
+Branch node-modules-refs, 2120 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.45652173913043476 days
+Branch greenkeeper/chai-4.0.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/chai-4.0.1 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/file-loader-0.11.2 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.17.3 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.28.4 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.35.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.36.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.36.1 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.37.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.38.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.39.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.39.1 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.39.2 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.39.3 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.40.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.40.1 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.40.2 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.41.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.41.1 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.41.2 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.41.3 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.41.4 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.41.5 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.41.6 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.42.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.42.1 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-4.43.0 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-cli-3.3.7 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-dev-server-3.7.2 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch greenkeeper/webpack-pin-4.35.3 is unsynced with 0 days, 0.45652173913043476 more than average
+Branch master is unsynced with 0 days, 0.45652173913043476 more than average
+Branch update-syntax is unsynced with 0 days, 0.45652173913043476 more than average
+MEDIUM SEVERITY
+Branch beforeunload, -1 days
+Branch codeql-analysis, -1 days
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0, -1 days
+Branch fix-file-load, -1 days
+Branch gdpr, -1 days
+Branch migration, -1 days
+Branch node-modules-refs, -1 days
+Branch prep-0.2.0, -1 days
+Branch remove-greenkeeperbadge, -1 days
+Branch remove-greenkeeperlockfile, -1 days
+Branch remove-scanjs, -1 days
+HIGH SEVERITY
+Branch fix-print-images, -3 days
+Branch hover-behavior, -3 days
+Branch lockfile, -4 days

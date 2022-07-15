@@ -1,0 +1,145 @@
+{
+  "slow_build": {
+    "ngx-ui-scroll ci": {
+      "data": {
+        "2021-04-10T15:21:36Z": 118604.6511627907,
+        "2021-04-19T20:34:35Z": 226428.57142857142,
+        "2021-04-28T21:01:07Z": 216500.0,
+        "2021-05-07T02:00:31Z": 266181.8181818182,
+        "2021-05-24T19:55:51Z": 265400.0,
+        "2021-06-07T15:08:28Z": 290000.0,
+        "2021-06-15T15:15:27Z": 272000.0,
+        "2021-07-02T18:23:59Z": 154066.66666666666
+      },
+      "tool": "Github Actions",
+      "total avg": 226147.71342998088,
+      "quartiles": {
+        "q1": 200891.66666666666,
+        "q3": 267636.36363636365,
+        "iqr": 66744.69696969699
+      },
+      "classification": {
+        "high_severity": {
+          "23": 573000
+        },
+        "medium_severity": {
+          "28": 301000,
+          "59": 278000,
+          "62": 271000,
+          "63": 279000,
+          "64": 278000,
+          "70": 270000,
+          "72": 296000,
+          "76": 281000,
+          "77": 272000,
+          "78": 282000,
+          "82": 276000,
+          "84": 275000,
+          "85": 285000,
+          "87": 284000,
+          "88": 295000,
+          "89": 292000,
+          "93": 290000,
+          "94": 289000
+        }
+      }
+    },
+    "ngx-ui-scroll demo app manual deploy": {
+      "data": {
+        "2021-04-11T11:36:53Z": 158000.0,
+        "2021-05-02T23:44:54Z": 152000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 155000.0,
+      "quartiles": {
+        "q1": 153500.0,
+        "q3": 156500.0,
+        "iqr": 3000.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "1": 158000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "cache": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dynamic-template": 0,
+      "entire-window-rect-params": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "table-layout": 0,
+      "v2-legacy": 0,
+      "v3-infrastructure": 0
+    },
+    "branch deviation": {
+      "cache": 954,
+      "dependabot/npm_and_yarn/async-2.6.4": -18,
+      "dynamic-template": 1262,
+      "entire-window-rect-params": 1328,
+      "gh-pages": -1,
+      "master": 0,
+      "table-layout": 587,
+      "v2-legacy": 83,
+      "v3-infrastructure": 0
+    },
+    "unsynced activity": {
+      "cache": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dynamic-template": 0,
+      "entire-window-rect-params": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "table-layout": 0,
+      "v2-legacy": 0,
+      "v3-infrastructure": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dynamic-template",
+          "entire-window-rect-params"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "v3-infrastructure"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "ngx-ui-scroll ci": {
+      "data": [
+        {
+          "started_at": "2021-04-11T11:23:20Z",
+          "used_tool": "Github Actions",
+          "number": 23
+        },
+        {
+          "started_at": "2021-04-20T18:23:58Z",
+          "used_tool": "Github Actions",
+          "number": 65
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 13
+    },
+    "ngx-ui-scroll demo app manual deploy": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

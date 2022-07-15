@@ -1,0 +1,70 @@
+{
+  "slow_build": {
+    "ci": {
+      "data": {
+        "2021-04-09T16:40:53Z": 289000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 289000.0,
+      "quartiles": {
+        "q1": 289000.0,
+        "q3": 289000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "3": 392000,
+          "5": 465000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "chore/use-address-manager": 0,
+      "feat/go-libp2p-mdns-advertise": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "no-poll": 0
+    },
+    "branch deviation": {
+      "chore/use-address-manager": 754,
+      "feat/go-libp2p-mdns-advertise": 1139,
+      "gh-pages": 649,
+      "master": 0,
+      "no-poll": 1568
+    },
+    "unsynced activity": {
+      "chore/use-address-manager": 0,
+      "feat/go-libp2p-mdns-advertise": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "no-poll": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "no-poll"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "ci": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

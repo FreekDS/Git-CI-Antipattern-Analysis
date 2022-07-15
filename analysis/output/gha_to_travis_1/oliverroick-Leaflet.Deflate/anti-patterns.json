@@ -1,0 +1,73 @@
+{
+  "slow_build": {
+    "CodeQL": {
+      "data": {
+        "2020-09-14T06:25:36Z": 393200.0,
+        "2020-09-21T07:15:07Z": 392333.3333333333,
+        "2020-09-28T07:16:00Z": 387882.35294117645,
+        "2020-10-05T07:16:50Z": 357000.0,
+        "2020-10-12T07:17:32Z": 311150.0,
+        "2020-10-19T07:18:27Z": 332428.5714285714
+      },
+      "tool": "Github Actions",
+      "total avg": 362332.37628384685,
+      "quartiles": {
+        "q1": 338571.4285714286,
+        "q3": 391220.5882352941,
+        "iqr": 52649.15966386552
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "19": 393000,
+          "20": 393000,
+          "21": 409000,
+          "22": 400000,
+          "23": 404000,
+          "26": 395000,
+          "27": 412000,
+          "30": 395000,
+          "32": 394000,
+          "33": 408000,
+          "36": 396000,
+          "38": 405000,
+          "39": 416000,
+          "42": 416000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "CodeQL": {
+      "data": [],
+      "release_build_count": 17
+    }
+  },
+  "skip_failing_tests": {}
+}

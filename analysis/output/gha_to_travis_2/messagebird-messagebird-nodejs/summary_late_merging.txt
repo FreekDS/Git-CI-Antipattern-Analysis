@@ -1,0 +1,75 @@
+Missed Activity
+=========================
+Branch add-contacts-and-groups has 1326 days of missed activity!
+Branch bump-version-220 has 1326 days of missed activity!
+Branch chore/update-readme has 441 days of missed activity!
+Branch feat/webhook-signature-jwt has 223 days of missed activity!
+Branch fix/dependency-vulnerability has 991 days of missed activity!
+Branch fix/dtslint-security-issue has 319 days of missed activity!
+Branch fix/update-dtslint has 441 days of missed activity!
+Branch fix/101-add-video has 22 days of missed activity!
+Branch fix-package-json has 1763 days of missed activity!
+Branch npm-publish-action has 740 days of missed activity!
+Branch remove-sandbox-readme has 236 days of missed activity!
+Branch remove-yarn-lock has 740 days of missed activity!
+Branch update-testing-ci has 1763 days of missed activity!
+Branch v2-3-0 has 1210 days of missed activity!
+MEDIUM SEVERITY
+Branch add-contacts-and-groups, 1326 seconds
+HIGH SEVERITY
+Branch bump-version-220, 1326 seconds
+HIGH SEVERITY
+Branch fix-package-json, 1763 seconds
+HIGH SEVERITY
+Branch update-testing-ci, 1763 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 768.25 days
+Branch add-contacts-and-groups moved away from main with 1330 days, 561.75 more than average
+Branch bump-version-220 moved away from main with 1326 days, 557.75 more than average
+Branch fix/dependency-vulnerability moved away from main with 991 days, 222.75 more than average
+Branch fix-package-json moved away from main with 1763 days, 994.75 more than average
+Branch update-testing-ci moved away from main with 1763 days, 994.75 more than average
+Branch v2-3-0 moved away from main with 1211 days, 442.75 more than average
+MEDIUM SEVERITY
+Branch add-contacts-and-groups, 1330 days
+Branch bump-version-220, 1326 days
+Branch fix-package-json, 1763 days
+Branch update-testing-ci, 1763 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -1.5 days
+Branch bump-version-220 is unsynced with -1 days, 0.5 more than average
+Branch chore/update-readme is unsynced with -1 days, 0.5 more than average
+Branch feat/webhook-signature-jwt is unsynced with -1 days, 0.5 more than average
+Branch fix/dependency-vulnerability is unsynced with -1 days, 0.5 more than average
+Branch fix/dtslint-security-issue is unsynced with -1 days, 0.5 more than average
+Branch fix/publish-workflow is unsynced with 0 days, 1.5 more than average
+Branch fix/update-dtslint is unsynced with -1 days, 0.5 more than average
+Branch fix-package-json is unsynced with -1 days, 0.5 more than average
+Branch master is unsynced with 0 days, 1.5 more than average
+Branch remove-sandbox-readme is unsynced with -1 days, 0.5 more than average
+Branch remove-yarn-lock is unsynced with -1 days, 0.5 more than average
+Branch update-testing-ci is unsynced with -1 days, 0.5 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch add-contacts-and-groups, -4 days
+Branch bump-version-220, -1 days
+Branch chore/update-readme, -1 days
+Branch feat/webhook-signature-jwt, -1 days
+Branch fix/dependency-vulnerability, -1 days
+Branch fix/dtslint-security-issue, -1 days
+Branch fix/publish-workflow, 0 days
+Branch fix/update-dtslint, -1 days
+Branch fix/101-add-video, -6 days
+Branch fix-package-json, -1 days
+Branch master, 0 days
+Branch npm-publish-action, -2 days
+Branch remove-sandbox-readme, -1 days
+Branch remove-yarn-lock, -1 days
+Branch update-testing-ci, -1 days
+Branch v2-3-0, -2 days

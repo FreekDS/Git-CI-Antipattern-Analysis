@@ -1,0 +1,28 @@
+Missed Activity
+=========================
+Branch ensureDate_fix has 1300 days of missed activity!
+Branch webcomponents-org has 1463 days of missed activity!
+MEDIUM SEVERITY
+Branch webcomponents-org, 1463 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1014.5 days
+Branch behavior-documentation moved away from main with 1288 days, 273.5 more than average
+Branch ensureDate_fix moved away from main with 1300 days, 285.5 more than average
+Branch webcomponents-org moved away from main with 1470 days, 455.5 more than average
+MEDIUM SEVERITY
+Branch webcomponents-org, 1470 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -2.0 days
+Branch behavior-documentation is unsynced with 0 days, 2.0 more than average
+Branch ensureDate_fix is unsynced with -1 days, 1.0 more than average
+Branch master is unsynced with 0 days, 2.0 more than average
+MEDIUM SEVERITY
+Branch ensureDate_fix, -1 days
+HIGH SEVERITY
+Branch webcomponents-org, -7 days

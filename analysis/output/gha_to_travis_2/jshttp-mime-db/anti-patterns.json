@@ -1,0 +1,49 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "doug_encoding_wip": 0,
+      "encoding_flag": 0,
+      "ext-lookup": 0,
+      "master": 0,
+      "multi": 0,
+      "unify": 0
+    },
+    "branch deviation": {
+      "doug_encoding_wip": 2705,
+      "encoding_flag": 2705,
+      "ext-lookup": 2015,
+      "master": 0,
+      "multi": 108,
+      "unify": 2015
+    },
+    "unsynced activity": {
+      "doug_encoding_wip": 0,
+      "encoding_flag": 0,
+      "ext-lookup": 0,
+      "master": 0,
+      "multi": 0,
+      "unify": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "doug_encoding_wip",
+          "encoding_flag"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

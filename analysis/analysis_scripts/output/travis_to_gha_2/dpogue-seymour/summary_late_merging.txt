@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 786.3333333333334 days
+Branch nightly moved away from main with 1424 days, 637.6666666666666 more than average
+Branch workflow moved away from main with 935 days, 148.66666666666663 more than average
+MEDIUM SEVERITY
+Branch nightly, 1424 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch renovate/all-dependencies has 366 days of missed activity!
+Branch renovate/major-all-dependencies has 366 days of missed activity!
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -32.0 days
+Branch master moved away from main with 0 days, 32.0 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch renovate/all-dependencies, -50 days
+Branch renovate/major-all-dependencies, -46 days
+
+Unsynced activity
+=========================
+Average unsynced: 275.6666666666667 days
+Branch renovate/all-dependencies is unsynced with 416 days, 140.33333333333331 more than average
+Branch renovate/major-all-dependencies is unsynced with 411 days, 135.33333333333331 more than average
+MEDIUM SEVERITY
+Branch renovate/all-dependencies, 416 days
+HIGH SEVERITY

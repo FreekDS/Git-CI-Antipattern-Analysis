@@ -1,0 +1,60 @@
+Missed Activity
+=========================
+Branch add-npm-badge has 765 days of missed activity!
+Branch chore/buildForWeb has 223 days of missed activity!
+Branch chore/renameCiStep has 497 days of missed activity!
+Branch feat/addItemStyleForAndroid has 387 days of missed activity!
+Branch feat/disablePickerItem has 386 days of missed activity!
+Branch fix/dropdownColorProp has 387 days of missed activity!
+MEDIUM SEVERITY
+Branch add-npm-badge, 765 seconds
+HIGH SEVERITY
+Branch chore/renameCiStep, 497 seconds
+HIGH SEVERITY
+Branch feat/addItemStyleForAndroid, 387 seconds
+HIGH SEVERITY
+Branch fix/dropdownColorProp, 387 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 554.625 days
+Branch add-npm-badge moved away from main with 793 days, 238.375 more than average
+Branch bartolkaruza-patch-1 moved away from main with 1068 days, 513.375 more than average
+Branch issue-2 moved away from main with 1027 days, 472.375 more than average
+Branch issue-5 moved away from main with 1027 days, 472.375 more than average
+Branch issue-6 moved away from main with 1021 days, 466.375 more than average
+Branch patch-readme-1 moved away from main with 809 days, 254.375 more than average
+Branch pr/kaiguo/58 moved away from main with 711 days, 156.375 more than average
+MEDIUM SEVERITY
+Branch bartolkaruza-patch-1, 1068 days
+Branch issue-2, 1027 days
+Branch issue-5, 1027 days
+Branch issue-6, 1021 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -2.8125 days
+Branch bartolkaruza-patch-1 is unsynced with 0 days, 2.8125 more than average
+Branch chore/buildForWeb is unsynced with -1 days, 1.8125 more than average
+Branch dependabot/npm_and_yarn/async-2.6.4 is unsynced with 0 days, 2.8125 more than average
+Branch dependabot/npm_and_yarn/minimist-1.2.6 is unsynced with 0 days, 2.8125 more than average
+Branch feat/addItemStyleForAndroid is unsynced with -1 days, 1.8125 more than average
+Branch feat/disablePickerItem is unsynced with -1 days, 1.8125 more than average
+Branch fix/dropdownColorProp is unsynced with -1 days, 1.8125 more than average
+Branch issue-2 is unsynced with 0 days, 2.8125 more than average
+Branch issue-5 is unsynced with 0 days, 2.8125 more than average
+Branch issue-6 is unsynced with 0 days, 2.8125 more than average
+Branch master is unsynced with 0 days, 2.8125 more than average
+Branch patch-readme-1 is unsynced with 0 days, 2.8125 more than average
+Branch pr/kaiguo/58 is unsynced with 0 days, 2.8125 more than average
+Branch undefined is unsynced with 0 days, 2.8125 more than average
+MEDIUM SEVERITY
+Branch chore/buildForWeb, -1 days
+Branch feat/addItemStyleForAndroid, -1 days
+Branch feat/disablePickerItem, -1 days
+Branch fix/dropdownColorProp, -1 days
+HIGH SEVERITY
+Branch add-npm-badge, -29 days
+Branch chore/renameCiStep, -12 days

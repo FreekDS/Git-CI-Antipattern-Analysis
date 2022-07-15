@@ -1,0 +1,146 @@
+{
+  "slow_build": {
+    "react-responsive-masonry": {
+      "data": {
+        "2021-05-07T10:26:01Z": 38000.0,
+        "2021-05-21T20:02:44Z": 130000.0,
+        "2021-06-04T13:33:55Z": 37000.0,
+        "2021-06-17T13:27:56Z": 36000.0,
+        "2021-06-28T18:52:20Z": 35000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 55200.0,
+      "quartiles": {
+        "q1": 36000.0,
+        "q3": 38000.0,
+        "iqr": 2000.0
+      },
+      "classification": {
+        "high_severity": {
+          "50": 223000
+        },
+        "medium_severity": {
+          "47": 39000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/async-2.6.4": -20,
+      "gh-pages": 715,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "gh-pages"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "react-responsive-masonry": {
+      "data": [
+        {
+          "started_at": "2021-05-07T10:26:01Z",
+          "used_tool": "TravisCI",
+          "number": 46
+        },
+        {
+          "started_at": "2021-05-07T12:12:43Z",
+          "used_tool": "TravisCI",
+          "number": 47
+        },
+        {
+          "started_at": "2021-05-08T10:25:41Z",
+          "used_tool": "TravisCI",
+          "number": 48
+        },
+        {
+          "started_at": "2021-05-10T03:42:22Z",
+          "used_tool": "TravisCI",
+          "number": 49
+        },
+        {
+          "started_at": "2021-05-21T20:02:44Z",
+          "used_tool": "TravisCI",
+          "number": 50
+        },
+        {
+          "started_at": "2021-05-27T08:53:13Z",
+          "used_tool": "TravisCI",
+          "number": 51
+        },
+        {
+          "started_at": "2021-06-04T13:33:55Z",
+          "used_tool": "TravisCI",
+          "number": 52
+        },
+        {
+          "started_at": "2021-06-04T13:33:56Z",
+          "used_tool": "TravisCI",
+          "number": 53
+        },
+        {
+          "started_at": "2021-06-04T13:34:00Z",
+          "used_tool": "TravisCI",
+          "number": 54
+        },
+        {
+          "started_at": "2021-06-04T13:34:36Z",
+          "used_tool": "TravisCI",
+          "number": 55
+        },
+        {
+          "started_at": "2021-06-04T13:34:38Z",
+          "used_tool": "TravisCI",
+          "number": 56
+        },
+        {
+          "started_at": "2021-06-17T13:27:56Z",
+          "used_tool": "TravisCI",
+          "number": 57
+        },
+        {
+          "started_at": "2021-06-17T13:33:58Z",
+          "used_tool": "TravisCI",
+          "number": 58
+        },
+        {
+          "started_at": "2021-06-17T13:34:17Z",
+          "used_tool": "TravisCI",
+          "number": 59
+        },
+        {
+          "started_at": "2021-06-28T18:52:20Z",
+          "used_tool": "TravisCI",
+          "number": 60
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 15
+    }
+  },
+  "skip_failing_tests": {}
+}

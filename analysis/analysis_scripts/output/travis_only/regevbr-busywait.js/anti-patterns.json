@@ -1,0 +1,72 @@
+{
+  "slow_build": {
+    "busywait.js": {
+      "data": {
+        "2021-05-02T11:26:00Z": 374647.0588235294
+      },
+      "tool": "TravisCI",
+      "total avg": 374647.0588235294,
+      "quartiles": {
+        "q1": 374647.0588235294,
+        "q3": 374647.0588235294,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "95": 420000,
+          "96": 394000,
+          "97": 385000,
+          "98": 445000,
+          "99": 452000,
+          "100": 405000,
+          "101": 434000,
+          "102": 388000,
+          "103": 393000,
+          "104": 392000,
+          "105": 440000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "busywait.js": {
+      "data": [
+        {
+          "started_at": "2021-05-02T14:58:35Z",
+          "used_tool": "TravisCI",
+          "number": 98
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 4
+    }
+  },
+  "skip_failing_tests": {}
+}

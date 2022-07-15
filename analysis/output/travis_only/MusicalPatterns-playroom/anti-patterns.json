@@ -1,0 +1,63 @@
+{
+  "slow_build": {
+    "playroom": {
+      "data": {
+        "2021-04-19T21:14:19Z": 196333.33333333334,
+        "2021-05-07T10:23:07Z": 193444.44444444444,
+        "2021-05-25T00:38:38Z": 197000.0,
+        "2021-06-04T23:32:49Z": 192000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 194694.44444444444,
+      "quartiles": {
+        "q1": 193083.3333333333,
+        "q3": 196500.0,
+        "iqr": 3416.666666666686
+      },
+      "classification": {
+        "high_severity": {
+          "404": 206000
+        },
+        "medium_severity": {
+          "390": 198000,
+          "392": 197000,
+          "399": 201000,
+          "405": 200000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "playroom": {
+      "data": [],
+      "release_build_count": 14
+    }
+  },
+  "skip_failing_tests": {}
+}

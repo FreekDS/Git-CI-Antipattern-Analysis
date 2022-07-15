@@ -1,0 +1,26 @@
+Missed Activity
+=========================
+Branch dependabot/npm_and_yarn/sudoo/triforce-2.16.0 has 160 days of missed activity!
+Branch revert-252-dependabot/npm_and_yarn/webpack-cli-4.0.0 has 564 days of missed activity!
+MEDIUM SEVERITY
+Branch revert-252-dependabot/npm_and_yarn/webpack-cli-4.0.0, 564 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 182.0 days
+Branch revert-252-dependabot/npm_and_yarn/webpack-cli-4.0.0 moved away from main with 564 days, 382.0 more than average
+MEDIUM SEVERITY
+Branch revert-252-dependabot/npm_and_yarn/webpack-cli-4.0.0, 564 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -4.5 days
+Branch dependabot/npm_and_yarn/sudoo/triforce-3.7.0 is unsynced with 0 days, 4.5 more than average
+Branch master is unsynced with 0 days, 4.5 more than average
+Branch revert-252-dependabot/npm_and_yarn/webpack-cli-4.0.0 is unsynced with -1 days, 3.5 more than average
+MEDIUM SEVERITY
+Branch revert-252-dependabot/npm_and_yarn/webpack-cli-4.0.0, -1 days
+HIGH SEVERITY
+Branch dependabot/npm_and_yarn/sudoo/triforce-2.16.0, -17 days

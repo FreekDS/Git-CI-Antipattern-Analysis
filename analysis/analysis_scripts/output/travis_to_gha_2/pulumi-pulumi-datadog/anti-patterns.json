@@ -1,0 +1,215 @@
+{
+  "slow_build": {
+    "release": {
+      "data": {
+        "2020-06-16T16:07:08Z": 1055000.0,
+        "2020-06-23T19:59:58Z": 1024333.3333333334,
+        "2020-07-23T10:56:21Z": 1100000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1059777.7777777778,
+      "quartiles": {
+        "q1": 1039666.6666666667,
+        "q3": 1077500.0,
+        "iqr": 37833.333333333256
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "5": 1100000
+        }
+      }
+    },
+    "master": {
+      "data": {
+        "2020-06-16T16:06:07Z": 434000.0,
+        "2020-06-23T19:36:41Z": 517500.0,
+        "2020-07-01T16:19:41Z": 740000.0,
+        "2020-07-23T09:10:06Z": 778000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 617375.0,
+      "quartiles": {
+        "q1": 496625.0,
+        "q3": 749500.0,
+        "iqr": 252875.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "2": 761000,
+          "9": 778000
+        }
+      }
+    },
+    "pull-request": {
+      "data": {
+        "2020-06-11T19:53:05Z": 2098235.294117647,
+        "2020-06-23T10:29:01Z": 601000.0,
+        "2020-07-01T12:12:46Z": 709000.0,
+        "2020-07-22T20:03:36Z": 638000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1011558.8235294118,
+      "quartiles": {
+        "q1": 628750.0,
+        "q3": 1056308.8235294118,
+        "iqr": 427558.8235294118
+      },
+      "classification": {
+        "high_severity": {
+          "7": 7680000,
+          "8": 3160000,
+          "9": 2928000,
+          "10": 2563000,
+          "11": 2563000,
+          "12": 3273000,
+          "13": 3037000,
+          "14": 3984000,
+          "16": 2514000
+        },
+        "medium_severity": {}
+      }
+    },
+    "pr-automation": {
+      "data": {
+        "2020-06-11T19:52:37Z": 87421.05263157895
+      },
+      "tool": "Github Actions",
+      "total avg": 87421.05263157895,
+      "quartiles": {
+        "q1": 87421.05263157895,
+        "q3": 87421.05263157895,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "7": 121000,
+          "17": 144000,
+          "18": 440000,
+          "19": 465000
+        },
+        "medium_severity": {}
+      }
+    },
+    "pulumi-datadog": {
+      "data": {
+        "2020-04-27T23:21:11Z": 927333.3333333334,
+        "2020-05-12T08:47:31Z": 627500.0,
+        "2020-05-19T21:33:41Z": 837909.0909090909,
+        "2020-05-28T18:06:46Z": 655000.0,
+        "2020-06-09T09:32:27Z": 779200.0
+      },
+      "tool": "TravisCI",
+      "total avg": 765388.4848484849,
+      "quartiles": {
+        "q1": 655000.0,
+        "q3": 837909.0909090909,
+        "iqr": 182909.09090909094
+      },
+      "classification": {
+        "high_severity": {
+          "130": 1964000,
+          "141": 1433000
+        },
+        "medium_severity": {
+          "134": 970000,
+          "137": 888000,
+          "140": 907000,
+          "144": 867000,
+          "145": 915000,
+          "147": 903000,
+          "149": 1038000,
+          "154": 852000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "deps/update-pulumi-terraform-fdafc00b3f": 0,
+      "jaxxstorm/tar-providers": 0,
+      "jaxxstorm/virtualenv-fixes": 0,
+      "justin/py": 0,
+      "master": 0,
+      "stack72/provider-binary-version": 579,
+      "stack72/v3.12.0": 0,
+      "update-github-actions-workflows-27": 0,
+      "useLatestBridge": 0
+    },
+    "branch deviation": {
+      "deps/update-pulumi-terraform-fdafc00b3f": 1004,
+      "jaxxstorm/tar-providers": 598,
+      "jaxxstorm/virtualenv-fixes": 670,
+      "justin/py": 1152,
+      "master": 0,
+      "stack72/provider-binary-version": 579,
+      "stack72/v3.12.0": -31,
+      "update-github-actions-workflows-27": 153,
+      "useLatestBridge": 815
+    },
+    "unsynced activity": {
+      "deps/update-pulumi-terraform-fdafc00b3f": 0,
+      "jaxxstorm/tar-providers": 0,
+      "jaxxstorm/virtualenv-fixes": 0,
+      "justin/py": 0,
+      "master": 0,
+      "stack72/provider-binary-version": -1,
+      "stack72/v3.12.0": 0,
+      "update-github-actions-workflows-27": 0,
+      "useLatestBridge": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "stack72/provider-binary-version"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "deps/update-pulumi-terraform-fdafc00b3f",
+          "justin/py"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "stack72/provider-binary-version"
+        ]
+      }
+    },
+    "build_count": 5
+  },
+  "broken_release": {
+    "master": {
+      "data": [
+        {
+          "started_at": "2020-06-16T16:06:07Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2020-06-17T11:07:01Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 9
+    },
+    "pulumi-datadog": {
+      "data": [
+        {
+          "started_at": "2020-05-21T10:37:18Z",
+          "used_tool": "TravisCI",
+          "number": 138
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 24
+    }
+  },
+  "skip_failing_tests": {}
+}

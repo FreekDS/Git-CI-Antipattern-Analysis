@@ -1,0 +1,26 @@
+Missed Activity
+=========================
+Branch dev has 556 days of missed activity!
+Branch weisk-patch-1 has 712 days of missed activity!
+MEDIUM SEVERITY
+Branch weisk-patch-1, 712 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 422.6666666666667 days
+Branch dev moved away from main with 556 days, 133.33333333333331 more than average
+Branch weisk-patch-1 moved away from main with 712 days, 289.3333333333333 more than average
+MEDIUM SEVERITY
+Branch weisk-patch-1, 712 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.6666666666666666 days
+Branch master is unsynced with 0 days, 0.6666666666666666 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch dev, -1 days
+Branch weisk-patch-1, -1 days

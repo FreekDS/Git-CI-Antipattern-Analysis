@@ -1,0 +1,76 @@
+Missed Activity
+=========================
+Branch build/update-widgets-data has 12 days of missed activity!
+Branch data-widgets-release-2.1.1 has 163 days of missed activity!
+Branch fix/automation-native-modules has 253 days of missed activity!
+MEDIUM SEVERITY
+Branch build/update-widgets-data, 12 seconds
+Branch data-widgets-release-2.1.1, 163 seconds
+Branch fix/automation-native-modules, 253 seconds
+
+Branch Deviation
+=========================
+Average deviation: 260.9875 days
+Branch chore/diff-changes-base moved away from main with 459 days, 198.0125 more than average
+Branch feat/add-atlas-widget-style-inclusion-variables moved away from main with 435 days, 174.0125 more than average
+Branch feat/atlas-2-3-migration moved away from main with 434 days, 173.0125 more than average
+Branch feat/atlas-ref-app moved away from main with 580 days, 319.0125 more than average
+Branch feat/base64-file moved away from main with 862 days, 601.0125 more than average
+Branch feat/buildingblocks moved away from main with 386 days, 125.01249999999999 more than average
+Branch feat/groupbox-native moved away from main with 408 days, 147.0125 more than average
+Branch feat/ivb-events moved away from main with 351 days, 90.01249999999999 more than average
+Branch feat/linear-gradient moved away from main with 776 days, 515.0125 more than average
+Branch feat/linear-gradient-new moved away from main with 455 days, 194.0125 more than average
+Branch feat/native-charts moved away from main with 629 days, 368.0125 more than average
+Branch feat/piw-copyright-automations moved away from main with 456 days, 195.0125 more than average
+Branch feat/poc-modules moved away from main with 439 days, 178.0125 more than average
+Branch feat/preview-togglebuttons moved away from main with 496 days, 235.0125 more than average
+Branch feat/screenshotwidgets moved away from main with 406 days, 145.0125 more than average
+Branch feat/update-preview-api moved away from main with 680 days, 419.0125 more than average
+Branch feat/video-player-web-change-url-property-types moved away from main with 335 days, 74.01249999999999 more than average
+Branch fix/background-image moved away from main with 776 days, 515.0125 more than average
+Branch fix/barcode-scanner moved away from main with 860 days, 599.0125 more than average
+Branch fix/bump-version-app-events moved away from main with 781 days, 520.0125 more than average
+Branch fix/calendar-more-not-respects-date moved away from main with 693 days, 432.0125 more than average
+Branch fix/geolocation-timeout moved away from main with 552 days, 291.0125 more than average
+Branch fix/js-action-take-picture-clean-up-tmp-images moved away from main with 490 days, 229.0125 more than average
+Branch fix/maps-native-improvements moved away from main with 404 days, 143.0125 more than average
+Branch fix/native/app-events/clear-subs-on-app-background moved away from main with 397 days, 136.0125 more than average
+Branch fix/workflow moved away from main with 426 days, 165.0125 more than average
+Branch front-hands-presentation moved away from main with 422 days, 161.0125 more than average
+Branch nc/chore/NC-266_preview-pdf moved away from main with 294 days, 33.01249999999999 more than average
+Branch release/8.8.0 moved away from main with 777 days, 516.0125 more than average
+Branch test/add-visual-testing moved away from main with 683 days, 422.0125 more than average
+Branch test/fix-screenshots-baseline moved away from main with 293 days, 32.01249999999999 more than average
+MEDIUM SEVERITY
+Branch chore/diff-changes-base, 459 days
+Branch feat/add-atlas-widget-style-inclusion-variables, 435 days
+Branch feat/atlas-2-3-migration, 434 days
+Branch feat/atlas-ref-app, 580 days
+Branch feat/base64-file, 862 days
+Branch feat/linear-gradient, 776 days
+Branch feat/linear-gradient-new, 455 days
+Branch feat/native-charts, 629 days
+Branch feat/piw-copyright-automations, 456 days
+Branch feat/poc-modules, 439 days
+Branch feat/preview-togglebuttons, 496 days
+Branch feat/update-preview-api, 680 days
+Branch fix/background-image, 776 days
+Branch fix/barcode-scanner, 860 days
+Branch fix/bump-version-app-events, 781 days
+Branch fix/calendar-more-not-respects-date, 693 days
+Branch fix/geolocation-timeout, 552 days
+Branch fix/js-action-take-picture-clean-up-tmp-images, 490 days
+Branch release/8.8.0, 777 days
+Branch test/add-visual-testing, 683 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.2625 days
+Branch build/update-widgets-data is unsynced with 12 days, 11.7375 more than average
+Branch data-widgets-release-2.1.1 is unsynced with 9 days, 8.7375 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch build/update-widgets-data, 12 days
+Branch data-widgets-release-2.1.1, 9 days

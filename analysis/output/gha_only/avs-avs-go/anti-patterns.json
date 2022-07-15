@@ -1,0 +1,66 @@
+{
+  "slow_build": {
+    "CodeQL": {
+      "data": {
+        "2021-04-10T12:07:42Z": 116500.0,
+        "2021-04-24T12:07:53Z": 112000.0,
+        "2021-05-08T12:32:07Z": 117000.0,
+        "2021-05-15T12:34:14Z": 111000.0,
+        "2021-05-22T12:36:03Z": 100000.0,
+        "2021-05-29T12:59:48Z": 102500.0,
+        "2021-06-12T12:30:00Z": 112000.0,
+        "2021-06-19T12:30:25Z": 104000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 109375.0,
+      "quartiles": {
+        "q1": 103625.0,
+        "q3": 113125.0,
+        "iqr": 9500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "54": 117000,
+          "55": 116000,
+          "56": 116000,
+          "57": 117000,
+          "60": 117000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "CodeQL": {
+      "data": [],
+      "release_build_count": 13
+    }
+  },
+  "skip_failing_tests": {}
+}
