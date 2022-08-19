@@ -331,11 +331,11 @@ def late_merging_dist1(gho, tcio, only=True):
     # Unsynced activity
     kwargs["title"] = "Unsynced activity"
     kwargs["log"] = False
-    _prepare_box_plts([unsynced_activity_gho, unsynced_activity_tcio], **kwargs, miny=-20)
+    _prepare_box_plts([unsynced_activity_gho, unsynced_activity_tcio], **kwargs, miny=-100)
     plt.savefig(f"{save_pre}ua_lin.png")
     plt.close()
     kwargs["log"] = True
-    _prepare_box_plts([unsynced_activity_gho, unsynced_activity_tcio], **kwargs, miny=-20)
+    _prepare_box_plts([unsynced_activity_gho, unsynced_activity_tcio], **kwargs, miny=-100)
     plt.savefig(f"{save_pre}ua_log.png")
     plt.close()
 
@@ -345,6 +345,40 @@ def late_merging_dist2(t2g, g2t):
     g2t_before, g2t_after = g2t[-2:]
 
     late_merging_dist1(g2t_before, t2g_before, False)
+
+
+def late_merging_all(gh, travis, g2t, t2g):
+
+    gh = list(gh[-1].values())
+    travis = list(travis[-1].values())
+    t2g = list(t2g[-1].values())
+    g2t = list(g2t[-1].values())
+
+    def plot(ds, what, ttle, lbl_y='Amount of days', neg=False):
+        pth = './graphs/lm/all/'
+        ds = [[v.get(what) for v in d] for d in ds]
+
+        kwargs = {
+            'ylabel': lbl_y,
+            'xlabel': "Data class",
+            'labels': ["GHA", "TravisCI", 'TravisCI -> GHA', 'GHA -> TravisCI'],
+            'title': ttle,
+            'suptitle': "",
+        }
+
+        _prepare_box_plts(ds, **kwargs) if not neg else _prepare_box_plts(ds, **kwargs, miny=-20)
+        plt.savefig(f"{pth}{what}.png")
+        plt.close()
+
+        _prepare_box_plts(ds, **kwargs, log=True) if not neg else _prepare_box_plts(ds, **kwargs, miny=-20, log=True)
+        plt.savefig(f"{pth}{what}-log.png")
+        plt.close()
+
+    data = [gh, travis, t2g, g2t]
+    plot(data, 'branch_count', 'Branches per repository', lbl_y='Amount of branches')
+    plot(data, 'ua_avg', 'Unsynced activity', neg=True)
+    plot(data, 'bd_avg', 'Branch Deviation')
+    plot(data, 'ma_avg', 'Missed activity')
 
 
 if __name__ == '__main__':
@@ -363,3 +397,5 @@ if __name__ == '__main__':
 
     late_merging_dist1(gh_only, travis_only)
     late_merging_dist2(travis_2_gha, gha_2_travis)
+
+    late_merging_all(gh_only, travis_only, travis_2_gha, gha_2_travis)
