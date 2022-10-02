@@ -1,0 +1,117 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2021-04-12T05:28:51Z": 62750.0,
+        "2021-04-23T09:43:16Z": 60882.35294117647,
+        "2021-04-30T13:45:20Z": 70833.33333333333,
+        "2021-05-10T05:25:36Z": 79150.0,
+        "2021-05-17T10:29:55Z": 75400.0,
+        "2021-05-29T00:11:43Z": 72083.33333333333,
+        "2021-06-07T05:25:08Z": 70285.71428571429,
+        "2021-06-15T10:56:09Z": 65882.35294117648,
+        "2021-06-28T01:11:28Z": 76714.28571428571,
+        "2021-07-05T01:11:45Z": 64444.444444444445
+      },
+      "tool": "Github Actions",
+      "total avg": 69842.58169934641,
+      "quartiles": {
+        "q1": 64803.921568627455,
+        "q3": 74570.83333333333,
+        "iqr": 9766.911764705874
+      },
+      "classification": {
+        "high_severity": {
+          "260": 94000,
+          "264": 97000,
+          "273": 100000,
+          "276": 94000,
+          "279": 90000,
+          "285": 107000,
+          "307": 103000
+        },
+        "medium_severity": {
+          "267": 76000,
+          "270": 76000,
+          "269": 76000,
+          "272": 84000,
+          "275": 80000,
+          "277": 89000,
+          "278": 85000,
+          "280": 85000,
+          "281": 79000,
+          "282": 79000,
+          "287": 75000,
+          "292": 76000,
+          "294": 79000,
+          "299": 77000,
+          "301": 77000,
+          "316": 76000,
+          "322": 76000,
+          "325": 79000,
+          "327": 78000,
+          "328": 79000,
+          "330": 75000,
+          "329": 87000,
+          "331": 79000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "feature/remove-node-12-support": 132,
+      "feature/275-fix-preferences": 201,
+      "feature/294-improve-contributing-doc": 199,
+      "master": 0,
+      "stonzy/add-channel-api": 7
+    },
+    "branch deviation": {
+      "feature/remove-node-12-support": 133,
+      "feature/275-fix-preferences": 201,
+      "feature/294-improve-contributing-doc": 199,
+      "master": 0,
+      "stonzy/add-channel-api": 9
+    },
+    "unsynced activity": {
+      "feature/remove-node-12-support": -2,
+      "feature/275-fix-preferences": -1,
+      "feature/294-improve-contributing-doc": -1,
+      "master": 0,
+      "stonzy/add-channel-api": -3
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "feature/275-fix-preferences"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feature/275-fix-preferences"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "feature/remove-node-12-support",
+          "feature/275-fix-preferences",
+          "feature/294-improve-contributing-doc",
+          "stonzy/add-channel-api"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 29
+    }
+  },
+  "skip_failing_tests": {}
+}

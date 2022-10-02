@@ -1,0 +1,17 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 218.0 days
+Branch dependabot/npm_and_yarn/hosted-git-info-2.8.9 moved away from main with 436 days, 218.0 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/hosted-git-info-2.8.9, 436 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,17 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 541.5 days
+Branch gh-cla moved away from main with 1083 days, 541.5 more than average
+MEDIUM SEVERITY
+Branch gh-cla, 1083 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

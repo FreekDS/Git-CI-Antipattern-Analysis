@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 596.0 days
+Branch changeset-release/master moved away from main with 644 days, 48.0 more than average
+Branch snyk-fix-d69a412456996ed07b9545a4560f4b7a moved away from main with 1144 days, 548.0 more than average
+MEDIUM SEVERITY
+Branch snyk-fix-d69a412456996ed07b9545a4560f4b7a, 1144 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

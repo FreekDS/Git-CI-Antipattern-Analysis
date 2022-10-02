@@ -1,0 +1,142 @@
+{
+  "slow_build": {
+    "utils": {
+      "data": {
+        "2021-04-13T19:37:55Z": 55000.0,
+        "2021-05-07T21:13:34Z": 55333.333333333336,
+        "2021-05-25T11:06:53Z": 56000.0,
+        "2021-06-14T09:19:30Z": 56500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 55708.333333333336,
+      "quartiles": {
+        "q1": 55250.0,
+        "q3": 56125.0,
+        "iqr": 875.0
+      },
+      "classification": {
+        "high_severity": {
+          "74": 60000,
+          "77": 59000,
+          "79": 59000,
+          "85": 60000
+        },
+        "medium_severity": {
+          "81": 57000,
+          "82": 57000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/axios-0.21.4": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/jszip-3.10.1": 0,
+      "master": 0,
+      "release": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/axios-0.21.4": 6,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 79,
+      "dependabot/npm_and_yarn/jszip-3.10.1": -127,
+      "master": 0,
+      "release": 1324
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/axios-0.21.4": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/jszip-3.10.1": 0,
+      "master": 0,
+      "release": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/jszip-3.10.1"
+        ],
+        "high_severity": [
+          "release"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "utils": {
+      "data": [
+        {
+          "started_at": "2021-04-13T19:37:55Z",
+          "used_tool": "TravisCI",
+          "number": 74
+        },
+        {
+          "started_at": "2021-04-13T19:38:15Z",
+          "used_tool": "TravisCI",
+          "number": 76
+        },
+        {
+          "started_at": "2021-05-07T21:13:34Z",
+          "used_tool": "TravisCI",
+          "number": 77
+        },
+        {
+          "started_at": "2021-05-07T21:16:09Z",
+          "used_tool": "TravisCI",
+          "number": 78
+        },
+        {
+          "started_at": "2021-05-11T08:09:14Z",
+          "used_tool": "TravisCI",
+          "number": 79
+        },
+        {
+          "started_at": "2021-05-25T11:06:53Z",
+          "used_tool": "TravisCI",
+          "number": 80
+        },
+        {
+          "started_at": "2021-05-26T00:29:02Z",
+          "used_tool": "TravisCI",
+          "number": 81
+        },
+        {
+          "started_at": "2021-05-26T08:11:18Z",
+          "used_tool": "TravisCI",
+          "number": 82
+        },
+        {
+          "started_at": "2021-05-26T08:26:59Z",
+          "used_tool": "TravisCI",
+          "number": 83
+        },
+        {
+          "started_at": "2021-05-31T12:50:04Z",
+          "used_tool": "TravisCI",
+          "number": 84
+        },
+        {
+          "started_at": "2021-06-14T09:19:30Z",
+          "used_tool": "TravisCI",
+          "number": 85
+        },
+        {
+          "started_at": "2021-06-14T09:20:24Z",
+          "used_tool": "TravisCI",
+          "number": 86
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 12
+    }
+  },
+  "skip_failing_tests": {}
+}

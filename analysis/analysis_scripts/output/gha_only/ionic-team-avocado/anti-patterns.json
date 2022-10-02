@@ -1,0 +1,725 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2021-04-08T03:17:26Z": 1956901.6393442622,
+        "2021-04-15T07:32:50Z": 520107.14285714284,
+        "2021-04-22T14:58:34Z": 1109055.1181102362,
+        "2021-04-29T15:13:44Z": 607540.0,
+        "2021-05-06T15:21:19Z": 518701.2987012987,
+        "2021-05-15T13:48:50Z": 2144489.7959183673,
+        "2021-05-24T05:16:38Z": 595487.1794871795,
+        "2021-06-03T16:47:30Z": 736800.0,
+        "2021-06-10T16:55:39Z": 664000.0,
+        "2021-06-18T12:20:52Z": 1502375.0,
+        "2021-06-25T15:56:22Z": 2809870.9677419355,
+        "2021-07-02T18:26:51Z": 459333.3333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 1135388.4562911463,
+      "quartiles": {
+        "q1": 576642.1703296703,
+        "q3": 1616006.6598360655,
+        "iqr": 1039364.4895063952
+      },
+      "classification": {
+        "high_severity": {
+          "3323": 78922000,
+          "3433": 6538000,
+          "3446": 48108000,
+          "3451": 3969000,
+          "3691": 3362000,
+          "3694": 3781000,
+          "3693": 3543000,
+          "3695": 3920000,
+          "3696": 4908000,
+          "3697": 4141000,
+          "3699": 5056000,
+          "3700": 5939000,
+          "3701": 6298000,
+          "3702": 4376000,
+          "3703": 4164000,
+          "3704": 4631000,
+          "3714": 14759000,
+          "3836": 3351000,
+          "3864": 17348000,
+          "3870": 7658000,
+          "3885": 54004000,
+          "3886": 19460000
+        },
+        "medium_severity": {
+          "3321": 2561000,
+          "3332": 2001000,
+          "3352": 1719000,
+          "3353": 1677000,
+          "3425": 2537000,
+          "3476": 1777000,
+          "3514": 1855000,
+          "3527": 1946000,
+          "3587": 2332000,
+          "3602": 2021000,
+          "3689": 2485000,
+          "3690": 2969000,
+          "3692": 3071000,
+          "3698": 2491000,
+          "3705": 2911000,
+          "3706": 3085000,
+          "3707": 1763000,
+          "3708": 2322000,
+          "3709": 2530000,
+          "3799": 1780000,
+          "3847": 1747000,
+          "3904": 1982000,
+          "3905": 1829000
+        }
+      }
+    },
+    "Capacitor Bot": {
+      "data": {
+        "2021-04-08T05:19:14Z": 20328.76712328767,
+        "2021-04-15T07:29:56Z": 20661.53846153846,
+        "2021-04-22T07:32:53Z": 21451.327433628318,
+        "2021-04-29T07:32:59Z": 21779.661016949154,
+        "2021-05-06T10:42:18Z": 155278.26086956522,
+        "2021-05-13T20:08:56Z": 275061.2244897959,
+        "2021-05-20T22:06:47Z": 23492.46231155779,
+        "2021-05-27T23:24:40Z": 19947.82608695652,
+        "2021-06-04T14:13:43Z": 20101.85185185185,
+        "2021-06-11T14:45:42Z": 19673.91304347826,
+        "2021-06-18T14:53:35Z": 17842.696629213482,
+        "2021-06-25T15:56:22Z": 222086.02150537635,
+        "2021-07-02T17:41:22Z": 19333.333333333332
+      },
+      "tool": "Github Actions",
+      "total avg": 65926.06801204095,
+      "quartiles": {
+        "q1": 19947.82608695652,
+        "q3": 23492.46231155779,
+        "iqr": 3544.6362246012686
+      },
+      "classification": {
+        "high_severity": {
+          "4573": 30000,
+          "4582": 47000,
+          "4583": 49000,
+          "4625": 30000,
+          "4635": 30000,
+          "4653": 43000,
+          "4664": 29000,
+          "4726": 34000,
+          "4742": 29000,
+          "4744": 84000,
+          "4745": 31000,
+          "4752": 78000,
+          "4788": 84000,
+          "4867": 83000,
+          "4876": 83000,
+          "4879": 33000,
+          "4886": 35000,
+          "4901": 52000,
+          "4904": 14100000,
+          "4909": 1415000,
+          "4910": 60000,
+          "4913": 34000,
+          "4946": 33000,
+          "4972": 78000,
+          "5019": 46000,
+          "5032": 21095000,
+          "5061": 2679000,
+          "5062": 209000,
+          "5063": 175000,
+          "5064": 225000,
+          "5065": 168000,
+          "5066": 159000,
+          "5067": 158000,
+          "5068": 158000,
+          "5069": 159000,
+          "5112": 37000,
+          "5114": 36000,
+          "5131": 79000,
+          "5194": 627000,
+          "5195": 189000,
+          "5197": 30000,
+          "5230": 29000,
+          "5263": 51000,
+          "5299": 34000,
+          "5328": 30000,
+          "5378": 37000,
+          "5392": 41000,
+          "5401": 32000,
+          "5415": 79000,
+          "5526": 83000,
+          "5554": 30000,
+          "5566": 54000,
+          "5587": 32000,
+          "5639": 32000,
+          "5750": 44000,
+          "5768": 18991000,
+          "5820": 43000,
+          "5851": 30000,
+          "5856": 34000,
+          "5911": 39000,
+          "5914": 36000,
+          "5928": 78000,
+          "5929": 71000
+        },
+        "medium_severity": {
+          "4551": 24000,
+          "4574": 25000,
+          "4609": 24000,
+          "4636": 27000,
+          "4639": 24000,
+          "4648": 25000,
+          "4657": 25000,
+          "4671": 24000,
+          "4676": 24000,
+          "4677": 24000,
+          "4679": 25000,
+          "4688": 24000,
+          "4729": 24000,
+          "4738": 24000,
+          "4748": 24000,
+          "4755": 27000,
+          "4764": 24000,
+          "4771": 24000,
+          "4786": 27000,
+          "4794": 26000,
+          "4859": 27000,
+          "4884": 24000,
+          "4885": 24000,
+          "4908": 25000,
+          "4911": 25000,
+          "4912": 28000,
+          "4920": 25000,
+          "4927": 24000,
+          "4936": 24000,
+          "4973": 24000,
+          "5010": 25000,
+          "5040": 28000,
+          "5073": 24000,
+          "5089": 24000,
+          "5094": 24000,
+          "5256": 24000,
+          "5287": 28000,
+          "5289": 24000,
+          "5297": 24000,
+          "5298": 24000,
+          "5300": 24000,
+          "5307": 25000,
+          "5310": 24000,
+          "5311": 25000,
+          "5355": 24000,
+          "5373": 24000,
+          "5377": 26000,
+          "5406": 27000,
+          "5433": 27000,
+          "5445": 27000,
+          "5446": 26000,
+          "5447": 25000,
+          "5483": 25000,
+          "5495": 25000,
+          "5563": 27000,
+          "5567": 24000,
+          "5609": 28000,
+          "5875": 27000,
+          "5915": 28000
+        }
+      }
+    },
+    "Close old issues that need reply": {
+      "data": {
+        "2021-04-08T00:07:53Z": 20875.0,
+        "2021-04-16T00:05:21Z": 18285.714285714286,
+        "2021-04-23T00:05:56Z": 17500.0,
+        "2021-05-01T00:03:18Z": 19875.0,
+        "2021-05-09T00:01:35Z": 19142.85714285714,
+        "2021-05-16T00:04:28Z": 19857.14285714286,
+        "2021-05-23T00:04:38Z": 17428.571428571428,
+        "2021-05-30T00:15:16Z": 24375.0,
+        "2021-06-07T00:08:43Z": 46250.0,
+        "2021-06-15T00:02:18Z": 21285.714285714286,
+        "2021-06-22T00:02:42Z": 32875.0,
+        "2021-06-30T00:02:16Z": 16714.285714285714,
+        "2021-07-07T00:02:30Z": 18000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 22497.25274725275,
+      "quartiles": {
+        "q1": 18000.0,
+        "q3": 21285.714285714286,
+        "iqr": 3285.7142857142862
+      },
+      "classification": {
+        "high_severity": {
+          "303": 47000,
+          "360": 80000,
+          "367": 203000,
+          "368": 63000,
+          "374": 40000,
+          "380": 42000,
+          "381": 49000,
+          "383": 80000
+        },
+        "medium_severity": {
+          "315": 22000,
+          "324": 24000,
+          "326": 22000,
+          "334": 22000,
+          "338": 23000,
+          "339": 23000,
+          "341": 26000,
+          "342": 22000,
+          "350": 22000,
+          "371": 22000,
+          "375": 22000,
+          "377": 22000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.x": 0,
+      "2.x": 0,
+      "3.x": 0,
+      "android-api-scope": 0,
+      "android-bridge-access": 0,
+      "android-http-error-info": 0,
+      "capacitor-4": 89,
+      "carthage-build": 0,
+      "configurable-cordova-paths": 0,
+      "cookies/poc": 0,
+      "embedded-android": 0,
+      "feat/cli-build-command-android": 0,
+      "feat/cli-build-command-ios": 0,
+      "feat/cookies": 0,
+      "feat/cookies-http-merged": 0,
+      "feat/enviroment-configs": 0,
+      "feat/http": 0,
+      "feature/android/show-warning-on-old-webview": 0,
+      "feature/cli/auto-adb-reverse": 0,
+      "kotlin-experimental": 0,
+      "main": 0,
+      "native-publish": 0,
+      "perm-helpers": 0,
+      "portals-custom-webview": 0,
+      "portals-dev": 77,
+      "privacy-hotfix": 0
+    },
+    "branch deviation": {
+      "1.x": 771,
+      "2.x": 326,
+      "3.x": 6,
+      "android-api-scope": 583,
+      "android-bridge-access": 848,
+      "android-http-error-info": 348,
+      "capacitor-4": 89,
+      "carthage-build": 309,
+      "configurable-cordova-paths": 124,
+      "cookies/poc": 101,
+      "embedded-android": 708,
+      "feat/cli-build-command-android": 1,
+      "feat/cli-build-command-ios": 0,
+      "feat/cookies": 16,
+      "feat/cookies-http-merged": 1,
+      "feat/enviroment-configs": 29,
+      "feat/http": 16,
+      "feature/android/show-warning-on-old-webview": 110,
+      "feature/cli/auto-adb-reverse": 111,
+      "kotlin-experimental": 236,
+      "main": 0,
+      "native-publish": 42,
+      "perm-helpers": 635,
+      "portals-custom-webview": 61,
+      "portals-dev": 77,
+      "privacy-hotfix": 704
+    },
+    "unsynced activity": {
+      "1.x": 0,
+      "2.x": 0,
+      "3.x": 0,
+      "android-api-scope": 0,
+      "android-bridge-access": 0,
+      "android-http-error-info": 0,
+      "capacitor-4": -1,
+      "carthage-build": 0,
+      "configurable-cordova-paths": 0,
+      "cookies/poc": 0,
+      "embedded-android": 0,
+      "feat/cli-build-command-android": 0,
+      "feat/cli-build-command-ios": 0,
+      "feat/cookies": 0,
+      "feat/cookies-http-merged": 0,
+      "feat/enviroment-configs": 0,
+      "feat/http": 0,
+      "feature/android/show-warning-on-old-webview": 0,
+      "feature/cli/auto-adb-reverse": 0,
+      "kotlin-experimental": 0,
+      "main": 0,
+      "native-publish": 0,
+      "perm-helpers": 0,
+      "portals-custom-webview": 0,
+      "portals-dev": -1,
+      "privacy-hotfix": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "capacitor-4",
+          "portals-dev"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "1.x",
+          "android-api-scope",
+          "android-http-error-info",
+          "embedded-android",
+          "perm-helpers",
+          "privacy-hotfix"
+        ],
+        "high_severity": [
+          "android-bridge-access"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "capacitor-4",
+          "portals-dev"
+        ]
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "CI": {
+      "data": [
+        {
+          "started_at": "2021-05-03T19:24:47Z",
+          "used_tool": "Github Actions",
+          "number": 3576
+        },
+        {
+          "started_at": "2021-05-06T13:41:27Z",
+          "used_tool": "Github Actions",
+          "number": 3598
+        },
+        {
+          "started_at": "2021-05-06T16:18:06Z",
+          "used_tool": "Github Actions",
+          "number": 3615
+        },
+        {
+          "started_at": "2021-05-15T13:48:50Z",
+          "used_tool": "Github Actions",
+          "number": 3684
+        },
+        {
+          "started_at": "2021-05-18T20:47:43Z",
+          "used_tool": "Github Actions",
+          "number": 3715
+        },
+        {
+          "started_at": "2021-05-18T21:26:26Z",
+          "used_tool": "Github Actions",
+          "number": 3717
+        },
+        {
+          "started_at": "2021-06-24T13:35:30Z",
+          "used_tool": "Github Actions",
+          "number": 3864
+        },
+        {
+          "started_at": "2021-06-25T08:20:07Z",
+          "used_tool": "Github Actions",
+          "number": 3869
+        },
+        {
+          "started_at": "2021-06-28T19:12:04Z",
+          "used_tool": "Github Actions",
+          "number": 3878
+        },
+        {
+          "started_at": "2021-06-30T15:53:28Z",
+          "used_tool": "Github Actions",
+          "number": 3888
+        },
+        {
+          "started_at": "2021-07-07T18:11:22Z",
+          "used_tool": "Github Actions",
+          "number": 3927
+        },
+        {
+          "started_at": "2021-07-07T18:12:03Z",
+          "used_tool": "Github Actions",
+          "number": 3928
+        },
+        {
+          "started_at": "2021-07-07T18:14:40Z",
+          "used_tool": "Github Actions",
+          "number": 3929
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 97
+    },
+    "Capacitor Bot": {
+      "data": [
+        {
+          "started_at": "2021-04-15T13:54:44Z",
+          "used_tool": "Github Actions",
+          "number": 4612
+        },
+        {
+          "started_at": "2021-04-20T09:33:50Z",
+          "used_tool": "Github Actions",
+          "number": 4643
+        },
+        {
+          "started_at": "2021-04-20T10:14:16Z",
+          "used_tool": "Github Actions",
+          "number": 4647
+        },
+        {
+          "started_at": "2021-04-26T07:11:14Z",
+          "used_tool": "Github Actions",
+          "number": 4703
+        },
+        {
+          "started_at": "2021-04-27T16:39:48Z",
+          "used_tool": "Github Actions",
+          "number": 4745
+        },
+        {
+          "started_at": "2021-04-30T07:36:00Z",
+          "used_tool": "Github Actions",
+          "number": 4800
+        },
+        {
+          "started_at": "2021-04-30T12:54:54Z",
+          "used_tool": "Github Actions",
+          "number": 4802
+        },
+        {
+          "started_at": "2021-04-30T12:55:16Z",
+          "used_tool": "Github Actions",
+          "number": 4803
+        },
+        {
+          "started_at": "2021-04-30T12:57:27Z",
+          "used_tool": "Github Actions",
+          "number": 4804
+        },
+        {
+          "started_at": "2021-04-30T12:58:06Z",
+          "used_tool": "Github Actions",
+          "number": 4805
+        },
+        {
+          "started_at": "2021-04-30T13:00:57Z",
+          "used_tool": "Github Actions",
+          "number": 4806
+        },
+        {
+          "started_at": "2021-04-30T13:02:35Z",
+          "used_tool": "Github Actions",
+          "number": 4807
+        },
+        {
+          "started_at": "2021-05-02T09:30:48Z",
+          "used_tool": "Github Actions",
+          "number": 4855
+        },
+        {
+          "started_at": "2021-05-18T14:15:21Z",
+          "used_tool": "Github Actions",
+          "number": 5062
+        },
+        {
+          "started_at": "2021-05-18T15:00:21Z",
+          "used_tool": "Github Actions",
+          "number": 5063
+        },
+        {
+          "started_at": "2021-05-18T15:03:55Z",
+          "used_tool": "Github Actions",
+          "number": 5064
+        },
+        {
+          "started_at": "2021-05-18T15:08:32Z",
+          "used_tool": "Github Actions",
+          "number": 5065
+        },
+        {
+          "started_at": "2021-05-18T15:51:08Z",
+          "used_tool": "Github Actions",
+          "number": 5066
+        },
+        {
+          "started_at": "2021-05-18T17:31:15Z",
+          "used_tool": "Github Actions",
+          "number": 5067
+        },
+        {
+          "started_at": "2021-05-18T17:37:42Z",
+          "used_tool": "Github Actions",
+          "number": 5068
+        },
+        {
+          "started_at": "2021-05-18T17:38:58Z",
+          "used_tool": "Github Actions",
+          "number": 5069
+        },
+        {
+          "started_at": "2021-05-20T05:08:00Z",
+          "used_tool": "Github Actions",
+          "number": 5104
+        },
+        {
+          "started_at": "2021-05-23T07:43:15Z",
+          "used_tool": "Github Actions",
+          "number": 5159
+        },
+        {
+          "started_at": "2021-05-24T18:25:55Z",
+          "used_tool": "Github Actions",
+          "number": 5205
+        },
+        {
+          "started_at": "2021-05-24T18:30:48Z",
+          "used_tool": "Github Actions",
+          "number": 5206
+        },
+        {
+          "started_at": "2021-05-24T18:34:19Z",
+          "used_tool": "Github Actions",
+          "number": 5207
+        },
+        {
+          "started_at": "2021-05-24T18:35:51Z",
+          "used_tool": "Github Actions",
+          "number": 5208
+        },
+        {
+          "started_at": "2021-05-24T18:37:22Z",
+          "used_tool": "Github Actions",
+          "number": 5209
+        },
+        {
+          "started_at": "2021-06-01T10:53:17Z",
+          "used_tool": "Github Actions",
+          "number": 5358
+        },
+        {
+          "started_at": "2021-06-01T10:54:24Z",
+          "used_tool": "Github Actions",
+          "number": 5359
+        },
+        {
+          "started_at": "2021-06-01T10:55:01Z",
+          "used_tool": "Github Actions",
+          "number": 5360
+        },
+        {
+          "started_at": "2021-06-01T14:23:29Z",
+          "used_tool": "Github Actions",
+          "number": 5367
+        },
+        {
+          "started_at": "2021-06-01T14:24:50Z",
+          "used_tool": "Github Actions",
+          "number": 5368
+        },
+        {
+          "started_at": "2021-06-01T14:25:27Z",
+          "used_tool": "Github Actions",
+          "number": 5369
+        },
+        {
+          "started_at": "2021-06-05T10:19:13Z",
+          "used_tool": "Github Actions",
+          "number": 5439
+        },
+        {
+          "started_at": "2021-06-05T10:19:57Z",
+          "used_tool": "Github Actions",
+          "number": 5440
+        },
+        {
+          "started_at": "2021-06-07T08:34:15Z",
+          "used_tool": "Github Actions",
+          "number": 5448
+        },
+        {
+          "started_at": "2021-06-07T08:36:10Z",
+          "used_tool": "Github Actions",
+          "number": 5449
+        },
+        {
+          "started_at": "2021-06-19T16:11:15Z",
+          "used_tool": "Github Actions",
+          "number": 5646
+        },
+        {
+          "started_at": "2021-06-22T09:53:50Z",
+          "used_tool": "Github Actions",
+          "number": 5674
+        },
+        {
+          "started_at": "2021-06-22T10:14:27Z",
+          "used_tool": "Github Actions",
+          "number": 5676
+        },
+        {
+          "started_at": "2021-06-24T11:57:40Z",
+          "used_tool": "Github Actions",
+          "number": 5696
+        },
+        {
+          "started_at": "2021-06-24T11:59:41Z",
+          "used_tool": "Github Actions",
+          "number": 5697
+        },
+        {
+          "started_at": "2021-06-28T18:00:02Z",
+          "used_tool": "Github Actions",
+          "number": 5744
+        },
+        {
+          "started_at": "2021-07-02T08:29:31Z",
+          "used_tool": "Github Actions",
+          "number": 5798
+        },
+        {
+          "started_at": "2021-07-03T13:13:52Z",
+          "used_tool": "Github Actions",
+          "number": 5824
+        },
+        {
+          "started_at": "2021-07-03T13:17:26Z",
+          "used_tool": "Github Actions",
+          "number": 5825
+        },
+        {
+          "started_at": "2021-07-03T13:21:51Z",
+          "used_tool": "Github Actions",
+          "number": 5826
+        },
+        {
+          "started_at": "2021-07-07T14:49:36Z",
+          "used_tool": "Github Actions",
+          "number": 5910
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 1318
+    },
+    "Close old issues that need reply": {
+      "data": [],
+      "release_build_count": 91
+    }
+  },
+  "skip_failing_tests": {}
+}

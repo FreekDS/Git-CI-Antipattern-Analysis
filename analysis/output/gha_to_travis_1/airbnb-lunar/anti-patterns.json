@@ -1,219 +1,161 @@
 {
   "slow_build": {
-    "": {
-      "data": {
-        "2019-11-13T21:25:28Z": 430.0
-      },
-      "tool": "Github Actions",
-      "total avg": 430.0,
-      "quartiles": {
-        "q1": 430.0,
-        "q3": 430.0,
-        "iqr": 0.0
-      },
-      "classification": {
-        "high_severity": {
-          "88": 1000,
-          "89": 1000,
-          "98": 1000,
-          "100": 1000,
-          "101": 1000,
-          "107": 1000,
-          "110": 1000,
-          "112": 1000,
-          "113": 1000,
-          "114": 1000,
-          "115": 1000,
-          "118": 1000,
-          "119": 1000,
-          "120": 1000,
-          "123": 1000,
-          "124": 1000,
-          "125": 1000,
-          "127": 1000,
-          "132": 1000,
-          "133": 1000,
-          "134": 1000,
-          "135": 1000,
-          "138": 1000,
-          "139": 1000,
-          "142": 1000,
-          "143": 1000,
-          "147": 1000,
-          "150": 1000,
-          "151": 1000,
-          "153": 1000,
-          "163": 1000,
-          "169": 1000,
-          "171": 1000,
-          "172": 1000,
-          "175": 1000,
-          "177": 1000,
-          "179": 1000,
-          "180": 1000,
-          "181": 1000,
-          "182": 1000,
-          "185": 1000,
-          "186": 1000,
-          "187": 1000
-        },
-        "medium_severity": {}
-      }
-    },
     "lunar": {
       "data": {
-        "2019-09-30T20:53:58Z": 1999066.6666666667,
-        "2019-10-07T21:27:06Z": 2424424.657534247,
-        "2019-10-16T00:34:03Z": 1966100.0,
-        "2019-10-23T05:07:36Z": 2397218.75,
-        "2019-10-30T18:32:53Z": 2839312.5,
-        "2019-11-06T18:33:37Z": 2404047.619047619,
-        "2019-11-13T18:34:54Z": 2545428.5714285714
+        "2019-04-01T16:30:30Z": 1484194.4444444445,
+        "2019-04-08T17:30:58Z": 1269156.862745098,
+        "2019-04-15T18:05:09Z": 2103616.4383561644,
+        "2019-04-22T18:09:57Z": 2182579.4392523365,
+        "2019-04-29T18:47:29Z": 2135333.3333333335,
+        "2019-05-06T19:30:57Z": 2079720.0
       },
       "tool": "TravisCI",
-      "total avg": 2367942.6806681575,
+      "total avg": 1875766.7530218961,
       "quartiles": {
-        "q1": 2198142.7083333335,
-        "q3": 2484926.614481409,
-        "iqr": 286783.9061480756
+        "q1": 1633075.8333333335,
+        "q3": 2127404.109589041,
+        "iqr": 494328.2762557077
       },
       "classification": {
         "high_severity": {
-          "1666": 3106000,
-          "1691": 3237000,
-          "1699": 3351000,
-          "1706": 3072000,
-          "1707": 3083000,
-          "1708": 3225000,
-          "1712": 3586000,
-          "1714": 3284000,
-          "1717": 3285000,
-          "1719": 3361000,
-          "1721": 3000000,
-          "1727": 2919000,
-          "1728": 3000000,
-          "1730": 3219000,
-          "1731": 3357000,
-          "1734": 3034000,
-          "1735": 2943000,
-          "1741": 3049000,
-          "1742": 3079000,
-          "1746": 3019000,
-          "1749": 3146000,
-          "1752": 3155000,
-          "1754": 2916000,
-          "1758": 2953000,
-          "1759": 3010000,
-          "1763": 3134000,
-          "1767": 2967000,
-          "1768": 2967000,
-          "1773": 2922000,
-          "1785": 3053000,
-          "1787": 3031000,
-          "1789": 3144000,
-          "1790": 4706000,
-          "1792": 2951000,
-          "1793": 3043000,
-          "1795": 3150000,
-          "1799": 3129000,
-          "1804": 3217000,
-          "1808": 3193000,
-          "1811": 3138000,
-          "1815": 3199000,
-          "1816": 3161000,
-          "1821": 3115000,
-          "1823": 3140000,
-          "1827": 3093000,
-          "1828": 3238000,
-          "1831": 3239000,
-          "1834": 3617000,
-          "1837": 3864000,
-          "1840": 3512000,
-          "1844": 3592000,
-          "1846": 3382000,
-          "1848": 4273000,
-          "1851": 3561000,
-          "1857": 3369000,
-          "1859": 3321000,
-          "1861": 3545000,
-          "1863": 3534000,
-          "1868": 3248000,
-          "1870": 3638000,
-          "1880": 3448000,
-          "1882": 3411000,
-          "1885": 3660000,
-          "1887": 3313000,
-          "1892": 3363000,
-          "1895": 3513000,
-          "1898": 3466000,
-          "1899": 3078000,
-          "1905": 3459000,
-          "1913": 4341000,
-          "1923": 3501000,
-          "1931": 3516000,
-          "1936": 4276000,
-          "1937": 5084000,
-          "1945": 3333000,
-          "1946": 4473000,
-          "1947": 5019000,
-          "1949": 3198000,
-          "1955": 3386000,
-          "1957": 3485000,
-          "1965": 4796000,
-          "1967": 4695000,
-          "1972": 2971000,
-          "1979": 3500000,
-          "1981": 3307000
+          "115": 2902000,
+          "156": 2910000,
+          "159": 3419000,
+          "160": 3047000,
+          "161": 2953000,
+          "163": 3189000,
+          "164": 3006000,
+          "165": 3083000,
+          "167": 2936000,
+          "171": 3274000,
+          "236": 2910000,
+          "265": 2911000,
+          "269": 2965000,
+          "338": 3153000,
+          "339": 2919000,
+          "344": 2973000,
+          "371": 2876000,
+          "383": 2909000,
+          "396": 2931000,
+          "397": 2941000,
+          "401": 2877000
         },
         "medium_severity": {
-          "1663": 2712000,
-          "1671": 2857000,
-          "1673": 2777000,
-          "1676": 2875000,
-          "1678": 2682000,
-          "1690": 2695000,
-          "1692": 2717000,
-          "1696": 2795000,
-          "1697": 2643000,
-          "1701": 2649000,
-          "1702": 2592000,
-          "1704": 2552000,
-          "1705": 2688000,
-          "1711": 2713000,
-          "1732": 2728000,
-          "1737": 2758000,
-          "1739": 2791000,
-          "1791": 2529000,
-          "1796": 2702000,
-          "1829": 2866000,
-          "1835": 2874000,
-          "1836": 2567000,
-          "1838": 2839000,
-          "1839": 2885000,
-          "1841": 2792000,
-          "1845": 2551000,
-          "1847": 2536000,
-          "1849": 2769000,
-          "1853": 2636000,
-          "1860": 2893000,
-          "1864": 2770000,
-          "1883": 2822000,
-          "1896": 2635000,
-          "1901": 2766000,
-          "1902": 2684000,
-          "1903": 2599000,
-          "1906": 2793000,
-          "1907": 2505000,
-          "1908": 2639000,
-          "1929": 2867000,
-          "1950": 2721000,
-          "1958": 2747000,
-          "1960": 2823000,
-          "1962": 2831000,
-          "1964": 2686000,
-          "1966": 2661000,
-          "1968": 2648000,
-          "1970": 2860000
+          "57": 2306000,
+          "81": 2375000,
+          "95": 2288000,
+          "103": 2214000,
+          "108": 2132000,
+          "123": 2848000,
+          "147": 2829000,
+          "162": 2554000,
+          "183": 2682000,
+          "188": 2631000,
+          "189": 2751000,
+          "190": 2632000,
+          "192": 2728000,
+          "193": 2797000,
+          "195": 2582000,
+          "196": 2772000,
+          "198": 2692000,
+          "201": 2581000,
+          "205": 2583000,
+          "207": 2517000,
+          "209": 2789000,
+          "210": 2630000,
+          "211": 2133000,
+          "212": 2424000,
+          "213": 2562000,
+          "214": 2565000,
+          "216": 2167000,
+          "220": 2369000,
+          "223": 2358000,
+          "226": 2337000,
+          "228": 2398000,
+          "231": 2399000,
+          "233": 2571000,
+          "237": 2618000,
+          "238": 2628000,
+          "242": 2768000,
+          "243": 2713000,
+          "245": 2727000,
+          "246": 2808000,
+          "247": 2156000,
+          "248": 2600000,
+          "251": 2129000,
+          "252": 2619000,
+          "253": 2764000,
+          "255": 2652000,
+          "256": 2743000,
+          "257": 2607000,
+          "258": 2782000,
+          "262": 2660000,
+          "264": 2563000,
+          "267": 2642000,
+          "268": 2681000,
+          "271": 2598000,
+          "272": 2612000,
+          "274": 2644000,
+          "278": 2625000,
+          "280": 2592000,
+          "281": 2327000,
+          "279": 2188000,
+          "284": 2860000,
+          "290": 2527000,
+          "291": 2486000,
+          "292": 2620000,
+          "293": 2171000,
+          "296": 2681000,
+          "298": 2687000,
+          "300": 2748000,
+          "301": 2619000,
+          "303": 2578000,
+          "304": 2626000,
+          "305": 2602000,
+          "306": 2715000,
+          "307": 2633000,
+          "308": 2607000,
+          "309": 2195000,
+          "310": 2167000,
+          "311": 2735000,
+          "314": 2636000,
+          "319": 2644000,
+          "320": 2842000,
+          "321": 2818000,
+          "322": 2613000,
+          "323": 2651000,
+          "324": 2850000,
+          "325": 2140000,
+          "326": 2695000,
+          "328": 2647000,
+          "331": 2679000,
+          "333": 2618000,
+          "336": 2861000,
+          "340": 2178000,
+          "341": 2530000,
+          "342": 2176000,
+          "343": 2799000,
+          "345": 2736000,
+          "346": 2736000,
+          "348": 2696000,
+          "350": 2734000,
+          "358": 2718000,
+          "363": 2742000,
+          "365": 2803000,
+          "367": 2646000,
+          "374": 2755000,
+          "375": 2694000,
+          "376": 2164000,
+          "380": 2794000,
+          "381": 2754000,
+          "382": 2780000,
+          "386": 2143000,
+          "388": 2284000,
+          "389": 2155000,
+          "390": 2719000,
+          "394": 2163000,
+          "395": 2380000,
+          "400": 2806000
         }
       }
     }
@@ -331,770 +273,619 @@
         ]
       }
     },
-    "build_count": 2
+    "build_count": 1
   },
   "broken_release": {
-    "": {
-      "data": [
-        {
-          "started_at": "2019-11-13T21:25:28Z",
-          "used_tool": "Github Actions",
-          "number": 88
-        },
-        {
-          "started_at": "2019-11-13T21:25:28Z",
-          "used_tool": "Github Actions",
-          "number": 89
-        },
-        {
-          "started_at": "2019-11-13T21:28:37Z",
-          "used_tool": "Github Actions",
-          "number": 90
-        },
-        {
-          "started_at": "2019-11-13T21:29:19Z",
-          "used_tool": "Github Actions",
-          "number": 91
-        },
-        {
-          "started_at": "2019-11-13T21:30:43Z",
-          "used_tool": "Github Actions",
-          "number": 92
-        },
-        {
-          "started_at": "2019-11-13T21:30:44Z",
-          "used_tool": "Github Actions",
-          "number": 93
-        },
-        {
-          "started_at": "2019-11-13T21:41:13Z",
-          "used_tool": "Github Actions",
-          "number": 94
-        },
-        {
-          "started_at": "2019-11-13T21:48:08Z",
-          "used_tool": "Github Actions",
-          "number": 95
-        },
-        {
-          "started_at": "2019-11-13T21:49:24Z",
-          "used_tool": "Github Actions",
-          "number": 96
-        },
-        {
-          "started_at": "2019-11-13T21:49:33Z",
-          "used_tool": "Github Actions",
-          "number": 97
-        },
-        {
-          "started_at": "2019-11-13T21:49:33Z",
-          "used_tool": "Github Actions",
-          "number": 98
-        },
-        {
-          "started_at": "2019-11-13T22:03:21Z",
-          "used_tool": "Github Actions",
-          "number": 99
-        },
-        {
-          "started_at": "2019-11-13T22:03:22Z",
-          "used_tool": "Github Actions",
-          "number": 100
-        },
-        {
-          "started_at": "2019-11-13T22:03:24Z",
-          "used_tool": "Github Actions",
-          "number": 101
-        },
-        {
-          "started_at": "2019-11-13T22:03:25Z",
-          "used_tool": "Github Actions",
-          "number": 102
-        },
-        {
-          "started_at": "2019-11-13T22:03:25Z",
-          "used_tool": "Github Actions",
-          "number": 103
-        },
-        {
-          "started_at": "2019-11-13T22:03:26Z",
-          "used_tool": "Github Actions",
-          "number": 104
-        },
-        {
-          "started_at": "2019-11-13T22:03:26Z",
-          "used_tool": "Github Actions",
-          "number": 105
-        },
-        {
-          "started_at": "2019-11-13T22:03:26Z",
-          "used_tool": "Github Actions",
-          "number": 106
-        },
-        {
-          "started_at": "2019-11-13T22:03:28Z",
-          "used_tool": "Github Actions",
-          "number": 107
-        },
-        {
-          "started_at": "2019-11-13T22:03:31Z",
-          "used_tool": "Github Actions",
-          "number": 108
-        },
-        {
-          "started_at": "2019-11-13T22:03:37Z",
-          "used_tool": "Github Actions",
-          "number": 109
-        },
-        {
-          "started_at": "2019-11-13T22:03:38Z",
-          "used_tool": "Github Actions",
-          "number": 110
-        },
-        {
-          "started_at": "2019-11-13T22:03:39Z",
-          "used_tool": "Github Actions",
-          "number": 111
-        },
-        {
-          "started_at": "2019-11-13T22:03:39Z",
-          "used_tool": "Github Actions",
-          "number": 112
-        },
-        {
-          "started_at": "2019-11-13T22:19:04Z",
-          "used_tool": "Github Actions",
-          "number": 113
-        },
-        {
-          "started_at": "2019-11-13T22:24:07Z",
-          "used_tool": "Github Actions",
-          "number": 114
-        },
-        {
-          "started_at": "2019-11-13T22:24:07Z",
-          "used_tool": "Github Actions",
-          "number": 115
-        },
-        {
-          "started_at": "2019-11-13T22:24:08Z",
-          "used_tool": "Github Actions",
-          "number": 116
-        },
-        {
-          "started_at": "2019-11-13T22:24:08Z",
-          "used_tool": "Github Actions",
-          "number": 117
-        },
-        {
-          "started_at": "2019-11-13T22:24:09Z",
-          "used_tool": "Github Actions",
-          "number": 118
-        },
-        {
-          "started_at": "2019-11-13T22:24:10Z",
-          "used_tool": "Github Actions",
-          "number": 119
-        },
-        {
-          "started_at": "2019-11-13T22:24:10Z",
-          "used_tool": "Github Actions",
-          "number": 120
-        },
-        {
-          "started_at": "2019-11-13T22:24:11Z",
-          "used_tool": "Github Actions",
-          "number": 121
-        },
-        {
-          "started_at": "2019-11-13T22:24:11Z",
-          "used_tool": "Github Actions",
-          "number": 122
-        },
-        {
-          "started_at": "2019-11-13T22:24:11Z",
-          "used_tool": "Github Actions",
-          "number": 123
-        },
-        {
-          "started_at": "2019-11-13T22:24:11Z",
-          "used_tool": "Github Actions",
-          "number": 124
-        },
-        {
-          "started_at": "2019-11-13T22:24:12Z",
-          "used_tool": "Github Actions",
-          "number": 125
-        },
-        {
-          "started_at": "2019-11-13T22:24:13Z",
-          "used_tool": "Github Actions",
-          "number": 126
-        },
-        {
-          "started_at": "2019-11-13T22:24:15Z",
-          "used_tool": "Github Actions",
-          "number": 127
-        },
-        {
-          "started_at": "2019-11-13T22:25:25Z",
-          "used_tool": "Github Actions",
-          "number": 128
-        },
-        {
-          "started_at": "2019-11-13T22:25:29Z",
-          "used_tool": "Github Actions",
-          "number": 129
-        },
-        {
-          "started_at": "2019-11-13T22:26:53Z",
-          "used_tool": "Github Actions",
-          "number": 130
-        },
-        {
-          "started_at": "2019-11-13T22:26:53Z",
-          "used_tool": "Github Actions",
-          "number": 131
-        },
-        {
-          "started_at": "2019-11-13T22:35:00Z",
-          "used_tool": "Github Actions",
-          "number": 132
-        },
-        {
-          "started_at": "2019-11-13T22:39:18Z",
-          "used_tool": "Github Actions",
-          "number": 133
-        },
-        {
-          "started_at": "2019-11-13T22:47:24Z",
-          "used_tool": "Github Actions",
-          "number": 134
-        },
-        {
-          "started_at": "2019-11-13T22:48:47Z",
-          "used_tool": "Github Actions",
-          "number": 135
-        },
-        {
-          "started_at": "2019-11-13T22:48:48Z",
-          "used_tool": "Github Actions",
-          "number": 136
-        },
-        {
-          "started_at": "2019-11-14T18:48:53Z",
-          "used_tool": "Github Actions",
-          "number": 137
-        },
-        {
-          "started_at": "2019-11-14T18:48:53Z",
-          "used_tool": "Github Actions",
-          "number": 138
-        },
-        {
-          "started_at": "2019-11-14T18:48:53Z",
-          "used_tool": "Github Actions",
-          "number": 139
-        },
-        {
-          "started_at": "2019-11-14T18:48:54Z",
-          "used_tool": "Github Actions",
-          "number": 140
-        },
-        {
-          "started_at": "2019-11-14T18:48:54Z",
-          "used_tool": "Github Actions",
-          "number": 141
-        },
-        {
-          "started_at": "2019-11-14T18:48:54Z",
-          "used_tool": "Github Actions",
-          "number": 142
-        },
-        {
-          "started_at": "2019-11-14T18:48:54Z",
-          "used_tool": "Github Actions",
-          "number": 143
-        },
-        {
-          "started_at": "2019-11-14T18:48:55Z",
-          "used_tool": "Github Actions",
-          "number": 144
-        },
-        {
-          "started_at": "2019-11-14T18:48:55Z",
-          "used_tool": "Github Actions",
-          "number": 145
-        },
-        {
-          "started_at": "2019-11-14T18:48:56Z",
-          "used_tool": "Github Actions",
-          "number": 146
-        },
-        {
-          "started_at": "2019-11-14T18:48:56Z",
-          "used_tool": "Github Actions",
-          "number": 147
-        },
-        {
-          "started_at": "2019-11-14T18:48:57Z",
-          "used_tool": "Github Actions",
-          "number": 148
-        },
-        {
-          "started_at": "2019-11-14T18:48:57Z",
-          "used_tool": "Github Actions",
-          "number": 149
-        },
-        {
-          "started_at": "2019-11-14T18:54:47Z",
-          "used_tool": "Github Actions",
-          "number": 150
-        },
-        {
-          "started_at": "2019-11-14T19:00:05Z",
-          "used_tool": "Github Actions",
-          "number": 151
-        },
-        {
-          "started_at": "2019-11-14T19:00:54Z",
-          "used_tool": "Github Actions",
-          "number": 152
-        },
-        {
-          "started_at": "2019-11-14T19:02:15Z",
-          "used_tool": "Github Actions",
-          "number": 153
-        },
-        {
-          "started_at": "2019-11-14T19:05:07Z",
-          "used_tool": "Github Actions",
-          "number": 154
-        },
-        {
-          "started_at": "2019-11-14T19:05:08Z",
-          "used_tool": "Github Actions",
-          "number": 155
-        },
-        {
-          "started_at": "2019-11-14T19:07:41Z",
-          "used_tool": "Github Actions",
-          "number": 156
-        },
-        {
-          "started_at": "2019-11-14T19:17:54Z",
-          "used_tool": "Github Actions",
-          "number": 159
-        },
-        {
-          "started_at": "2019-11-14T19:17:55Z",
-          "used_tool": "Github Actions",
-          "number": 160
-        },
-        {
-          "started_at": "2019-11-14T19:17:55Z",
-          "used_tool": "Github Actions",
-          "number": 161
-        },
-        {
-          "started_at": "2019-11-14T19:17:55Z",
-          "used_tool": "Github Actions",
-          "number": 162
-        },
-        {
-          "started_at": "2019-11-14T19:20:50Z",
-          "used_tool": "Github Actions",
-          "number": 163
-        },
-        {
-          "started_at": "2019-11-14T19:20:51Z",
-          "used_tool": "Github Actions",
-          "number": 167
-        },
-        {
-          "started_at": "2019-11-14T19:20:51Z",
-          "used_tool": "Github Actions",
-          "number": 169
-        },
-        {
-          "started_at": "2019-11-14T19:20:52Z",
-          "used_tool": "Github Actions",
-          "number": 170
-        },
-        {
-          "started_at": "2019-11-14T19:20:52Z",
-          "used_tool": "Github Actions",
-          "number": 171
-        },
-        {
-          "started_at": "2019-11-14T19:20:52Z",
-          "used_tool": "Github Actions",
-          "number": 172
-        },
-        {
-          "started_at": "2019-11-14T19:25:01Z",
-          "used_tool": "Github Actions",
-          "number": 174
-        },
-        {
-          "started_at": "2019-11-14T19:25:01Z",
-          "used_tool": "Github Actions",
-          "number": 175
-        },
-        {
-          "started_at": "2019-11-14T19:25:02Z",
-          "used_tool": "Github Actions",
-          "number": 176
-        },
-        {
-          "started_at": "2019-11-14T19:25:02Z",
-          "used_tool": "Github Actions",
-          "number": 177
-        },
-        {
-          "started_at": "2019-11-14T19:25:05Z",
-          "used_tool": "Github Actions",
-          "number": 179
-        },
-        {
-          "started_at": "2019-11-14T19:25:06Z",
-          "used_tool": "Github Actions",
-          "number": 180
-        },
-        {
-          "started_at": "2019-11-14T19:25:06Z",
-          "used_tool": "Github Actions",
-          "number": 181
-        },
-        {
-          "started_at": "2019-11-14T19:25:06Z",
-          "used_tool": "Github Actions",
-          "number": 182
-        },
-        {
-          "started_at": "2019-11-14T19:25:07Z",
-          "used_tool": "Github Actions",
-          "number": 183
-        },
-        {
-          "started_at": "2019-11-14T19:25:07Z",
-          "used_tool": "Github Actions",
-          "number": 184
-        },
-        {
-          "started_at": "2019-11-14T19:26:29Z",
-          "used_tool": "Github Actions",
-          "number": 185
-        },
-        {
-          "started_at": "2019-11-14T19:28:15Z",
-          "used_tool": "Github Actions",
-          "number": 186
-        },
-        {
-          "started_at": "2019-11-14T19:32:46Z",
-          "used_tool": "Github Actions",
-          "number": 187
-        }
-      ],
-      "tool": "Github Actions",
-      "release_build_count": 92
-    },
     "lunar": {
       "data": [
         {
-          "started_at": "2019-10-07T16:12:13Z",
+          "started_at": "2019-04-01T16:30:33Z",
           "used_tool": "TravisCI",
-          "number": 1681
+          "number": 2
         },
         {
-          "started_at": "2019-10-07T16:37:14Z",
+          "started_at": "2019-04-01T17:18:52Z",
           "used_tool": "TravisCI",
-          "number": 1682
+          "number": 4
         },
         {
-          "started_at": "2019-10-07T16:42:41Z",
+          "started_at": "2019-04-01T17:35:11Z",
           "used_tool": "TravisCI",
-          "number": 1683
+          "number": 6
         },
         {
-          "started_at": "2019-10-07T17:04:30Z",
+          "started_at": "2019-04-01T18:01:27Z",
           "used_tool": "TravisCI",
-          "number": 1684
+          "number": 8
         },
         {
-          "started_at": "2019-10-07T17:08:53Z",
+          "started_at": "2019-04-01T21:02:20Z",
           "used_tool": "TravisCI",
-          "number": 1685
+          "number": 10
         },
         {
-          "started_at": "2019-10-07T18:31:18Z",
+          "started_at": "2019-04-02T02:07:16Z",
           "used_tool": "TravisCI",
-          "number": 1687
+          "number": 21
         },
         {
-          "started_at": "2019-10-07T18:32:31Z",
+          "started_at": "2019-04-02T16:38:20Z",
           "used_tool": "TravisCI",
-          "number": 1686
+          "number": 24
         },
         {
-          "started_at": "2019-10-07T18:41:36Z",
+          "started_at": "2019-04-02T21:54:31Z",
           "used_tool": "TravisCI",
-          "number": 1688
+          "number": 27
         },
         {
-          "started_at": "2019-10-07T19:11:04Z",
+          "started_at": "2019-04-04T17:00:41Z",
           "used_tool": "TravisCI",
-          "number": 1689
+          "number": 46
         },
         {
-          "started_at": "2019-10-08T18:00:30Z",
+          "started_at": "2019-04-05T21:28:43Z",
           "used_tool": "TravisCI",
-          "number": 1698
+          "number": 64
         },
         {
-          "started_at": "2019-10-08T18:18:02Z",
+          "started_at": "2019-04-06T00:06:39Z",
           "used_tool": "TravisCI",
-          "number": 1701
+          "number": 66
         },
         {
-          "started_at": "2019-10-08T18:27:51Z",
+          "started_at": "2019-04-06T00:14:59Z",
           "used_tool": "TravisCI",
-          "number": 1702
+          "number": 68
         },
         {
-          "started_at": "2019-10-08T18:49:20Z",
+          "started_at": "2019-04-06T01:51:57Z",
           "used_tool": "TravisCI",
-          "number": 1703
+          "number": 70
         },
         {
-          "started_at": "2019-10-08T18:56:56Z",
+          "started_at": "2019-04-06T02:17:59Z",
           "used_tool": "TravisCI",
-          "number": 1704
+          "number": 72
         },
         {
-          "started_at": "2019-10-08T20:00:19Z",
+          "started_at": "2019-04-06T21:16:11Z",
           "used_tool": "TravisCI",
-          "number": 1705
+          "number": 74
         },
         {
-          "started_at": "2019-10-10T22:47:01Z",
+          "started_at": "2019-04-08T17:31:01Z",
           "used_tool": "TravisCI",
-          "number": 1744
+          "number": 76
         },
         {
-          "started_at": "2019-10-16T01:58:20Z",
+          "started_at": "2019-04-08T19:12:17Z",
           "used_tool": "TravisCI",
-          "number": 1777
+          "number": 80
         },
         {
-          "started_at": "2019-10-16T04:38:57Z",
+          "started_at": "2019-04-08T19:20:22Z",
           "used_tool": "TravisCI",
-          "number": 1779
+          "number": 78
         },
         {
-          "started_at": "2019-10-16T04:47:48Z",
+          "started_at": "2019-04-08T21:05:01Z",
           "used_tool": "TravisCI",
-          "number": 1781
+          "number": 82
         },
         {
-          "started_at": "2019-10-16T15:39:55Z",
+          "started_at": "2019-04-08T21:07:56Z",
           "used_tool": "TravisCI",
-          "number": 1783
+          "number": 83
         },
         {
-          "started_at": "2019-10-22T21:15:53Z",
+          "started_at": "2019-04-08T21:14:42Z",
           "used_tool": "TravisCI",
-          "number": 1790
+          "number": 84
         },
         {
-          "started_at": "2019-10-22T22:19:44Z",
+          "started_at": "2019-04-08T21:45:44Z",
           "used_tool": "TravisCI",
-          "number": 1791
+          "number": 85
         },
         {
-          "started_at": "2019-10-23T05:15:36Z",
+          "started_at": "2019-04-08T21:47:48Z",
           "used_tool": "TravisCI",
-          "number": 1796
+          "number": 86
         },
         {
-          "started_at": "2019-10-24T16:57:22Z",
+          "started_at": "2019-04-08T21:54:06Z",
           "used_tool": "TravisCI",
-          "number": 1800
+          "number": 88
         },
         {
-          "started_at": "2019-10-24T17:09:45Z",
+          "started_at": "2019-04-08T21:58:51Z",
           "used_tool": "TravisCI",
-          "number": 1801
+          "number": 90
         },
         {
-          "started_at": "2019-10-29T04:19:28Z",
+          "started_at": "2019-04-08T22:53:24Z",
           "used_tool": "TravisCI",
-          "number": 1819
+          "number": 96
         },
         {
-          "started_at": "2019-10-30T21:15:21Z",
+          "started_at": "2019-04-08T23:11:58Z",
           "used_tool": "TravisCI",
-          "number": 1831
+          "number": 97
         },
         {
-          "started_at": "2019-11-04T19:50:04Z",
+          "started_at": "2019-04-08T23:13:06Z",
           "used_tool": "TravisCI",
-          "number": 1839
+          "number": 98
         },
         {
-          "started_at": "2019-11-05T22:35:55Z",
+          "started_at": "2019-04-08T23:14:53Z",
           "used_tool": "TravisCI",
-          "number": 1853
+          "number": 100
         },
         {
-          "started_at": "2019-11-07T00:07:55Z",
+          "started_at": "2019-04-08T23:37:02Z",
           "used_tool": "TravisCI",
-          "number": 1866
+          "number": 101
         },
         {
-          "started_at": "2019-11-07T19:23:21Z",
+          "started_at": "2019-04-09T00:18:07Z",
           "used_tool": "TravisCI",
-          "number": 1868
+          "number": 102
         },
         {
-          "started_at": "2019-11-07T23:20:28Z",
+          "started_at": "2019-04-09T17:25:19Z",
           "used_tool": "TravisCI",
-          "number": 1883
+          "number": 104
         },
         {
-          "started_at": "2019-11-08T00:54:09Z",
+          "started_at": "2019-04-09T17:32:23Z",
           "used_tool": "TravisCI",
-          "number": 1893
+          "number": 106
         },
         {
-          "started_at": "2019-11-08T22:15:05Z",
+          "started_at": "2019-04-09T19:23:51Z",
           "used_tool": "TravisCI",
-          "number": 1900
+          "number": 108
         },
         {
-          "started_at": "2019-11-08T22:35:37Z",
+          "started_at": "2019-04-09T20:09:40Z",
           "used_tool": "TravisCI",
-          "number": 1901
+          "number": 109
         },
         {
-          "started_at": "2019-11-08T22:45:56Z",
+          "started_at": "2019-04-10T22:46:50Z",
           "used_tool": "TravisCI",
-          "number": 1902
+          "number": 116
         },
         {
-          "started_at": "2019-11-11T18:02:02Z",
+          "started_at": "2019-04-10T23:02:42Z",
           "used_tool": "TravisCI",
-          "number": 1903
+          "number": 118
         },
         {
-          "started_at": "2019-11-11T18:36:16Z",
+          "started_at": "2019-04-11T20:39:37Z",
           "used_tool": "TravisCI",
-          "number": 1906
+          "number": 121
         },
         {
-          "started_at": "2019-11-11T19:14:22Z",
+          "started_at": "2019-04-11T22:59:50Z",
           "used_tool": "TravisCI",
-          "number": 1908
+          "number": 124
         },
         {
-          "started_at": "2019-11-11T22:12:31Z",
+          "started_at": "2019-04-12T16:27:20Z",
           "used_tool": "TravisCI",
-          "number": 1910
+          "number": 128
         },
         {
-          "started_at": "2019-11-11T23:04:39Z",
+          "started_at": "2019-04-15T20:21:57Z",
           "used_tool": "TravisCI",
-          "number": 1912
+          "number": 131
         },
         {
-          "started_at": "2019-11-11T23:21:30Z",
+          "started_at": "2019-04-15T23:20:06Z",
           "used_tool": "TravisCI",
-          "number": 1914
+          "number": 138
         },
         {
-          "started_at": "2019-11-12T00:18:49Z",
+          "started_at": "2019-04-16T19:31:43Z",
           "used_tool": "TravisCI",
-          "number": 1925
+          "number": 140
         },
         {
-          "started_at": "2019-11-12T00:32:04Z",
+          "started_at": "2019-04-16T19:54:38Z",
           "used_tool": "TravisCI",
-          "number": 1929
+          "number": 142
         },
         {
-          "started_at": "2019-11-12T18:15:00Z",
+          "started_at": "2019-04-16T21:18:26Z",
           "used_tool": "TravisCI",
-          "number": 1933
+          "number": 144
         },
         {
-          "started_at": "2019-11-12T18:39:02Z",
+          "started_at": "2019-04-16T21:56:35Z",
           "used_tool": "TravisCI",
-          "number": 1935
+          "number": 146
         },
         {
-          "started_at": "2019-11-12T19:48:12Z",
+          "started_at": "2019-04-17T22:22:00Z",
           "used_tool": "TravisCI",
-          "number": 1939
+          "number": 169
         },
         {
-          "started_at": "2019-11-12T21:57:47Z",
+          "started_at": "2019-04-18T19:53:54Z",
           "used_tool": "TravisCI",
-          "number": 1951
+          "number": 189
         },
         {
-          "started_at": "2019-11-12T23:18:28Z",
+          "started_at": "2019-04-18T21:24:12Z",
           "used_tool": "TravisCI",
-          "number": 1953
+          "number": 193
         },
         {
-          "started_at": "2019-11-13T02:10:25Z",
+          "started_at": "2019-04-18T22:17:56Z",
           "used_tool": "TravisCI",
-          "number": 1959
+          "number": 196
         },
         {
-          "started_at": "2019-11-13T04:31:35Z",
+          "started_at": "2019-04-19T22:02:42Z",
           "used_tool": "TravisCI",
-          "number": 1961
+          "number": 199
         },
         {
-          "started_at": "2019-11-13T18:34:57Z",
+          "started_at": "2019-04-19T22:37:03Z",
           "used_tool": "TravisCI",
-          "number": 1963
+          "number": 200
         },
         {
-          "started_at": "2019-11-13T20:03:28Z",
+          "started_at": "2019-04-19T23:55:06Z",
           "used_tool": "TravisCI",
-          "number": 1967
+          "number": 202
         },
         {
-          "started_at": "2019-11-13T21:08:17Z",
+          "started_at": "2019-04-19T23:58:55Z",
           "used_tool": "TravisCI",
-          "number": 1969
+          "number": 203
         },
         {
-          "started_at": "2019-11-13T21:30:57Z",
+          "started_at": "2019-04-22T18:16:47Z",
           "used_tool": "TravisCI",
-          "number": 1971
+          "number": 208
         },
         {
-          "started_at": "2019-11-13T22:03:47Z",
+          "started_at": "2019-04-22T22:11:24Z",
           "used_tool": "TravisCI",
-          "number": 1973
+          "number": 217
         },
         {
-          "started_at": "2019-11-13T22:27:04Z",
+          "started_at": "2019-04-22T22:35:06Z",
           "used_tool": "TravisCI",
-          "number": 1975
+          "number": 218
         },
         {
-          "started_at": "2019-11-14T18:49:10Z",
+          "started_at": "2019-04-22T23:29:02Z",
           "used_tool": "TravisCI",
-          "number": 1976
+          "number": 221
+        },
+        {
+          "started_at": "2019-04-23T20:37:53Z",
+          "used_tool": "TravisCI",
+          "number": 235
+        },
+        {
+          "started_at": "2019-04-23T20:52:06Z",
+          "used_tool": "TravisCI",
+          "number": 236
+        },
+        {
+          "started_at": "2019-04-24T05:02:36Z",
+          "used_tool": "TravisCI",
+          "number": 259
+        },
+        {
+          "started_at": "2019-04-24T05:07:17Z",
+          "used_tool": "TravisCI",
+          "number": 260
+        },
+        {
+          "started_at": "2019-04-24T16:23:44Z",
+          "used_tool": "TravisCI",
+          "number": 261
+        },
+        {
+          "started_at": "2019-04-24T20:40:33Z",
+          "used_tool": "TravisCI",
+          "number": 276
+        },
+        {
+          "started_at": "2019-04-24T21:51:52Z",
+          "used_tool": "TravisCI",
+          "number": 281
+        },
+        {
+          "started_at": "2019-04-24T22:35:24Z",
+          "used_tool": "TravisCI",
+          "number": 282
+        },
+        {
+          "started_at": "2019-04-24T22:38:55Z",
+          "used_tool": "TravisCI",
+          "number": 283
+        },
+        {
+          "started_at": "2019-04-24T23:44:41Z",
+          "used_tool": "TravisCI",
+          "number": 285
+        },
+        {
+          "started_at": "2019-04-24T23:53:55Z",
+          "used_tool": "TravisCI",
+          "number": 286
+        },
+        {
+          "started_at": "2019-04-25T00:25:00Z",
+          "used_tool": "TravisCI",
+          "number": 287
+        },
+        {
+          "started_at": "2019-04-25T01:16:45Z",
+          "used_tool": "TravisCI",
+          "number": 288
+        },
+        {
+          "started_at": "2019-04-25T01:21:52Z",
+          "used_tool": "TravisCI",
+          "number": 289
+        },
+        {
+          "started_at": "2019-04-25T16:58:10Z",
+          "used_tool": "TravisCI",
+          "number": 293
+        },
+        {
+          "started_at": "2019-04-25T18:38:20Z",
+          "used_tool": "TravisCI",
+          "number": 294
+        },
+        {
+          "started_at": "2019-04-25T22:29:04Z",
+          "used_tool": "TravisCI",
+          "number": 299
+        },
+        {
+          "started_at": "2019-04-25T23:35:31Z",
+          "used_tool": "TravisCI",
+          "number": 302
+        },
+        {
+          "started_at": "2019-04-26T18:03:22Z",
+          "used_tool": "TravisCI",
+          "number": 309
+        },
+        {
+          "started_at": "2019-04-26T18:10:24Z",
+          "used_tool": "TravisCI",
+          "number": 310
+        },
+        {
+          "started_at": "2019-04-26T19:08:08Z",
+          "used_tool": "TravisCI",
+          "number": 312
+        },
+        {
+          "started_at": "2019-04-26T19:28:13Z",
+          "used_tool": "TravisCI",
+          "number": 313
+        },
+        {
+          "started_at": "2019-04-26T19:36:01Z",
+          "used_tool": "TravisCI",
+          "number": 315
+        },
+        {
+          "started_at": "2019-04-26T19:58:47Z",
+          "used_tool": "TravisCI",
+          "number": 316
+        },
+        {
+          "started_at": "2019-04-26T20:24:01Z",
+          "used_tool": "TravisCI",
+          "number": 317
+        },
+        {
+          "started_at": "2019-04-26T20:28:11Z",
+          "used_tool": "TravisCI",
+          "number": 318
+        },
+        {
+          "started_at": "2019-04-29T23:53:33Z",
+          "used_tool": "TravisCI",
+          "number": 329
+        },
+        {
+          "started_at": "2019-05-01T06:52:31Z",
+          "used_tool": "TravisCI",
+          "number": 334
+        },
+        {
+          "started_at": "2019-05-01T07:22:18Z",
+          "used_tool": "TravisCI",
+          "number": 335
+        },
+        {
+          "started_at": "2019-05-01T18:02:52Z",
+          "used_tool": "TravisCI",
+          "number": 340
+        },
+        {
+          "started_at": "2019-05-01T18:27:28Z",
+          "used_tool": "TravisCI",
+          "number": 341
+        },
+        {
+          "started_at": "2019-05-01T18:34:58Z",
+          "used_tool": "TravisCI",
+          "number": 342
+        },
+        {
+          "started_at": "2019-05-02T22:12:23Z",
+          "used_tool": "TravisCI",
+          "number": 347
+        },
+        {
+          "started_at": "2019-05-02T23:19:11Z",
+          "used_tool": "TravisCI",
+          "number": 349
+        },
+        {
+          "started_at": "2019-05-02T23:29:41Z",
+          "used_tool": "TravisCI",
+          "number": 352
+        },
+        {
+          "started_at": "2019-05-02T23:54:08Z",
+          "used_tool": "TravisCI",
+          "number": 353
+        },
+        {
+          "started_at": "2019-05-03T00:05:53Z",
+          "used_tool": "TravisCI",
+          "number": 354
+        },
+        {
+          "started_at": "2019-05-03T00:09:46Z",
+          "used_tool": "TravisCI",
+          "number": 356
+        },
+        {
+          "started_at": "2019-05-03T00:19:24Z",
+          "used_tool": "TravisCI",
+          "number": 359
+        },
+        {
+          "started_at": "2019-05-03T00:43:00Z",
+          "used_tool": "TravisCI",
+          "number": 360
+        },
+        {
+          "started_at": "2019-05-03T01:21:00Z",
+          "used_tool": "TravisCI",
+          "number": 361
+        },
+        {
+          "started_at": "2019-05-03T17:45:55Z",
+          "used_tool": "TravisCI",
+          "number": 362
+        },
+        {
+          "started_at": "2019-05-03T18:15:02Z",
+          "used_tool": "TravisCI",
+          "number": 364
+        },
+        {
+          "started_at": "2019-05-03T18:48:03Z",
+          "used_tool": "TravisCI",
+          "number": 366
+        },
+        {
+          "started_at": "2019-05-03T19:04:58Z",
+          "used_tool": "TravisCI",
+          "number": 367
+        },
+        {
+          "started_at": "2019-05-03T19:29:28Z",
+          "used_tool": "TravisCI",
+          "number": 368
+        },
+        {
+          "started_at": "2019-05-03T20:05:57Z",
+          "used_tool": "TravisCI",
+          "number": 369
+        },
+        {
+          "started_at": "2019-05-03T20:12:27Z",
+          "used_tool": "TravisCI",
+          "number": 370
+        },
+        {
+          "started_at": "2019-05-06T17:37:44Z",
+          "used_tool": "TravisCI",
+          "number": 372
+        },
+        {
+          "started_at": "2019-05-06T17:51:12Z",
+          "used_tool": "TravisCI",
+          "number": 373
+        },
+        {
+          "started_at": "2019-05-06T19:30:57Z",
+          "used_tool": "TravisCI",
+          "number": 376
+        },
+        {
+          "started_at": "2019-05-06T20:10:54Z",
+          "used_tool": "TravisCI",
+          "number": 378
+        },
+        {
+          "started_at": "2019-05-07T21:37:50Z",
+          "used_tool": "TravisCI",
+          "number": 384
+        },
+        {
+          "started_at": "2019-05-07T21:41:35Z",
+          "used_tool": "TravisCI",
+          "number": 385
+        },
+        {
+          "started_at": "2019-05-07T21:51:28Z",
+          "used_tool": "TravisCI",
+          "number": 386
+        },
+        {
+          "started_at": "2019-05-07T21:57:08Z",
+          "used_tool": "TravisCI",
+          "number": 387
+        },
+        {
+          "started_at": "2019-05-07T22:06:25Z",
+          "used_tool": "TravisCI",
+          "number": 388
+        },
+        {
+          "started_at": "2019-05-07T22:20:29Z",
+          "used_tool": "TravisCI",
+          "number": 389
+        },
+        {
+          "started_at": "2019-05-08T19:24:52Z",
+          "used_tool": "TravisCI",
+          "number": 391
+        },
+        {
+          "started_at": "2019-05-08T19:42:02Z",
+          "used_tool": "TravisCI",
+          "number": 392
+        },
+        {
+          "started_at": "2019-05-08T19:46:52Z",
+          "used_tool": "TravisCI",
+          "number": 393
+        },
+        {
+          "started_at": "2019-05-08T20:08:50Z",
+          "used_tool": "TravisCI",
+          "number": 394
+        },
+        {
+          "started_at": "2019-05-08T21:13:14Z",
+          "used_tool": "TravisCI",
+          "number": 395
         }
       ],
       "tool": "TravisCI",
-      "release_build_count": 182
+      "release_build_count": 270
     }
   },
   "skip_failing_tests": {}

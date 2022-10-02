@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 476.6666666666667 days
+Branch dependabot/add-v2-config-file moved away from main with 502 days, 25.333333333333314 more than average
+Branch websocket-authentication moved away from main with 928 days, 451.3333333333333 more than average
+MEDIUM SEVERITY
+Branch websocket-authentication, 928 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

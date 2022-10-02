@@ -1,0 +1,66 @@
+{
+  "slow_build": {
+    "writable-wrapper": {
+      "data": {
+        "2021-04-28T13:02:08Z": 179000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 179000.0,
+      "quartiles": {
+        "q1": 179000.0,
+        "q3": 179000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0,
+      "renovate/node-16.x": 10,
+      "renovate/typescript-4.x": 10
+    },
+    "branch deviation": {
+      "main": 0,
+      "renovate/node-16.x": -6,
+      "renovate/typescript-4.x": -4
+    },
+    "unsynced activity": {
+      "main": 0,
+      "renovate/node-16.x": 15,
+      "renovate/typescript-4.x": 13
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "main"
+        ],
+        "high_severity": [
+          "renovate/node-16.x",
+          "renovate/typescript-4.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "renovate/node-16.x"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "writable-wrapper": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

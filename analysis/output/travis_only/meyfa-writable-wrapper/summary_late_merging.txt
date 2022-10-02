@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch renovate/node-16.x has 10 days of missed activity!
+Branch renovate/typescript-4.x has 10 days of missed activity!
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -3.3333333333333335 days
+Branch main moved away from main with 0 days, 3.3333333333333335 more than average
+MEDIUM SEVERITY
+Branch main, 0 days
+HIGH SEVERITY
+Branch renovate/node-16.x, -6 days
+Branch renovate/typescript-4.x, -4 days
+
+Unsynced activity
+=========================
+Average unsynced: 9.333333333333334 days
+Branch renovate/node-16.x is unsynced with 15 days, 5.666666666666666 more than average
+Branch renovate/typescript-4.x is unsynced with 13 days, 3.666666666666666 more than average
+MEDIUM SEVERITY
+Branch renovate/node-16.x, 15 days
+HIGH SEVERITY

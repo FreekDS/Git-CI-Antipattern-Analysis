@@ -1,0 +1,303 @@
+{
+  "slow_build": {
+    "Github CI": {
+      "data": {
+        "2019-10-07T10:34:37Z": 478166.6666666667,
+        "2019-10-15T06:49:06Z": 8115090.909090909,
+        "2019-10-25T15:10:10Z": 11224333.333333334,
+        "2019-11-04T06:13:09Z": 374000.0,
+        "2019-11-11T06:13:32Z": 52000.0,
+        "2019-11-20T12:02:06Z": 382000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 3437598.484848485,
+      "quartiles": {
+        "q1": 376000.0,
+        "q3": 6205859.848484849,
+        "iqr": 5829859.848484849
+      },
+      "classification": {
+        "high_severity": {
+          "15": 19003000,
+          "2": 58796000,
+          "6": 83725000
+        },
+        "medium_severity": {}
+      }
+    },
+    "cosmoz-omnitable": {
+      "data": {
+        "2019-08-26T20:55:48Z": 507083.3333333333,
+        "2019-09-04T07:37:04Z": 448000.0,
+        "2019-09-11T13:53:06Z": 428400.0,
+        "2019-09-18T14:00:58Z": 510000.0,
+        "2019-09-27T08:50:30Z": 391777.77777777775,
+        "2019-10-07T09:42:42Z": 96000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 396876.85185185185,
+      "quartiles": {
+        "q1": 400933.3333333333,
+        "q3": 492312.5,
+        "iqr": 91379.16666666669
+      },
+      "classification": {
+        "high_severity": {
+          "1500": 640000,
+          "1520": 642000
+        },
+        "medium_severity": {
+          "1483": 563000,
+          "1486": 497000,
+          "1487": 613000,
+          "1490": 582000,
+          "1492": 563000,
+          "1494": 601000,
+          "1496": 590000,
+          "1499": 526000,
+          "1502": 549000,
+          "1503": 588000,
+          "1508": 595000,
+          "1512": 571000,
+          "1515": 562000,
+          "1518": 620000,
+          "1522": 556000,
+          "1528": 573000,
+          "1531": 560000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "aligning-group-on-rows": 0,
+      "bugfixforlistcolumnswithmultivaluseasobject": 1078,
+      "clear-number": 0,
+      "clear-number-2": 0,
+      "column-rework": 0,
+      "es6": 1465,
+      "feature/ab7347-1": 0,
+      "feature/ab7355": 105,
+      "feature/data-based-config": 0,
+      "feature/explicit-save-as": 1064,
+      "feature/gh442": 465,
+      "feature/gh3282-migrate-default-templates": 540,
+      "feature/haunted-grouped-list": 0,
+      "feature/lit-omnitable": 0,
+      "feature/rm27156-refactor-state": 0,
+      "filter-label-covers-numeric-input": 0,
+      "gh246-2": 0,
+      "gh-pages": 0,
+      "issue/170-boolean-column-filter": 1611,
+      "list-get-comparable-values-test-1": 0,
+      "master": 0,
+      "no-filesaver-lock": 0,
+      "replace-with-set": 0,
+      "updateCosmozBehaviors": 0
+    },
+    "branch deviation": {
+      "aligning-group-on-rows": 1478,
+      "bugfixforlistcolumnswithmultivaluseasobject": 1078,
+      "clear-number": 1734,
+      "clear-number-2": 1682,
+      "column-rework": 2043,
+      "es6": 1465,
+      "feature/ab7347-1": 126,
+      "feature/ab7355": 20,
+      "feature/data-based-config": 263,
+      "feature/explicit-save-as": 1064,
+      "feature/gh442": 465,
+      "feature/gh3282-migrate-default-templates": 542,
+      "feature/haunted-grouped-list": 534,
+      "feature/lit-omnitable": 862,
+      "feature/rm27156-refactor-state": 290,
+      "filter-label-covers-numeric-input": 1444,
+      "gh246-2": 1296,
+      "gh-pages": 2397,
+      "issue/170-boolean-column-filter": 1615,
+      "list-get-comparable-values-test-1": 724,
+      "master": 0,
+      "no-filesaver-lock": 1286,
+      "replace-with-set": 818,
+      "updateCosmozBehaviors": 1346
+    },
+    "unsynced activity": {
+      "aligning-group-on-rows": 0,
+      "bugfixforlistcolumnswithmultivaluseasobject": 0,
+      "clear-number": 0,
+      "clear-number-2": 0,
+      "column-rework": 0,
+      "es6": -1,
+      "feature/ab7347-1": 0,
+      "feature/ab7355": 84,
+      "feature/data-based-config": 0,
+      "feature/explicit-save-as": -1,
+      "feature/gh442": -1,
+      "feature/gh3282-migrate-default-templates": -2,
+      "feature/haunted-grouped-list": 0,
+      "feature/lit-omnitable": 0,
+      "feature/rm27156-refactor-state": 0,
+      "filter-label-covers-numeric-input": 0,
+      "gh246-2": 0,
+      "gh-pages": 0,
+      "issue/170-boolean-column-filter": -5,
+      "list-get-comparable-values-test-1": 0,
+      "master": 0,
+      "no-filesaver-lock": 0,
+      "replace-with-set": 0,
+      "updateCosmozBehaviors": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "feature/gh442"
+        ],
+        "high_severity": [
+          "bugfixforlistcolumnswithmultivaluseasobject",
+          "es6",
+          "feature/explicit-save-as",
+          "feature/gh3282-migrate-default-templates",
+          "issue/170-boolean-column-filter"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "aligning-group-on-rows",
+          "clear-number",
+          "clear-number-2",
+          "column-rework",
+          "gh-pages",
+          "issue/170-boolean-column-filter"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "es6",
+          "feature/ab7355",
+          "feature/explicit-save-as",
+          "feature/gh442",
+          "feature/gh3282-migrate-default-templates",
+          "issue/170-boolean-column-filter"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Github CI": {
+      "data": [
+        {
+          "started_at": "2019-10-17T09:12:24Z",
+          "used_tool": "Github Actions",
+          "number": 17
+        },
+        {
+          "started_at": "2019-10-28T09:58:39Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        },
+        {
+          "started_at": "2019-10-28T10:46:24Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        },
+        {
+          "started_at": "2019-10-31T10:02:58Z",
+          "used_tool": "Github Actions",
+          "number": 12
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 16
+    },
+    "cosmoz-omnitable": {
+      "data": [
+        {
+          "started_at": "2019-08-29T13:46:52Z",
+          "used_tool": "TravisCI",
+          "number": 1488
+        },
+        {
+          "started_at": "2019-08-30T07:49:12Z",
+          "used_tool": "TravisCI",
+          "number": 1490
+        },
+        {
+          "started_at": "2019-09-04T08:15:48Z",
+          "used_tool": "TravisCI",
+          "number": 1498
+        },
+        {
+          "started_at": "2019-09-12T14:56:53Z",
+          "used_tool": "TravisCI",
+          "number": 1506
+        },
+        {
+          "started_at": "2019-09-12T15:23:03Z",
+          "used_tool": "TravisCI",
+          "number": 1511
+        },
+        {
+          "started_at": "2019-09-27T09:02:34Z",
+          "used_tool": "TravisCI",
+          "number": 1524
+        },
+        {
+          "started_at": "2019-09-27T09:05:03Z",
+          "used_tool": "TravisCI",
+          "number": 1526
+        },
+        {
+          "started_at": "2019-09-27T09:16:00Z",
+          "used_tool": "TravisCI",
+          "number": 1528
+        },
+        {
+          "started_at": "2019-09-28T06:08:29Z",
+          "used_tool": "TravisCI",
+          "number": 1529
+        },
+        {
+          "started_at": "2019-09-30T08:31:21Z",
+          "used_tool": "TravisCI",
+          "number": 1530
+        },
+        {
+          "started_at": "2019-10-01T09:19:39Z",
+          "used_tool": "TravisCI",
+          "number": 1534
+        },
+        {
+          "started_at": "2019-10-01T11:38:33Z",
+          "used_tool": "TravisCI",
+          "number": 1535
+        },
+        {
+          "started_at": "2019-10-02T11:38:02Z",
+          "used_tool": "TravisCI",
+          "number": 1539
+        },
+        {
+          "started_at": "2019-10-02T12:40:48Z",
+          "used_tool": "TravisCI",
+          "number": 1540
+        },
+        {
+          "started_at": "2019-10-07T09:42:42Z",
+          "used_tool": "TravisCI",
+          "number": 1541
+        },
+        {
+          "started_at": "2019-10-07T11:05:55Z",
+          "used_tool": "TravisCI",
+          "number": 1542
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 31
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,126 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2020-02-03T16:58:38Z": 100600.0,
+        "2020-02-13T01:02:32Z": 139222.22222222222,
+        "2020-02-20T21:30:16Z": 107000.0,
+        "2020-02-27T22:02:07Z": 352714.28571428574,
+        "2020-03-11T18:48:10Z": 373000.0,
+        "2020-03-18T22:50:51Z": 143000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 202589.417989418,
+      "quartiles": {
+        "q1": 115055.55555555556,
+        "q3": 300285.7142857143,
+        "iqr": 185230.15873015876
+      },
+      "classification": {
+        "high_severity": {
+          "24": 1342000,
+          "35": 1353000
+        },
+        "medium_severity": {
+          "30": 443000,
+          "41": 358000
+        }
+      }
+    },
+    "table": {
+      "data": {
+        "2019-12-20T21:53:33Z": 58166.666666666664,
+        "2020-01-09T20:29:03Z": 61125.0,
+        "2020-01-16T21:47:36Z": 60000.0,
+        "2020-01-27T00:03:26Z": 61230.769230769234,
+        "2020-02-03T00:05:24Z": 58000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 59704.48717948717,
+      "quartiles": {
+        "q1": 58166.666666666664,
+        "q3": 61125.0,
+        "iqr": 2958.3333333333358
+      },
+      "classification": {
+        "high_severity": {
+          "197": 67000,
+          "218": 68000
+        },
+        "medium_severity": {
+          "193": 62000,
+          "195": 64000,
+          "199": 63000,
+          "201": 64000,
+          "203": 64000,
+          "207": 64000,
+          "209": 65000,
+          "211": 63000,
+          "213": 62000,
+          "216": 64000,
+          "217": 62000,
+          "222": 63000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": 0,
+      "main": 0,
+      "renovate/main-lock-file-maintenance": 318,
+      "renovate/main-npm-semantic-release-vulnerability": 0,
+      "renovate/main-softwareventures-tsconfig-6.x": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": -1,
+      "main": 0,
+      "renovate/main-lock-file-maintenance": -4,
+      "renovate/main-npm-semantic-release-vulnerability": -1,
+      "renovate/main-softwareventures-tsconfig-6.x": 152
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": 0,
+      "main": 0,
+      "renovate/main-lock-file-maintenance": 321,
+      "renovate/main-npm-semantic-release-vulnerability": 0,
+      "renovate/main-softwareventures-tsconfig-6.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/main-lock-file-maintenance"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/semantic-release-19.0.3",
+          "renovate/main-npm-semantic-release-vulnerability"
+        ],
+        "high_severity": [
+          "renovate/main-lock-file-maintenance",
+          "renovate/main-softwareventures-tsconfig-6.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/main-lock-file-maintenance"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "table": {
+      "data": [],
+      "release_build_count": 17
+    }
+  },
+  "skip_failing_tests": {}
+}

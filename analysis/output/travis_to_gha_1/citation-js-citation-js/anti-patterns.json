@@ -1,0 +1,96 @@
+{
+  "slow_build": {
+    "build": {
+      "data": {
+        "2021-01-08T12:47:27Z": 84500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 84500.0,
+      "quartiles": {
+        "q1": 84500.0,
+        "q3": 84500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 90000,
+          "3": 110000,
+          "5": 99000
+        },
+        "medium_severity": {}
+      }
+    },
+    "citation-js": {
+      "data": {
+        "2020-12-11T00:24:52Z": 357500.0,
+        "2021-01-08T12:37:28Z": 276545.45454545453
+      },
+      "tool": "TravisCI",
+      "total avg": 317022.7272727273,
+      "quartiles": {
+        "q1": 296784.0909090909,
+        "q3": 337261.36363636365,
+        "iqr": 40477.272727272764
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "200": 357000,
+          "201": 358000,
+          "208": 347000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dev/jsdoc": 0,
+      "fix/54": 0,
+      "main": 0,
+      "release/0.5.2": 0,
+      "v0.5": 0,
+      "wikidata": 0
+    },
+    "branch deviation": {
+      "dev/jsdoc": 723,
+      "fix/54": 1070,
+      "main": 0,
+      "release/0.5.2": 301,
+      "v0.5": 434,
+      "wikidata": 1292
+    },
+    "unsynced activity": {
+      "dev/jsdoc": 0,
+      "fix/54": 0,
+      "main": 0,
+      "release/0.5.2": 0,
+      "v0.5": 0,
+      "wikidata": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "fix/54",
+          "wikidata"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "citation-js": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

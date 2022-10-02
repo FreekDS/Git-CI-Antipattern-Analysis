@@ -1,60 +1,5 @@
 {
-  "slow_build": {
-    "Dependabot Automerge PR": {
-      "data": {
-        "2020-10-16T22:06:28Z": 10820.51282051282,
-        "2020-10-23T22:07:22Z": 17933.333333333332,
-        "2020-10-30T22:08:07Z": 31500.0,
-        "2020-11-06T22:28:48Z": 3166.6666666666665,
-        "2020-11-20T22:05:49Z": 20909.090909090908,
-        "2020-11-27T22:07:02Z": 21363.636363636364
-      },
-      "tool": "Github Actions",
-      "total avg": 17615.540015540017,
-      "quartiles": {
-        "q1": 12598.71794871795,
-        "q3": 21250.0,
-        "iqr": 8651.28205128205
-      },
-      "classification": {
-        "high_severity": {
-          "543": 64000,
-          "544": 65000,
-          "551": 63000,
-          "552": 67000,
-          "582": 65000,
-          "583": 67000,
-          "596": 64000,
-          "597": 64000,
-          "598": 67000,
-          "599": 65000,
-          "600": 63000,
-          "603": 66000,
-          "613": 63000,
-          "616": 63000,
-          "620": 63000,
-          "623": 64000,
-          "624": 65000,
-          "629": 62000,
-          "632": 65000,
-          "649": 64000,
-          "652": 66000,
-          "653": 67000,
-          "657": 65000,
-          "663": 70000,
-          "664": 69000,
-          "666": 67000,
-          "674": 67000,
-          "675": 68000,
-          "679": 70000,
-          "684": 85000,
-          "686": 66000,
-          "690": 60000
-        },
-        "medium_severity": {}
-      }
-    }
-  },
+  "slow_build": {},
   "late_merging": {
     "missed activity": {
       "dependabot/npm_and_yarn/jest-26.5.2": 0,
@@ -63,24 +8,30 @@
       "master": 0,
       "renovate/actions-checkout-3.x": 0,
       "renovate/actions-setup-node-3.x": 0,
+      "renovate/chalk-5.x": 0,
       "renovate/copy-webpack-plugin-8.x": 0,
       "renovate/leven-4.x": 0,
-      "renovate/major-jest-monorepo": 419,
+      "renovate/major-jest-monorepo": 797,
+      "renovate/node-16.x": 0,
       "renovate/npm-node-sass-vulnerability": 0,
-      "renovate/ts-node-10.x": 0
+      "renovate/ts-node-10.x": 0,
+      "renovate/vue-test-utils-2.x": 0
     },
     "branch deviation": {
-      "dependabot/npm_and_yarn/jest-26.5.2": 266,
-      "docs": 481,
-      "gh-pages": 978,
+      "dependabot/npm_and_yarn/jest-26.5.2": 644,
+      "docs": 859,
+      "gh-pages": 1356,
       "master": 0,
-      "renovate/actions-checkout-3.x": -267,
-      "renovate/actions-setup-node-3.x": -267,
+      "renovate/actions-checkout-3.x": -1,
+      "renovate/actions-setup-node-3.x": -1,
+      "renovate/chalk-5.x": -1,
       "renovate/copy-webpack-plugin-8.x": -1,
-      "renovate/leven-4.x": -42,
-      "renovate/major-jest-monorepo": -317,
-      "renovate/npm-node-sass-vulnerability": -248,
-      "renovate/ts-node-10.x": -1
+      "renovate/leven-4.x": -1,
+      "renovate/major-jest-monorepo": -56,
+      "renovate/node-16.x": -1,
+      "renovate/npm-node-sass-vulnerability": -60,
+      "renovate/ts-node-10.x": -1,
+      "renovate/vue-test-utils-2.x": -1
     },
     "unsynced activity": {
       "dependabot/npm_and_yarn/jest-26.5.2": 0,
@@ -89,11 +40,14 @@
       "master": 0,
       "renovate/actions-checkout-3.x": 0,
       "renovate/actions-setup-node-3.x": 0,
+      "renovate/chalk-5.x": 0,
       "renovate/copy-webpack-plugin-8.x": 0,
       "renovate/leven-4.x": 0,
-      "renovate/major-jest-monorepo": 735,
+      "renovate/major-jest-monorepo": 852,
+      "renovate/node-16.x": 0,
       "renovate/npm-node-sass-vulnerability": 0,
-      "renovate/ts-node-10.x": 0
+      "renovate/ts-node-10.x": 0,
+      "renovate/vue-test-utils-2.x": 0
     },
     "classification": {
       "missed activity": {
@@ -104,15 +58,22 @@
       },
       "branch deviation": {
         "medium_severity": [
-          "dependabot/npm_and_yarn/jest-26.5.2",
-          "docs",
-          "renovate/actions-checkout-3.x",
-          "renovate/actions-setup-node-3.x",
-          "renovate/major-jest-monorepo",
-          "renovate/npm-node-sass-vulnerability"
+          "master"
         ],
         "high_severity": [
-          "gh-pages"
+          "dependabot/npm_and_yarn/jest-26.5.2",
+          "docs",
+          "gh-pages",
+          "renovate/actions-checkout-3.x",
+          "renovate/actions-setup-node-3.x",
+          "renovate/chalk-5.x",
+          "renovate/copy-webpack-plugin-8.x",
+          "renovate/leven-4.x",
+          "renovate/major-jest-monorepo",
+          "renovate/node-16.x",
+          "renovate/npm-node-sass-vulnerability",
+          "renovate/ts-node-10.x",
+          "renovate/vue-test-utils-2.x"
         ]
       },
       "unsynced activity": {
@@ -122,13 +83,8 @@
         ]
       }
     },
-    "build_count": 1
+    "build_count": 0
   },
-  "broken_release": {
-    "Dependabot Automerge PR": {
-      "data": [],
-      "release_build_count": 122
-    }
-  },
+  "broken_release": {},
   "skip_failing_tests": {}
 }

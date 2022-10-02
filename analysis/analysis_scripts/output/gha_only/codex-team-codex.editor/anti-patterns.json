@@ -1,0 +1,438 @@
+{
+  "slow_build": {
+    "Tests": {
+      "data": {
+        "2021-04-08T16:35:12Z": 1285239.1304347827,
+        "2021-04-15T17:48:14Z": 1417250.0,
+        "2021-04-22T19:17:42Z": 2935166.6666666665,
+        "2021-05-06T10:50:10Z": 3302666.6666666665,
+        "2021-05-21T16:53:33Z": 892357.1428571428,
+        "2021-05-30T19:27:53Z": 922000.0,
+        "2021-06-08T17:31:44Z": 1125000.0,
+        "2021-06-24T12:34:16Z": 4298083.333333333,
+        "2021-07-04T09:50:53Z": 957000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1903862.548884288,
+      "quartiles": {
+        "q1": 957000.0,
+        "q3": 2935166.6666666665,
+        "iqr": 1978166.6666666665
+      },
+      "classification": {
+        "high_severity": {
+          "39": 23226000,
+          "59": 24807000,
+          "67": 7980000,
+          "93": 21618000,
+          "94": 21617000
+        },
+        "medium_severity": {}
+      }
+    },
+    "ESLint CodeX": {
+      "data": {
+        "2021-04-08T12:26:51Z": 73552.63157894737,
+        "2021-04-15T17:48:14Z": 122500.0,
+        "2021-04-22T19:17:42Z": 2173416.6666666665,
+        "2021-05-06T10:50:10Z": 2469333.3333333335,
+        "2021-05-21T16:53:33Z": 103714.28571428571,
+        "2021-05-30T19:27:53Z": 87000.0,
+        "2021-06-08T17:31:44Z": 94000.0,
+        "2021-06-24T12:34:16Z": 71083.33333333333,
+        "2021-07-04T09:50:53Z": 118000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 590288.9167362851,
+      "quartiles": {
+        "q1": 87000.0,
+        "q3": 122500.0,
+        "iqr": 35500.0
+      },
+      "classification": {
+        "high_severity": {
+          "750": 300000,
+          "751": 180000,
+          "809": 983000,
+          "810": 184000,
+          "815": 24187000,
+          "823": 7205000,
+          "835": 216000
+        },
+        "medium_severity": {
+          "766": 135000,
+          "793": 132000,
+          "805": 127000,
+          "807": 137000,
+          "816": 127000,
+          "832": 130000,
+          "839": 138000,
+          "840": 126000
+        }
+      }
+    },
+    "Publish package to NPM": {
+      "data": {
+        "2021-04-09T10:36:32Z": 156500.0,
+        "2021-04-27T19:08:50Z": 26343000.0,
+        "2021-05-26T19:17:19Z": 128000.0,
+        "2021-06-28T10:31:21Z": 142000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 6692375.0,
+      "quartiles": {
+        "q1": 138500.0,
+        "q3": 6703125.0,
+        "iqr": 6564625.0
+      },
+      "classification": {
+        "high_severity": {
+          "9": 52553000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Bump version on merge": {
+      "data": {
+        "2021-04-08T16:47:48Z": 42571.42857142857,
+        "2021-04-15T17:20:23Z": 40000.0,
+        "2021-04-27T19:04:28Z": 25000.0,
+        "2021-05-09T13:00:45Z": 38000.0,
+        "2021-05-26T15:59:34Z": 41000.0,
+        "2021-06-28T10:06:37Z": 21000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 34595.2380952381,
+      "quartiles": {
+        "q1": 28250.0,
+        "q3": 40750.0,
+        "iqr": 12500.0
+      },
+      "classification": {
+        "high_severity": {
+          "39": 63000,
+          "52": 60000
+        },
+        "medium_severity": {
+          "29": 46000,
+          "31": 51000,
+          "33": 44000,
+          "34": 41000,
+          "35": 43000,
+          "36": 44000,
+          "37": 42000,
+          "38": 46000,
+          "41": 54000,
+          "42": 52000,
+          "43": 47000,
+          "45": 50000,
+          "51": 58000,
+          "54": 52000,
+          "56": 48000
+        }
+      }
+    },
+    "Create a release draft": {
+      "data": {
+        "2021-04-08T16:47:48Z": 31642.85714285714,
+        "2021-04-15T17:20:23Z": 71666.66666666667,
+        "2021-04-27T19:04:28Z": 62333.333333333336,
+        "2021-05-09T13:00:45Z": 19000.0,
+        "2021-05-26T15:59:34Z": 48000.0,
+        "2021-06-28T10:06:37Z": 159000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 65273.80952380953,
+      "quartiles": {
+        "q1": 35732.142857142855,
+        "q3": 69333.33333333334,
+        "iqr": 33601.19047619049
+      },
+      "classification": {
+        "high_severity": {
+          "41": 141000,
+          "45": 164000,
+          "48": 145000,
+          "54": 143000,
+          "58": 159000
+        },
+        "medium_severity": {}
+      }
+    },
+    "End-to-end tests": {
+      "data": {
+        "2021-04-08T16:29:42Z": 143000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 143000.0,
+      "quartiles": {
+        "q1": 143000.0,
+        "q3": 143000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-toolbox-titles": 1323,
+      "attaches-tool-test": 0,
+      "auto-bump-version": 0,
+      "codesee-arch-diagram-workflow-1637863767048": 0,
+      "comments": 0,
+      "comments-trial-version": 0,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": 0,
+      "dependabot/npm_and_yarn/ssri-6.0.2": 0,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": 0,
+      "feat/vertical-toolbox-multiple-items-data-insteadof-config": 0,
+      "feature/cbs": 0,
+      "feature/clean-inline-fragments": 0,
+      "feature/collaborative-editing": 0,
+      "feature/inline-toolbar-unified": 0,
+      "feature/tests-of-state-manager": 0,
+      "feature/undo-redo": 0,
+      "fix/ff-copypaste": 0,
+      "fix/popover-open-direction": 0,
+      "fix/prepare-function": 0,
+      "fix/scroll-lock": 0,
+      "fix/toolbox-tool-items-i18n": 0,
+      "fix/xss-problem": 0,
+      "fix/1640": 0,
+      "fix/1750": 0,
+      "fix-init-remove-window": 0,
+      "inline-toolbar-improvements": 0,
+      "localstorage-plugin": 0,
+      "master": 0,
+      "new-next": 0,
+      "next": 491,
+      "next-2": 643,
+      "order-inline-toolbars": 0,
+      "personality-tool-test": 0,
+      "pr/1526": 0,
+      "refactor/rectangle-selection": 0,
+      "release.1.5": 0,
+      "release.1.6": 1952,
+      "release.1.7": 0,
+      "release.2.0": 0,
+      "release/2.12": 1200,
+      "release/2.13": 1177,
+      "release/2.14": 1133,
+      "release/2.15": 1044,
+      "release/2.16": 955,
+      "release/2.17": 857,
+      "release/2.18": 776,
+      "tool-inputs": 0,
+      "tunes-api": 0,
+      "tunes-vertical": 0,
+      "upd-modules": 0,
+      "v2.0": 0,
+      "vertical-toolbox-fixes": 0
+    },
+    "branch deviation": {
+      "add-toolbox-titles": 1323,
+      "attaches-tool-test": 1100,
+      "auto-bump-version": -1,
+      "codesee-arch-diagram-workflow-1637863767048": 236,
+      "comments": 1993,
+      "comments-trial-version": 2004,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": -1,
+      "dependabot/npm_and_yarn/moment-2.29.4": -1,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": -1,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": -1,
+      "dependabot/npm_and_yarn/ssri-6.0.2": -1,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": -1,
+      "feat/vertical-toolbox-multiple-items-data-insteadof-config": 62,
+      "feature/cbs": 1141,
+      "feature/clean-inline-fragments": 5,
+      "feature/collaborative-editing": -49,
+      "feature/inline-toolbar-unified": 346,
+      "feature/tests-of-state-manager": 69,
+      "feature/undo-redo": 1261,
+      "fix/ff-copypaste": 467,
+      "fix/popover-open-direction": 93,
+      "fix/prepare-function": 306,
+      "fix/scroll-lock": 79,
+      "fix/toolbox-tool-items-i18n": 82,
+      "fix/xss-problem": -38,
+      "fix/1640": 461,
+      "fix/1750": 187,
+      "fix-init-remove-window": 574,
+      "inline-toolbar-improvements": 1287,
+      "localstorage-plugin": 1980,
+      "master": 491,
+      "new-next": 644,
+      "next": 0,
+      "next-2": 643,
+      "order-inline-toolbars": 1077,
+      "personality-tool-test": 1109,
+      "pr/1526": 346,
+      "refactor/rectangle-selection": 1018,
+      "release.1.5": 1959,
+      "release.1.6": 1785,
+      "release.1.7": 1446,
+      "release.2.0": 1457,
+      "release/2.12": 1196,
+      "release/2.13": 1177,
+      "release/2.14": 1133,
+      "release/2.15": 1045,
+      "release/2.16": 955,
+      "release/2.17": 857,
+      "release/2.18": 776,
+      "tool-inputs": 1460,
+      "tunes-api": 1285,
+      "tunes-vertical": -55,
+      "upd-modules": 692,
+      "v2.0": 1741,
+      "vertical-toolbox-fixes": 100
+    },
+    "unsynced activity": {
+      "add-toolbox-titles": 0,
+      "attaches-tool-test": 0,
+      "auto-bump-version": 0,
+      "codesee-arch-diagram-workflow-1637863767048": 0,
+      "comments": 0,
+      "comments-trial-version": 0,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": 0,
+      "dependabot/npm_and_yarn/ssri-6.0.2": 0,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": 0,
+      "feat/vertical-toolbox-multiple-items-data-insteadof-config": 0,
+      "feature/cbs": 0,
+      "feature/clean-inline-fragments": 0,
+      "feature/collaborative-editing": 0,
+      "feature/inline-toolbar-unified": 0,
+      "feature/tests-of-state-manager": 0,
+      "feature/undo-redo": 0,
+      "fix/ff-copypaste": 0,
+      "fix/popover-open-direction": 0,
+      "fix/prepare-function": 0,
+      "fix/scroll-lock": 0,
+      "fix/toolbox-tool-items-i18n": 0,
+      "fix/xss-problem": 0,
+      "fix/1640": 0,
+      "fix/1750": 0,
+      "fix-init-remove-window": 0,
+      "inline-toolbar-improvements": 0,
+      "localstorage-plugin": 0,
+      "master": 0,
+      "new-next": 0,
+      "next": 491,
+      "next-2": -1,
+      "order-inline-toolbars": 0,
+      "personality-tool-test": 0,
+      "pr/1526": 0,
+      "refactor/rectangle-selection": 0,
+      "release.1.5": 0,
+      "release.1.6": 167,
+      "release.1.7": 0,
+      "release.2.0": 0,
+      "release/2.12": 4,
+      "release/2.13": -1,
+      "release/2.14": -1,
+      "release/2.15": -1,
+      "release/2.16": -1,
+      "release/2.17": -1,
+      "release/2.18": -1,
+      "tool-inputs": 0,
+      "tunes-api": 0,
+      "tunes-vertical": 0,
+      "upd-modules": 0,
+      "v2.0": 0,
+      "vertical-toolbox-fixes": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "add-toolbox-titles",
+          "next",
+          "next-2",
+          "release.1.6",
+          "release/2.12",
+          "release/2.13",
+          "release/2.14",
+          "release/2.15",
+          "release/2.16",
+          "release/2.17",
+          "release/2.18"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-toolbox-titles",
+          "comments",
+          "comments-trial-version",
+          "feature/undo-redo",
+          "inline-toolbar-improvements",
+          "localstorage-plugin",
+          "release.1.5",
+          "release.1.6",
+          "release.1.7",
+          "release.2.0",
+          "release/2.12",
+          "tool-inputs",
+          "tunes-api",
+          "v2.0"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "next",
+          "next-2",
+          "release.1.6",
+          "release/2.12",
+          "release/2.13",
+          "release/2.14",
+          "release/2.15",
+          "release/2.16",
+          "release/2.17",
+          "release/2.18"
+        ]
+      }
+    },
+    "build_count": 6
+  },
+  "broken_release": {
+    "Tests": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "ESLint CodeX": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "Bump version on merge": {
+      "data": [
+        {
+          "started_at": "2021-05-09T13:00:45Z",
+          "used_tool": "Github Actions",
+          "number": 50
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 1
+    },
+    "Create a release draft": {
+      "data": [
+        {
+          "started_at": "2021-05-09T13:00:45Z",
+          "used_tool": "Github Actions",
+          "number": 51
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,62 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "intl": 0,
+      "main": 0,
+      "next": 0,
+      "renovate/ava-4.x": 0,
+      "renovate/flow-bin-0.x": 14,
+      "renovate/npm-got-vulnerability": 0,
+      "renovate/npm-trim-newlines-vulnerability": 0,
+      "renovate/npm-yargs-parser-vulnerability": 0
+    },
+    "branch deviation": {
+      "gh-pages": 476,
+      "intl": 1052,
+      "main": 0,
+      "next": 739,
+      "renovate/ava-4.x": -1,
+      "renovate/flow-bin-0.x": -56,
+      "renovate/npm-got-vulnerability": -51,
+      "renovate/npm-trim-newlines-vulnerability": -1,
+      "renovate/npm-yargs-parser-vulnerability": -1
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "intl": 0,
+      "main": 0,
+      "next": 0,
+      "renovate/ava-4.x": 0,
+      "renovate/flow-bin-0.x": 69,
+      "renovate/npm-got-vulnerability": 0,
+      "renovate/npm-trim-newlines-vulnerability": 0,
+      "renovate/npm-yargs-parser-vulnerability": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/flow-bin-0.x"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "intl",
+          "next"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/flow-bin-0.x"
+        ]
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

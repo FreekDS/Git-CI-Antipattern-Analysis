@@ -1,22 +1,5 @@
 {
-  "slow_build": {
-    "Node CI": {
-      "data": {
-        "2021-03-31T09:23:11Z": 51000.0
-      },
-      "tool": "Github Actions",
-      "total avg": 51000.0,
-      "quartiles": {
-        "q1": 51000.0,
-        "q3": 51000.0,
-        "iqr": 0.0
-      },
-      "classification": {
-        "high_severity": {},
-        "medium_severity": {}
-      }
-    }
-  },
+  "slow_build": {},
   "late_merging": {
     "missed activity": {
       "master": 0
@@ -41,20 +24,8 @@
         "high_severity": []
       }
     },
-    "build_count": 1
+    "build_count": 0
   },
-  "broken_release": {
-    "Node CI": {
-      "data": [
-        {
-          "started_at": "2021-03-31T09:23:11Z",
-          "used_tool": "Github Actions",
-          "number": 1
-        }
-      ],
-      "tool": "Github Actions",
-      "release_build_count": 1
-    }
-  },
+  "broken_release": {},
   "skip_failing_tests": {}
 }

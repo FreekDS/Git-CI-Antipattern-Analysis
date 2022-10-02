@@ -1,0 +1,119 @@
+{
+  "slow_build": {
+    ".github/workflows/test.yml": {
+      "data": {
+        "2021-04-04T16:36:54Z": 91000.0,
+        "2021-04-29T19:59:32Z": 85333.33333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 88166.66666666666,
+      "quartiles": {
+        "q1": 86750.0,
+        "q3": 89583.33333333333,
+        "iqr": 2833.3333333333285
+      },
+      "classification": {
+        "high_severity": {
+          "19": 95000
+        },
+        "medium_severity": {
+          "18": 91000
+        }
+      }
+    },
+    "test": {
+      "data": {
+        "2021-03-20T19:59:43Z": 140076.92307692306,
+        "2021-04-03T09:27:46Z": 79500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 109788.46153846153,
+      "quartiles": {
+        "q1": 94644.23076923077,
+        "q3": 124932.6923076923,
+        "iqr": 30288.46153846153
+      },
+      "classification": {
+        "high_severity": {
+          "2": 233000,
+          "13": 648000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    ".github/workflows/test.yml": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "test": {
+      "data": [
+        {
+          "started_at": "2021-03-20T20:04:39Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        },
+        {
+          "started_at": "2021-03-20T22:12:25Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        },
+        {
+          "started_at": "2021-03-21T09:16:45Z",
+          "used_tool": "Github Actions",
+          "number": 10
+        },
+        {
+          "started_at": "2021-03-23T10:16:58Z",
+          "used_tool": "Github Actions",
+          "number": 12
+        },
+        {
+          "started_at": "2021-03-23T17:26:54Z",
+          "used_tool": "Github Actions",
+          "number": 13
+        },
+        {
+          "started_at": "2021-04-03T09:27:46Z",
+          "used_tool": "Github Actions",
+          "number": 14
+        },
+        {
+          "started_at": "2021-04-03T09:41:46Z",
+          "used_tool": "Github Actions",
+          "number": 15
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

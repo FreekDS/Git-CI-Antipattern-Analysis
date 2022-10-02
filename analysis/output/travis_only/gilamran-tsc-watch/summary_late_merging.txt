@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 383.1666666666667 days
+Branch 4.2.0-rc1 moved away from main with 771 days, 387.8333333333333 more than average
+Branch test-kill moved away from main with 513 days, 129.83333333333331 more than average
+Branch version_1 moved away from main with 1148 days, 764.8333333333333 more than average
+MEDIUM SEVERITY
+Branch 4.2.0-rc1, 771 days
+Branch version_1, 1148 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,119 @@
+{
+  "slow_build": {
+    "npm test": {
+      "data": {
+        "2020-12-15T08:46:38Z": 47500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 47500.0,
+      "quartiles": {
+        "q1": 47500.0,
+        "q3": 47500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 52000
+        },
+        "medium_severity": {}
+      }
+    },
+    "data-models": {
+      "data": {
+        "2020-12-15T08:33:28Z": 47800.0
+      },
+      "tool": "TravisCI",
+      "total avg": 47800.0,
+      "quartiles": {
+        "q1": 47800.0,
+        "q3": 47800.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "814": 49000,
+          "816": 49000,
+          "817": 51000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ansi-regex-5.0.1": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/cross-fetch-3.1.5": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "feature/id-reference-for-feeds-validation": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ansi-regex-5.0.1": -1,
+      "dependabot/npm_and_yarn/async-2.6.4": -1,
+      "dependabot/npm_and_yarn/cross-fetch-3.1.5": -1,
+      "dependabot/npm_and_yarn/lodash-4.17.21": -1,
+      "dependabot/npm_and_yarn/minimist-1.2.6": -1,
+      "feature/id-reference-for-feeds-validation": 38,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ansi-regex-5.0.1": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/cross-fetch-3.1.5": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "feature/id-reference-for-feeds-validation": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "dependabot/npm_and_yarn/ansi-regex-5.0.1",
+          "dependabot/npm_and_yarn/async-2.6.4",
+          "dependabot/npm_and_yarn/cross-fetch-3.1.5",
+          "dependabot/npm_and_yarn/lodash-4.17.21",
+          "dependabot/npm_and_yarn/minimist-1.2.6",
+          "feature/id-reference-for-feeds-validation"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "data-models": {
+      "data": [
+        {
+          "started_at": "2020-12-15T08:33:28Z",
+          "used_tool": "TravisCI",
+          "number": 814
+        },
+        {
+          "started_at": "2020-12-15T08:46:57Z",
+          "used_tool": "TravisCI",
+          "number": 817
+        },
+        {
+          "started_at": "2020-12-15T14:35:54Z",
+          "used_tool": "TravisCI",
+          "number": 818
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

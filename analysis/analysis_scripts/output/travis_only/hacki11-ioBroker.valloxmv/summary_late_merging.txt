@@ -1,0 +1,43 @@
+Missed Activity
+=========================
+Branch bf-object-subscription has 954 days of missed activity!
+Branch ft-bypass-locked has 785 days of missed activity!
+Branch gh-actions has 485 days of missed activity!
+Branch reset-objects has 972 days of missed activity!
+MEDIUM SEVERITY
+Branch bf-object-subscription, 954 seconds
+HIGH SEVERITY
+Branch ft-bypass-locked, 785 seconds
+HIGH SEVERITY
+Branch reset-objects, 972 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 309.8181818181818 days
+Branch bf-object-subscription moved away from main with 954 days, 644.1818181818182 more than average
+Branch ft-bypass-locked moved away from main with 785 days, 475.1818181818182 more than average
+Branch gh-actions moved away from main with 485 days, 175.1818181818182 more than average
+Branch reset-objects moved away from main with 972 days, 662.1818181818182 more than average
+MEDIUM SEVERITY
+Branch bf-object-subscription, 954 days
+Branch ft-bypass-locked, 785 days
+Branch reset-objects, 972 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.36363636363636365 days
+Branch dependabot/npm_and_yarn/eslint-8.23.0 is unsynced with 0 days, 0.36363636363636365 more than average
+Branch dependabot/npm_and_yarn/iobroker/adapter-core-2.6.0 is unsynced with 0 days, 0.36363636363636365 more than average
+Branch dependabot/npm_and_yarn/iobroker/testing-4.1.0 is unsynced with 0 days, 0.36363636363636365 more than average
+Branch dependabot/npm_and_yarn/mocha-10.0.0 is unsynced with 0 days, 0.36363636363636365 more than average
+Branch dependabot/npm_and_yarn/sinon-14.0.0 is unsynced with 0 days, 0.36363636363636365 more than average
+Branch dependabot/npm_and_yarn/types/node-18.7.14 is unsynced with 0 days, 0.36363636363636365 more than average
+Branch master is unsynced with 0 days, 0.36363636363636365 more than average
+MEDIUM SEVERITY
+Branch bf-object-subscription, -1 days
+Branch ft-bypass-locked, -1 days
+Branch gh-actions, -1 days
+Branch reset-objects, -1 days
+HIGH SEVERITY

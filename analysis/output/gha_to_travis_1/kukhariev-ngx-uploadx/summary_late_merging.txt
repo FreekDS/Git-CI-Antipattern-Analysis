@@ -4,15 +4,17 @@ MEDIUM SEVERITY
 
 Branch Deviation
 =========================
-Average deviation: 408.6666666666667 days
-Branch 1.x moved away from main with 1165 days, 756.3333333333333 more than average
-Branch 3.x moved away from main with 606 days, 197.33333333333331 more than average
-Branch error-handler-as-service moved away from main with 608 days, 199.33333333333331 more than average
-Branch get-requests-refactor moved away from main with 419 days, 10.333333333333314 more than average
+Average deviation: 417.72727272727275 days
+Branch 1.x moved away from main with 1268 days, 850.2727272727273 more than average
+Branch 3.x moved away from main with 708 days, 290.27272727272725 more than average
+Branch error-handler-as-service moved away from main with 711 days, 293.27272727272725 more than average
+Branch get-requests-refactor moved away from main with 522 days, 104.27272727272725 more than average
+Branch refactor-chunk-size moved away from main with 442 days, 24.272727272727252 more than average
 MEDIUM SEVERITY
-Branch error-handler-as-service, 608 days
+Branch 1.x, 1268 days
+Branch 3.x, 708 days
+Branch error-handler-as-service, 711 days
 HIGH SEVERITY
-Branch 1.x, 1165 days
 
 Unsynced activity
 =========================

@@ -1,0 +1,87 @@
+Missed Activity
+=========================
+Branch csillag/navigation-updates has 141 days of missed activity!
+Branch csillag/remove-semantic-ui has 128 days of missed activity!
+Branch csillag/rename-html-to-react-html has 128 days of missed activity!
+Branch csillag/update-to-react-18 has 127 days of missed activity!
+Branch daterange-improvements has 315 days of missed activity!
+Branch fix-multiple-file-upload has 329 days of missed activity!
+Branch manyof-vertical-display has 696 days of missed activity!
+Branch scharf/add-trigger-submenu-action-poperty has 457 days of missed activity!
+MEDIUM SEVERITY
+Branch csillag/navigation-updates, 141 seconds
+Branch csillag/remove-semantic-ui, 128 seconds
+Branch csillag/rename-html-to-react-html, 128 seconds
+Branch csillag/update-to-react-18, 127 seconds
+Branch daterange-improvements, 315 seconds
+Branch fix-multiple-file-upload, 329 seconds
+Branch manyof-vertical-display, 696 seconds
+Branch scharf/add-trigger-submenu-action-poperty, 457 seconds
+
+Branch Deviation
+=========================
+Average deviation: 233.72972972972974 days
+Branch csillag/extend-navcontrol moved away from main with 1178 days, 944.2702702702702 more than average
+Branch csillag/kitchen-sink-1 moved away from main with 569 days, 335.27027027027026 more than average
+Branch csillag/login-debug moved away from main with 745 days, 511.27027027027026 more than average
+Branch daterange-improvements moved away from main with 315 days, 81.27027027027026 more than average
+Branch dependabot/npm_and_yarn/examples/dot-prop-4.2.1 moved away from main with 672 days, 438.27027027027026 more than average
+Branch dependabot/npm_and_yarn/examples/safer-eval-1.3.6 moved away from main with 722 days, 488.27027027027026 more than average
+Branch dependabot/npm_and_yarn/packages/semui/acorn-6.4.1 moved away from main with 773 days, 539.2702702702702 more than average
+Branch fix-multiple-file-upload moved away from main with 331 days, 97.27027027027026 more than average
+Branch manyof-vertical-display moved away from main with 695 days, 461.27027027027026 more than average
+Branch scharf/add-trigger-submenu-action-poperty moved away from main with 457 days, 223.27027027027026 more than average
+MEDIUM SEVERITY
+Branch csillag/kitchen-sink-1, 569 days
+Branch dependabot/npm_and_yarn/examples/dot-prop-4.2.1, 672 days
+Branch fix-multiple-file-upload, 331 days
+Branch scharf/add-trigger-submenu-action-poperty, 457 days
+HIGH SEVERITY
+Branch csillag/extend-navcontrol, 1178 days
+Branch csillag/login-debug, 745 days
+Branch dependabot/npm_and_yarn/examples/safer-eval-1.3.6, 722 days
+Branch dependabot/npm_and_yarn/packages/semui/acorn-6.4.1, 773 days
+Branch manyof-vertical-display, 695 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.1891891891891892 days
+Branch csillag/extend-navcontrol is unsynced with 0 days, 0.1891891891891892 more than average
+Branch csillag/kitchen-sink-1 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch csillag/login-debug is unsynced with 0 days, 0.1891891891891892 more than average
+Branch csillag/update-react-mobx is unsynced with 0 days, 0.1891891891891892 more than average
+Branch csillag/update-react-mobx-no-decorators is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/examples/ajv-6.12.6 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/examples/browserslist-4.20.3 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/examples/dot-prop-4.2.1 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/examples/elliptic-6.5.4 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/examples/moment-2.29.4 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/examples/safer-eval-1.3.6 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/examples/tar-4.4.19 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/examples/ws-5.2.3 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/hosted-git-info-2.8.9 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/jsdom-16.5.0 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/moment-2.29.4 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/node-notifier-8.0.2 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/packages/moxb/moment-2.29.4 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/packages/semui/acorn-6.4.1 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/packages/semui/marked-4.0.10 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/packages/stellar-router-core/urijs-1.19.11 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/parse-url-6.0.5 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/path-parse-1.0.7 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/tmpl-1.0.5 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/urijs-1.19.11 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/ws-7.5.8 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch dependabot/npm_and_yarn/y18n-4.0.3 is unsynced with 0 days, 0.1891891891891892 more than average
+Branch manyof-vertical-display is unsynced with 0 days, 0.1891891891891892 more than average
+Branch master is unsynced with 0 days, 0.1891891891891892 more than average
+Branch scharf/add-trigger-submenu-action-poperty is unsynced with 0 days, 0.1891891891891892 more than average
+Branch ujvari/lerna-future is unsynced with 0 days, 0.1891891891891892 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch csillag/navigation-updates, -1 days
+Branch csillag/remove-semantic-ui, -1 days
+Branch csillag/rename-html-to-react-html, -1 days
+Branch csillag/update-to-react-18, -1 days
+Branch daterange-improvements, -1 days
+Branch fix-multiple-file-upload, -2 days

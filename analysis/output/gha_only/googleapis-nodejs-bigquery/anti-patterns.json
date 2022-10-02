@@ -1,0 +1,177 @@
+{
+  "slow_build": {
+    "ci": {
+      "data": {
+        "2021-04-09T09:31:56Z": 1169000.0,
+        "2021-04-17T08:35:35Z": 171666.66666666666,
+        "2021-04-28T09:01:41Z": 1124285.7142857143,
+        "2021-05-05T16:56:00Z": 336500.0,
+        "2021-05-17T21:00:15Z": 137000.0,
+        "2021-05-25T09:13:40Z": 14735000.0,
+        "2021-06-02T20:53:15Z": 203695.65217391305,
+        "2021-06-10T00:46:46Z": 122142.85714285714,
+        "2021-06-24T17:18:04Z": 5351500.0,
+        "2021-07-02T17:04:10Z": 186100.0
+      },
+      "tool": "Github Actions",
+      "total avg": 2353689.0890269154,
+      "quartiles": {
+        "q1": 175275.0,
+        "q3": 1157821.4285714286,
+        "iqr": 982546.4285714286
+      },
+      "classification": {
+        "high_severity": {
+          "794": 2798000,
+          "814": 21321000,
+          "833": 29386000,
+          "866": 14065000,
+          "868": 7162000
+        },
+        "medium_severity": {
+          "792": 1390000,
+          "793": 2277000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "autosynth": 0,
+      "autosynth-self": 0,
+      "bcb-to-fb": 0,
+      "correct-owlbot-pp-image": 0,
+      "feat-source-map": 0,
+      "fhinkel-cloudrad": 0,
+      "gts3alpha1": 0,
+      "gts-re": 0,
+      "jsdoc_update_protos": 0,
+      "main": 0,
+      "master": 0,
+      "notslint": 0,
+      "owl-bot-update-lock-0ce11cd3e954107bf8463d13400be73e687c1fab9e32a612a9918d0e93785c3e": 0,
+      "owl-bot-update-lock-57c5621efda41e5d0a66b2ed0177ac9a45e50bbaaf17d7b0e9b4989885898fd6": 0,
+      "owl-bot-update-lock-72a7e410f5a01056b96eafd31021ae45c59abcf9152aabe555377fb784e9c17e": 0,
+      "owl-bot-update-lock-72ff93409133b0cf277b8870f859e1ddde62d2e329f655311d4bfc16735d182e": 0,
+      "owl-bot-update-lock-80bfa0c67226453b37b501be7748b2fa2a2676cfeec0012e79e3a1a8f1cbe6a3": 0,
+      "owl-bot-update-lock-805e2e389eafefa5ed484c30b83a7a875e6b1c7ee125d812e8b01ecc531c3fac": 0,
+      "owl-bot-update-lock-c2641f0628c1077d504eca6b065517b0cc54336f09a9a38e3614c4b412dd9d37": 0,
+      "owl-bot-update-lock-dc7bfb4c4bf50496abbdd24bd9e4aaa833dc75248c0a9e3a7f807feda5258873": 0,
+      "release-please--branches--main": 174,
+      "release-v4.4.1": 0,
+      "release-v5.2.0": 0,
+      "release-v5.2.1": 0,
+      "release-v5.3.1": 0,
+      "release-v5.5.1": 0,
+      "release-v5.6.1": 0,
+      "release-v5.8.1": 0,
+      "relocate-post-processor": 0,
+      "rm-pret": 0,
+      "syfix": 0,
+      "sync-query": 0
+    },
+    "branch deviation": {
+      "autosynth": 750,
+      "autosynth-self": 639,
+      "bcb-to-fb": 589,
+      "correct-owlbot-pp-image": 317,
+      "feat-source-map": 950,
+      "fhinkel-cloudrad": 588,
+      "gts3alpha1": 732,
+      "gts-re": 860,
+      "jsdoc_update_protos": 923,
+      "main": 0,
+      "master": 400,
+      "notslint": 878,
+      "owl-bot-update-lock-0ce11cd3e954107bf8463d13400be73e687c1fab9e32a612a9918d0e93785c3e": 344,
+      "owl-bot-update-lock-57c5621efda41e5d0a66b2ed0177ac9a45e50bbaaf17d7b0e9b4989885898fd6": 217,
+      "owl-bot-update-lock-72a7e410f5a01056b96eafd31021ae45c59abcf9152aabe555377fb784e9c17e": 439,
+      "owl-bot-update-lock-72ff93409133b0cf277b8870f859e1ddde62d2e329f655311d4bfc16735d182e": 395,
+      "owl-bot-update-lock-80bfa0c67226453b37b501be7748b2fa2a2676cfeec0012e79e3a1a8f1cbe6a3": 132,
+      "owl-bot-update-lock-805e2e389eafefa5ed484c30b83a7a875e6b1c7ee125d812e8b01ecc531c3fac": 441,
+      "owl-bot-update-lock-c2641f0628c1077d504eca6b065517b0cc54336f09a9a38e3614c4b412dd9d37": 154,
+      "owl-bot-update-lock-dc7bfb4c4bf50496abbdd24bd9e4aaa833dc75248c0a9e3a7f807feda5258873": 132,
+      "release-please--branches--main": 122,
+      "release-v4.4.1": 1018,
+      "release-v5.2.0": 756,
+      "release-v5.2.1": 716,
+      "release-v5.3.1": 680,
+      "release-v5.5.1": 583,
+      "release-v5.6.1": 479,
+      "release-v5.8.1": 366,
+      "relocate-post-processor": 352,
+      "rm-pret": 878,
+      "syfix": 876,
+      "sync-query": 916
+    },
+    "unsynced activity": {
+      "autosynth": 0,
+      "autosynth-self": 0,
+      "bcb-to-fb": 0,
+      "correct-owlbot-pp-image": 0,
+      "feat-source-map": 0,
+      "fhinkel-cloudrad": 0,
+      "gts3alpha1": 0,
+      "gts-re": 0,
+      "jsdoc_update_protos": 0,
+      "main": 0,
+      "master": 0,
+      "notslint": 0,
+      "owl-bot-update-lock-0ce11cd3e954107bf8463d13400be73e687c1fab9e32a612a9918d0e93785c3e": 0,
+      "owl-bot-update-lock-57c5621efda41e5d0a66b2ed0177ac9a45e50bbaaf17d7b0e9b4989885898fd6": 0,
+      "owl-bot-update-lock-72a7e410f5a01056b96eafd31021ae45c59abcf9152aabe555377fb784e9c17e": 0,
+      "owl-bot-update-lock-72ff93409133b0cf277b8870f859e1ddde62d2e329f655311d4bfc16735d182e": 0,
+      "owl-bot-update-lock-80bfa0c67226453b37b501be7748b2fa2a2676cfeec0012e79e3a1a8f1cbe6a3": 0,
+      "owl-bot-update-lock-805e2e389eafefa5ed484c30b83a7a875e6b1c7ee125d812e8b01ecc531c3fac": 0,
+      "owl-bot-update-lock-c2641f0628c1077d504eca6b065517b0cc54336f09a9a38e3614c4b412dd9d37": 0,
+      "owl-bot-update-lock-dc7bfb4c4bf50496abbdd24bd9e4aaa833dc75248c0a9e3a7f807feda5258873": 0,
+      "release-please--branches--main": 51,
+      "release-v4.4.1": 0,
+      "release-v5.2.0": 0,
+      "release-v5.2.1": 0,
+      "release-v5.3.1": 0,
+      "release-v5.5.1": 0,
+      "release-v5.6.1": 0,
+      "release-v5.8.1": 0,
+      "relocate-post-processor": 0,
+      "rm-pret": 0,
+      "syfix": 0,
+      "sync-query": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "release-please--branches--main"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feat-source-map",
+          "gts-re",
+          "jsdoc_update_protos",
+          "notslint",
+          "release-v4.4.1",
+          "rm-pret",
+          "syfix",
+          "sync-query"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "release-please--branches--main"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "ci": {
+      "data": [],
+      "release_build_count": 25
+    }
+  },
+  "skip_failing_tests": {}
+}

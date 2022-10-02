@@ -1,0 +1,146 @@
+{
+  "slow_build": {
+    "Release": {
+      "data": {
+        "2021-04-20T16:33:36Z": 58500.0,
+        "2021-05-05T13:53:33Z": 57333.333333333336,
+        "2021-06-07T13:32:55Z": 55000.0,
+        "2021-06-21T17:14:18Z": 52000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 55708.333333333336,
+      "quartiles": {
+        "q1": 54250.0,
+        "q3": 57625.0,
+        "iqr": 3375.0
+      },
+      "classification": {
+        "high_severity": {
+          "46": 65000
+        },
+        "medium_severity": {
+          "44": 62000,
+          "47": 58000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.29.3.maintenance": 0,
+      "bpontarelli/themes-and-registrations": 0,
+      "brianp/js-graal-fetch": 0,
+      "brianp/threat-detection": 0,
+      "checkbox-issue-126": 0,
+      "consent-bug-126": 0,
+      "degroff/kickstart-reset": 0,
+      "dependabot/npm_and_yarn/elliptic-6.5.4": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "feature/scim": 0,
+      "johnathon/redirect_uri-wildcard": 0,
+      "master": 0,
+      "my-new-branch": 0,
+      "port-jwt-manager": 0,
+      "rob/issue-1206": 0,
+      "rob/issue-1589": 0,
+      "spencer/issue-633": 0,
+      "spencer/issue-971": 0,
+      "spencer/issue-1547": 0,
+      "spencer/issue-1676": 0,
+      "spencer/issue-1699": 0,
+      "spencer/webauth-apple": 0,
+      "spencer/webauthn": 0,
+      "spencer/webauthn-displayName": 0,
+      "spencer/1819": 0,
+      "spencer/1848": 0,
+      "types-fix": 872
+    },
+    "branch deviation": {
+      "1.29.3.maintenance": 401,
+      "bpontarelli/themes-and-registrations": 501,
+      "brianp/js-graal-fetch": 387,
+      "brianp/threat-detection": 404,
+      "checkbox-issue-126": 696,
+      "consent-bug-126": 696,
+      "degroff/kickstart-reset": 387,
+      "dependabot/npm_and_yarn/elliptic-6.5.4": 556,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 498,
+      "feature/scim": 176,
+      "johnathon/redirect_uri-wildcard": 46,
+      "master": 0,
+      "my-new-branch": 387,
+      "port-jwt-manager": 793,
+      "rob/issue-1206": 173,
+      "rob/issue-1589": 163,
+      "spencer/issue-633": 144,
+      "spencer/issue-971": 151,
+      "spencer/issue-1547": 155,
+      "spencer/issue-1676": 155,
+      "spencer/issue-1699": 143,
+      "spencer/webauth-apple": 54,
+      "spencer/webauthn": 25,
+      "spencer/webauthn-displayName": 25,
+      "spencer/1819": 37,
+      "spencer/1848": 26,
+      "types-fix": 873
+    },
+    "unsynced activity": {
+      "1.29.3.maintenance": 0,
+      "bpontarelli/themes-and-registrations": 0,
+      "brianp/js-graal-fetch": 0,
+      "brianp/threat-detection": 0,
+      "checkbox-issue-126": 0,
+      "consent-bug-126": 0,
+      "degroff/kickstart-reset": 0,
+      "dependabot/npm_and_yarn/elliptic-6.5.4": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "feature/scim": 0,
+      "johnathon/redirect_uri-wildcard": 0,
+      "master": 0,
+      "my-new-branch": 0,
+      "port-jwt-manager": 0,
+      "rob/issue-1206": 0,
+      "rob/issue-1589": 0,
+      "spencer/issue-633": 0,
+      "spencer/issue-971": 0,
+      "spencer/issue-1547": 0,
+      "spencer/issue-1676": 0,
+      "spencer/issue-1699": 0,
+      "spencer/webauth-apple": 0,
+      "spencer/webauthn": 0,
+      "spencer/webauthn-displayName": 0,
+      "spencer/1819": 0,
+      "spencer/1848": 0,
+      "types-fix": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "types-fix"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "bpontarelli/themes-and-registrations",
+          "checkbox-issue-126",
+          "consent-bug-126",
+          "dependabot/npm_and_yarn/elliptic-6.5.4",
+          "dependabot/npm_and_yarn/lodash-4.17.21",
+          "port-jwt-manager",
+          "types-fix"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "types-fix"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

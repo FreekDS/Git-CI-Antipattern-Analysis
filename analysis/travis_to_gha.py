@@ -16,7 +16,7 @@ with open(f'{os.getcwd()}/travis_to_gha.json') as gha_f:
 
 opts = {
     'detect_only': False,
-    'verbose': True
+    'verbose': True,
 }
 
 i = 1
@@ -31,10 +31,10 @@ for repo, vals in travis_to_gha.items():
 
     if BEFORE:
         print("Repo", i, '(1) of', len(travis_to_gha))
-        analyze_repo(GithubRepo(repo), start_date=start_d1, to_date=end_d1, create_cache=True, use_cache=True,
+        analyze_repo(GithubRepo(repo), start_date=start_d1, to_date=end_d1, create_cache=True, use_cache=False,
                      out_dir="./output/travis_to_gha_1", **opts)
     else:
         print("Repo", i, '(2) of', len(travis_to_gha))
-        analyze_repo(GithubRepo(repo), start_date=start_d1, to_date=end_d2, create_cache=True, use_cache=True,
+        analyze_repo(GithubRepo(repo), start_date=start_d1, to_date=end_d2, create_cache=True, use_cache=False,
                      out_dir="./output/travis_to_gha_2", **opts)
     i += 1

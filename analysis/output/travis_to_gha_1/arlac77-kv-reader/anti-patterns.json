@@ -1,0 +1,214 @@
+{
+  "slow_build": {
+    "CodeQL": {
+      "data": {
+        "2020-11-23T14:52:14Z": 199625.0
+      },
+      "tool": "Github Actions",
+      "total avg": 199625.0,
+      "quartiles": {
+        "q1": 199625.0,
+        "q3": 199625.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 390000,
+          "3": 201000,
+          "8": 217000,
+          "13": 324000
+        },
+        "medium_severity": {}
+      }
+    },
+    "CI": {
+      "data": {
+        "2020-11-23T14:52:06Z": 113041.66666666667
+      },
+      "tool": "Github Actions",
+      "total avg": 113041.66666666667,
+      "quartiles": {
+        "q1": 113041.66666666667,
+        "q3": 113041.66666666667,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 210000,
+          "3": 272000,
+          "4": 233000,
+          "19": 148000,
+          "21": 451000,
+          "22": 155000,
+          "23": 147000,
+          "24": 148000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Auto approve": {
+      "data": {
+        "2020-11-23T14:52:14Z": 75750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 75750.0,
+      "quartiles": {
+        "q1": 75750.0,
+        "q3": 75750.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 235000,
+          "12": 285000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Pull Request Labeler": {
+      "data": {
+        "2020-11-23T14:52:14Z": 165250.0
+      },
+      "tool": "Github Actions",
+      "total avg": 165250.0,
+      "quartiles": {
+        "q1": 165250.0,
+        "q3": 165250.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 252000,
+          "4": 350000
+        },
+        "medium_severity": {}
+      }
+    },
+    "API to readme": {
+      "data": {
+        "2020-10-09T14:33:57Z": 82571.42857142857,
+        "2020-10-16T14:33:59Z": 57428.57142857143,
+        "2020-10-23T14:36:02Z": 55875.0,
+        "2020-10-31T14:33:03Z": 60142.857142857145,
+        "2020-11-07T14:33:33Z": 58250.0,
+        "2020-11-15T14:33:06Z": 63857.142857142855,
+        "2020-11-22T14:33:22Z": 60500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 62660.71428571428,
+      "quartiles": {
+        "q1": 57839.28571428571,
+        "q3": 62178.57142857143,
+        "iqr": 4339.285714285717
+      },
+      "classification": {
+        "high_severity": {
+          "132": 254000,
+          "156": 74000,
+          "165": 72000,
+          "167": 71000
+        },
+        "medium_severity": {
+          "137": 67000,
+          "153": 63000,
+          "154": 63000,
+          "155": 67000,
+          "162": 63000,
+          "164": 68000,
+          "169": 68000
+        }
+      }
+    },
+    "kv-reader": {
+      "data": {
+        "2020-10-13T01:50:27Z": 143250.0,
+        "2020-10-25T08:55:54Z": 149777.77777777778,
+        "2020-11-01T18:44:33Z": 156888.88888888888,
+        "2020-11-11T17:46:01Z": 125444.44444444444
+      },
+      "tool": "TravisCI",
+      "total avg": 143840.27777777775,
+      "quartiles": {
+        "q1": 138798.61111111112,
+        "q3": 151555.55555555556,
+        "iqr": 12756.944444444438
+      },
+      "classification": {
+        "high_severity": {
+          "1938": 176000,
+          "1946": 186000,
+          "1951": 173000,
+          "1955": 176000,
+          "1957": 181000,
+          "1958": 188000,
+          "1959": 196000,
+          "1974": 178000
+        },
+        "medium_severity": {
+          "1925": 168000,
+          "1929": 161000,
+          "1942": 153000,
+          "1963": 152000,
+          "1970": 159000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 6
+  },
+  "broken_release": {
+    "CodeQL": {
+      "data": [],
+      "release_build_count": 4
+    },
+    "CI": {
+      "data": [
+        {
+          "started_at": "2020-11-23T15:34:45Z",
+          "used_tool": "Github Actions",
+          "number": 17
+        },
+        {
+          "started_at": "2020-11-23T16:05:02Z",
+          "used_tool": "Github Actions",
+          "number": 24
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 4
+    },
+    "API to readme": {
+      "data": [],
+      "release_build_count": 46
+    },
+    "kv-reader": {
+      "data": [],
+      "release_build_count": 24
+    }
+  },
+  "skip_failing_tests": {}
+}

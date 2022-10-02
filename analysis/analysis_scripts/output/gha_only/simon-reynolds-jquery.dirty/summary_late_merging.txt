@@ -1,0 +1,22 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 480.0 days
+Branch feature/fable moved away from main with 828 days, 348.0 more than average
+Branch feature/typescript moved away from main with 827 days, 347.0 more than average
+Branch gh-pages moved away from main with 1387 days, 907.0 more than average
+Branch gh-pages-demo moved away from main with 1386 days, 906.0 more than average
+MEDIUM SEVERITY
+Branch feature/fable, 828 days
+Branch gh-pages, 1387 days
+Branch gh-pages-demo, 1386 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

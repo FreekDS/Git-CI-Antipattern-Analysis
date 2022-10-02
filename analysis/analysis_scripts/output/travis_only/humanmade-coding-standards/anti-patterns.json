@@ -1,0 +1,125 @@
+{
+  "slow_build": {
+    "coding-standards": {
+      "data": {
+        "2021-04-14T01:37:53Z": 246333.33333333334,
+        "2021-04-21T01:38:03Z": 239000.0,
+        "2021-04-28T01:38:14Z": 252000.0,
+        "2021-05-05T01:39:14Z": 246000.0,
+        "2021-05-12T01:40:57Z": 247000.0,
+        "2021-05-26T01:40:39Z": 247000.0,
+        "2021-06-02T01:41:42Z": 242000.0,
+        "2021-06-09T01:42:30Z": 249000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 246041.6666666667,
+      "quartiles": {
+        "q1": 245000.0,
+        "q3": 247500.0,
+        "iqr": 2500.0
+      },
+      "classification": {
+        "high_severity": {
+          "838": 255000,
+          "848": 253000
+        },
+        "medium_severity": {
+          "835": 251000,
+          "839": 249000,
+          "841": 251000,
+          "852": 249000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.1.2": 0,
+      "disallow-use-function": 0,
+      "master": 0,
+      "move-eslint-dev-dependencies": 0,
+      "remove-prefer-no-devdeps-rule": 0,
+      "remove-use-in-alphabetical-order-rule": 0,
+      "stylelint-tests": 0,
+      "ternary-sniff": 0,
+      "try/phive": 0,
+      "update-dependencies": 0,
+      "update-eslint-packages": 0,
+      "use-babel-eslint-parser": 0,
+      "v0.8": 0,
+      "v1.0": 0,
+      "v1.1": 0,
+      "wip-changelog-updates": 0
+    },
+    "branch deviation": {
+      "1.1.2": 486,
+      "disallow-use-function": 849,
+      "master": 0,
+      "move-eslint-dev-dependencies": 15,
+      "remove-prefer-no-devdeps-rule": 43,
+      "remove-use-in-alphabetical-order-rule": 583,
+      "stylelint-tests": 569,
+      "ternary-sniff": 687,
+      "try/phive": 583,
+      "update-dependencies": 287,
+      "update-eslint-packages": 397,
+      "use-babel-eslint-parser": 491,
+      "v0.8": 688,
+      "v1.0": 688,
+      "v1.1": 644,
+      "wip-changelog-updates": 15
+    },
+    "unsynced activity": {
+      "1.1.2": 0,
+      "disallow-use-function": 0,
+      "master": 0,
+      "move-eslint-dev-dependencies": 0,
+      "remove-prefer-no-devdeps-rule": 0,
+      "remove-use-in-alphabetical-order-rule": 0,
+      "stylelint-tests": 0,
+      "ternary-sniff": 0,
+      "try/phive": 0,
+      "update-dependencies": 0,
+      "update-eslint-packages": 0,
+      "use-babel-eslint-parser": 0,
+      "v0.8": 0,
+      "v1.0": 0,
+      "v1.1": 0,
+      "wip-changelog-updates": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "disallow-use-function",
+          "ternary-sniff",
+          "v0.8",
+          "v1.0"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "coding-standards": {
+      "data": [
+        {
+          "started_at": "2021-05-12T12:27:25Z",
+          "used_tool": "TravisCI",
+          "number": 847
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 19
+    }
+  },
+  "skip_failing_tests": {}
+}

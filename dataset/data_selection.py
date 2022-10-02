@@ -12,12 +12,13 @@ from pathlib import Path
 import platform
 
 # PARAMETERS
-SAMPLE_SIZE = 30
+SAMPLE_SIZE = 100
 ACTIVE_DAYS_THR = 30
 COLLECT_DATE = datetime.datetime(2022, 5, 5, 12, 0, 0, 0)  # Data collection date: 2022-05-05 12:00
 SEED = 170819991405
 DATA_FILE = "dataset_with_info.csv"
 CURRENT_DIR = Path(__file__).resolve().parent
+OUT_DIR = 'output-new'
 
 # INITIALIZATION
 load_dotenv()
@@ -268,7 +269,7 @@ single_ci_repos_gha = create_sample(SAMPLE_SIZE, repos_without_change_gha, token
 # GENERATE OUTPUT FILES (json + csv)
 
 def write_csv(filename, data):
-    with open(f"{CURRENT_DIR}/output/csv/{filename}.csv", 'w') as out_file:
+    with open(f"{CURRENT_DIR}/{OUT_DIR}/csv/{filename}.csv", 'w') as out_file:
         out_file.write("repo;ci;start;end\n")
         for r, vals in data.items():
             for val in vals:
@@ -276,7 +277,7 @@ def write_csv(filename, data):
 
 
 def write_json(filename, data):
-    with open(f"{CURRENT_DIR}/output/json/{filename}.json", 'w') as out_file:
+    with open(f"{CURRENT_DIR}/{OUT_DIR}/json/{filename}.json", 'w') as out_file:
         out_file.write(json.dumps(data, indent=2))
 
 

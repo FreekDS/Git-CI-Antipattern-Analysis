@@ -1,0 +1,63 @@
+{
+  "slow_build": {
+    "macaca-wd": {
+      "data": {
+        "2021-05-04T09:50:12Z": 66000.0,
+        "2021-06-03T09:29:17Z": 58000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 62000.0,
+      "quartiles": {
+        "q1": 60000.0,
+        "q3": 64000.0,
+        "iqr": 4000.0
+      },
+      "classification": {
+        "high_severity": {
+          "336": 77000,
+          "337": 73000,
+          "340": 74000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "gh-pages": 79,
+      "master": 0
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "gh-pages"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "macaca-wd": {
+      "data": [],
+      "release_build_count": 5
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,54 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 724.7413793103449 days
+Branch core-informative moved away from main with 1266 days, 541.2586206896551 more than average
+Branch css-import moved away from main with 1253 days, 528.2586206896551 more than average
+Branch debug moved away from main with 1343 days, 618.2586206896551 more than average
+Branch deps_november moved away from main with 1028 days, 303.2586206896551 more than average
+Branch dfn-operation moved away from main with 1366 days, 641.2586206896551 more than average
+Branch handlebars moved away from main with 1236 days, 511.2586206896551 more than average
+Branch karma-module moved away from main with 1352 days, 627.2586206896551 more than average
+Branch karma-module2 moved away from main with 1252 days, 527.2586206896551 more than average
+Branch local-options moved away from main with 1338 days, 613.2586206896551 more than average
+Branch no-idl-class moved away from main with 1383 days, 658.2586206896551 more than average
+Branch opname moved away from main with 1270 days, 545.2586206896551 more than average
+Branch reorder moved away from main with 829 days, 104.25862068965512 more than average
+Branch short-syntax-to-link-to-fragment-in-other-spec moved away from main with 962 days, 237.25862068965512 more than average
+Branch structure-tree moved away from main with 1363 days, 638.2586206896551 more than average
+Branch temp-webpack-plugin moved away from main with 1308 days, 583.2586206896551 more than average
+Branch tools-ts-check moved away from main with 1245 days, 520.2586206896551 more than average
+Branch tools-tscheck moved away from main with 1306 days, 581.2586206896551 more than average
+Branch ts-check-partial moved away from main with 1349 days, 624.2586206896551 more than average
+Branch type-defn moved away from main with 753 days, 28.258620689655118 more than average
+Branch typescript moved away from main with 734 days, 9.258620689655118 more than average
+Branch w3c-common moved away from main with 728 days, 3.2586206896551175 more than average
+Branch webidl-update moved away from main with 1243 days, 518.2586206896551 more than average
+Branch webpack-debug moved away from main with 1350 days, 625.2586206896551 more than average
+Branch webpack-default moved away from main with 1273 days, 548.2586206896551 more than average
+MEDIUM SEVERITY
+Branch core-informative, 1266 days
+Branch css-import, 1253 days
+Branch debug, 1343 days
+Branch dfn-operation, 1366 days
+Branch karma-module, 1352 days
+Branch karma-module2, 1252 days
+Branch local-options, 1338 days
+Branch no-idl-class, 1383 days
+Branch opname, 1270 days
+Branch structure-tree, 1363 days
+Branch temp-webpack-plugin, 1308 days
+Branch tools-tscheck, 1306 days
+Branch ts-check-partial, 1349 days
+Branch webpack-debug, 1350 days
+Branch webpack-default, 1273 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

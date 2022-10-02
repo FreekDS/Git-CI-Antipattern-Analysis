@@ -1,0 +1,90 @@
+{
+  "slow_build": {
+    "mapscii": {
+      "data": {
+        "2021-05-07T20:50:08Z": 109500.0,
+        "2021-05-28T21:01:29Z": 108000.0,
+        "2021-06-08T14:47:26Z": 105400.0,
+        "2021-07-04T08:11:41Z": 102000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 106225.0,
+      "quartiles": {
+        "q1": 104550.0,
+        "q3": 108375.0,
+        "iqr": 3825.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "111": 112000,
+          "112": 113000,
+          "115": 110000,
+          "118": 112000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/jsdom-16.7.0": 0,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 0,
+      "env-paths": 620,
+      "master": 0,
+      "module": 0,
+      "telnetpoc": 0,
+      "unit-tests": 1257
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/jsdom-16.7.0": -55,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": -56,
+      "env-paths": 625,
+      "master": 0,
+      "module": -2,
+      "telnetpoc": 1825,
+      "unit-tests": -2
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/jsdom-16.7.0": 0,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 0,
+      "env-paths": -6,
+      "master": 0,
+      "module": 0,
+      "telnetpoc": 0,
+      "unit-tests": 1259
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "env-paths"
+        ],
+        "high_severity": [
+          "unit-tests"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "env-paths"
+        ],
+        "high_severity": [
+          "telnetpoc"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "env-paths",
+          "unit-tests"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "mapscii": {
+      "data": [],
+      "release_build_count": 10
+    }
+  },
+  "skip_failing_tests": {}
+}

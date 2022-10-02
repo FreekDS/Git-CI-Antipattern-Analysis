@@ -1,0 +1,94 @@
+{
+  "slow_build": {
+    "server-base": {
+      "data": {
+        "2021-04-29T21:34:14Z": 63333.333333333336
+      },
+      "tool": "TravisCI",
+      "total avg": 63333.333333333336,
+      "quartiles": {
+        "q1": 63333.333333333336,
+        "q3": 63333.333333333336,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "562": 65000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/github_actions/actions/setup-node-3.4.1": 0,
+      "dependabot/github_actions/fastify/github-action-merge-dependabot-3.3.1": 0,
+      "dependabot/npm_and_yarn/packages/server-base/dotenv-16.0.2": 0,
+      "dependabot/npm_and_yarn/packages/server-base/tap-16.3.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-log/pino-8.5.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-log/pino-pretty-9.1.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-log/test/tap-16.3.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-router/test/form-urlencoded-6.1.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-router/test/tap-16.3.0": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "dependabot/github_actions/actions/setup-node-3.4.1": -53,
+      "dependabot/github_actions/fastify/github-action-merge-dependabot-3.3.1": -114,
+      "dependabot/npm_and_yarn/packages/server-base/dotenv-16.0.2": -100,
+      "dependabot/npm_and_yarn/packages/server-base/tap-16.3.0": -25,
+      "dependabot/npm_and_yarn/packages/server-base-log/pino-8.5.0": -105,
+      "dependabot/npm_and_yarn/packages/server-base-log/pino-pretty-9.1.0": -93,
+      "dependabot/npm_and_yarn/packages/server-base-log/test/tap-16.3.0": -25,
+      "dependabot/npm_and_yarn/packages/server-base-router/test/form-urlencoded-6.1.0": -70,
+      "dependabot/npm_and_yarn/packages/server-base-router/test/tap-16.3.0": -25,
+      "main": 0
+    },
+    "unsynced activity": {
+      "dependabot/github_actions/actions/setup-node-3.4.1": 0,
+      "dependabot/github_actions/fastify/github-action-merge-dependabot-3.3.1": 0,
+      "dependabot/npm_and_yarn/packages/server-base/dotenv-16.0.2": 0,
+      "dependabot/npm_and_yarn/packages/server-base/tap-16.3.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-log/pino-8.5.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-log/pino-pretty-9.1.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-log/test/tap-16.3.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-router/test/form-urlencoded-6.1.0": 0,
+      "dependabot/npm_and_yarn/packages/server-base-router/test/tap-16.3.0": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/github_actions/actions/setup-node-3.4.1",
+          "dependabot/npm_and_yarn/packages/server-base/tap-16.3.0",
+          "dependabot/npm_and_yarn/packages/server-base-log/test/tap-16.3.0",
+          "dependabot/npm_and_yarn/packages/server-base-router/test/form-urlencoded-6.1.0",
+          "dependabot/npm_and_yarn/packages/server-base-router/test/tap-16.3.0",
+          "main"
+        ],
+        "high_severity": [
+          "dependabot/github_actions/fastify/github-action-merge-dependabot-3.3.1",
+          "dependabot/npm_and_yarn/packages/server-base/dotenv-16.0.2",
+          "dependabot/npm_and_yarn/packages/server-base-log/pino-8.5.0",
+          "dependabot/npm_and_yarn/packages/server-base-log/pino-pretty-9.1.0"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "server-base": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

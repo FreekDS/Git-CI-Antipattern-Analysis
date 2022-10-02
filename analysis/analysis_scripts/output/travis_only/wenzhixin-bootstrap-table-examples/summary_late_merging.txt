@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch develop has -18 days of missed activity!
+MEDIUM SEVERITY
+Branch develop, -18 seconds
+
+Branch Deviation
+=========================
+Average deviation: -12.0 days
+Branch develop moved away from main with 0 days, 12.0 more than average
+MEDIUM SEVERITY
+Branch develop, 0 days
+HIGH SEVERITY
+Branch gh-pages, -18 days
+Branch master, -18 days
+
+Unsynced activity
+=========================
+Average unsynced: -6.0 days
+Branch gh-pages is unsynced with 0 days, 6.0 more than average
+Branch master is unsynced with 0 days, 6.0 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch develop, -18 days

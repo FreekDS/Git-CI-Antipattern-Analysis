@@ -1,0 +1,27 @@
+Missed Activity
+=========================
+Branch env-paths has 620 days of missed activity!
+Branch unit-tests has 1257 days of missed activity!
+MEDIUM SEVERITY
+Branch env-paths, 620 seconds
+HIGH SEVERITY
+Branch unit-tests, 1257 seconds
+
+Branch Deviation
+=========================
+Average deviation: 333.57142857142856 days
+Branch env-paths moved away from main with 625 days, 291.42857142857144 more than average
+Branch telnetpoc moved away from main with 1825 days, 1491.4285714285716 more than average
+MEDIUM SEVERITY
+Branch env-paths, 625 days
+HIGH SEVERITY
+Branch telnetpoc, 1825 days
+
+Unsynced activity
+=========================
+Average unsynced: 179.0 days
+Branch unit-tests is unsynced with 1259 days, 1080.0 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch env-paths, -6 days
+Branch unit-tests, 1259 days

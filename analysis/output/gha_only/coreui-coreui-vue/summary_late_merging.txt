@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 351.125 days
+Branch dev-v3 moved away from main with 433 days, 81.875 more than average
+Branch v2 moved away from main with 1041 days, 689.875 more than average
+Branch v4-dev-lukasz moved away from main with 353 days, 1.875 more than average
+Branch v4-dev-widgets moved away from main with 353 days, 1.875 more than average
+MEDIUM SEVERITY
+Branch dev-v3, 433 days
+HIGH SEVERITY
+Branch v2, 1041 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

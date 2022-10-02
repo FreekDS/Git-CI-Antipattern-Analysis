@@ -1,0 +1,17 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 946.0 days
+Branch a-simpler-fix-for-#7 moved away from main with 1892 days, 946.0 more than average
+MEDIUM SEVERITY
+Branch a-simpler-fix-for-#7, 1892 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

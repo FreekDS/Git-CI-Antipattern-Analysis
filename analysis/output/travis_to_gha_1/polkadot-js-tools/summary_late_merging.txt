@@ -1,0 +1,22 @@
+Missed Activity
+=========================
+Branch jg-bump-deps has 705 days of missed activity!
+MEDIUM SEVERITY
+Branch jg-bump-deps, 705 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 102.0 days
+Branch jg-bump-deps moved away from main with 204 days, 102.0 more than average
+MEDIUM SEVERITY
+Branch jg-bump-deps, 204 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 250.0 days
+Branch jg-bump-deps is unsynced with 500 days, 250.0 more than average
+MEDIUM SEVERITY
+Branch jg-bump-deps, 500 days
+HIGH SEVERITY

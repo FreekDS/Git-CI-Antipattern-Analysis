@@ -1,0 +1,86 @@
+{
+  "slow_build": {
+    "reach-ui": {
+      "data": {
+        "2021-04-10T05:33:31Z": 188714.2857142857,
+        "2021-04-20T15:31:36Z": 353000.0,
+        "2021-04-29T01:07:07Z": 232666.66666666666,
+        "2021-05-17T17:06:36Z": 202000.0,
+        "2021-06-06T01:31:55Z": 200200.0,
+        "2021-06-25T15:59:03Z": 349250.0
+      },
+      "tool": "TravisCI",
+      "total avg": 254305.15873015873,
+      "quartiles": {
+        "q1": 200650.0,
+        "q3": 320104.1666666667,
+        "iqr": 119454.16666666669
+      },
+      "classification": {
+        "high_severity": {
+          "1252": 602000,
+          "1257": 727000,
+          "1258": 713000,
+          "1280": 504000,
+          "1282": 605000,
+          "1283": 531000
+        },
+        "medium_severity": {
+          "1250": 388000,
+          "1270": 364000,
+          "1273": 367000,
+          "1275": 366000,
+          "1276": 372000,
+          "1281": 321000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dev": 0,
+      "main": 0,
+      "menu-button-rewrite": 0,
+      "nayaabkhan-gh-actions": 0,
+      "website": 0
+    },
+    "branch deviation": {
+      "dev": 0,
+      "main": 17,
+      "menu-button-rewrite": 1016,
+      "nayaabkhan-gh-actions": 410,
+      "website": 126
+    },
+    "unsynced activity": {
+      "dev": 0,
+      "main": 0,
+      "menu-button-rewrite": 0,
+      "nayaabkhan-gh-actions": 0,
+      "website": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "menu-button-rewrite"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "reach-ui": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

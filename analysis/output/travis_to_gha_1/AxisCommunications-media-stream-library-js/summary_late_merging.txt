@@ -1,0 +1,22 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 561.6666666666666 days
+Branch 5-stable moved away from main with 1166 days, 604.3333333333334 more than average
+Branch 6-stable moved away from main with 843 days, 281.33333333333337 more than average
+Branch drakkan-play_uri moved away from main with 654 days, 92.33333333333337 more than average
+Branch node-cli-metadata moved away from main with 680 days, 118.33333333333337 more than average
+Branch ramoncaldeira/ramoncaldeira-patch-1 moved away from main with 815 days, 253.33333333333337 more than average
+MEDIUM SEVERITY
+Branch 5-stable, 1166 days
+Branch 6-stable, 843 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

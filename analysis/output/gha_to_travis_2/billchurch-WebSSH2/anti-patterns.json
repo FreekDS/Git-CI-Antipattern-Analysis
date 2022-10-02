@@ -30,39 +30,49 @@
   },
   "late_merging": {
     "missed activity": {
-      "dev": 0,
-      "dev-4": 0,
+      "dependabot/npm_and_yarn/app/vm2-3.9.11": 0,
       "main": 0,
-      "path-xterm4-vijay": 0,
-      "path-xterm4": 0
+      "release-please/bootstrap/default": 4,
+      "release-please--branches--main--components--release-please-action": 0,
+      "release-please--branches--main--components--webssh2": -1,
+      "test-branch": 4
     },
     "branch deviation": {
-      "dev": 364,
-      "dev-4": 321,
+      "dependabot/npm_and_yarn/app/vm2-3.9.11": -53,
       "main": 0,
-      "path-xterm4-vijay": 907,
-      "path-xterm4": 960
+      "release-please/bootstrap/default": 4,
+      "release-please--branches--main--components--release-please-action": 4,
+      "release-please--branches--main--components--webssh2": 0,
+      "test-branch": 4
     },
     "unsynced activity": {
-      "dev": 0,
-      "dev-4": 0,
+      "dependabot/npm_and_yarn/app/vm2-3.9.11": 0,
       "main": 0,
-      "path-xterm4-vijay": 0,
-      "path-xterm4": 0
+      "release-please/bootstrap/default": -1,
+      "release-please--branches--main--components--release-please-action": 0,
+      "release-please--branches--main--components--webssh2": -1,
+      "test-branch": -1
     },
     "classification": {
       "missed activity": {
-        "medium_severity": [],
-        "high_severity": []
-      },
-      "branch deviation": {
         "medium_severity": [
-          "path-xterm4"
+          "release-please/bootstrap/default",
+          "test-branch"
         ],
         "high_severity": []
       },
-      "unsynced activity": {
+      "branch deviation": {
         "medium_severity": [],
+        "high_severity": [
+          "dependabot/npm_and_yarn/app/vm2-3.9.11"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "release-please/bootstrap/default",
+          "release-please--branches--main--components--webssh2",
+          "test-branch"
+        ],
         "high_severity": []
       }
     },

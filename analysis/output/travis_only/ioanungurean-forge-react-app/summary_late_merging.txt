@@ -1,0 +1,19 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -45.333333333333336 days
+Branch master moved away from main with 0 days, 45.333333333333336 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch dependabot/npm_and_yarn/templates/ECMAScript/terser-5.14.2, -68 days
+Branch dependabot/npm_and_yarn/templates/TypeScript/terser-5.14.2, -68 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

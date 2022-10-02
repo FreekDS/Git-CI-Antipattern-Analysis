@@ -2,16 +2,25 @@
   "slow_build": {},
   "late_merging": {
     "missed activity": {
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 0,
       "marino/create-payment-types-fix": 0,
-      "master": 0
+      "master": 0,
+      "pimm+jan/retry": 0,
+      "pimm/profiles-settlements": 0
     },
     "branch deviation": {
-      "marino/create-payment-types-fix": 107,
-      "master": 0
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 56,
+      "marino/create-payment-types-fix": 317,
+      "master": 0,
+      "pimm+jan/retry": -13,
+      "pimm/profiles-settlements": -5
     },
     "unsynced activity": {
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 0,
       "marino/create-payment-types-fix": 0,
-      "master": 0
+      "master": 0,
+      "pimm+jan/retry": 0,
+      "pimm/profiles-settlements": 0
     },
     "classification": {
       "missed activity": {
@@ -19,10 +28,10 @@
         "high_severity": []
       },
       "branch deviation": {
-        "medium_severity": [
+        "medium_severity": [],
+        "high_severity": [
           "marino/create-payment-types-fix"
-        ],
-        "high_severity": []
+        ]
       },
       "unsynced activity": {
         "medium_severity": [],

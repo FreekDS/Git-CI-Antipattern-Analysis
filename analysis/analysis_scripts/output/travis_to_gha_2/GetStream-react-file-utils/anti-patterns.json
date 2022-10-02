@@ -1,0 +1,111 @@
+{
+  "slow_build": {
+    "test": {
+      "data": {
+        "2021-03-09T14:01:22Z": 125200.0,
+        "2021-03-16T16:33:44Z": 78750.0,
+        "2021-04-05T21:11:01Z": 88750.0,
+        "2021-04-20T10:14:13Z": 125000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 104425.0,
+      "quartiles": {
+        "q1": 86250.0,
+        "q3": 125050.0,
+        "iqr": 38800.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 221000,
+          "3": 227000
+        },
+        "medium_severity": {
+          "1": 169000,
+          "12": 135000,
+          "27": 132000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/nanoid-3.3.3": 0,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 0,
+      "dependabot/npm_and_yarn/prismjs-1.27.0": 0,
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": 0,
+      "dependabot/npm_and_yarn/semver-regex-3.1.4": 0,
+      "dependabot/npm_and_yarn/tar-6.1.11": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "develop": -1,
+      "master": 0,
+      "refactor/thumbnail": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 42,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 149,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 104,
+      "dependabot/npm_and_yarn/nanoid-3.3.3": 78,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 78,
+      "dependabot/npm_and_yarn/prismjs-1.27.0": 138,
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": 34,
+      "dependabot/npm_and_yarn/semver-regex-3.1.4": 40,
+      "dependabot/npm_and_yarn/tar-6.1.11": 209,
+      "dependabot/npm_and_yarn/terser-4.8.1": -7,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 136,
+      "develop": 0,
+      "master": -1,
+      "refactor/thumbnail": 2
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/nanoid-3.3.3": 0,
+      "dependabot/npm_and_yarn/node-fetch-2.6.7": 0,
+      "dependabot/npm_and_yarn/prismjs-1.27.0": 0,
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": 0,
+      "dependabot/npm_and_yarn/semver-regex-3.1.4": 0,
+      "dependabot/npm_and_yarn/tar-6.1.11": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "develop": -1,
+      "master": 0,
+      "refactor/thumbnail": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/follow-redirects-1.14.8",
+          "dependabot/npm_and_yarn/prismjs-1.27.0",
+          "dependabot/npm_and_yarn/tar-6.1.11",
+          "dependabot/npm_and_yarn/url-parse-1.5.10"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "test": {
+      "data": [],
+      "release_build_count": 13
+    }
+  },
+  "skip_failing_tests": {}
+}

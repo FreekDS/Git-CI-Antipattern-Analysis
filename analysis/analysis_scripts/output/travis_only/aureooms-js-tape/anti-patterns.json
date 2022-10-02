@@ -1,0 +1,55 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ejs-3.1.8": 0,
+      "dependabot/npm_and_yarn/terser-5.14.2": 0,
+      "dependabot/npm_and_yarn/terser-5.15.0": 0,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": 0,
+      "fix-module-and-cjs-builds": 0,
+      "gh-pages": 0,
+      "main": 0,
+      "test-build-artifacts": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ejs-3.1.8": 112,
+      "dependabot/npm_and_yarn/terser-5.14.2": 16,
+      "dependabot/npm_and_yarn/terser-5.15.0": 16,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": 463,
+      "fix-module-and-cjs-builds": 278,
+      "gh-pages": 266,
+      "main": 0,
+      "test-build-artifacts": 279
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ejs-3.1.8": 0,
+      "dependabot/npm_and_yarn/terser-5.14.2": 0,
+      "dependabot/npm_and_yarn/terser-5.15.0": 0,
+      "dependabot/npm_and_yarn/trim-newlines-3.0.1": 0,
+      "fix-module-and-cjs-builds": 0,
+      "gh-pages": 0,
+      "main": 0,
+      "test-build-artifacts": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/trim-newlines-3.0.1",
+          "test-build-artifacts"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

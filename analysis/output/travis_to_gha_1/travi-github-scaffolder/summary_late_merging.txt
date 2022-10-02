@@ -1,0 +1,17 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 730.5 days
+Branch scaffolder moved away from main with 1461 days, 730.5 more than average
+MEDIUM SEVERITY
+Branch scaffolder, 1461 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

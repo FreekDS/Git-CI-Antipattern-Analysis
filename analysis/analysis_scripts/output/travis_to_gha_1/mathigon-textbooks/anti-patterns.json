@@ -1,0 +1,166 @@
+{
+  "slow_build": {
+    "CI Tests": {
+      "data": {
+        "2021-02-01T10:05:50Z": 112000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 112000.0,
+      "quartiles": {
+        "q1": 112000.0,
+        "q3": 112000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 117000,
+          "2": 113000,
+          "4": 116000,
+          "6": 133000,
+          "7": 113000
+        },
+        "medium_severity": {}
+      }
+    },
+    "textbooks": {
+      "data": {
+        "2020-12-19T04:05:36Z": 156244.89795918367,
+        "2020-12-27T10:56:12Z": 150540.54054054053,
+        "2021-01-06T00:20:51Z": 152692.3076923077,
+        "2021-01-13T08:37:54Z": 153071.42857142858,
+        "2021-01-20T15:15:55Z": 152250.0
+      },
+      "tool": "TravisCI",
+      "total avg": 152959.8349526921,
+      "quartiles": {
+        "q1": 152250.0,
+        "q3": 153071.42857142858,
+        "iqr": 821.4285714285797
+      },
+      "classification": {
+        "high_severity": {
+          "677": 157000,
+          "682": 171000,
+          "696": 155000,
+          "701": 155000,
+          "703": 165000,
+          "708": 221000,
+          "720": 161000,
+          "722": 634000,
+          "723": 158000,
+          "728": 238000,
+          "729": 156000,
+          "730": 155000,
+          "746": 159000,
+          "765": 157000,
+          "767": 159000,
+          "770": 155000,
+          "771": 156000,
+          "773": 155000,
+          "776": 164000,
+          "777": 161000,
+          "779": 157000,
+          "782": 158000,
+          "792": 157000
+        },
+        "medium_severity": {
+          "681": 154000,
+          "727": 154000,
+          "745": 154000,
+          "762": 154000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "arrow-ps": 0,
+      "caesar-cipher": 0,
+      "conditional-prob": 0,
+      "cwalker-functions-course": 0,
+      "enigma-ar": 0,
+      "gauss-solver": 0,
+      "gauss-solver-kevin": 0,
+      "gitlocalize-15786": 0,
+      "master": 0,
+      "matrices-3d": 0,
+      "matrix-inverses": 0,
+      "more-solids-interactives": 0,
+      "solid-changes": 0,
+      "solids-3.04": 0,
+      "update-threejs": 0
+    },
+    "branch deviation": {
+      "arrow-ps": 627,
+      "caesar-cipher": 332,
+      "conditional-prob": 702,
+      "cwalker-functions-course": 572,
+      "enigma-ar": 678,
+      "gauss-solver": 572,
+      "gauss-solver-kevin": 537,
+      "gitlocalize-15786": 476,
+      "master": 0,
+      "matrices-3d": 689,
+      "matrix-inverses": 572,
+      "more-solids-interactives": 581,
+      "solid-changes": 493,
+      "solids-3.04": 521,
+      "update-threejs": 362
+    },
+    "unsynced activity": {
+      "arrow-ps": 0,
+      "caesar-cipher": 0,
+      "conditional-prob": 0,
+      "cwalker-functions-course": 0,
+      "enigma-ar": 0,
+      "gauss-solver": 0,
+      "gauss-solver-kevin": 0,
+      "gitlocalize-15786": 0,
+      "master": 0,
+      "matrices-3d": 0,
+      "matrix-inverses": 0,
+      "more-solids-interactives": 0,
+      "solid-changes": 0,
+      "solids-3.04": 0,
+      "update-threejs": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "arrow-ps",
+          "conditional-prob",
+          "enigma-ar",
+          "matrices-3d"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI Tests": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "textbooks": {
+      "data": [
+        {
+          "started_at": "2020-12-25T22:51:26Z",
+          "used_tool": "TravisCI",
+          "number": 722
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 58
+    }
+  },
+  "skip_failing_tests": {}
+}

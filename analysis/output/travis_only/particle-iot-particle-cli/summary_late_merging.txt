@@ -1,0 +1,74 @@
+Missed Activity
+=========================
+Branch chore/rotate-npm-credentials has 1509 days of missed activity!
+Branch feature/device-doctor has 1826 days of missed activity!
+Branch feature/simplify-udev has 886 days of missed activity!
+Branch typo/reseting-resetting has 1825 days of missed activity!
+MEDIUM SEVERITY
+Branch chore/rotate-npm-credentials, 1509 seconds
+Branch feature/device-doctor, 1826 seconds
+Branch feature/simplify-udev, 886 seconds
+Branch typo/reseting-resetting, 1825 seconds
+
+Branch Deviation
+=========================
+Average deviation: 1470.0689655172414 days
+Branch bugfix/serial-close-promise moved away from main with 1984 days, 513.9310344827586 more than average
+Branch chore/rotate-npm-credentials moved away from main with 1509 days, 38.931034482758605 more than average
+Branch develop moved away from main with 1887 days, 416.9310344827586 more than average
+Branch feature/binaries moved away from main with 1518 days, 47.931034482758605 more than average
+Branch feature/command_optimize moved away from main with 2024 days, 553.9310344827586 more than average
+Branch feature/device-doctor moved away from main with 1826 days, 355.9310344827586 more than average
+Branch feature/local_compile moved away from main with 2268 days, 797.9310344827586 more than average
+Branch feature/metrics moved away from main with 1946 days, 475.9310344827586 more than average
+Branch feature/no-polyfill moved away from main with 2057 days, 586.9310344827586 more than average
+Branch feature/no-serialport moved away from main with 2504 days, 1033.9310344827586 more than average
+Branch fix/dfu-flash-address moved away from main with 2106 days, 635.9310344827586 more than average
+Branch release/1.21.0 moved away from main with 1982 days, 511.9310344827586 more than average
+Branch snyk-fix-1c1cda23 moved away from main with 2044 days, 573.9310344827586 more than average
+Branch snyk-fix-f01df1ab moved away from main with 1986 days, 515.9310344827586 more than average
+Branch typo/reseting-resetting moved away from main with 1825 days, 354.9310344827586 more than average
+MEDIUM SEVERITY
+Branch feature/command_optimize, 2024 days
+Branch feature/local_compile, 2268 days
+Branch feature/no-polyfill, 2057 days
+Branch feature/no-serialport, 2504 days
+Branch fix/dfu-flash-address, 2106 days
+Branch snyk-fix-1c1cda23, 2044 days
+Branch snyk-fix-f01df1ab, 1986 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.13793103448275862 days
+Branch bugfix/serial-close-promise is unsynced with 0 days, 0.13793103448275862 more than average
+Branch ch26678/support-ncp-firmware-in-dfu-flash is unsynced with 0 days, 0.13793103448275862 more than average
+Branch ch51961/allow-dfu-flashing-devices-by-device-id is unsynced with 0 days, 0.13793103448275862 more than average
+Branch chore/async-await is unsynced with 0 days, 0.13793103448275862 more than average
+Branch develop is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/add-abilitiy-to-create-device-keys-without-device is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/binaries is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/ch51975/revoke-all-tokens is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/command_optimize is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/local_compile is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/log_config is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/logger is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/metrics is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/monorepo is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/no-polyfill is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/no-serialport is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/product-device-name-poc is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/products-list is unsynced with 0 days, 0.13793103448275862 more than average
+Branch feature/subscribe-to-device is unsynced with 0 days, 0.13793103448275862 more than average
+Branch fix/dfu-flash-address is unsynced with 0 days, 0.13793103448275862 more than average
+Branch master is unsynced with 0 days, 0.13793103448275862 more than average
+Branch release/1.21.0 is unsynced with 0 days, 0.13793103448275862 more than average
+Branch setup_done/ch46416-with-list is unsynced with 0 days, 0.13793103448275862 more than average
+Branch snyk-fix-1c1cda23 is unsynced with 0 days, 0.13793103448275862 more than average
+Branch snyk-fix-f01df1ab is unsynced with 0 days, 0.13793103448275862 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch chore/rotate-npm-credentials, -1 days
+Branch feature/device-doctor, -1 days
+Branch feature/simplify-udev, -1 days
+Branch typo/reseting-resetting, -1 days

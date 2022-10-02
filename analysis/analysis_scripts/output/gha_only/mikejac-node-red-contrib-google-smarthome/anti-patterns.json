@@ -1,0 +1,57 @@
+{
+  "slow_build": {
+    "NPM Publish": {
+      "data": {
+        "2021-04-12T11:19:44Z": 64000.0,
+        "2021-04-27T13:34:14Z": 69500.0,
+        "2021-05-15T04:29:52Z": 61000.0,
+        "2021-06-03T07:07:46Z": 77500.0,
+        "2021-06-25T05:03:27Z": 44500.0,
+        "2021-07-03T04:33:29Z": 65000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 63583.333333333336,
+      "quartiles": {
+        "q1": 61750.0,
+        "q3": 68375.0,
+        "iqr": 6625.0
+      },
+      "classification": {
+        "high_severity": {
+          "30": 99000
+        },
+        "medium_severity": {
+          "27": 71000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

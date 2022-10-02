@@ -1,0 +1,17 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 269.0 days
+Branch bug/failing-test-102 moved away from main with 538 days, 269.0 more than average
+MEDIUM SEVERITY
+Branch bug/failing-test-102, 538 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

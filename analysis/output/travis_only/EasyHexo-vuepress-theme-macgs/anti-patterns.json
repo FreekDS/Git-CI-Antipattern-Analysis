@@ -26,11 +26,11 @@
   },
   "late_merging": {
     "missed activity": {
-      "develop": 789,
+      "develop": 888,
       "master": 0
     },
     "branch deviation": {
-      "develop": 790,
+      "develop": 888,
       "master": 0
     },
     "unsynced activity": {

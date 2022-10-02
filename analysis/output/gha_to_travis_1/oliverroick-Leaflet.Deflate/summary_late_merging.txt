@@ -4,9 +4,17 @@ MEDIUM SEVERITY
 
 Branch Deviation
 =========================
-Average deviation: 0.0 days
+Average deviation: -78.83333333333333 days
+Branch dependabot/npm_and_yarn/types/leaflet.markercluster-1.5.1 moved away from main with -27 days, 51.83333333333333 more than average
+Branch master moved away from main with 0 days, 78.83333333333333 more than average
 MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/types/leaflet.markercluster-1.5.1, -27 days
+Branch master, 0 days
 HIGH SEVERITY
+Branch dependabot/npm_and_yarn/jest-29.1.2, -119 days
+Branch dependabot/npm_and_yarn/jest-environment-jsdom-29.1.2, -119 days
+Branch dependabot/npm_and_yarn/terser-5.15.0, -89 days
+Branch dependabot/npm_and_yarn/typescript-4.8.4, -119 days
 
 Unsynced activity
 =========================

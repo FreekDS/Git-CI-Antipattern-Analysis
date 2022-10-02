@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -14.0 days
+Branch master moved away from main with 0 days, 14.0 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch depfu-batch_all-npm-2022-05-03, -28 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

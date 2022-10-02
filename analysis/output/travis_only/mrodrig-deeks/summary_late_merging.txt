@@ -1,0 +1,19 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 240.25 days
+Branch 2.4.0 moved away from main with 322 days, 81.75 more than average
+Branch add-ignore-empty-arrays-option moved away from main with 316 days, 75.75 more than average
+Branch fix-j2c-184 moved away from main with 323 days, 82.75 more than average
+MEDIUM SEVERITY
+Branch fix-j2c-184, 323 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

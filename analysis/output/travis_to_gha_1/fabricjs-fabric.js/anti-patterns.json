@@ -1,0 +1,787 @@
+{
+  "slow_build": {
+    "Unit tests on Firefox": {
+      "data": {
+        "2021-01-16T20:52:38Z": 706909.0909090909,
+        "2021-01-25T05:40:39Z": 68542.85714285714
+      },
+      "tool": "Github Actions",
+      "total avg": 387725.97402597405,
+      "quartiles": {
+        "q1": 228134.4155844156,
+        "q3": 547317.5324675324,
+        "iqr": 319183.11688311683
+      },
+      "classification": {
+        "high_severity": {
+          "2": 1212000,
+          "4": 4525000,
+          "6": 1150000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node visual unit tests": {
+      "data": {
+        "2021-01-30T06:51:29Z": 107391.30434782608
+      },
+      "tool": "Github Actions",
+      "total avg": 107391.30434782608,
+      "quartiles": {
+        "q1": 107391.30434782608,
+        "q3": 107391.30434782608,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 120000,
+          "4": 125000,
+          "9": 108000,
+          "10": 114000,
+          "11": 123000,
+          "12": 122000,
+          "13": 109000,
+          "14": 112000,
+          "17": 113000,
+          "18": 124000,
+          "20": 114000,
+          "22": 112000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Visual unit tests on Chrome": {
+      "data": {
+        "2021-01-30T07:00:30Z": 1054727.2727272727
+      },
+      "tool": "Github Actions",
+      "total avg": 1054727.2727272727,
+      "quartiles": {
+        "q1": 1054727.2727272727,
+        "q3": 1054727.2727272727,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 21612000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Unit tests on Chrome": {
+      "data": {
+        "2021-01-30T07:10:23Z": 63900.0
+      },
+      "tool": "Github Actions",
+      "total avg": 63900.0,
+      "quartiles": {
+        "q1": 63900.0,
+        "q3": 63900.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "6": 66000,
+          "13": 67000,
+          "14": 70000,
+          "15": 74000,
+          "18": 65000,
+          "21": 77000,
+          "22": 71000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Pr quality check": {
+      "data": {
+        "2021-01-30T15:31:43Z": 82111.11111111111
+      },
+      "tool": "Github Actions",
+      "total avg": 82111.11111111111,
+      "quartiles": {
+        "q1": 82111.11111111111,
+        "q3": 82111.11111111111,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "55": 112000,
+          "56": 116000,
+          "59": 115000,
+          "60": 107000,
+          "61": 103000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node Unit tests": {
+      "data": {
+        "2021-01-16T17:28:09Z": 447111.1111111111,
+        "2021-01-25T05:40:39Z": 106935.48387096774
+      },
+      "tool": "Github Actions",
+      "total avg": 277023.29749103944,
+      "quartiles": {
+        "q1": 191979.39068100357,
+        "q3": 362067.2043010753,
+        "iqr": 170087.81362007174
+      },
+      "classification": {
+        "high_severity": {
+          "1": 9123000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Visual unit tests on Firefox": {
+      "data": {
+        "2021-01-30T07:00:29Z": 84681.81818181818
+      },
+      "tool": "Github Actions",
+      "total avg": 84681.81818181818,
+      "quartiles": {
+        "q1": 84681.81818181818,
+        "q3": 84681.81818181818,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 276000,
+          "19": 117000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Building with uglify": {
+      "data": {
+        "2021-01-16T17:04:24Z": 35066.666666666664,
+        "2021-01-25T05:40:39Z": 40409.09090909091
+      },
+      "tool": "Github Actions",
+      "total avg": 37737.878787878784,
+      "quartiles": {
+        "q1": 36402.27272727273,
+        "q3": 39073.48484848485,
+        "iqr": 2671.21212121212
+      },
+      "classification": {
+        "high_severity": {
+          "15": 45000,
+          "18": 44000,
+          "28": 46000,
+          "50": 47000,
+          "51": 74000,
+          "52": 70000
+        },
+        "medium_severity": {
+          "14": 40000,
+          "23": 40000,
+          "38": 40000,
+          "39": 41000,
+          "42": 41000
+        }
+      }
+    },
+    "Linting": {
+      "data": {
+        "2021-01-16T16:58:21Z": 34937.5,
+        "2021-01-25T05:40:39Z": 36272.72727272727
+      },
+      "tool": "Github Actions",
+      "total avg": 35605.11363636363,
+      "quartiles": {
+        "q1": 35271.306818181816,
+        "q3": 35938.920454545456,
+        "iqr": 667.6136363636397
+      },
+      "classification": {
+        "high_severity": {
+          "11": 39000,
+          "14": 37000,
+          "17": 37000,
+          "18": 39000,
+          "20": 42000,
+          "22": 42000,
+          "25": 37000,
+          "28": 37000,
+          "29": 38000,
+          "30": 65000,
+          "31": 37000,
+          "32": 41000,
+          "33": 37000,
+          "34": 39000,
+          "35": 40000,
+          "37": 40000,
+          "39": 43000,
+          "40": 41000,
+          "42": 41000,
+          "43": 40000,
+          "49": 38000,
+          "51": 38000,
+          "52": 39000,
+          "53": 42000
+        },
+        "medium_severity": {
+          "15": 36000,
+          "26": 36000,
+          "27": 36000,
+          "36": 36000,
+          "38": 36000,
+          "54": 36000
+        }
+      }
+    },
+    "Node.js Package": {
+      "data": {
+        "2020-12-23T19:03:12Z": 52000.0,
+        "2021-01-27T22:03:39Z": 59000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 55500.0,
+      "quartiles": {
+        "q1": 53750.0,
+        "q3": 57250.0,
+        "iqr": 3500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "22": 59000
+        }
+      }
+    },
+    ".github/workflows/browser-tests.yml": {
+      "data": {
+        "2021-01-16T23:27:56Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "fabric.js": {
+      "data": {
+        "2020-12-16T18:01:30Z": 702230.7692307692,
+        "2020-12-23T18:17:57Z": 712571.4285714285,
+        "2020-12-30T21:59:01Z": 470600.0
+      },
+      "tool": "TravisCI",
+      "total avg": 628467.3992673992,
+      "quartiles": {
+        "q1": 586415.3846153846,
+        "q3": 707401.0989010988,
+        "iqr": 120985.7142857142
+      },
+      "classification": {
+        "high_severity": {
+          "7185": 918000
+        },
+        "medium_severity": {
+          "7164": 856000,
+          "7165": 846000,
+          "7166": 830000,
+          "7167": 814000,
+          "7170": 810000,
+          "7171": 856000,
+          "7172": 813000,
+          "7173": 783000,
+          "7174": 836000,
+          "7175": 778000,
+          "7176": 772000,
+          "7177": 815000,
+          "7178": 832000,
+          "7179": 826000,
+          "7180": 780000,
+          "7181": 806000,
+          "7182": 838000,
+          "7183": 777000,
+          "7184": 842000,
+          "7187": 830000,
+          "7189": 801000,
+          "7190": 768000,
+          "7191": 819000,
+          "7193": 809000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.x": 0,
+      "5.x": 0,
+      "8083-build": 0,
+      "8083-es6": 0,
+      "8083-tests": 0,
+      "ISSUE-5996-pattern-svg-output": 0,
+      "abc": 0,
+      "abort-concurrent-render": 0,
+      "add-to-group-safeguard": 0,
+      "additional-selection-props": 0,
+      "aligninig-guideline-clear-context-patch": 0,
+      "animation-test": 0,
+      "canvas-rotation": 0,
+      "chore-path": 0,
+      "ci-build-lock": 0,
+      "ci-coverage-report-action": 0,
+      "ci-fix-golden-generation": 0,
+      "ci-pr#8210-visuals-chrome": 0,
+      "ci-pr#8210-visuals-firefox": 0,
+      "ci-update-bug-report-version": 0,
+      "ci-visual-test-action": 0,
+      "class-inheritance-testing": 0,
+      "clip-path-opacity": 0,
+      "clipboard-events": 0,
+      "controls-on-upper": 0,
+      "create-better-export": 0,
+      "dep-default-values": 0,
+      "deprecate-itext-keycode": 0,
+      "dont-stop-at-single-event": 0,
+      "draggable-text-patch": 0,
+      "draggable-text-w-clipboard": 0,
+      "erasing-tests": 0,
+      "extend-circular-ref": 0,
+      "fill-parent": 0,
+      "filter-changes": 0,
+      "filters-objects": 0,
+      "fix-clip-path-rendering-logic": 0,
+      "fix-erasing-trace": 97,
+      "fix-extra-param": 0,
+      "fix-minor-import": 0,
+      "fix-stateful-circular-ref-checks": 0,
+      "fixing-test-display": 0,
+      "gco": 3,
+      "get-pointer-recalc": 0,
+      "gradient_stroke": 0,
+      "gradient-transform": 0,
+      "import-benchmarks": 0,
+      "import-benchmarks2": 0,
+      "io-registry": 0,
+      "is-shadow-on-screen": 0,
+      "kitchensink": 0,
+      "linear-algebra": 0,
+      "lint_Math.hypot": 3,
+      "local-build": 0,
+      "master": 0,
+      "migrate-coords": 0,
+      "minor-point": 0,
+      "negate-manually-restore": 0,
+      "node-18-and-prettier-check": 4,
+      "node-dump-diffs": 0,
+      "object-stacking-to-collection": 0,
+      "path-bbox-stroke-projection": 0,
+      "prettier": 0,
+      "prettify": 3,
+      "readme": 0,
+      "refactor-controls": 0,
+      "refactor-default-values": 0,
+      "remove-stateful": 0,
+      "removeDefaultValues": 0,
+      "rename-textarea-data-attr": 0,
+      "rollup-plugin-class-defaults": 0,
+      "rtl-7674": 0,
+      "rtl-selection": 0,
+      "sandbox-ci": 0,
+      "selection-vpt-change-edge-case": 0,
+      "spray-brush-perf": 0,
+      "svg-mask-parser": 0,
+      "test-pr-transform": 0,
+      "testing-sharper-clipPath": 0,
+      "textbox-fix-resizing": 97,
+      "textbox-max-width": 0,
+      "ts-no-class": 0,
+      "ts-observable2": 0,
+      "ts-patch0": 0,
+      "ts-pattern": 4,
+      "ts-rect-2": 0,
+      "v3.x": 0,
+      "v4.0.x": 0,
+      "v5.1.0": 212,
+      "v6-alpha": 0,
+      "v6-brush-layering": 0,
+      "v6!-build": 0,
+      "v6!-fix-padding": 0,
+      "v6-group-patch5": 0,
+      "v6-group-patch7": 0,
+      "v6-interactive-clip-path": 0,
+      "v6-layer": 0,
+      "v6-layer-perf": 0,
+      "v6-layer-tests": 0,
+      "v6-nested-selection": 0,
+      "v6-nested-selection-alt": 0,
+      "v6-nested-selection-fix-export": 0,
+      "v6!": 0,
+      "vscode-settings": 0
+    },
+    "branch deviation": {
+      "1.x": 1260,
+      "5.x": 20,
+      "8083-build": 48,
+      "8083-es6": 44,
+      "8083-tests": 49,
+      "ISSUE-5996-pattern-svg-output": 1020,
+      "abc": 170,
+      "abort-concurrent-render": 16,
+      "add-to-group-safeguard": 1,
+      "additional-selection-props": 584,
+      "aligninig-guideline-clear-context-patch": 21,
+      "animation-test": 770,
+      "canvas-rotation": 1702,
+      "chore-path": 170,
+      "ci-build-lock": 1,
+      "ci-coverage-report-action": 19,
+      "ci-fix-golden-generation": 3,
+      "ci-pr#8210-visuals-chrome": 18,
+      "ci-pr#8210-visuals-firefox": 17,
+      "ci-update-bug-report-version": 4,
+      "ci-visual-test-action": 17,
+      "class-inheritance-testing": 12,
+      "clip-path-opacity": 1012,
+      "clipboard-events": 137,
+      "controls-on-upper": 1195,
+      "create-better-export": 1355,
+      "dep-default-values": 44,
+      "deprecate-itext-keycode": 137,
+      "dont-stop-at-single-event": 347,
+      "draggable-text-patch": 144,
+      "draggable-text-w-clipboard": 165,
+      "erasing-tests": 102,
+      "extend-circular-ref": 148,
+      "fill-parent": 96,
+      "filter-changes": 623,
+      "filters-objects": 629,
+      "fix-clip-path-rendering-logic": 105,
+      "fix-erasing-trace": 101,
+      "fix-extra-param": -1,
+      "fix-minor-import": 1,
+      "fix-stateful-circular-ref-checks": 148,
+      "fixing-test-display": 92,
+      "gco": 4,
+      "get-pointer-recalc": 53,
+      "gradient_stroke": 1913,
+      "gradient-transform": 1,
+      "import-benchmarks": 30,
+      "import-benchmarks2": 17,
+      "io-registry": 2,
+      "is-shadow-on-screen": 137,
+      "kitchensink": 0,
+      "linear-algebra": 128,
+      "lint_Math.hypot": 3,
+      "local-build": 25,
+      "master": 0,
+      "migrate-coords": 206,
+      "minor-point": 74,
+      "negate-manually-restore": 49,
+      "node-18-and-prettier-check": 4,
+      "node-dump-diffs": 12,
+      "object-stacking-to-collection": 91,
+      "path-bbox-stroke-projection": 70,
+      "prettier": 13,
+      "prettify": 4,
+      "readme": 3,
+      "refactor-controls": 139,
+      "refactor-default-values": 44,
+      "remove-stateful": 137,
+      "removeDefaultValues": 46,
+      "rename-textarea-data-attr": 1,
+      "rollup-plugin-class-defaults": 44,
+      "rtl-7674": 137,
+      "rtl-selection": 137,
+      "sandbox-ci": 0,
+      "selection-vpt-change-edge-case": 137,
+      "spray-brush-perf": 137,
+      "svg-mask-parser": 522,
+      "test-pr-transform": 96,
+      "testing-sharper-clipPath": 438,
+      "textbox-fix-resizing": 97,
+      "textbox-max-width": 97,
+      "ts-no-class": 44,
+      "ts-observable2": 1,
+      "ts-patch0": 42,
+      "ts-pattern": 9,
+      "ts-rect-2": 45,
+      "v3.x": 753,
+      "v4.0.x": 770,
+      "v5.1.0": 212,
+      "v6-alpha": 37,
+      "v6-brush-layering": 95,
+      "v6!-build": 190,
+      "v6!-fix-padding": 191,
+      "v6-group-patch5": 164,
+      "v6-group-patch7": 91,
+      "v6-interactive-clip-path": 95,
+      "v6-layer": 1,
+      "v6-layer-perf": 117,
+      "v6-layer-tests": 138,
+      "v6-nested-selection": 95,
+      "v6-nested-selection-alt": 150,
+      "v6-nested-selection-fix-export": 136,
+      "v6!": 159,
+      "vscode-settings": 3
+    },
+    "unsynced activity": {
+      "1.x": 0,
+      "5.x": 0,
+      "8083-build": 0,
+      "8083-es6": 0,
+      "8083-tests": 0,
+      "ISSUE-5996-pattern-svg-output": 0,
+      "abc": 0,
+      "abort-concurrent-render": 0,
+      "add-to-group-safeguard": 0,
+      "additional-selection-props": 0,
+      "aligninig-guideline-clear-context-patch": 0,
+      "animation-test": 0,
+      "canvas-rotation": 0,
+      "chore-path": 0,
+      "ci-build-lock": 0,
+      "ci-coverage-report-action": 0,
+      "ci-fix-golden-generation": 0,
+      "ci-pr#8210-visuals-chrome": 0,
+      "ci-pr#8210-visuals-firefox": 0,
+      "ci-update-bug-report-version": 0,
+      "ci-visual-test-action": 0,
+      "class-inheritance-testing": 0,
+      "clip-path-opacity": 0,
+      "clipboard-events": 0,
+      "controls-on-upper": 0,
+      "create-better-export": 0,
+      "dep-default-values": 0,
+      "deprecate-itext-keycode": 0,
+      "dont-stop-at-single-event": 0,
+      "draggable-text-patch": 0,
+      "draggable-text-w-clipboard": 0,
+      "erasing-tests": 0,
+      "extend-circular-ref": 0,
+      "fill-parent": 0,
+      "filter-changes": 0,
+      "filters-objects": 0,
+      "fix-clip-path-rendering-logic": 0,
+      "fix-erasing-trace": -5,
+      "fix-extra-param": 0,
+      "fix-minor-import": 0,
+      "fix-stateful-circular-ref-checks": 0,
+      "fixing-test-display": 0,
+      "gco": -1,
+      "get-pointer-recalc": 0,
+      "gradient_stroke": 0,
+      "gradient-transform": 0,
+      "import-benchmarks": 0,
+      "import-benchmarks2": 0,
+      "io-registry": 0,
+      "is-shadow-on-screen": 0,
+      "kitchensink": 0,
+      "linear-algebra": 0,
+      "lint_Math.hypot": -1,
+      "local-build": 0,
+      "master": 0,
+      "migrate-coords": 0,
+      "minor-point": 0,
+      "negate-manually-restore": 0,
+      "node-18-and-prettier-check": -1,
+      "node-dump-diffs": 0,
+      "object-stacking-to-collection": 0,
+      "path-bbox-stroke-projection": 0,
+      "prettier": 0,
+      "prettify": -1,
+      "readme": 0,
+      "refactor-controls": 0,
+      "refactor-default-values": 0,
+      "remove-stateful": 0,
+      "removeDefaultValues": 0,
+      "rename-textarea-data-attr": 0,
+      "rollup-plugin-class-defaults": 0,
+      "rtl-7674": 0,
+      "rtl-selection": 0,
+      "sandbox-ci": 0,
+      "selection-vpt-change-edge-case": 0,
+      "spray-brush-perf": 0,
+      "svg-mask-parser": 0,
+      "test-pr-transform": 0,
+      "testing-sharper-clipPath": 0,
+      "textbox-fix-resizing": 0,
+      "textbox-max-width": 0,
+      "ts-no-class": 0,
+      "ts-observable2": 0,
+      "ts-patch0": 0,
+      "ts-pattern": -5,
+      "ts-rect-2": 0,
+      "v3.x": 0,
+      "v4.0.x": 0,
+      "v5.1.0": -1,
+      "v6-alpha": 0,
+      "v6-brush-layering": 0,
+      "v6!-build": 0,
+      "v6!-fix-padding": 0,
+      "v6-group-patch5": 0,
+      "v6-group-patch7": 0,
+      "v6-interactive-clip-path": 0,
+      "v6-layer": 0,
+      "v6-layer-perf": 0,
+      "v6-layer-tests": 0,
+      "v6-nested-selection": 0,
+      "v6-nested-selection-alt": 0,
+      "v6-nested-selection-fix-export": 0,
+      "v6!": 0,
+      "vscode-settings": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "fix-erasing-trace",
+          "gco",
+          "lint_Math.hypot",
+          "node-18-and-prettier-check",
+          "prettify",
+          "textbox-fix-resizing",
+          "ts-pattern",
+          "v5.1.0"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "abc",
+          "chore-path",
+          "draggable-text-w-clipboard",
+          "migrate-coords",
+          "v5.1.0",
+          "v6!-build",
+          "v6!-fix-padding",
+          "v6-group-patch5",
+          "v6-nested-selection-alt",
+          "v6!"
+        ],
+        "high_severity": [
+          "1.x",
+          "ISSUE-5996-pattern-svg-output",
+          "additional-selection-props",
+          "animation-test",
+          "canvas-rotation",
+          "clip-path-opacity",
+          "controls-on-upper",
+          "create-better-export",
+          "dont-stop-at-single-event",
+          "filter-changes",
+          "filters-objects",
+          "gradient_stroke",
+          "svg-mask-parser",
+          "testing-sharper-clipPath",
+          "v3.x",
+          "v4.0.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "fix-erasing-trace",
+          "gco",
+          "lint_Math.hypot",
+          "node-18-and-prettier-check",
+          "prettify",
+          "ts-pattern",
+          "v5.1.0"
+        ]
+      }
+    },
+    "build_count": 12
+  },
+  "broken_release": {
+    "Unit tests on Firefox": {
+      "data": [],
+      "release_build_count": 8
+    },
+    "Node visual unit tests": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "Visual unit tests on Chrome": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "Unit tests on Chrome": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "Pr quality check": {
+      "data": [
+        {
+          "started_at": "2021-01-30T17:07:06Z",
+          "used_tool": "Github Actions",
+          "number": 61
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 1
+    },
+    "Node Unit tests": {
+      "data": [],
+      "release_build_count": 10
+    },
+    "Visual unit tests on Firefox": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "Building with uglify": {
+      "data": [],
+      "release_build_count": 11
+    },
+    "Linting": {
+      "data": [],
+      "release_build_count": 12
+    },
+    "fabric.js": {
+      "data": [
+        {
+          "started_at": "2020-12-19T21:27:53Z",
+          "used_tool": "TravisCI",
+          "number": 7168
+        },
+        {
+          "started_at": "2020-12-19T21:29:17Z",
+          "used_tool": "TravisCI",
+          "number": 7169
+        },
+        {
+          "started_at": "2020-12-24T20:14:23Z",
+          "used_tool": "TravisCI",
+          "number": 7182
+        },
+        {
+          "started_at": "2020-12-24T20:18:38Z",
+          "used_tool": "TravisCI",
+          "number": 7183
+        },
+        {
+          "started_at": "2020-12-25T21:58:20Z",
+          "used_tool": "TravisCI",
+          "number": 7186
+        },
+        {
+          "started_at": "2020-12-27T18:53:18Z",
+          "used_tool": "TravisCI",
+          "number": 7188
+        },
+        {
+          "started_at": "2020-12-31T14:22:47Z",
+          "used_tool": "TravisCI",
+          "number": 7192
+        },
+        {
+          "started_at": "2021-01-01T00:57:32Z",
+          "used_tool": "TravisCI",
+          "number": 7194
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 32
+    }
+  },
+  "skip_failing_tests": {}
+}

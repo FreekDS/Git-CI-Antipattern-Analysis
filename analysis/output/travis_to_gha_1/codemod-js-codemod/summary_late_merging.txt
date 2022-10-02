@@ -1,0 +1,36 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 676.0 days
+Branch dependabot/npm_and_yarn/lint-staged-10.0.1 moved away from main with 810 days, 134.0 more than average
+Branch gitignore-idea moved away from main with 1551 days, 875.0 more than average
+Branch greenkeeper/got-9.0.0 moved away from main with 1345 days, 669.0 more than average
+Branch greenkeeper/got-9.2.0 moved away from main with 1318 days, 642.0 more than average
+Branch greenkeeper/got-9.2.1 moved away from main with 1312 days, 636.0 more than average
+Branch greenkeeper/got-9.2.2 moved away from main with 1301 days, 625.0 more than average
+Branch greenkeeper/got-9.3.0 moved away from main with 1258 days, 582.0 more than average
+Branch greenkeeper/got-9.3.1 moved away from main with 1254 days, 578.0 more than average
+Branch greenkeeper/got-9.3.2 moved away from main with 1249 days, 573.0 more than average
+Branch greenkeeper/@types/got-9.2.0 moved away from main with 1258 days, 582.0 more than average
+Branch greenkeeper/update-to-node-10 moved away from main with 1424 days, 748.0 more than average
+Branch jest moved away from main with 1452 days, 776.0 more than average
+Branch multi-process moved away from main with 1390 days, 714.0 more than average
+MEDIUM SEVERITY
+Branch gitignore-idea, 1551 days
+Branch greenkeeper/got-9.0.0, 1345 days
+Branch greenkeeper/got-9.2.0, 1318 days
+Branch greenkeeper/got-9.2.1, 1312 days
+Branch greenkeeper/got-9.2.2, 1301 days
+Branch greenkeeper/update-to-node-10, 1424 days
+Branch jest, 1452 days
+Branch multi-process, 1390 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

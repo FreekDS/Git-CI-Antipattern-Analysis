@@ -1,0 +1,273 @@
+{
+  "slow_build": {
+    "onescreener-base-components": {
+      "data": {
+        "2021-04-08T15:43:23Z": 47769.230769230766,
+        "2021-04-15T17:55:12Z": 50454.545454545456,
+        "2021-05-07T12:17:17Z": 50857.142857142855,
+        "2021-05-24T20:46:53Z": 52875.0,
+        "2021-06-01T08:38:54Z": 51904.76190476191,
+        "2021-06-08T08:59:31Z": 45863.63636363636,
+        "2021-06-15T13:45:02Z": 58000.0,
+        "2021-06-23T07:46:56Z": 61750.0,
+        "2021-07-01T14:49:30Z": 68333.33333333333
+      },
+      "tool": "TravisCI",
+      "total avg": 54200.85007585007,
+      "quartiles": {
+        "q1": 50454.545454545456,
+        "q3": 58000.0,
+        "iqr": 7545.454545454544
+      },
+      "classification": {
+        "high_severity": {
+          "1059": 103000
+        },
+        "medium_severity": {
+          "995": 59000,
+          "1047": 62000,
+          "1048": 60000,
+          "1049": 63000,
+          "1050": 61000,
+          "1051": 60000,
+          "1052": 63000,
+          "1053": 63000,
+          "1054": 61000,
+          "1055": 63000,
+          "1056": 61000,
+          "1057": 63000,
+          "1058": 59000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "feature/tl-autotextfit-presentation": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "sandbox": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/terser-4.8.1": 55,
+      "feature/tl-autotextfit-presentation": 1,
+      "gh-pages": 1187,
+      "master": 0,
+      "sandbox": 11
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "feature/tl-autotextfit-presentation": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "sandbox": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "gh-pages"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "onescreener-base-components": {
+      "data": [
+        {
+          "started_at": "2021-04-08T16:04:45Z",
+          "used_tool": "TravisCI",
+          "number": 964
+        },
+        {
+          "started_at": "2021-04-08T16:07:11Z",
+          "used_tool": "TravisCI",
+          "number": 965
+        },
+        {
+          "started_at": "2021-04-09T08:56:06Z",
+          "used_tool": "TravisCI",
+          "number": 967
+        },
+        {
+          "started_at": "2021-04-09T08:56:24Z",
+          "used_tool": "TravisCI",
+          "number": 968
+        },
+        {
+          "started_at": "2021-04-19T10:10:07Z",
+          "used_tool": "TravisCI",
+          "number": 979
+        },
+        {
+          "started_at": "2021-04-20T10:36:47Z",
+          "used_tool": "TravisCI",
+          "number": 982
+        },
+        {
+          "started_at": "2021-04-20T11:26:40Z",
+          "used_tool": "TravisCI",
+          "number": 983
+        },
+        {
+          "started_at": "2021-04-20T12:14:49Z",
+          "used_tool": "TravisCI",
+          "number": 984
+        },
+        {
+          "started_at": "2021-04-20T12:15:11Z",
+          "used_tool": "TravisCI",
+          "number": 985
+        },
+        {
+          "started_at": "2021-04-20T12:25:07Z",
+          "used_tool": "TravisCI",
+          "number": 986
+        },
+        {
+          "started_at": "2021-05-07T12:17:17Z",
+          "used_tool": "TravisCI",
+          "number": 987
+        },
+        {
+          "started_at": "2021-05-09T14:36:35Z",
+          "used_tool": "TravisCI",
+          "number": 991
+        },
+        {
+          "started_at": "2021-05-12T12:28:02Z",
+          "used_tool": "TravisCI",
+          "number": 993
+        },
+        {
+          "started_at": "2021-05-24T20:46:53Z",
+          "used_tool": "TravisCI",
+          "number": 995
+        },
+        {
+          "started_at": "2021-06-03T15:17:22Z",
+          "used_tool": "TravisCI",
+          "number": 1016
+        },
+        {
+          "started_at": "2021-06-03T15:17:39Z",
+          "used_tool": "TravisCI",
+          "number": 1017
+        },
+        {
+          "started_at": "2021-06-03T15:20:38Z",
+          "used_tool": "TravisCI",
+          "number": 1018
+        },
+        {
+          "started_at": "2021-06-03T15:21:10Z",
+          "used_tool": "TravisCI",
+          "number": 1019
+        },
+        {
+          "started_at": "2021-06-04T08:31:29Z",
+          "used_tool": "TravisCI",
+          "number": 1021
+        },
+        {
+          "started_at": "2021-06-08T08:59:42Z",
+          "used_tool": "TravisCI",
+          "number": 1024
+        },
+        {
+          "started_at": "2021-06-08T10:42:48Z",
+          "used_tool": "TravisCI",
+          "number": 1026
+        },
+        {
+          "started_at": "2021-06-09T11:00:23Z",
+          "used_tool": "TravisCI",
+          "number": 1027
+        },
+        {
+          "started_at": "2021-06-09T11:00:30Z",
+          "used_tool": "TravisCI",
+          "number": 1028
+        },
+        {
+          "started_at": "2021-06-09T11:00:47Z",
+          "used_tool": "TravisCI",
+          "number": 1029
+        },
+        {
+          "started_at": "2021-06-09T11:01:25Z",
+          "used_tool": "TravisCI",
+          "number": 1030
+        },
+        {
+          "started_at": "2021-06-09T11:01:38Z",
+          "used_tool": "TravisCI",
+          "number": 1031
+        },
+        {
+          "started_at": "2021-06-09T11:08:22Z",
+          "used_tool": "TravisCI",
+          "number": 1032
+        },
+        {
+          "started_at": "2021-06-09T11:09:22Z",
+          "used_tool": "TravisCI",
+          "number": 1033
+        },
+        {
+          "started_at": "2021-06-09T12:49:01Z",
+          "used_tool": "TravisCI",
+          "number": 1036
+        },
+        {
+          "started_at": "2021-06-09T12:49:22Z",
+          "used_tool": "TravisCI",
+          "number": 1035
+        },
+        {
+          "started_at": "2021-06-10T11:11:17Z",
+          "used_tool": "TravisCI",
+          "number": 1040
+        },
+        {
+          "started_at": "2021-06-11T06:35:24Z",
+          "used_tool": "TravisCI",
+          "number": 1041
+        },
+        {
+          "started_at": "2021-06-11T10:56:19Z",
+          "used_tool": "TravisCI",
+          "number": 1043
+        },
+        {
+          "started_at": "2021-06-11T10:57:10Z",
+          "used_tool": "TravisCI",
+          "number": 1044
+        },
+        {
+          "started_at": "2021-06-27T17:58:59Z",
+          "used_tool": "TravisCI",
+          "number": 1052
+        },
+        {
+          "started_at": "2021-06-27T18:09:42Z",
+          "used_tool": "TravisCI",
+          "number": 1053
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 36
+    }
+  },
+  "skip_failing_tests": {}
+}

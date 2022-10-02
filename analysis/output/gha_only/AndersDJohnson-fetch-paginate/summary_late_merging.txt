@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 498.3333333333333 days
+Branch cli moved away from main with 653 days, 154.66666666666669 more than average
+Branch graphql moved away from main with 842 days, 343.6666666666667 more than average
+MEDIUM SEVERITY
+Branch graphql, 842 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

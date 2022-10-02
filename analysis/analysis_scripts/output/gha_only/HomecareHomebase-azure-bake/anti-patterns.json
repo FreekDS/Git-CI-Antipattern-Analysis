@@ -1,0 +1,101 @@
+{
+  "slow_build": {
+    "PR Title Checker": {
+      "data": {
+        "2021-04-16T18:31:52Z": 16000.0,
+        "2021-05-21T21:29:01Z": 17000.0,
+        "2021-05-31T14:08:35Z": 17000.0,
+        "2021-06-21T21:09:00Z": 19684714.285714287
+      },
+      "tool": "Github Actions",
+      "total avg": 4933678.571428572,
+      "quartiles": {
+        "q1": 16750.0,
+        "q3": 4933928.571428572,
+        "iqr": 4917178.571428572
+      },
+      "classification": {
+        "high_severity": {
+          "43": 68865000,
+          "44": 68848000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/dot-prop-4.2.1": 0,
+      "dependabot/npm_and_yarn/ingredient/ingredient-functions/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/ingredient/ingredient-network-interface/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/ingredient/ingredient-sql-dwh/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": 0,
+      "fix/colors": 0,
+      "fix/loading": 105,
+      "fix/ml-workspace": 0,
+      "master": 0,
+      "users/twatson/auth_test": 0,
+      "users/twatson/test_colors": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/dot-prop-4.2.1": 105,
+      "dependabot/npm_and_yarn/ingredient/ingredient-functions/async-2.6.4": 91,
+      "dependabot/npm_and_yarn/ingredient/ingredient-network-interface/async-2.6.4": 91,
+      "dependabot/npm_and_yarn/ingredient/ingredient-sql-dwh/async-2.6.4": 91,
+      "dependabot/npm_and_yarn/moment-2.29.4": -1,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": -59,
+      "fix/colors": 189,
+      "fix/loading": 105,
+      "fix/ml-workspace": 595,
+      "master": 0,
+      "users/twatson/auth_test": 161,
+      "users/twatson/test_colors": 189
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/dot-prop-4.2.1": 0,
+      "dependabot/npm_and_yarn/ingredient/ingredient-functions/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/ingredient/ingredient-network-interface/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/ingredient/ingredient-sql-dwh/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": 0,
+      "fix/colors": 0,
+      "fix/loading": -1,
+      "fix/ml-workspace": 0,
+      "master": 0,
+      "users/twatson/auth_test": 0,
+      "users/twatson/test_colors": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "fix/loading"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "fix/colors",
+          "users/twatson/test_colors"
+        ],
+        "high_severity": [
+          "fix/ml-workspace"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "fix/loading"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "PR Title Checker": {
+      "data": [],
+      "release_build_count": 8
+    }
+  },
+  "skip_failing_tests": {}
+}

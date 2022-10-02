@@ -1,0 +1,25 @@
+Missed Activity
+=========================
+Branch 1260_living_charter has 466 days of missed activity!
+MEDIUM SEVERITY
+Branch 1260_living_charter, 466 seconds
+
+Branch Deviation
+=========================
+Average deviation: 314.375 days
+Branch 1155_echidna moved away from main with 547 days, 232.625 more than average
+Branch 1260_living_charter moved away from main with 416 days, 101.625 more than average
+Branch aws-eb moved away from main with 343 days, 28.625 more than average
+Branch eslint_promise moved away from main with 655 days, 340.625 more than average
+MEDIUM SEVERITY
+Branch 1155_echidna, 547 days
+Branch eslint_promise, 655 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 6.25 days
+Branch 1260_living_charter is unsynced with 50 days, 43.75 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch 1260_living_charter, 50 days

@@ -1,0 +1,29 @@
+Missed Activity
+=========================
+Branch issues/74-typescript-def has 447 days of missed activity!
+MEDIUM SEVERITY
+Branch issues/74-typescript-def, 447 seconds
+
+Branch Deviation
+=========================
+Average deviation: 790.0 days
+Branch flex-box moved away from main with 2397 days, 1607.0 more than average
+Branch v0.2 moved away from main with 2397 days, 1607.0 more than average
+MEDIUM SEVERITY
+Branch flex-box, 2397 days
+Branch v0.2, 2397 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.125 days
+Branch dependabot/npm_and_yarn/terser-4.8.1 is unsynced with 0 days, 0.125 more than average
+Branch flex-box is unsynced with 0 days, 0.125 more than average
+Branch gh-pages is unsynced with 0 days, 0.125 more than average
+Branch issues/90-margin-padding-fix is unsynced with 0 days, 0.125 more than average
+Branch master is unsynced with 0 days, 0.125 more than average
+Branch update-dependencies is unsynced with 0 days, 0.125 more than average
+Branch v0.2 is unsynced with 0 days, 0.125 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch issues/74-typescript-def, -1 days

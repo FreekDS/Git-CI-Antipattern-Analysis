@@ -1,0 +1,149 @@
+{
+  "slow_build": {
+    "webim": {
+      "data": {
+        "2021-04-12T10:49:45Z": 96714.28571428571,
+        "2021-04-22T06:39:39Z": 106500.0,
+        "2021-04-29T07:01:16Z": 110000.0,
+        "2021-06-18T11:31:57Z": 178000.0,
+        "2021-06-28T03:59:26Z": 108166.66666666667
+      },
+      "tool": "TravisCI",
+      "total avg": 119876.19047619046,
+      "quartiles": {
+        "q1": 106500.0,
+        "q3": 110000.0,
+        "iqr": 3500.0
+      },
+      "classification": {
+        "high_severity": {
+          "696": 194000,
+          "698": 186000,
+          "700": 188000,
+          "703": 197000,
+          "705": 184000,
+          "707": 179000,
+          "709": 194000,
+          "710": 178000,
+          "712": 190000,
+          "714": 185000,
+          "716": 192000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/demo/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/demo/axios-0.21.2": 0,
+      "dependabot/npm_and_yarn/demo/dexie-3.2.2": 0,
+      "dependabot/npm_and_yarn/demo/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/demo/lodash-es-4.17.21": 0,
+      "dependabot/npm_and_yarn/demo/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/demo/nanoid-3.3.3": 0,
+      "dependabot/npm_and_yarn/demo/react-dev-utils-11.0.4": 0,
+      "dependabot/npm_and_yarn/demo/shelljs-0.8.5": 0,
+      "dependabot/npm_and_yarn/demo/tar-4.4.19": 0,
+      "dependabot/npm_and_yarn/demo/terser-4.8.1": 0,
+      "dependabot/npm_and_yarn/demo/tmpl-1.0.5": 0,
+      "dependabot/npm_and_yarn/demo/ua-parser-js-0.7.31": 0,
+      "dependabot/npm_and_yarn/demo/urijs-1.19.11": 0,
+      "dependabot/npm_and_yarn/demo/url-parse-1.5.10": 0,
+      "dev": 0,
+      "dev_2.0": 0,
+      "dev3.0-easemob-emedia": 0,
+      "dev_3.0_test": 0,
+      "dev_3.0": 0,
+      "dev_100": 0,
+      "fea_multi_video": 0,
+      "master": 0,
+      "master-8.30-video": 0,
+      "windowSDK": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/demo/async-2.6.4": 138,
+      "dependabot/npm_and_yarn/demo/axios-0.21.2": 318,
+      "dependabot/npm_and_yarn/demo/dexie-3.2.2": 105,
+      "dependabot/npm_and_yarn/demo/lodash-4.17.21": 234,
+      "dependabot/npm_and_yarn/demo/lodash-es-4.17.21": 174,
+      "dependabot/npm_and_yarn/demo/moment-2.29.4": 59,
+      "dependabot/npm_and_yarn/demo/nanoid-3.3.3": 138,
+      "dependabot/npm_and_yarn/demo/react-dev-utils-11.0.4": 543,
+      "dependabot/npm_and_yarn/demo/shelljs-0.8.5": 233,
+      "dependabot/npm_and_yarn/demo/tar-4.4.19": 272,
+      "dependabot/npm_and_yarn/demo/terser-4.8.1": 47,
+      "dependabot/npm_and_yarn/demo/tmpl-1.0.5": 272,
+      "dependabot/npm_and_yarn/demo/ua-parser-js-0.7.31": 207,
+      "dependabot/npm_and_yarn/demo/urijs-1.19.11": 146,
+      "dependabot/npm_and_yarn/demo/url-parse-1.5.10": 190,
+      "dev": 1635,
+      "dev_2.0": 1020,
+      "dev3.0-easemob-emedia": 616,
+      "dev_3.0_test": -3,
+      "dev_3.0": 0,
+      "dev_100": 405,
+      "fea_multi_video": 1573,
+      "master": 1041,
+      "master-8.30-video": 1467,
+      "windowSDK": 1768
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/demo/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/demo/axios-0.21.2": 0,
+      "dependabot/npm_and_yarn/demo/dexie-3.2.2": 0,
+      "dependabot/npm_and_yarn/demo/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/demo/lodash-es-4.17.21": 0,
+      "dependabot/npm_and_yarn/demo/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/demo/nanoid-3.3.3": 0,
+      "dependabot/npm_and_yarn/demo/react-dev-utils-11.0.4": 0,
+      "dependabot/npm_and_yarn/demo/shelljs-0.8.5": 0,
+      "dependabot/npm_and_yarn/demo/tar-4.4.19": 0,
+      "dependabot/npm_and_yarn/demo/terser-4.8.1": 0,
+      "dependabot/npm_and_yarn/demo/tmpl-1.0.5": 0,
+      "dependabot/npm_and_yarn/demo/ua-parser-js-0.7.31": 0,
+      "dependabot/npm_and_yarn/demo/urijs-1.19.11": 0,
+      "dependabot/npm_and_yarn/demo/url-parse-1.5.10": 0,
+      "dev": 0,
+      "dev_2.0": 0,
+      "dev3.0-easemob-emedia": 0,
+      "dev_3.0_test": 0,
+      "dev_3.0": 0,
+      "dev_100": 0,
+      "fea_multi_video": 0,
+      "master": 0,
+      "master-8.30-video": 0,
+      "windowSDK": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dev_2.0",
+          "master"
+        ],
+        "high_severity": [
+          "dev",
+          "fea_multi_video",
+          "master-8.30-video",
+          "windowSDK"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "webim": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

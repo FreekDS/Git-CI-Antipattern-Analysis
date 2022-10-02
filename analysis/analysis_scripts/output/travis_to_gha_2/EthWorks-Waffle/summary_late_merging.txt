@@ -1,0 +1,35 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 506.8333333333333 days
+Branch add-buidler moved away from main with 1057 days, 550.1666666666667 more than average
+Branch bump moved away from main with 825 days, 318.1666666666667 more than average
+Branch compiler-url moved away from main with 664 days, 157.16666666666669 more than average
+Branch console.log moved away from main with 843 days, 336.1666666666667 more than average
+Branch fast-ci moved away from main with 558 days, 51.166666666666686 more than average
+Branch integrate-buidler-evm moved away from main with 699 days, 192.16666666666669 more than average
+Branch integrate-hardhat-evm moved away from main with 699 days, 192.16666666666669 more than average
+Branch marekkirejczyk-patch-1 moved away from main with 566 days, 59.166666666666686 more than average
+Branch mock-contract-revert-and-args moved away from main with 879 days, 372.1666666666667 more than average
+Branch rebased/typechain-integration moved away from main with 637 days, 130.16666666666669 more than average
+Branch revert-location moved away from main with 858 days, 351.1666666666667 more than average
+Branch v2.5.0 moved away from main with 863 days, 356.1666666666667 more than average
+Branch v2.5.1 moved away from main with 785 days, 278.1666666666667 more than average
+Branch waffle-earl moved away from main with 645 days, 138.16666666666669 more than average
+MEDIUM SEVERITY
+Branch add-buidler, 1057 days
+Branch bump, 825 days
+Branch console.log, 843 days
+Branch mock-contract-revert-and-args, 879 days
+Branch revert-location, 858 days
+Branch v2.5.0, 863 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

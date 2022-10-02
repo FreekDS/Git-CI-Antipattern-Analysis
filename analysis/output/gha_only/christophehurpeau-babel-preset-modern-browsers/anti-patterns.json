@@ -1,0 +1,125 @@
+{
+  "slow_build": {
+    "Node CI": {
+      "data": {
+        "2021-04-08T17:16:18Z": 46000.0,
+        "2021-04-19T13:38:07Z": 37555.555555555555,
+        "2021-04-29T21:01:35Z": 36750.0,
+        "2021-05-07T08:59:14Z": 41266.666666666664,
+        "2021-05-15T07:15:13Z": 35600.0,
+        "2021-05-25T13:18:44Z": 32000.0,
+        "2021-06-02T11:04:51Z": 32250.0,
+        "2021-06-10T00:38:34Z": 34333.333333333336,
+        "2021-06-18T20:50:37Z": 32666.666666666668,
+        "2021-06-26T09:57:52Z": 35875.0,
+        "2021-07-05T23:56:11Z": 50800.0
+      },
+      "tool": "Github Actions",
+      "total avg": 37736.11111111112,
+      "quartiles": {
+        "q1": 33500.0,
+        "q3": 39411.11111111111,
+        "iqr": 5911.1111111111095
+      },
+      "classification": {
+        "high_severity": {
+          "429": 93000,
+          "445": 68000,
+          "446": 50000,
+          "452": 60000,
+          "456": 56000,
+          "518": 94000,
+          "519": 83000
+        },
+        "medium_severity": {
+          "426": 41000,
+          "435": 44000,
+          "442": 40000,
+          "443": 41000,
+          "450": 41000,
+          "463": 40000,
+          "464": 45000,
+          "485": 40000,
+          "513": 47000,
+          "516": 45000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "babel-6": 0,
+      "main": 0,
+      "renovate/actions-setup-node-3.x": 0,
+      "renovate/eslint-8.x": 0,
+      "renovate/eslint-plugin-prettier-4.x": 0,
+      "renovate/husky-8.x": 0,
+      "renovate/major-@pob-eslint-configs": 0,
+      "renovate/major-jest-monorepo": 0,
+      "renovate/pob-commitlint-config-4.x": 0,
+      "renovate/@pob-eslint-configs": 0,
+      "renovate/pob-lcov-reporter-6.x": 0,
+      "renovate/pob-root-6.x": 0
+    },
+    "branch deviation": {
+      "babel-6": 1519,
+      "main": 0,
+      "renovate/actions-setup-node-3.x": 0,
+      "renovate/eslint-8.x": -47,
+      "renovate/eslint-plugin-prettier-4.x": -30,
+      "renovate/husky-8.x": -1,
+      "renovate/major-@pob-eslint-configs": -34,
+      "renovate/major-jest-monorepo": -46,
+      "renovate/pob-commitlint-config-4.x": -1,
+      "renovate/@pob-eslint-configs": 130,
+      "renovate/pob-lcov-reporter-6.x": 59,
+      "renovate/pob-root-6.x": -59
+    },
+    "unsynced activity": {
+      "babel-6": 0,
+      "main": 0,
+      "renovate/actions-setup-node-3.x": 0,
+      "renovate/eslint-8.x": 0,
+      "renovate/eslint-plugin-prettier-4.x": 0,
+      "renovate/husky-8.x": 0,
+      "renovate/major-@pob-eslint-configs": 0,
+      "renovate/major-jest-monorepo": 0,
+      "renovate/pob-commitlint-config-4.x": 0,
+      "renovate/@pob-eslint-configs": 0,
+      "renovate/pob-lcov-reporter-6.x": 0,
+      "renovate/pob-root-6.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "renovate/eslint-8.x",
+          "renovate/eslint-plugin-prettier-4.x",
+          "renovate/major-@pob-eslint-configs",
+          "renovate/major-jest-monorepo",
+          "renovate/pob-lcov-reporter-6.x",
+          "renovate/pob-root-6.x"
+        ],
+        "high_severity": [
+          "babel-6",
+          "renovate/@pob-eslint-configs"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Node CI": {
+      "data": [],
+      "release_build_count": 26
+    }
+  },
+  "skip_failing_tests": {}
+}

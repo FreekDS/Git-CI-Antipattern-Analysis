@@ -1,0 +1,223 @@
+{
+  "slow_build": {
+    "Build": {
+      "data": {
+        "2021-02-22T14:08:10Z": 109363.63636363637
+      },
+      "tool": "Github Actions",
+      "total avg": 109363.63636363637,
+      "quartiles": {
+        "q1": 109363.63636363637,
+        "q3": 109363.63636363637,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "5": 238000
+        },
+        "medium_severity": {}
+      }
+    },
+    "blsq-report-components": {
+      "data": {
+        "2021-01-13T13:35:42Z": 73833.33333333333,
+        "2021-01-26T15:26:19Z": 74277.77777777778,
+        "2021-02-03T14:43:26Z": 73538.46153846153,
+        "2021-02-11T16:59:08Z": 75263.15789473684,
+        "2021-02-22T11:16:50Z": 72866.66666666667
+      },
+      "tool": "TravisCI",
+      "total avg": 73955.87944219523,
+      "quartiles": {
+        "q1": 73538.46153846153,
+        "q3": 74277.77777777778,
+        "iqr": 739.3162393162493
+      },
+      "classification": {
+        "high_severity": {
+          "715": 79000,
+          "724": 77000,
+          "725": 79000,
+          "726": 79000,
+          "727": 76000,
+          "728": 77000,
+          "729": 79000,
+          "731": 83000,
+          "730": 81000,
+          "733": 79000,
+          "734": 77000,
+          "735": 84000,
+          "736": 82000,
+          "737": 78000,
+          "738": 85000,
+          "740": 78000,
+          "741": 77000,
+          "744": 81000,
+          "747": 81000,
+          "748": 78000,
+          "749": 76000,
+          "751": 78000,
+          "752": 76000,
+          "753": 77000,
+          "755": 76000,
+          "756": 76000,
+          "757": 79000,
+          "758": 79000,
+          "760": 82000,
+          "763": 80000,
+          "761": 76000,
+          "765": 76000,
+          "766": 77000,
+          "767": 77000,
+          "768": 76000,
+          "769": 78000,
+          "770": 81000,
+          "771": 76000,
+          "773": 76000,
+          "772": 80000,
+          "774": 76000,
+          "775": 76000,
+          "776": 76000,
+          "777": 79000,
+          "779": 77000,
+          "783": 77000,
+          "785": 79000,
+          "786": 76000,
+          "787": 78000,
+          "788": 76000,
+          "789": 79000,
+          "790": 80000,
+          "791": 78000,
+          "792": 85000,
+          "793": 76000,
+          "794": 90000,
+          "796": 80000,
+          "798": 78000,
+          "800": 79000,
+          "799": 76000
+        },
+        "medium_severity": {
+          "717": 75000,
+          "732": 75000,
+          "739": 75000,
+          "742": 75000,
+          "745": 75000,
+          "764": 75000,
+          "780": 75000,
+          "781": 75000,
+          "795": 75000,
+          "797": 75000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-completionData-option": 0,
+      "add-custom-attributes-fields": 0,
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "file-value-url": 0,
+      "fix-current-user": 0,
+      "fix-dataEntry-by-org-unit-type": 0,
+      "fix-url": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "refactor-app": 0,
+      "test-translations-periods": 0
+    },
+    "branch deviation": {
+      "add-completionData-option": 1155,
+      "add-custom-attributes-fields": 1238,
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 97,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 205,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 68,
+      "dependabot/npm_and_yarn/moment-2.29.4": 59,
+      "dependabot/npm_and_yarn/terser-4.8.1": 46,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 191,
+      "file-value-url": 1201,
+      "fix-current-user": 1355,
+      "fix-dataEntry-by-org-unit-type": 497,
+      "fix-url": 1202,
+      "gh-pages": 1369,
+      "master": 0,
+      "refactor-app": 753,
+      "test-translations-periods": 1119
+    },
+    "unsynced activity": {
+      "add-completionData-option": 0,
+      "add-custom-attributes-fields": 0,
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "file-value-url": 0,
+      "fix-current-user": 0,
+      "fix-dataEntry-by-org-unit-type": 0,
+      "fix-url": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "refactor-app": 0,
+      "test-translations-periods": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-custom-attributes-fields",
+          "fix-current-user",
+          "fix-url",
+          "gh-pages"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Build": {
+      "data": [],
+      "release_build_count": 4
+    },
+    "blsq-report-components": {
+      "data": [
+        {
+          "started_at": "2021-02-01T07:50:48Z",
+          "used_tool": "TravisCI",
+          "number": 722
+        },
+        {
+          "started_at": "2021-02-04T15:04:41Z",
+          "used_tool": "TravisCI",
+          "number": 743
+        },
+        {
+          "started_at": "2021-02-15T12:48:12Z",
+          "used_tool": "TravisCI",
+          "number": 762
+        },
+        {
+          "started_at": "2021-02-22T14:27:16Z",
+          "used_tool": "TravisCI",
+          "number": 802
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 52
+    }
+  },
+  "skip_failing_tests": {}
+}

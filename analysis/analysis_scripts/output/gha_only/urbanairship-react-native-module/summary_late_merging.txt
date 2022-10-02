@@ -1,0 +1,228 @@
+Missed Activity
+=========================
+Branch Fix-build-issue has 317 days of missed activity!
+Branch Fix-doc-issue has 317 days of missed activity!
+Branch GH-378 has 241 days of missed activity!
+Branch GH-390 has 140 days of missed activity!
+Branch MOBILE-1760 has 472 days of missed activity!
+Branch MOBILE-1797 has 758 days of missed activity!
+Branch MOBILE-1818 has 745 days of missed activity!
+Branch MOBILE-1953 has 681 days of missed activity!
+Branch MOBILE-1955 has 680 days of missed activity!
+Branch MOBILE-2044 has 610 days of missed activity!
+Branch MOBILE-2135 has 525 days of missed activity!
+Branch MOBILE-2136 has 524 days of missed activity!
+Branch MOBILE-2396 has 420 days of missed activity!
+Branch MOBILE-2482 has 351 days of missed activity!
+Branch MOBILE-2529 has 317 days of missed activity!
+Branch MOBILE-2597 has 317 days of missed activity!
+Branch MOBILE-2624 has 291 days of missed activity!
+Branch MOBILE-2625-follow has 185 days of missed activity!
+Branch MOBILE-2788-Fix-Preference-center-Subscribe-issue has 245 days of missed activity!
+Branch MOBILE-2855 has 206 days of missed activity!
+Branch MOBILE-2856 has 206 days of missed activity!
+Branch MOBILE-2875 has 204 days of missed activity!
+Branch MOBILE-2962 has 175 days of missed activity!
+Branch Release12.1.0 has 319 days of missed activity!
+Branch Update-latest-SDKs has 50 days of missed activity!
+Branch fix-loadMessage-crash has 45 days of missed activity!
+Branch release-9.0.0 has 711 days of missed activity!
+Branch release-13.0.0 has 317 days of missed activity!
+Branch release-13.1.1 has 239 days of missed activity!
+Branch release-14.3.0 has 120 days of missed activity!
+Branch update-react-0.63 has 623 days of missed activity!
+MEDIUM SEVERITY
+Branch Fix-build-issue, 317 seconds
+HIGH SEVERITY
+Branch Fix-doc-issue, 317 seconds
+HIGH SEVERITY
+Branch MOBILE-1760, 472 seconds
+HIGH SEVERITY
+Branch MOBILE-1953, 681 seconds
+HIGH SEVERITY
+Branch MOBILE-1955, 680 seconds
+HIGH SEVERITY
+Branch MOBILE-2044, 610 seconds
+HIGH SEVERITY
+Branch MOBILE-2135, 525 seconds
+HIGH SEVERITY
+Branch MOBILE-2136, 524 seconds
+HIGH SEVERITY
+Branch MOBILE-2396, 420 seconds
+HIGH SEVERITY
+Branch MOBILE-2482, 351 seconds
+HIGH SEVERITY
+Branch MOBILE-2529, 317 seconds
+HIGH SEVERITY
+Branch MOBILE-2597, 317 seconds
+HIGH SEVERITY
+Branch Release12.1.0, 319 seconds
+HIGH SEVERITY
+Branch release-9.0.0, 711 seconds
+HIGH SEVERITY
+Branch release-13.0.0, 317 seconds
+HIGH SEVERITY
+Branch update-react-0.63, 623 seconds
+HIGH SEVERITY
+Branch MOBILE-1797, 758 seconds
+Branch MOBILE-1818, 745 seconds
+
+Branch Deviation
+=========================
+Average deviation: 537.1805555555555 days
+Branch MOBILE-807 moved away from main with 1063 days, 525.8194444444445 more than average
+Branch MOBILE-831 moved away from main with 916 days, 378.81944444444446 more than average
+Branch MOBILE-897 moved away from main with 1052 days, 514.8194444444445 more than average
+Branch MOBILE-1006 moved away from main with 1031 days, 493.81944444444446 more than average
+Branch MOBILE-1044 moved away from main with 990 days, 452.81944444444446 more than average
+Branch MOBILE-1089 moved away from main with 990 days, 452.81944444444446 more than average
+Branch MOBILE-1091 moved away from main with 996 days, 458.81944444444446 more than average
+Branch MOBILE-1131 moved away from main with 993 days, 455.81944444444446 more than average
+Branch MOBILE-1268 moved away from main with 934 days, 396.81944444444446 more than average
+Branch MOBILE-1269 moved away from main with 919 days, 381.81944444444446 more than average
+Branch MOBILE-1275 moved away from main with 934 days, 396.81944444444446 more than average
+Branch MOBILE-1276 moved away from main with 934 days, 396.81944444444446 more than average
+Branch MOBILE-1287 moved away from main with 925 days, 387.81944444444446 more than average
+Branch MOBILE-1336 moved away from main with 919 days, 381.81944444444446 more than average
+Branch MOBILE-1585-ts moved away from main with 836 days, 298.81944444444446 more than average
+Branch MOBILE-1585 moved away from main with 846 days, 308.81944444444446 more than average
+Branch MOBILE-1644 moved away from main with 799 days, 261.81944444444446 more than average
+Branch MOBILE-1729 moved away from main with 791 days, 253.81944444444446 more than average
+Branch MOBILE-1737 moved away from main with 785 days, 247.81944444444446 more than average
+Branch MOBILE-1797 moved away from main with 758 days, 220.81944444444446 more than average
+Branch MOBILE-1818 moved away from main with 745 days, 207.81944444444446 more than average
+Branch MOBILE-1837 moved away from main with 728 days, 190.81944444444446 more than average
+Branch MOBILE-1953 moved away from main with 681 days, 143.81944444444446 more than average
+Branch MOBILE-1955 moved away from main with 680 days, 142.81944444444446 more than average
+Branch MOBILE-2044 moved away from main with 611 days, 73.81944444444446 more than average
+Branch acorn-security-fix moved away from main with 899 days, 361.81944444444446 more than average
+Branch fix-npm-pack moved away from main with 778 days, 240.81944444444446 more than average
+Branch fix-publishing moved away from main with 785 days, 247.81944444444446 more than average
+Branch next moved away from main with 1051 days, 513.8194444444445 more than average
+Branch release-6.0.0 moved away from main with 976 days, 438.81944444444446 more than average
+Branch release-6.1.0 moved away from main with 927 days, 389.81944444444446 more than average
+Branch release-6.1.2 moved away from main with 904 days, 366.81944444444446 more than average
+Branch release-6.1.3 moved away from main with 893 days, 355.81944444444446 more than average
+Branch release-8.0.1 moved away from main with 777 days, 239.81944444444446 more than average
+Branch release-9.0.0 moved away from main with 715 days, 177.81944444444446 more than average
+Branch update-react-0.63 moved away from main with 623 days, 85.81944444444446 more than average
+MEDIUM SEVERITY
+Branch MOBILE-807, 1063 days
+Branch MOBILE-831, 916 days
+Branch MOBILE-897, 1052 days
+Branch MOBILE-1006, 1031 days
+Branch MOBILE-1044, 990 days
+Branch MOBILE-1089, 990 days
+Branch MOBILE-1091, 996 days
+Branch MOBILE-1131, 993 days
+Branch MOBILE-1268, 934 days
+Branch MOBILE-1269, 919 days
+Branch MOBILE-1275, 934 days
+Branch MOBILE-1276, 934 days
+Branch MOBILE-1287, 925 days
+Branch MOBILE-1336, 919 days
+Branch next, 1051 days
+Branch release-6.0.0, 976 days
+Branch release-6.1.0, 927 days
+Branch release-6.1.2, 904 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -1.4305555555555556 days
+Branch Fix-build-issue is unsynced with -1 days, 0.4305555555555556 more than average
+Branch Fix-doc-issue is unsynced with -1 days, 0.4305555555555556 more than average
+Branch GH-390 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-807 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-831 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-897 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1006 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1044 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1089 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1091 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1131 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1268 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1269 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1275 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1276 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1287 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1336 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1585-ts is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1585 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1644 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1729 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1737 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1797 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-1818 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-1837 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-1953 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-1955 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2044 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2135 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2136 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2420 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-2482 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2529 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2597 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2788-Fix-Preference-center-Subscribe-issue is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2875 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch MOBILE-2901 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch MOBILE-2962 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch Release12.1.0 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch acorn-security-fix is unsynced with 0 days, 1.4305555555555556 more than average
+Branch cleanup is unsynced with 0 days, 1.4305555555555556 more than average
+Branch dependabot/npm_and_yarn/example/cross-fetch-3.1.5 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch dependabot/npm_and_yarn/example/hermes-engine-and-react-native-0.11.0 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch dependabot/npm_and_yarn/example/moment-2.29.4 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch dependabot/npm_and_yarn/example/shell-quote-and-react-native-1.7.3 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch dependabot/npm_and_yarn/example/simple-plist-1.3.1 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch dependabot/npm_and_yarn/moment-2.29.4 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch fix-loadMessage-crash is unsynced with -1 days, 0.4305555555555556 more than average
+Branch fix-npm-pack is unsynced with 0 days, 1.4305555555555556 more than average
+Branch fix-publishing is unsynced with 0 days, 1.4305555555555556 more than average
+Branch main is unsynced with 0 days, 1.4305555555555556 more than average
+Branch next is unsynced with 0 days, 1.4305555555555556 more than average
+Branch release-6.0.0 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch release-6.1.0 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch release-6.1.2 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch release-6.1.3 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch release-8.0.1 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch release-13.0.0 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch release-13.1.1 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch release-14.3.0 is unsynced with -1 days, 0.4305555555555556 more than average
+Branch release-14.4.2 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch release-14.4.3 is unsynced with 0 days, 1.4305555555555556 more than average
+Branch update-react-0.63 is unsynced with -1 days, 0.4305555555555556 more than average
+MEDIUM SEVERITY
+Branch Fix-build-issue, -1 days
+Branch Fix-doc-issue, -1 days
+Branch GH-390, -1 days
+Branch MOBILE-1797, -1 days
+Branch MOBILE-1818, -1 days
+Branch MOBILE-1953, -1 days
+Branch MOBILE-1955, -1 days
+Branch MOBILE-2044, -1 days
+Branch MOBILE-2135, -1 days
+Branch MOBILE-2136, -1 days
+Branch MOBILE-2482, -1 days
+Branch MOBILE-2529, -1 days
+Branch MOBILE-2597, -1 days
+Branch MOBILE-2788-Fix-Preference-center-Subscribe-issue, -1 days
+Branch MOBILE-2875, -1 days
+Branch MOBILE-2962, -1 days
+Branch Release12.1.0, -1 days
+Branch fix-loadMessage-crash, -1 days
+Branch release-13.0.0, -1 days
+Branch release-13.1.1, -1 days
+Branch release-14.3.0, -1 days
+Branch update-react-0.63, -1 days
+HIGH SEVERITY
+Branch GH-378, -17 days
+Branch MOBILE-1760, -15 days
+Branch MOBILE-2396, -3 days
+Branch MOBILE-2624, -10 days
+Branch MOBILE-2625-follow, -8 days
+Branch MOBILE-2855, -7 days
+Branch MOBILE-2856, -7 days
+Branch Update-latest-SDKs, -9 days
+Branch release-9.0.0, -5 days

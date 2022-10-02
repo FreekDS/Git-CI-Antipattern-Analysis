@@ -1,0 +1,467 @@
+{
+  "slow_build": {
+    "Node": {
+      "data": {
+        "2020-02-03T12:13:55Z": 68500.0,
+        "2020-02-13T11:48:02Z": 69238.09523809524
+      },
+      "tool": "Github Actions",
+      "total avg": 68869.04761904762,
+      "quartiles": {
+        "q1": 68684.52380952382,
+        "q3": 69053.57142857142,
+        "iqr": 369.0476190476038
+      },
+      "classification": {
+        "high_severity": {
+          "21": 73000,
+          "22": 71000,
+          "26": 72000,
+          "29": 71000,
+          "31": 72000,
+          "34": 75000,
+          "35": 75000,
+          "36": 72000,
+          "38": 82000,
+          "39": 85000,
+          "46": 70000,
+          "47": 70000,
+          "48": 74000,
+          "49": 74000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Test": {
+      "data": {
+        "2020-02-03T11:59:16Z": 55692.307692307695,
+        "2020-02-13T11:48:00Z": 58142.857142857145
+      },
+      "tool": "Github Actions",
+      "total avg": 56917.582417582424,
+      "quartiles": {
+        "q1": 56304.945054945056,
+        "q3": 57530.219780219784,
+        "iqr": 1225.2747252747286
+      },
+      "classification": {
+        "high_severity": {
+          "6": 67000,
+          "9": 65000,
+          "15": 60000,
+          "20": 75000,
+          "21": 71000,
+          "24": 66000,
+          "25": 86000,
+          "26": 77000,
+          "27": 62000,
+          "34": 60000
+        },
+        "medium_severity": {
+          "10": 59000,
+          "23": 59000
+        }
+      }
+    },
+    "Dependabot auto approve": {
+      "data": {
+        "2020-02-03T12:03:38Z": 19500.0,
+        "2020-02-13T11:48:01Z": 18250.0
+      },
+      "tool": "Github Actions",
+      "total avg": 18875.0,
+      "quartiles": {
+        "q1": 18562.5,
+        "q3": 19187.5,
+        "iqr": 625.0
+      },
+      "classification": {
+        "high_severity": {
+          "64": 28000,
+          "76": 56000
+        },
+        "medium_severity": {
+          "67": 20000
+        }
+      }
+    },
+    "Transifex": {
+      "data": {
+        "2020-02-13T11:48:00Z": 33000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 33000.0,
+      "quartiles": {
+        "q1": 33000.0,
+        "q3": 33000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 39000
+        },
+        "medium_severity": {}
+      }
+    },
+    "L10n": {
+      "data": {
+        "2020-02-13T11:48:01Z": 47500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 47500.0,
+      "quartiles": {
+        "q1": 47500.0,
+        "q3": 47500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 52000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Publish": {
+      "data": {
+        "2020-02-06T10:17:35Z": 74000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 74000.0,
+      "quartiles": {
+        "q1": 74000.0,
+        "q3": 74000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/npm-publish.yml": {
+      "data": {
+        "2020-02-03T12:05:12Z": 500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 500.0,
+      "quartiles": {
+        "q1": 500.0,
+        "q3": 500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "3": 1000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/npm-test.yml": {
+      "data": {
+        "2020-02-03T12:05:13Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Node CI": {
+      "data": {
+        "2020-02-03T12:03:39Z": 75000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 75000.0,
+      "quartiles": {
+        "q1": 75000.0,
+        "q3": 75000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "nextcloud-vue": {
+      "data": {
+        "2020-01-10T13:57:39Z": 101989.01098901099,
+        "2020-01-17T16:19:37Z": 104966.66666666667,
+        "2020-01-24T16:33:33Z": 105037.03703703704,
+        "2020-02-06T18:49:35Z": 124500.0,
+        "2020-02-18T16:22:35Z": 128000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 112898.54293854293,
+      "quartiles": {
+        "q1": 104966.66666666667,
+        "q3": 124500.0,
+        "iqr": 19533.33333333333
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "3658": 126000,
+          "3660": 128000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "a11y/noid/inert-closed-navigation": 0,
+      "bug/appnav-performance": 0,
+      "bugfix/do-not-hide-counter-when-displaying-actions": 0,
+      "bugfix/noid/fix-attribute-menu-align": 0,
+      "datepicker-auto-locale": 0,
+      "dependabot/npm_and_yarn/cypress/webpack-dev-server-2.3.0": 0,
+      "dependabot/npm_and_yarn/cypress/webpack-preprocessor-5.12.2": 0,
+      "dependabot/npm_and_yarn/cypress-10.8.0": 0,
+      "design/text-variables-consolidation": 0,
+      "enh/sidebar-line-clamp": 0,
+      "feat/add-headermenu": 0,
+      "feat/apply_primary_for_single_action": 0,
+      "feature/noid/allow-to-inject-preloaded-user-statuses": 0,
+      "feature/noid/avatar-menu-use-actions-component": 0,
+      "feature/noid/shared_status_state": 0,
+      "feature/noid/update-dependencies": 38,
+      "feature/vite": 0,
+      "fix/actions-stop-popover-click": 0,
+      "fix/align-app-navigation-item-caption": 0,
+      "fix/common-webpack-config": 0,
+      "fix/fullscreen-api": 0,
+      "fix/listitem_bold": 0,
+      "fix/max-tag-entries": 0,
+      "fix/scss": 0,
+      "fix/type_prop_NcTextField": 0,
+      "fix/3053/actions-keyboard": 0,
+      "fix/3233": 0,
+      "master": 0,
+      "modal-focus-trap-two-dialogs": 0,
+      "nickvergessen-patch-1": 42,
+      "revert-395-enhancement/datepicker/trigger-save-on-month-or-year": 0,
+      "revert-2859-revert-2857-dependabot/npm_and_yarn/vue-styleguidist-4.48.0": 0,
+      "rollup": 0,
+      "stable0-3": 0,
+      "stable0-12": 0,
+      "stable0-13": 0,
+      "stable2": 0,
+      "stable3": 0,
+      "stable4": 374,
+      "stable5": 0,
+      "stable6": 0,
+      "vue3": 0
+    },
+    "branch deviation": {
+      "a11y/noid/inert-closed-navigation": 17,
+      "bug/appnav-performance": 1106,
+      "bugfix/do-not-hide-counter-when-displaying-actions": 444,
+      "bugfix/noid/fix-attribute-menu-align": 63,
+      "datepicker-auto-locale": 1381,
+      "dependabot/npm_and_yarn/cypress/webpack-dev-server-2.3.0": 16,
+      "dependabot/npm_and_yarn/cypress/webpack-preprocessor-5.12.2": 31,
+      "dependabot/npm_and_yarn/cypress-10.8.0": 2,
+      "design/text-variables-consolidation": 856,
+      "enh/sidebar-line-clamp": 539,
+      "feat/add-headermenu": 52,
+      "feat/apply_primary_for_single_action": 80,
+      "feature/noid/allow-to-inject-preloaded-user-statuses": 563,
+      "feature/noid/avatar-menu-use-actions-component": 604,
+      "feature/noid/shared_status_state": 751,
+      "feature/noid/update-dependencies": 38,
+      "feature/vite": 3,
+      "fix/actions-stop-popover-click": 741,
+      "fix/align-app-navigation-item-caption": 1,
+      "fix/common-webpack-config": 15,
+      "fix/fullscreen-api": 984,
+      "fix/listitem_bold": 9,
+      "fix/max-tag-entries": 53,
+      "fix/scss": 1,
+      "fix/type_prop_NcTextField": 4,
+      "fix/3053/actions-keyboard": 14,
+      "fix/3233": 3,
+      "master": 0,
+      "modal-focus-trap-two-dialogs": 25,
+      "nickvergessen-patch-1": 38,
+      "revert-395-enhancement/datepicker/trigger-save-on-month-or-year": 1137,
+      "revert-2859-revert-2857-dependabot/npm_and_yarn/vue-styleguidist-4.48.0": 58,
+      "rollup": 1303,
+      "stable0-3": 1339,
+      "stable0-12": 741,
+      "stable0-13": 679,
+      "stable2": 536,
+      "stable3": 364,
+      "stable4": 204,
+      "stable5": 21,
+      "stable6": 1,
+      "vue3": 9
+    },
+    "unsynced activity": {
+      "a11y/noid/inert-closed-navigation": 0,
+      "bug/appnav-performance": 0,
+      "bugfix/do-not-hide-counter-when-displaying-actions": 0,
+      "bugfix/noid/fix-attribute-menu-align": 0,
+      "datepicker-auto-locale": 0,
+      "dependabot/npm_and_yarn/cypress/webpack-dev-server-2.3.0": 0,
+      "dependabot/npm_and_yarn/cypress/webpack-preprocessor-5.12.2": 0,
+      "dependabot/npm_and_yarn/cypress-10.8.0": 0,
+      "design/text-variables-consolidation": 0,
+      "enh/sidebar-line-clamp": 0,
+      "feat/add-headermenu": 0,
+      "feat/apply_primary_for_single_action": 0,
+      "feature/noid/allow-to-inject-preloaded-user-statuses": 0,
+      "feature/noid/avatar-menu-use-actions-component": 0,
+      "feature/noid/shared_status_state": 0,
+      "feature/noid/update-dependencies": 0,
+      "feature/vite": 0,
+      "fix/actions-stop-popover-click": 0,
+      "fix/align-app-navigation-item-caption": 0,
+      "fix/common-webpack-config": 0,
+      "fix/fullscreen-api": 0,
+      "fix/listitem_bold": 0,
+      "fix/max-tag-entries": 0,
+      "fix/scss": 0,
+      "fix/type_prop_NcTextField": 0,
+      "fix/3053/actions-keyboard": 0,
+      "fix/3233": 0,
+      "master": 0,
+      "modal-focus-trap-two-dialogs": 0,
+      "nickvergessen-patch-1": 3,
+      "revert-395-enhancement/datepicker/trigger-save-on-month-or-year": 0,
+      "revert-2859-revert-2857-dependabot/npm_and_yarn/vue-styleguidist-4.48.0": 0,
+      "rollup": 0,
+      "stable0-3": 0,
+      "stable0-12": 0,
+      "stable0-13": 0,
+      "stable2": 0,
+      "stable3": 0,
+      "stable4": 169,
+      "stable5": 0,
+      "stable6": 0,
+      "vue3": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "feature/noid/update-dependencies",
+          "nickvergessen-patch-1",
+          "stable4"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "bug/appnav-performance",
+          "datepicker-auto-locale",
+          "design/text-variables-consolidation",
+          "feature/noid/shared_status_state",
+          "fix/actions-stop-popover-click",
+          "fix/fullscreen-api",
+          "revert-395-enhancement/datepicker/trigger-save-on-month-or-year",
+          "rollup",
+          "stable0-3",
+          "stable0-12",
+          "stable0-13"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "nickvergessen-patch-1",
+          "stable4"
+        ]
+      }
+    },
+    "build_count": 10
+  },
+  "broken_release": {
+    "Node": {
+      "data": [],
+      "release_build_count": 11
+    },
+    "Test": {
+      "data": [],
+      "release_build_count": 11
+    },
+    "Dependabot auto approve": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "Publish": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "nextcloud-vue": {
+      "data": [
+        {
+          "started_at": "2020-01-12T03:59:19Z",
+          "used_tool": "TravisCI",
+          "number": 3507
+        },
+        {
+          "started_at": "2020-01-13T11:21:43Z",
+          "used_tool": "TravisCI",
+          "number": 3530
+        },
+        {
+          "started_at": "2020-01-13T19:07:03Z",
+          "used_tool": "TravisCI",
+          "number": 3533
+        },
+        {
+          "started_at": "2020-01-13T21:39:09Z",
+          "used_tool": "TravisCI",
+          "number": 3535
+        },
+        {
+          "started_at": "2020-01-13T21:43:36Z",
+          "used_tool": "TravisCI",
+          "number": 3537
+        },
+        {
+          "started_at": "2020-01-14T11:03:36Z",
+          "used_tool": "TravisCI",
+          "number": 3550
+        },
+        {
+          "started_at": "2020-01-15T22:11:47Z",
+          "used_tool": "TravisCI",
+          "number": 3574
+        },
+        {
+          "started_at": "2020-01-15T22:18:27Z",
+          "used_tool": "TravisCI",
+          "number": 3576
+        },
+        {
+          "started_at": "2020-01-16T17:07:55Z",
+          "used_tool": "TravisCI",
+          "number": 3581
+        },
+        {
+          "started_at": "2020-01-20T15:41:43Z",
+          "used_tool": "TravisCI",
+          "number": 3607
+        },
+        {
+          "started_at": "2020-01-24T15:09:40Z",
+          "used_tool": "TravisCI",
+          "number": 3621
+        },
+        {
+          "started_at": "2020-01-26T03:37:59Z",
+          "used_tool": "TravisCI",
+          "number": 3627
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 74
+    }
+  },
+  "skip_failing_tests": {}
+}

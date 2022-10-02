@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 275.8333333333333 days
+Branch feat/macros moved away from main with 287 days, 11.166666666666686 more than average
+Branch fix/audio-encoding moved away from main with 283 days, 7.166666666666686 more than average
+Branch v1.x moved away from main with 795 days, 519.1666666666667 more than average
+Branch v2.x moved away from main with 291 days, 15.166666666666686 more than average
+MEDIUM SEVERITY
+Branch v2.x, 291 days
+HIGH SEVERITY
+Branch v1.x, 795 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

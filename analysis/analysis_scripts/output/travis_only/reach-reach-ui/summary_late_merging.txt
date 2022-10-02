@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 313.8 days
+Branch menu-button-rewrite moved away from main with 1016 days, 702.2 more than average
+Branch nayaabkhan-gh-actions moved away from main with 410 days, 96.19999999999999 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch menu-button-rewrite, 1016 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,30 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -61.0 days
+Branch dependabot/github_actions/actions/setup-node-3.4.1 moved away from main with -53 days, 8.0 more than average
+Branch dependabot/npm_and_yarn/packages/server-base/tap-16.3.0 moved away from main with -25 days, 36.0 more than average
+Branch dependabot/npm_and_yarn/packages/server-base-log/test/tap-16.3.0 moved away from main with -25 days, 36.0 more than average
+Branch dependabot/npm_and_yarn/packages/server-base-router/test/tap-16.3.0 moved away from main with -25 days, 36.0 more than average
+Branch main moved away from main with 0 days, 61.0 more than average
+MEDIUM SEVERITY
+Branch dependabot/github_actions/actions/setup-node-3.4.1, -53 days
+Branch dependabot/npm_and_yarn/packages/server-base/tap-16.3.0, -25 days
+Branch dependabot/npm_and_yarn/packages/server-base-log/test/tap-16.3.0, -25 days
+Branch dependabot/npm_and_yarn/packages/server-base-router/test/form-urlencoded-6.1.0, -70 days
+Branch dependabot/npm_and_yarn/packages/server-base-router/test/tap-16.3.0, -25 days
+Branch main, 0 days
+HIGH SEVERITY
+Branch dependabot/github_actions/fastify/github-action-merge-dependabot-3.3.1, -114 days
+Branch dependabot/npm_and_yarn/packages/server-base/dotenv-16.0.2, -100 days
+Branch dependabot/npm_and_yarn/packages/server-base-log/pino-8.5.0, -105 days
+Branch dependabot/npm_and_yarn/packages/server-base-log/pino-pretty-9.1.0, -93 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -4,13 +4,13 @@ MEDIUM SEVERITY
 
 Branch Deviation
 =========================
-Average deviation: 143.14285714285714 days
-Branch latest moved away from main with 343 days, 199.85714285714286 more than average
-Branch strings moved away from main with 149 days, 5.857142857142861 more than average
-Branch v1 moved away from main with 359 days, 215.85714285714286 more than average
+Average deviation: 202.14285714285714 days
+Branch latest moved away from main with 487 days, 284.8571428571429 more than average
+Branch strings moved away from main with 292 days, 89.85714285714286 more than average
+Branch v1 moved away from main with 502 days, 299.8571428571429 more than average
 MEDIUM SEVERITY
-Branch latest, 343 days
-Branch v1, 359 days
+Branch latest, 487 days
+Branch v1, 502 days
 HIGH SEVERITY
 
 Unsynced activity

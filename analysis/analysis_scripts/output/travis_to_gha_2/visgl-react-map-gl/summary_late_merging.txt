@@ -1,0 +1,35 @@
+Missed Activity
+=========================
+Branch doc-fixes has 1382 days of missed activity!
+MEDIUM SEVERITY
+Branch doc-fixes, 1382 seconds
+
+Branch Deviation
+=========================
+Average deviation: 873.8 days
+Branch 1.0-release moved away from main with 1842 days, 968.2 more than average
+Branch 2.0-release moved away from main with 1815 days, 941.2 more than average
+Branch 3.0-release moved away from main with 1779 days, 905.2 more than average
+Branch 3.1-release moved away from main with 1712 days, 838.2 more than average
+Branch 3.2-release moved away from main with 1521 days, 647.2 more than average
+Branch 3.3-release moved away from main with 1372 days, 498.20000000000005 more than average
+Branch 4.0-release moved away from main with 1254 days, 380.20000000000005 more than average
+Branch 4.1-release moved away from main with 1045 days, 171.20000000000005 more than average
+Branch 5.0-release moved away from main with 1045 days, 171.20000000000005 more than average
+Branch 5.1-release moved away from main with 958 days, 84.20000000000005 more than average
+Branch doc-fixes moved away from main with 1315 days, 441.20000000000005 more than average
+MEDIUM SEVERITY
+Branch 1.0-release, 1842 days
+Branch 2.0-release, 1815 days
+Branch 3.0-release, 1779 days
+Branch 3.1-release, 1712 days
+Branch 3.2-release, 1521 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 3.3 days
+Branch doc-fixes is unsynced with 66 days, 62.7 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch doc-fixes, 66 days

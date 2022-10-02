@@ -1,0 +1,68 @@
+Missed Activity
+=========================
+Branch empty-arrays has 16 days of missed activity!
+MEDIUM SEVERITY
+Branch empty-arrays, 16 seconds
+
+Branch Deviation
+=========================
+Average deviation: 276.48148148148147 days
+Branch colinhacks-patch-1 moved away from main with 308 days, 31.518518518518533 more than average
+Branch deno-docs moved away from main with 421 days, 144.51851851851853 more than average
+Branch econnreset_fix moved away from main with 725 days, 448.51851851851853 more than average
+Branch functions-bug moved away from main with 392 days, 115.51851851851853 more than average
+Branch npx moved away from main with 379 days, 102.51851851851853 more than average
+Branch npx-new moved away from main with 361 days, 84.51851851851853 more than average
+Branch npx-rfc moved away from main with 378 days, 101.51851851851853 more than average
+Branch qb-closure-api moved away from main with 371 days, 94.51851851851853 more than average
+Branch qb-history moved away from main with 312 days, 35.51851851851853 more than average
+Branch qb-params-optional-option2 moved away from main with 385 days, 108.51851851851853 more than average
+Branch qb-params-typesystem moved away from main with 386 days, 109.51851851851853 more than average
+Branch qb-polish moved away from main with 283 days, 6.518518518518533 more than average
+Branch retry-neterr moved away from main with 364 days, 87.51851851851853 more than average
+Branch revert-exprs moved away from main with 373 days, 96.51851851851853 more than average
+Branch select-methods moved away from main with 400 days, 123.51851851851853 more than average
+Branch ts moved away from main with 636 days, 359.51851851851853 more than average
+Branch v0.16 moved away from main with 283 days, 6.518518518518533 more than average
+MEDIUM SEVERITY
+Branch deno-docs, 421 days
+Branch econnreset_fix, 725 days
+Branch functions-bug, 392 days
+Branch qb-params-optional-option2, 385 days
+Branch qb-params-typesystem, 386 days
+Branch select-methods, 400 days
+Branch ts, 636 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.037037037037037035 days
+Branch colinhacks-patch-1 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch deno-docs is unsynced with 0 days, 0.037037037037037035 more than average
+Branch docs-deploy is unsynced with 0 days, 0.037037037037037035 more than average
+Branch econnreset_fix is unsynced with 0 days, 0.037037037037037035 more than average
+Branch edgeql-2 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch edgeql-codegen is unsynced with 0 days, 0.037037037037037035 more than average
+Branch edgeql-tag is unsynced with 0 days, 0.037037037037037035 more than average
+Branch functions-bug is unsynced with 0 days, 0.037037037037037035 more than average
+Branch kiss-fix is unsynced with 0 days, 0.037037037037037035 more than average
+Branch master is unsynced with 0 days, 0.037037037037037035 more than average
+Branch npx is unsynced with 0 days, 0.037037037037037035 more than average
+Branch npx-new is unsynced with 0 days, 0.037037037037037035 more than average
+Branch npx-rfc is unsynced with 0 days, 0.037037037037037035 more than average
+Branch qb-closure-api is unsynced with 0 days, 0.037037037037037035 more than average
+Branch qb-history is unsynced with 0 days, 0.037037037037037035 more than average
+Branch qb-params-optional-option2 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch qb-params-typesystem is unsynced with 0 days, 0.037037037037037035 more than average
+Branch qb-polish is unsynced with 0 days, 0.037037037037037035 more than average
+Branch retry-neterr is unsynced with 0 days, 0.037037037037037035 more than average
+Branch revert-exprs is unsynced with 0 days, 0.037037037037037035 more than average
+Branch select-methods is unsynced with 0 days, 0.037037037037037035 more than average
+Branch ts is unsynced with 0 days, 0.037037037037037035 more than average
+Branch union-types is unsynced with 0 days, 0.037037037037037035 more than average
+Branch v0.16 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch var-name-fix is unsynced with 0 days, 0.037037037037037035 more than average
+Branch yet-more-qb-fixes is unsynced with 0 days, 0.037037037037037035 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch empty-arrays, -1 days

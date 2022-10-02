@@ -1,0 +1,68 @@
+{
+  "slow_build": {
+    "pattern-omnizonk": {
+      "data": {
+        "2021-04-19T20:02:04Z": 54333.333333333336,
+        "2021-05-07T02:57:58Z": 52750.0,
+        "2021-05-27T07:33:49Z": 53000.0,
+        "2021-06-04T22:23:33Z": 50333.333333333336
+      },
+      "tool": "TravisCI",
+      "total avg": 52604.16666666667,
+      "quartiles": {
+        "q1": 52145.833333333336,
+        "q3": 53333.333333333336,
+        "iqr": 1187.5
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "179": 55000,
+          "180": 55000,
+          "184": 55000,
+          "185": 55000,
+          "190": 54000,
+          "192": 54000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 436,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/hosted-git-info-2.8.9"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "pattern-omnizonk": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

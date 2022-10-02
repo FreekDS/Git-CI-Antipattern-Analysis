@@ -1,0 +1,152 @@
+{
+  "slow_build": {
+    "Node.js Package": {
+      "data": {
+        "2019-08-13T16:07:28Z": 53818.181818181816
+      },
+      "tool": "Github Actions",
+      "total avg": 53818.181818181816,
+      "quartiles": {
+        "q1": 53818.181818181816,
+        "q3": 53818.181818181816,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 76000,
+          "2": 70000,
+          "3": 70000,
+          "4": 60000,
+          "5": 76000,
+          "6": 70000,
+          "7": 64000,
+          "12": 62000,
+          "13": 66000,
+          "14": 67000,
+          "15": 61000,
+          "16": 62000,
+          "17": 62000,
+          "18": 63000,
+          "19": 60000,
+          "20": 72000,
+          "21": 61000,
+          "22": 57000
+        },
+        "medium_severity": {}
+      }
+    },
+    "rxjs-console-logger-operator": {
+      "data": {
+        "2019-08-13T15:11:56Z": 50500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 50500.0,
+      "quartiles": {
+        "q1": 50500.0,
+        "q3": 50500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "67": 61000,
+          "68": 61000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Node.js Package": {
+      "data": [
+        {
+          "started_at": "2019-08-13T16:07:28Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2019-08-13T16:08:19Z",
+          "used_tool": "Github Actions",
+          "number": 2
+        },
+        {
+          "started_at": "2019-08-13T16:08:21Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        },
+        {
+          "started_at": "2019-08-13T16:23:44Z",
+          "used_tool": "Github Actions",
+          "number": 4
+        },
+        {
+          "started_at": "2019-08-13T16:37:12Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        },
+        {
+          "started_at": "2019-08-13T16:45:34Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        },
+        {
+          "started_at": "2019-08-13T17:11:41Z",
+          "used_tool": "Github Actions",
+          "number": 12
+        },
+        {
+          "started_at": "2019-08-13T17:19:11Z",
+          "used_tool": "Github Actions",
+          "number": 13
+        },
+        {
+          "started_at": "2019-08-13T17:22:18Z",
+          "used_tool": "Github Actions",
+          "number": 16
+        },
+        {
+          "started_at": "2019-08-13T17:23:53Z",
+          "used_tool": "Github Actions",
+          "number": 17
+        },
+        {
+          "started_at": "2019-08-13T17:28:41Z",
+          "used_tool": "Github Actions",
+          "number": 20
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 15
+    },
+    "rxjs-console-logger-operator": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

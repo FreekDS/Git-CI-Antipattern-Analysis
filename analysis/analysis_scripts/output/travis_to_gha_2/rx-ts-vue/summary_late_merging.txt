@@ -1,0 +1,17 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1056.5 days
+Branch legecy moved away from main with 2113 days, 1056.5 more than average
+MEDIUM SEVERITY
+Branch legecy, 2113 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

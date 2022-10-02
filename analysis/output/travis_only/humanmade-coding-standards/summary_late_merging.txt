@@ -1,0 +1,29 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 439.0625 days
+Branch 1.1.2 moved away from main with 486 days, 46.9375 more than average
+Branch disallow-use-function moved away from main with 849 days, 409.9375 more than average
+Branch remove-use-in-alphabetical-order-rule moved away from main with 583 days, 143.9375 more than average
+Branch stylelint-tests moved away from main with 569 days, 129.9375 more than average
+Branch ternary-sniff moved away from main with 687 days, 247.9375 more than average
+Branch try/phive moved away from main with 583 days, 143.9375 more than average
+Branch use-babel-eslint-parser moved away from main with 491 days, 51.9375 more than average
+Branch v0.8 moved away from main with 688 days, 248.9375 more than average
+Branch v1.0 moved away from main with 688 days, 248.9375 more than average
+Branch v1.1 moved away from main with 644 days, 204.9375 more than average
+MEDIUM SEVERITY
+Branch disallow-use-function, 849 days
+Branch ternary-sniff, 687 days
+Branch v0.8, 688 days
+Branch v1.0, 688 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,28 @@
+Missed Activity
+=========================
+Branch develop has 45 days of missed activity!
+MEDIUM SEVERITY
+Branch develop, 45 seconds
+
+Branch Deviation
+=========================
+Average deviation: 250.88235294117646 days
+Branch demoapp-shared moved away from main with 529 days, 278.11764705882354 more than average
+Branch patch/3.1.3 moved away from main with 651 days, 400.11764705882354 more than average
+Branch test-appsecret moved away from main with 320 days, 69.11764705882354 more than average
+Branch test-build-4-3-1 moved away from main with 349 days, 98.11764705882354 more than average
+Branch v4.3.0-branch moved away from main with 350 days, 99.11764705882354 more than average
+Branch v-dmkira/fix-rn-build moved away from main with 349 days, 98.11764705882354 more than average
+MEDIUM SEVERITY
+Branch demoapp-shared, 529 days
+Branch patch/3.1.3, 651 days
+Branch v4.3.0-branch, 350 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 2.6470588235294117 days
+Branch develop is unsynced with 45 days, 42.35294117647059 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch develop, 45 days

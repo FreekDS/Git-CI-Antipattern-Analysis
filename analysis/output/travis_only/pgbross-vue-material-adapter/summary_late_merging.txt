@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 414.27272727272725 days
+Branch legacy moved away from main with 608 days, 193.72727272727275 more than average
+Branch snyk-upgrade-4cf46c598df8662229a5b8f0139af085 moved away from main with 739 days, 324.72727272727275 more than average
+Branch v0.18.0-alpha moved away from main with 706 days, 291.72727272727275 more than average
+Branch v1.0.0-prealpha moved away from main with 680 days, 265.72727272727275 more than average
+Branch v3.0.0 moved away from main with 483 days, 68.72727272727275 more than average
+Branch v-next moved away from main with 608 days, 193.72727272727275 more than average
+MEDIUM SEVERITY
+Branch snyk-upgrade-4cf46c598df8662229a5b8f0139af085, 739 days
+Branch v0.18.0-alpha, 706 days
+Branch v1.0.0-prealpha, 680 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

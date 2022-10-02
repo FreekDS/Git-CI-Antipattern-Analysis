@@ -1,0 +1,29 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 503.92 days
+Branch dependabot/npm_and_yarn/demo/react-dev-utils-11.0.4 moved away from main with 543 days, 39.079999999999984 more than average
+Branch dev moved away from main with 1635 days, 1131.08 more than average
+Branch dev_2.0 moved away from main with 1020 days, 516.0799999999999 more than average
+Branch dev3.0-easemob-emedia moved away from main with 616 days, 112.07999999999998 more than average
+Branch fea_multi_video moved away from main with 1573 days, 1069.08 more than average
+Branch master moved away from main with 1041 days, 537.0799999999999 more than average
+Branch master-8.30-video moved away from main with 1467 days, 963.0799999999999 more than average
+Branch windowSDK moved away from main with 1768 days, 1264.08 more than average
+MEDIUM SEVERITY
+Branch dev_2.0, 1020 days
+Branch master, 1041 days
+HIGH SEVERITY
+Branch dev, 1635 days
+Branch fea_multi_video, 1573 days
+Branch master-8.30-video, 1467 days
+Branch windowSDK, 1768 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

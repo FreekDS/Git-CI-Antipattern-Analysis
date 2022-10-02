@@ -1,0 +1,29 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 514.2666666666667 days
+Branch arrow-ps moved away from main with 627 days, 112.73333333333335 more than average
+Branch conditional-prob moved away from main with 702 days, 187.73333333333335 more than average
+Branch cwalker-functions-course moved away from main with 572 days, 57.73333333333335 more than average
+Branch enigma-ar moved away from main with 678 days, 163.73333333333335 more than average
+Branch gauss-solver moved away from main with 572 days, 57.73333333333335 more than average
+Branch gauss-solver-kevin moved away from main with 537 days, 22.73333333333335 more than average
+Branch matrices-3d moved away from main with 689 days, 174.73333333333335 more than average
+Branch matrix-inverses moved away from main with 572 days, 57.73333333333335 more than average
+Branch more-solids-interactives moved away from main with 581 days, 66.73333333333335 more than average
+Branch solids-3.04 moved away from main with 521 days, 6.7333333333333485 more than average
+MEDIUM SEVERITY
+Branch arrow-ps, 627 days
+Branch conditional-prob, 702 days
+Branch enigma-ar, 678 days
+Branch matrices-3d, 689 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

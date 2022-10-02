@@ -1,0 +1,365 @@
+{
+  "slow_build": {
+    "main-suite": {
+      "data": {
+        "2021-04-08T08:56:11Z": 310230.76923076925,
+        "2021-04-19T09:26:39Z": 326000.0,
+        "2021-05-11T22:14:19Z": 342250.0,
+        "2021-05-25T17:40:04Z": 53274500.0,
+        "2021-06-04T16:04:14Z": 356166.6666666667,
+        "2021-06-14T08:24:45Z": 4889700.0,
+        "2021-06-30T21:08:55Z": 289000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 8541121.062271062,
+      "quartiles": {
+        "q1": 318115.3846153846,
+        "q3": 2622933.3333333335,
+        "iqr": 2304817.948717949
+      },
+      "classification": {
+        "high_severity": {
+          "374": 79886000,
+          "375": 26663000,
+          "396": 45262000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Size Testing": {
+      "data": {
+        "2021-04-08T08:57:04Z": 136500.0,
+        "2021-04-19T09:26:39Z": 135000.0,
+        "2021-05-11T22:14:19Z": 138875.0,
+        "2021-05-25T17:40:04Z": 53063000.0,
+        "2021-06-08T15:54:23Z": 155000.0,
+        "2021-06-16T21:41:50Z": 23118500.0,
+        "2021-06-30T21:08:55Z": 155000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 10985982.142857144,
+      "quartiles": {
+        "q1": 137687.5,
+        "q3": 11636750.0,
+        "iqr": 11499062.5
+      },
+      "classification": {
+        "high_severity": {
+          "119": 79707000,
+          "129": 45151000
+        },
+        "medium_severity": {
+          "120": 26419000
+        }
+      }
+    },
+    "lint-pr-title": {
+      "data": {
+        "2021-04-08T08:57:03Z": 27666.666666666668,
+        "2021-04-19T09:26:39Z": 28000.0,
+        "2021-05-08T17:29:07Z": 27857.14285714286,
+        "2021-05-18T09:40:12Z": 26250.0,
+        "2021-05-25T17:40:04Z": 28000.0,
+        "2021-06-08T15:54:22Z": 26928.571428571428,
+        "2021-06-16T21:41:49Z": 28000.0,
+        "2021-06-30T21:08:54Z": 27000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 27462.79761904762,
+      "quartiles": {
+        "q1": 26982.142857142855,
+        "q3": 28000.0,
+        "iqr": 1017.8571428571449
+      },
+      "classification": {
+        "high_severity": {
+          "318": 30000,
+          "319": 30000,
+          "325": 30000,
+          "327": 31000,
+          "331": 31000,
+          "337": 30000,
+          "339": 30000,
+          "340": 30000,
+          "348": 32000,
+          "352": 32000,
+          "354": 35000,
+          "358": 30000,
+          "363": 33000
+        },
+        "medium_severity": {
+          "322": 29000,
+          "334": 29000,
+          "335": 29000,
+          "338": 29000,
+          "344": 29000,
+          "346": 29000,
+          "349": 29000
+        }
+      }
+    },
+    "release-workflow-test": {
+      "data": {
+        "2021-04-08T08:56:11Z": 153222.22222222222,
+        "2021-04-19T09:34:19Z": 193000.0,
+        "2021-05-14T08:41:05Z": 151875.0,
+        "2021-06-04T16:04:14Z": 157875.0,
+        "2021-06-14T08:24:45Z": 170333.33333333334
+      },
+      "tool": "Github Actions",
+      "total avg": 165261.11111111112,
+      "quartiles": {
+        "q1": 153222.22222222222,
+        "q3": 170333.33333333334,
+        "iqr": 17111.111111111124
+      },
+      "classification": {
+        "high_severity": {
+          "139": 204000
+        },
+        "medium_severity": {
+          "133": 175000,
+          "138": 193000,
+          "149": 187000,
+          "158": 187000,
+          "160": 193000
+        }
+      }
+    },
+    "relase-workflow": {
+      "data": {
+        "2021-04-08T09:34:24Z": 145375.0,
+        "2021-04-19T09:38:03Z": 201000.0,
+        "2021-05-18T10:59:02Z": 187000.0,
+        "2021-06-08T16:19:20Z": 186250.0,
+        "2021-06-16T15:32:47Z": 167000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 177325.0,
+      "quartiles": {
+        "q1": 167000.0,
+        "q3": 187000.0,
+        "iqr": 20000.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "18": 188000,
+          "25": 195000,
+          "26": 201000,
+          "28": 198000
+        }
+      }
+    },
+    "deploy-main-docs": {
+      "data": {
+        "2021-05-14T08:41:05Z": 58000.0,
+        "2021-06-09T18:04:15Z": 60500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 59250.0,
+      "quartiles": {
+        "q1": 58625.0,
+        "q3": 59875.0,
+        "iqr": 1250.0
+      },
+      "classification": {
+        "high_severity": {
+          "40": 62000
+        },
+        "medium_severity": {
+          "42": 61000,
+          "43": 60000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0,
+      "next": 0,
+      "semoal/fix-1098": 370,
+      "stable-1.x": 0,
+      "stable-2.x": 0
+    },
+    "branch deviation": {
+      "main": 0,
+      "next": 659,
+      "semoal/fix-1098": 375,
+      "stable-1.x": 1716,
+      "stable-2.x": 683
+    },
+    "unsynced activity": {
+      "main": 0,
+      "next": 0,
+      "semoal/fix-1098": -5,
+      "stable-1.x": 0,
+      "stable-2.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "semoal/fix-1098"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "stable-1.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "semoal/fix-1098"
+        ]
+      }
+    },
+    "build_count": 6
+  },
+  "broken_release": {
+    "main-suite": {
+      "data": [
+        {
+          "started_at": "2021-04-09T10:59:37Z",
+          "used_tool": "Github Actions",
+          "number": 349
+        },
+        {
+          "started_at": "2021-05-14T08:41:05Z",
+          "used_tool": "Github Actions",
+          "number": 361
+        },
+        {
+          "started_at": "2021-05-18T10:25:45Z",
+          "used_tool": "Github Actions",
+          "number": 368
+        },
+        {
+          "started_at": "2021-06-14T17:54:45Z",
+          "used_tool": "Github Actions",
+          "number": 393
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 32
+    },
+    "lint-pr-title": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "release-workflow-test": {
+      "data": [],
+      "release_build_count": 32
+    },
+    "relase-workflow": {
+      "data": [
+        {
+          "started_at": "2021-04-08T09:34:24Z",
+          "used_tool": "Github Actions",
+          "number": 18
+        },
+        {
+          "started_at": "2021-04-08T16:44:51Z",
+          "used_tool": "Github Actions",
+          "number": 19
+        },
+        {
+          "started_at": "2021-04-08T18:43:56Z",
+          "used_tool": "Github Actions",
+          "number": 20
+        },
+        {
+          "started_at": "2021-04-09T11:00:10Z",
+          "used_tool": "Github Actions",
+          "number": 21
+        },
+        {
+          "started_at": "2021-04-09T11:02:17Z",
+          "used_tool": "Github Actions",
+          "number": 22
+        },
+        {
+          "started_at": "2021-04-09T11:03:21Z",
+          "used_tool": "Github Actions",
+          "number": 23
+        },
+        {
+          "started_at": "2021-04-09T11:41:57Z",
+          "used_tool": "Github Actions",
+          "number": 24
+        },
+        {
+          "started_at": "2021-04-09T12:26:59Z",
+          "used_tool": "Github Actions",
+          "number": 25
+        },
+        {
+          "started_at": "2021-04-19T09:38:03Z",
+          "used_tool": "Github Actions",
+          "number": 26
+        },
+        {
+          "started_at": "2021-05-18T10:59:02Z",
+          "used_tool": "Github Actions",
+          "number": 27
+        },
+        {
+          "started_at": "2021-06-08T16:19:20Z",
+          "used_tool": "Github Actions",
+          "number": 28
+        },
+        {
+          "started_at": "2021-06-08T16:28:47Z",
+          "used_tool": "Github Actions",
+          "number": 29
+        },
+        {
+          "started_at": "2021-06-08T22:56:56Z",
+          "used_tool": "Github Actions",
+          "number": 30
+        },
+        {
+          "started_at": "2021-06-14T17:58:25Z",
+          "used_tool": "Github Actions",
+          "number": 31
+        },
+        {
+          "started_at": "2021-06-16T15:32:47Z",
+          "used_tool": "Github Actions",
+          "number": 32
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 15
+    },
+    "deploy-main-docs": {
+      "data": [
+        {
+          "started_at": "2021-05-14T08:41:05Z",
+          "used_tool": "Github Actions",
+          "number": 40
+        },
+        {
+          "started_at": "2021-05-18T10:05:20Z",
+          "used_tool": "Github Actions",
+          "number": 41
+        },
+        {
+          "started_at": "2021-06-09T18:04:15Z",
+          "used_tool": "Github Actions",
+          "number": 42
+        },
+        {
+          "started_at": "2021-06-14T08:24:45Z",
+          "used_tool": "Github Actions",
+          "number": 43
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 4
+    }
+  },
+  "skip_failing_tests": {}
+}

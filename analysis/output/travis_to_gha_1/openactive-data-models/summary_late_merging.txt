@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 4.714285714285714 days
+Branch feature/id-reference-for-feeds-validation moved away from main with 38 days, 33.285714285714285 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch dependabot/npm_and_yarn/ansi-regex-5.0.1, -1 days
+Branch dependabot/npm_and_yarn/async-2.6.4, -1 days
+Branch dependabot/npm_and_yarn/cross-fetch-3.1.5, -1 days
+Branch dependabot/npm_and_yarn/lodash-4.17.21, -1 days
+Branch dependabot/npm_and_yarn/minimist-1.2.6, -1 days
+Branch feature/id-reference-for-feeds-validation, 38 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 178.75 days
+Branch dependabot/npm_and_yarn/trim-newlines-3.0.1 moved away from main with 463 days, 284.25 more than average
+Branch fix-module-and-cjs-builds moved away from main with 278 days, 99.25 more than average
+Branch gh-pages moved away from main with 266 days, 87.25 more than average
+Branch test-build-artifacts moved away from main with 279 days, 100.25 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/trim-newlines-3.0.1, 463 days
+Branch test-build-artifacts, 279 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

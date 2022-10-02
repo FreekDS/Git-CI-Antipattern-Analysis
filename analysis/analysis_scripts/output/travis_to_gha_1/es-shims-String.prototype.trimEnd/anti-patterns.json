@@ -1,0 +1,185 @@
+{
+  "slow_build": {
+    "Tests: node.js (io.js)": {
+      "data": {
+        "2020-11-21T23:02:47Z": 1656600.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1656600.0,
+      "quartiles": {
+        "q1": 1656600.0,
+        "q3": 1656600.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 5335000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Tests: pretest/posttest": {
+      "data": {
+        "2020-11-21T23:02:47Z": 64400.0
+      },
+      "tool": "Github Actions",
+      "total avg": 64400.0,
+      "quartiles": {
+        "q1": 64400.0,
+        "q3": 64400.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 71000,
+          "2": 76000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Tests: node.js": {
+      "data": {
+        "2020-11-21T23:02:47Z": 1038800.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1038800.0,
+      "quartiles": {
+        "q1": 1038800.0,
+        "q3": 1038800.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 1097000,
+          "2": 1279000,
+          "5": 1111000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Tests: node.js (0.x)": {
+      "data": {
+        "2020-11-21T23:02:47Z": 841600.0
+      },
+      "tool": "Github Actions",
+      "total avg": 841600.0,
+      "quartiles": {
+        "q1": 841600.0,
+        "q3": 841600.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 1058000,
+          "2": 1113000,
+          "5": 912000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Automatic Rebase": {
+      "data": {
+        "2020-11-21T23:03:14Z": 56000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 56000.0,
+      "quartiles": {
+        "q1": 56000.0,
+        "q3": 56000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Require \u201cAllow Edits\u201d": {
+      "data": {
+        "2020-11-21T23:03:14Z": 48000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 48000.0,
+      "quartiles": {
+        "q1": 48000.0,
+        "q3": 48000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "String.prototype.trimEnd": {
+      "data": {
+        "2020-10-20T18:46:04Z": 9081500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 9081500.0,
+      "quartiles": {
+        "q1": 9081500.0,
+        "q3": 9081500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "6": 9257000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "greenkeeper/initial": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "greenkeeper/initial": 763,
+      "main": 0
+    },
+    "unsynced activity": {
+      "greenkeeper/initial": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "greenkeeper/initial"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 7
+  },
+  "broken_release": {
+    "Tests: node.js (io.js)": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "Tests: pretest/posttest": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "Tests: node.js": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "Tests: node.js (0.x)": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "String.prototype.trimEnd": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

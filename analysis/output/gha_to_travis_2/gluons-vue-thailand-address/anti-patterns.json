@@ -8,24 +8,30 @@
       "master": 0,
       "renovate/actions-checkout-3.x": 0,
       "renovate/actions-setup-node-3.x": 0,
+      "renovate/chalk-5.x": 0,
       "renovate/copy-webpack-plugin-8.x": 0,
       "renovate/leven-4.x": 0,
-      "renovate/major-jest-monorepo": 419,
+      "renovate/major-jest-monorepo": 797,
+      "renovate/node-16.x": 0,
       "renovate/npm-node-sass-vulnerability": 0,
-      "renovate/ts-node-10.x": 0
+      "renovate/ts-node-10.x": 0,
+      "renovate/vue-test-utils-2.x": 0
     },
     "branch deviation": {
-      "dependabot/npm_and_yarn/jest-26.5.2": 266,
-      "docs": 481,
-      "gh-pages": 978,
+      "dependabot/npm_and_yarn/jest-26.5.2": 644,
+      "docs": 859,
+      "gh-pages": 1356,
       "master": 0,
-      "renovate/actions-checkout-3.x": -267,
-      "renovate/actions-setup-node-3.x": -267,
+      "renovate/actions-checkout-3.x": -1,
+      "renovate/actions-setup-node-3.x": -1,
+      "renovate/chalk-5.x": -1,
       "renovate/copy-webpack-plugin-8.x": -1,
-      "renovate/leven-4.x": -42,
-      "renovate/major-jest-monorepo": -317,
-      "renovate/npm-node-sass-vulnerability": -248,
-      "renovate/ts-node-10.x": -1
+      "renovate/leven-4.x": -1,
+      "renovate/major-jest-monorepo": -56,
+      "renovate/node-16.x": -1,
+      "renovate/npm-node-sass-vulnerability": -60,
+      "renovate/ts-node-10.x": -1,
+      "renovate/vue-test-utils-2.x": -1
     },
     "unsynced activity": {
       "dependabot/npm_and_yarn/jest-26.5.2": 0,
@@ -34,11 +40,14 @@
       "master": 0,
       "renovate/actions-checkout-3.x": 0,
       "renovate/actions-setup-node-3.x": 0,
+      "renovate/chalk-5.x": 0,
       "renovate/copy-webpack-plugin-8.x": 0,
       "renovate/leven-4.x": 0,
-      "renovate/major-jest-monorepo": 735,
+      "renovate/major-jest-monorepo": 852,
+      "renovate/node-16.x": 0,
       "renovate/npm-node-sass-vulnerability": 0,
-      "renovate/ts-node-10.x": 0
+      "renovate/ts-node-10.x": 0,
+      "renovate/vue-test-utils-2.x": 0
     },
     "classification": {
       "missed activity": {
@@ -49,15 +58,22 @@
       },
       "branch deviation": {
         "medium_severity": [
-          "dependabot/npm_and_yarn/jest-26.5.2",
-          "docs",
-          "renovate/actions-checkout-3.x",
-          "renovate/actions-setup-node-3.x",
-          "renovate/major-jest-monorepo",
-          "renovate/npm-node-sass-vulnerability"
+          "master"
         ],
         "high_severity": [
-          "gh-pages"
+          "dependabot/npm_and_yarn/jest-26.5.2",
+          "docs",
+          "gh-pages",
+          "renovate/actions-checkout-3.x",
+          "renovate/actions-setup-node-3.x",
+          "renovate/chalk-5.x",
+          "renovate/copy-webpack-plugin-8.x",
+          "renovate/leven-4.x",
+          "renovate/major-jest-monorepo",
+          "renovate/node-16.x",
+          "renovate/npm-node-sass-vulnerability",
+          "renovate/ts-node-10.x",
+          "renovate/vue-test-utils-2.x"
         ]
       },
       "unsynced activity": {

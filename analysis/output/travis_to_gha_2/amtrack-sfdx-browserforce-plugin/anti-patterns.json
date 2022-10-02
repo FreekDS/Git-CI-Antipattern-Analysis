@@ -1,0 +1,448 @@
+{
+  "slow_build": {
+    "Test and Release": {
+      "data": {
+        "2020-11-29T11:14:25Z": 660944.4444444445,
+        "2020-12-07T11:57:41Z": 762619.0476190476,
+        "2020-12-15T08:49:23Z": 1035500.0,
+        "2021-01-11T20:59:12Z": 763200.0
+      },
+      "tool": "Github Actions",
+      "total avg": 805565.873015873,
+      "quartiles": {
+        "q1": 737200.3968253968,
+        "q3": 831275.0,
+        "iqr": 94074.6031746032
+      },
+      "classification": {
+        "high_severity": {
+          "20": 1048000,
+          "33": 1068000,
+          "40": 1282000,
+          "43": 1079000,
+          "49": 1150000,
+          "50": 1157000,
+          "52": 1045000
+        },
+        "medium_severity": {
+          "9": 865000,
+          "19": 873000,
+          "21": 871000,
+          "35": 871000,
+          "41": 895000,
+          "42": 886000,
+          "47": 908000,
+          "48": 876000
+        }
+      }
+    },
+    "sfdx-browserforce-plugin": {
+      "data": {
+        "2020-10-15T20:20:05Z": 558888.8888888889,
+        "2020-10-22T20:23:45Z": 577812.5,
+        "2020-10-29T21:47:12Z": 617281.25,
+        "2020-11-06T20:31:36Z": 650413.7931034482,
+        "2020-11-13T20:33:44Z": 611147.0588235294,
+        "2020-11-20T20:37:36Z": 705000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 620090.5818026444,
+      "quartiles": {
+        "q1": 586146.1397058824,
+        "q3": 642130.6573275862,
+        "iqr": 55984.517621703795
+      },
+      "classification": {
+        "high_severity": {
+          "2889": 818000,
+          "2890": 898000,
+          "2892": 784000,
+          "2894": 745000,
+          "2895": 869000,
+          "2896": 1052000,
+          "2898": 774000,
+          "2899": 810000,
+          "2901": 960000,
+          "2903": 823000,
+          "2906": 733000,
+          "2907": 814000,
+          "2909": 805000,
+          "2911": 874000,
+          "2912": 772000,
+          "2914": 920000,
+          "2916": 798000,
+          "2917": 820000,
+          "2919": 763000,
+          "2920": 819000,
+          "2922": 849000,
+          "2923": 808000,
+          "2924": 941000,
+          "2927": 1076000,
+          "2929": 811000,
+          "2931": 930000,
+          "2933": 731000,
+          "2934": 792000,
+          "2936": 898000,
+          "2938": 793000,
+          "2940": 818000,
+          "2942": 1105000,
+          "2943": 820000,
+          "2944": 742000,
+          "2949": 822000,
+          "2953": 864000,
+          "2955": 844000,
+          "2957": 750000,
+          "2959": 731000,
+          "2961": 865000,
+          "2963": 917000,
+          "2964": 945000,
+          "2947": 768000,
+          "2965": 914000,
+          "2966": 736000,
+          "2968": 730000,
+          "2970": 899000,
+          "2971": 754000,
+          "2973": 836000,
+          "2974": 856000,
+          "2976": 835000,
+          "2977": 880000,
+          "2978": 818000,
+          "2981": 764000,
+          "2982": 872000,
+          "2984": 742000,
+          "2985": 771000,
+          "2987": 816000,
+          "2988": 741000,
+          "2989": 842000,
+          "2990": 737000,
+          "2994": 769000,
+          "2995": 862000,
+          "2996": 727000,
+          "2998": 1116000,
+          "3000": 803000,
+          "3002": 766000,
+          "3005": 1072000,
+          "3006": 778000,
+          "3008": 727000,
+          "3009": 799000,
+          "3010": 868000,
+          "3012": 747000,
+          "3013": 729000,
+          "3015": 962000,
+          "3016": 1031000,
+          "3018": 791000,
+          "3019": 831000,
+          "3020": 766000,
+          "3021": 842000,
+          "3023": 902000,
+          "3024": 793000,
+          "3025": 754000,
+          "3026": 825000,
+          "3028": 816000,
+          "3029": 801000,
+          "3031": 736000,
+          "3032": 879000,
+          "3033": 816000,
+          "3037": 1015000,
+          "3038": 915000,
+          "3039": 807000,
+          "3041": 833000,
+          "3042": 865000,
+          "3045": 885000,
+          "3046": 880000,
+          "3047": 815000,
+          "3049": 784000,
+          "3050": 851000,
+          "3052": 991000,
+          "3054": 735000,
+          "3056": 965000,
+          "3057": 883000,
+          "3058": 887000,
+          "3060": 826000,
+          "3062": 809000,
+          "3064": 730000,
+          "3066": 827000,
+          "3068": 827000,
+          "3072": 1237000
+        },
+        "medium_severity": {
+          "2926": 724000,
+          "2945": 663000,
+          "2951": 657000,
+          "2992": 712000,
+          "3003": 703000,
+          "3011": 682000,
+          "3035": 722000,
+          "3043": 718000,
+          "3053": 723000,
+          "3059": 720000,
+          "3063": 709000,
+          "3067": 710000,
+          "3075": 705000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "chore/drone": 0,
+      "chore/plugin-template": 0,
+      "chore/use-sandboxing": 0,
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/axios-0.21.4": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.15.1": 0,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/shelljs-0.8.5": 0,
+      "dependabot/npm_and_yarn/y18n-4.0.3": 0,
+      "feat/plugins-min": 0,
+      "fix/debug": 0,
+      "fix/dependencies": 0,
+      "fix/refresh-auth": 0,
+      "gavinhughpalmer/master": 0,
+      "master": 0,
+      "perf/page-loads": 0,
+      "perf/retrieve-customer-portal-enabled": 0,
+      "reactivate-hvs-test": 0,
+      "refactor/plugins": 0,
+      "renovate/json-merge-patch-1.x": 618,
+      "renovate/major-typescript-eslint-monorepo": 0,
+      "renovate/mocha-10.x": 0,
+      "renovate/node-16.x": 0,
+      "renovate/oclif-dev-cli-1.x": 533,
+      "renovate/oclif-plugin-help-3.x": 537,
+      "renovate/p-retry-5.x": 0,
+      "renovate/salesforce-command-3.x": 533,
+      "renovate/salesforce-dev-config-2.x": 533,
+      "renovate/sfdx-cli-7.x": 412,
+      "renovate/typescript-4.x": 462,
+      "renovate/typescript-eslint-monorepo": 411,
+      "reset-security-token": 0
+    },
+    "branch deviation": {
+      "chore/drone": 1332,
+      "chore/plugin-template": 286,
+      "chore/use-sandboxing": 1315,
+      "dependabot/npm_and_yarn/ajv-6.12.6": 56,
+      "dependabot/npm_and_yarn/async-2.6.4": 56,
+      "dependabot/npm_and_yarn/axios-0.21.4": 303,
+      "dependabot/npm_and_yarn/follow-redirects-1.15.1": 56,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 412,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 56,
+      "dependabot/npm_and_yarn/moment-2.29.4": 21,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 352,
+      "dependabot/npm_and_yarn/shelljs-0.8.5": 56,
+      "dependabot/npm_and_yarn/y18n-4.0.3": 412,
+      "feat/plugins-min": 14,
+      "fix/debug": 686,
+      "fix/dependencies": 57,
+      "fix/refresh-auth": 933,
+      "gavinhughpalmer/master": 21,
+      "master": 0,
+      "perf/page-loads": 410,
+      "perf/retrieve-customer-portal-enabled": 412,
+      "reactivate-hvs-test": 412,
+      "refactor/plugins": 1250,
+      "renovate/json-merge-patch-1.x": 56,
+      "renovate/major-typescript-eslint-monorepo": -47,
+      "renovate/mocha-10.x": 55,
+      "renovate/node-16.x": -48,
+      "renovate/oclif-dev-cli-1.x": 57,
+      "renovate/oclif-plugin-help-3.x": 57,
+      "renovate/p-retry-5.x": 57,
+      "renovate/salesforce-command-3.x": 56,
+      "renovate/salesforce-dev-config-2.x": 57,
+      "renovate/sfdx-cli-7.x": -48,
+      "renovate/typescript-4.x": 56,
+      "renovate/typescript-eslint-monorepo": 57,
+      "reset-security-token": 1506
+    },
+    "unsynced activity": {
+      "chore/drone": 0,
+      "chore/plugin-template": 0,
+      "chore/use-sandboxing": 0,
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/axios-0.21.4": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.15.1": 0,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/shelljs-0.8.5": 0,
+      "dependabot/npm_and_yarn/y18n-4.0.3": 0,
+      "feat/plugins-min": 0,
+      "fix/debug": 0,
+      "fix/dependencies": 0,
+      "fix/refresh-auth": 0,
+      "gavinhughpalmer/master": 0,
+      "master": 0,
+      "perf/page-loads": 0,
+      "perf/retrieve-customer-portal-enabled": 0,
+      "reactivate-hvs-test": 0,
+      "refactor/plugins": 0,
+      "renovate/json-merge-patch-1.x": 561,
+      "renovate/major-typescript-eslint-monorepo": 0,
+      "renovate/mocha-10.x": 0,
+      "renovate/node-16.x": 0,
+      "renovate/oclif-dev-cli-1.x": 475,
+      "renovate/oclif-plugin-help-3.x": 479,
+      "renovate/p-retry-5.x": 0,
+      "renovate/salesforce-command-3.x": 476,
+      "renovate/salesforce-dev-config-2.x": 475,
+      "renovate/sfdx-cli-7.x": 460,
+      "renovate/typescript-4.x": 406,
+      "renovate/typescript-eslint-monorepo": 353,
+      "reset-security-token": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/json-merge-patch-1.x",
+          "renovate/oclif-dev-cli-1.x",
+          "renovate/oclif-plugin-help-3.x",
+          "renovate/salesforce-command-3.x",
+          "renovate/salesforce-dev-config-2.x",
+          "renovate/sfdx-cli-7.x",
+          "renovate/typescript-4.x",
+          "renovate/typescript-eslint-monorepo"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "fix/debug",
+          "fix/refresh-auth"
+        ],
+        "high_severity": [
+          "chore/drone",
+          "chore/use-sandboxing",
+          "refactor/plugins",
+          "reset-security-token"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/json-merge-patch-1.x",
+          "renovate/oclif-dev-cli-1.x",
+          "renovate/oclif-plugin-help-3.x",
+          "renovate/salesforce-command-3.x",
+          "renovate/salesforce-dev-config-2.x",
+          "renovate/sfdx-cli-7.x",
+          "renovate/typescript-4.x",
+          "renovate/typescript-eslint-monorepo"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Test and Release": {
+      "data": [
+        {
+          "started_at": "2020-12-09T09:01:14Z",
+          "used_tool": "Github Actions",
+          "number": 33
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 22
+    },
+    "sfdx-browserforce-plugin": {
+      "data": [
+        {
+          "started_at": "2020-10-15T20:20:05Z",
+          "used_tool": "TravisCI",
+          "number": 2889
+        },
+        {
+          "started_at": "2020-10-16T20:20:38Z",
+          "used_tool": "TravisCI",
+          "number": 2894
+        },
+        {
+          "started_at": "2020-10-17T20:20:55Z",
+          "used_tool": "TravisCI",
+          "number": 2895
+        },
+        {
+          "started_at": "2020-10-18T20:21:20Z",
+          "used_tool": "TravisCI",
+          "number": 2898
+        },
+        {
+          "started_at": "2020-10-19T20:21:51Z",
+          "used_tool": "TravisCI",
+          "number": 2903
+        },
+        {
+          "started_at": "2020-10-20T08:59:25Z",
+          "used_tool": "TravisCI",
+          "number": 2905
+        },
+        {
+          "started_at": "2020-10-20T20:22:26Z",
+          "used_tool": "TravisCI",
+          "number": 2906
+        },
+        {
+          "started_at": "2020-10-21T20:23:06Z",
+          "used_tool": "TravisCI",
+          "number": 2911
+        },
+        {
+          "started_at": "2020-10-22T20:23:45Z",
+          "used_tool": "TravisCI",
+          "number": 2916
+        },
+        {
+          "started_at": "2020-10-23T20:24:26Z",
+          "used_tool": "TravisCI",
+          "number": 2919
+        },
+        {
+          "started_at": "2020-10-24T20:24:52Z",
+          "used_tool": "TravisCI",
+          "number": 2922
+        },
+        {
+          "started_at": "2020-10-25T20:25:15Z",
+          "used_tool": "TravisCI",
+          "number": 2923
+        },
+        {
+          "started_at": "2020-10-26T20:25:34Z",
+          "used_tool": "TravisCI",
+          "number": 2926
+        },
+        {
+          "started_at": "2020-10-28T09:13:13Z",
+          "used_tool": "TravisCI",
+          "number": 2965
+        },
+        {
+          "started_at": "2020-11-19T22:18:18Z",
+          "used_tool": "TravisCI",
+          "number": 3071
+        },
+        {
+          "started_at": "2020-11-20T08:53:05Z",
+          "used_tool": "TravisCI",
+          "number": 3072
+        },
+        {
+          "started_at": "2020-11-20T08:57:54Z",
+          "used_tool": "TravisCI",
+          "number": 3074
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 124
+    }
+  },
+  "skip_failing_tests": {}
+}

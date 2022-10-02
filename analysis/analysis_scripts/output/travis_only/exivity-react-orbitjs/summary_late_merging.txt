@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch renovate/major-jest-monorepo has 142 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/major-jest-monorepo, 142 seconds
+
+Branch Deviation
+=========================
+Average deviation: 612.2857142857143 days
+Branch feature/async moved away from main with 1707 days, 1094.7142857142858 more than average
+Branch next moved away from main with 1136 days, 523.7142857142857 more than average
+Branch react-hooks moved away from main with 1218 days, 605.7142857142857 more than average
+MEDIUM SEVERITY
+Branch feature/async, 1707 days
+Branch react-hooks, 1218 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 20.285714285714285 days
+Branch renovate/major-jest-monorepo is unsynced with 142 days, 121.71428571428572 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch renovate/major-jest-monorepo, 142 days

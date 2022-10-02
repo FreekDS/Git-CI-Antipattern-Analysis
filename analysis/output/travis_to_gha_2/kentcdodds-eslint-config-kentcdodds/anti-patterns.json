@@ -1,0 +1,137 @@
+{
+  "slow_build": {
+    "validate": {
+      "data": {
+        "2020-11-05T03:04:11Z": 132520.0,
+        "2020-11-12T12:47:26Z": 101333.33333333333,
+        "2020-11-23T02:43:50Z": 130666.66666666667,
+        "2020-12-01T17:22:28Z": 2706800.0
+      },
+      "tool": "Github Actions",
+      "total avg": 767830.0,
+      "quartiles": {
+        "q1": 123333.33333333334,
+        "q3": 776090.0,
+        "iqr": 652756.6666666666
+      },
+      "classification": {
+        "high_severity": {
+          "35": 7306000,
+          "36": 4907000
+        },
+        "medium_severity": {
+          "38": 1101000
+        }
+      }
+    },
+    "eslint-config-kentcdodds": {
+      "data": {
+        "2020-09-21T08:47:49Z": 483200.0,
+        "2020-09-30T02:17:57Z": 476666.6666666667,
+        "2020-11-05T02:46:24Z": 421500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 460455.55555555556,
+      "quartiles": {
+        "q1": 449083.3333333334,
+        "q3": 479933.3333333334,
+        "iqr": 30850.0
+      },
+      "classification": {
+        "high_severity": {
+          "201": 634000
+        },
+        "medium_severity": {
+          "202": 516000,
+          "207": 523000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0
+    },
+    "branch deviation": {
+      "main": 0
+    },
+    "unsynced activity": {
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "validate": {
+      "data": [
+        {
+          "started_at": "2020-11-05T03:04:11Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2020-11-05T03:10:19Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        },
+        {
+          "started_at": "2020-12-01T17:22:28Z",
+          "used_tool": "Github Actions",
+          "number": 35
+        },
+        {
+          "started_at": "2020-12-02T19:08:31Z",
+          "used_tool": "Github Actions",
+          "number": 38
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 16
+    },
+    "eslint-config-kentcdodds": {
+      "data": [
+        {
+          "started_at": "2020-09-21T08:47:49Z",
+          "used_tool": "TravisCI",
+          "number": 200
+        },
+        {
+          "started_at": "2020-09-21T13:56:13Z",
+          "used_tool": "TravisCI",
+          "number": 201
+        },
+        {
+          "started_at": "2020-09-21T16:40:37Z",
+          "used_tool": "TravisCI",
+          "number": 202
+        },
+        {
+          "started_at": "2020-11-05T02:46:24Z",
+          "used_tool": "TravisCI",
+          "number": 209
+        },
+        {
+          "started_at": "2020-11-05T02:55:57Z",
+          "used_tool": "TravisCI",
+          "number": 211
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 12
+    }
+  },
+  "skip_failing_tests": {}
+}

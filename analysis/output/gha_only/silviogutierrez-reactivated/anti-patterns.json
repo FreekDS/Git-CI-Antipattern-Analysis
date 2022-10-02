@@ -1,0 +1,179 @@
+{
+  "slow_build": {
+    "Continuous Integration": {
+      "data": {
+        "2021-04-08T18:29:11Z": 160800.0,
+        "2021-04-15T18:30:48Z": 144812.5,
+        "2021-04-30T05:00:16Z": 126500.0,
+        "2021-05-08T14:59:37Z": 145000.0,
+        "2021-05-26T18:39:21Z": 134448.27586206896,
+        "2021-06-04T21:36:31Z": 139850.0,
+        "2021-06-26T20:57:25Z": 122500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 139130.11083743843,
+      "quartiles": {
+        "q1": 130474.13793103448,
+        "q3": 144906.25,
+        "iqr": 14432.112068965522
+      },
+      "classification": {
+        "high_severity": {
+          "272": 181000,
+          "276": 181000,
+          "279": 271000,
+          "293": 173000
+        },
+        "medium_severity": {
+          "278": 147000,
+          "281": 151000,
+          "282": 146000,
+          "285": 156000,
+          "288": 145000,
+          "291": 152000,
+          "292": 152000,
+          "294": 159000,
+          "295": 159000,
+          "302": 156000,
+          "309": 151000,
+          "313": 151000,
+          "314": 153000,
+          "316": 147000,
+          "320": 153000,
+          "323": 148000,
+          "334": 150000,
+          "335": 160000,
+          "337": 146000,
+          "338": 146000,
+          "340": 146000,
+          "342": 146000,
+          "344": 146000,
+          "347": 152000,
+          "348": 152000
+        }
+      }
+    },
+    "Continuous Delivery": {
+      "data": {
+        "2021-04-08T18:29:10Z": 32555.555555555555,
+        "2021-04-15T18:30:48Z": 25882.352941176472,
+        "2021-04-30T05:00:16Z": 3666.6666666666665,
+        "2021-05-08T14:59:36Z": 4111.111111111111,
+        "2021-05-26T18:39:16Z": 19710.526315789473,
+        "2021-06-04T21:36:31Z": 18676.470588235294,
+        "2021-06-26T20:57:19Z": 28333.333333333332
+      },
+      "tool": "Github Actions",
+      "total avg": 18990.859501695417,
+      "quartiles": {
+        "q1": 11393.790849673202,
+        "q3": 27107.843137254902,
+        "iqr": 15714.0522875817
+      },
+      "classification": {
+        "high_severity": {
+          "281": 93000,
+          "284": 103000,
+          "287": 337000,
+          "292": 111000,
+          "297": 91000,
+          "301": 99000,
+          "307": 84000,
+          "331": 83000,
+          "338": 73000,
+          "344": 94000,
+          "348": 96000,
+          "351": 90000,
+          "354": 79000,
+          "356": 85000,
+          "373": 81000,
+          "376": 95000,
+          "381": 84000,
+          "384": 83000,
+          "387": 78000,
+          "392": 78000,
+          "397": 80000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/pip/development/django-4.0.7": 0,
+      "dependabot/pip/django-4.0.7": 0,
+      "dependabot/pip/website/django-4.0.7": 0,
+      "feature/better-docker": 0,
+      "feature/rpc": 0,
+      "feature/rpc-generation": 0,
+      "feature/schema-performance-2": 0,
+      "fix/hydration": 0,
+      "fix-caching": 0,
+      "gh-pages": 0,
+      "infrastructure/heroku": 0,
+      "main": 0,
+      "poc/router-rpc": 0
+    },
+    "branch deviation": {
+      "dependabot/pip/development/django-4.0.7": 33,
+      "dependabot/pip/django-4.0.7": 33,
+      "dependabot/pip/website/django-4.0.7": 33,
+      "feature/better-docker": 173,
+      "feature/rpc": 42,
+      "feature/rpc-generation": -2,
+      "feature/schema-performance-2": 291,
+      "fix/hydration": 88,
+      "fix-caching": 1056,
+      "gh-pages": 1492,
+      "infrastructure/heroku": 308,
+      "main": 0,
+      "poc/router-rpc": 62
+    },
+    "unsynced activity": {
+      "dependabot/pip/development/django-4.0.7": 0,
+      "dependabot/pip/django-4.0.7": 0,
+      "dependabot/pip/website/django-4.0.7": 0,
+      "feature/better-docker": 0,
+      "feature/rpc": 0,
+      "feature/rpc-generation": 0,
+      "feature/schema-performance-2": 0,
+      "fix/hydration": 0,
+      "fix-caching": 0,
+      "gh-pages": 0,
+      "infrastructure/heroku": 0,
+      "main": 0,
+      "poc/router-rpc": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "infrastructure/heroku"
+        ],
+        "high_severity": [
+          "fix-caching",
+          "gh-pages"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Continuous Integration": {
+      "data": [],
+      "release_build_count": 19
+    },
+    "Continuous Delivery": {
+      "data": [],
+      "release_build_count": 19
+    }
+  },
+  "skip_failing_tests": {}
+}

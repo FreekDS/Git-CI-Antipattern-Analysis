@@ -1,0 +1,226 @@
+{
+  "slow_build": {
+    "Tests": {
+      "data": {
+        "2021-04-20T15:45:52Z": 331333.3333333333,
+        "2021-04-28T12:22:06Z": 223600.0,
+        "2021-05-05T13:58:40Z": 181384.61538461538,
+        "2021-05-13T17:58:47Z": 367000.0,
+        "2021-05-27T16:04:37Z": 462000.0,
+        "2021-06-18T20:15:51Z": 165090.9090909091,
+        "2021-06-29T12:00:20Z": 279333.3333333333,
+        "2021-07-07T00:43:12Z": 296000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 288217.7738927739,
+      "quartiles": {
+        "q1": 213046.15384615384,
+        "q3": 340250.0,
+        "iqr": 127203.84615384616
+      },
+      "classification": {
+        "high_severity": {
+          "330": 811000,
+          "371": 750000,
+          "372": 741000,
+          "376": 687000,
+          "385": 656000,
+          "390": 974000
+        },
+        "medium_severity": {
+          "367": 369000,
+          "368": 404000,
+          "369": 453000,
+          "370": 499000,
+          "378": 346000
+        }
+      }
+    },
+    "Deno Release": {
+      "data": {
+        "2021-05-05T16:15:07Z": 46000.0,
+        "2021-05-27T16:04:37Z": 50000.0,
+        "2021-06-22T13:47:08Z": 51000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 49000.0,
+      "quartiles": {
+        "q1": 48000.0,
+        "q3": 50500.0,
+        "iqr": 2500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "19": 51000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "colinhacks-patch-1": 0,
+      "deno-docs": 0,
+      "docs-deploy": 0,
+      "econnreset_fix": 0,
+      "edgeql-2": 0,
+      "edgeql-codegen": 0,
+      "edgeql-tag": 0,
+      "empty-arrays": 16,
+      "functions-bug": 0,
+      "kiss-fix": 0,
+      "master": 0,
+      "npx": 0,
+      "npx-new": 0,
+      "npx-rfc": 0,
+      "qb-closure-api": 0,
+      "qb-history": 0,
+      "qb-params-optional-option2": 0,
+      "qb-params-typesystem": 0,
+      "qb-polish": 0,
+      "retry-neterr": 0,
+      "revert-exprs": 0,
+      "select-methods": 0,
+      "ts": 0,
+      "union-types": 0,
+      "v0.16": 0,
+      "var-name-fix": 0,
+      "yet-more-qb-fixes": 0
+    },
+    "branch deviation": {
+      "colinhacks-patch-1": 308,
+      "deno-docs": 421,
+      "docs-deploy": 169,
+      "econnreset_fix": 725,
+      "edgeql-2": -6,
+      "edgeql-codegen": 0,
+      "edgeql-tag": 64,
+      "empty-arrays": 16,
+      "functions-bug": 392,
+      "kiss-fix": 168,
+      "master": 0,
+      "npx": 379,
+      "npx-new": 361,
+      "npx-rfc": 378,
+      "qb-closure-api": 371,
+      "qb-history": 312,
+      "qb-params-optional-option2": 385,
+      "qb-params-typesystem": 386,
+      "qb-polish": 283,
+      "retry-neterr": 364,
+      "revert-exprs": 373,
+      "select-methods": 400,
+      "ts": 636,
+      "union-types": 37,
+      "v0.16": 283,
+      "var-name-fix": -6,
+      "yet-more-qb-fixes": 266
+    },
+    "unsynced activity": {
+      "colinhacks-patch-1": 0,
+      "deno-docs": 0,
+      "docs-deploy": 0,
+      "econnreset_fix": 0,
+      "edgeql-2": 0,
+      "edgeql-codegen": 0,
+      "edgeql-tag": 0,
+      "empty-arrays": -1,
+      "functions-bug": 0,
+      "kiss-fix": 0,
+      "master": 0,
+      "npx": 0,
+      "npx-new": 0,
+      "npx-rfc": 0,
+      "qb-closure-api": 0,
+      "qb-history": 0,
+      "qb-params-optional-option2": 0,
+      "qb-params-typesystem": 0,
+      "qb-polish": 0,
+      "retry-neterr": 0,
+      "revert-exprs": 0,
+      "select-methods": 0,
+      "ts": 0,
+      "union-types": 0,
+      "v0.16": 0,
+      "var-name-fix": 0,
+      "yet-more-qb-fixes": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "empty-arrays"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "deno-docs",
+          "econnreset_fix",
+          "functions-bug",
+          "qb-params-optional-option2",
+          "qb-params-typesystem",
+          "select-methods",
+          "ts"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "empty-arrays"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Tests": {
+      "data": [
+        {
+          "started_at": "2021-06-22T13:47:08Z",
+          "used_tool": "Github Actions",
+          "number": 378
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 12
+    },
+    "Deno Release": {
+      "data": [
+        {
+          "started_at": "2021-05-05T16:15:07Z",
+          "used_tool": "Github Actions",
+          "number": 10
+        },
+        {
+          "started_at": "2021-05-05T16:29:39Z",
+          "used_tool": "Github Actions",
+          "number": 11
+        },
+        {
+          "started_at": "2021-05-06T22:16:03Z",
+          "used_tool": "Github Actions",
+          "number": 14
+        },
+        {
+          "started_at": "2021-05-07T04:49:54Z",
+          "used_tool": "Github Actions",
+          "number": 16
+        },
+        {
+          "started_at": "2021-05-07T04:50:35Z",
+          "used_tool": "Github Actions",
+          "number": 17
+        },
+        {
+          "started_at": "2021-05-27T16:04:37Z",
+          "used_tool": "Github Actions",
+          "number": 18
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 10
+    }
+  },
+  "skip_failing_tests": {}
+}

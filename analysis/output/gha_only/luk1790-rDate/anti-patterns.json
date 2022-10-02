@@ -1,0 +1,73 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2021-04-15T09:29:26Z": 35166.666666666664,
+        "2021-05-01T17:46:30Z": 47250.0,
+        "2021-05-10T03:31:44Z": 79000.0,
+        "2021-05-27T01:49:24Z": 85000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 61604.166666666664,
+      "quartiles": {
+        "q1": 44229.166666666664,
+        "q3": 80500.0,
+        "iqr": 36270.833333333336
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "48": 84000,
+          "49": 88000,
+          "51": 86000,
+          "52": 84000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "createChangelog": 363,
+      "master": 0,
+      "partProject": 0
+    },
+    "branch deviation": {
+      "createChangelog": 360,
+      "master": 0,
+      "partProject": 1118
+    },
+    "unsynced activity": {
+      "createChangelog": 2,
+      "master": 0,
+      "partProject": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "createChangelog"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "partProject"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "createChangelog"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

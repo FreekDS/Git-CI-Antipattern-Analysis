@@ -1,0 +1,56 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2020-07-16T12:08:52Z": 162937.5
+      },
+      "tool": "Github Actions",
+      "total avg": 162937.5,
+      "quartiles": {
+        "q1": 162937.5,
+        "q3": 162937.5,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "9": 474000,
+          "10": 167000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 4
+    }
+  },
+  "skip_failing_tests": {}
+}

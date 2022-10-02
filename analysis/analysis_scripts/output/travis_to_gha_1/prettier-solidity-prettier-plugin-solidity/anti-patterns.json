@@ -1,0 +1,139 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2021-04-10T01:18:27Z": 157000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 157000.0,
+      "quartiles": {
+        "q1": 157000.0,
+        "q3": 157000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 163000,
+          "10": 234000,
+          "12": 286000,
+          "13": 328000
+        },
+        "medium_severity": {}
+      }
+    },
+    "prettier-plugin-solidity": {
+      "data": {
+        "2021-02-26T10:25:15Z": 237187.5,
+        "2021-03-05T22:20:16Z": 261000.0,
+        "2021-03-14T02:04:20Z": 257193.5483870968,
+        "2021-03-23T11:30:34Z": 256400.0
+      },
+      "tool": "TravisCI",
+      "total avg": 252945.26209677418,
+      "quartiles": {
+        "q1": 251596.875,
+        "q3": 258145.1612903226,
+        "iqr": 6548.286290322605
+      },
+      "classification": {
+        "high_severity": {
+          "1490": 357000,
+          "1491": 389000,
+          "1503": 278000,
+          "1504": 278000,
+          "1505": 283000,
+          "1506": 284000,
+          "1507": 284000,
+          "1508": 276000,
+          "1509": 273000,
+          "1510": 281000,
+          "1511": 271000,
+          "1512": 279000,
+          "1513": 278000,
+          "1514": 279000,
+          "1518": 287000,
+          "1517": 277000,
+          "1523": 279000,
+          "1522": 277000,
+          "1525": 274000,
+          "1526": 281000,
+          "1533": 288000,
+          "1532": 280000
+        },
+        "medium_severity": {
+          "1486": 261000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "chain-comments": 0,
+      "feature/if_statement_comments": 0,
+      "function-call-comments": 0,
+      "function-definitions-formating-v2": 0,
+      "ifStatementCommentsSolidity": 0,
+      "improving-tests": 0,
+      "main": 0,
+      "preparing-parser-for-v3": 0,
+      "ranges": 0,
+      "rc-0": 0,
+      "standalone": 0
+    },
+    "branch deviation": {
+      "chain-comments": 37,
+      "feature/if_statement_comments": 884,
+      "function-call-comments": 37,
+      "function-definitions-formating-v2": 4,
+      "ifStatementCommentsSolidity": 516,
+      "improving-tests": 4,
+      "main": 0,
+      "preparing-parser-for-v3": 18,
+      "ranges": 37,
+      "rc-0": -1,
+      "standalone": 4
+    },
+    "unsynced activity": {
+      "chain-comments": 0,
+      "feature/if_statement_comments": 0,
+      "function-call-comments": 0,
+      "function-definitions-formating-v2": 0,
+      "ifStatementCommentsSolidity": 0,
+      "improving-tests": 0,
+      "main": 0,
+      "preparing-parser-for-v3": 0,
+      "ranges": 0,
+      "rc-0": 0,
+      "standalone": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "feature/if_statement_comments",
+          "ifStatementCommentsSolidity"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "prettier-plugin-solidity": {
+      "data": [],
+      "release_build_count": 33
+    }
+  },
+  "skip_failing_tests": {}
+}

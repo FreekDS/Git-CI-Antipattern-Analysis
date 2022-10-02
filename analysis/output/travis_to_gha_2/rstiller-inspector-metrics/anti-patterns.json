@@ -1,0 +1,159 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2020-12-01T20:45:30Z": 692500.0,
+        "2020-12-09T20:53:48Z": 918500.0,
+        "2020-12-19T20:15:43Z": 285444.44444444444,
+        "2020-12-27T00:34:47Z": 411714.28571428574,
+        "2021-01-03T00:39:48Z": 573777.7777777778,
+        "2021-01-10T00:46:10Z": 454857.14285714284,
+        "2021-01-17T00:59:01Z": 463444.44444444444,
+        "2021-01-24T01:00:02Z": 545125.0,
+        "2021-02-01T00:31:03Z": 596500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 549095.8994708995,
+      "quartiles": {
+        "q1": 454857.14285714284,
+        "q3": 596500.0,
+        "iqr": 141642.85714285716
+      },
+      "classification": {
+        "high_severity": {
+          "3": 2672000,
+          "8": 1495000,
+          "36": 1176000
+        },
+        "medium_severity": {
+          "26": 669000,
+          "40": 600000,
+          "55": 604000,
+          "58": 640000,
+          "60": 633000,
+          "62": 695000,
+          "63": 614000,
+          "64": 608000,
+          "67": 613000
+        }
+      }
+    },
+    "inspector-metrics": {
+      "data": {
+        "2020-11-05T19:40:23Z": 1468714.2857142857,
+        "2020-11-13T17:20:50Z": 1484875.0,
+        "2020-11-20T21:08:52Z": 1460800.0,
+        "2020-11-28T19:21:28Z": 1381600.0
+      },
+      "tool": "TravisCI",
+      "total avg": 1448997.3214285714,
+      "quartiles": {
+        "q1": 1441000.0,
+        "q3": 1472754.4642857143,
+        "iqr": 31754.46428571432
+      },
+      "classification": {
+        "high_severity": {
+          "1300": 1547000,
+          "1304": 1721000,
+          "1311": 1722000,
+          "1312": 1616000,
+          "1317": 1574000
+        },
+        "medium_severity": {
+          "1296": 1473000,
+          "1297": 1492000,
+          "1303": 1477000,
+          "1309": 1482000,
+          "1310": 1474000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "gh-pages": 125,
+      "master": 0
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "gh-pages"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [
+        {
+          "started_at": "2020-12-19T20:42:03Z",
+          "used_tool": "Github Actions",
+          "number": 13
+        },
+        {
+          "started_at": "2020-12-19T20:44:02Z",
+          "used_tool": "Github Actions",
+          "number": 14
+        },
+        {
+          "started_at": "2020-12-19T20:46:20Z",
+          "used_tool": "Github Actions",
+          "number": 15
+        },
+        {
+          "started_at": "2020-12-19T20:48:30Z",
+          "used_tool": "Github Actions",
+          "number": 16
+        },
+        {
+          "started_at": "2020-12-19T20:50:42Z",
+          "used_tool": "Github Actions",
+          "number": 17
+        },
+        {
+          "started_at": "2020-12-19T20:52:42Z",
+          "used_tool": "Github Actions",
+          "number": 18
+        },
+        {
+          "started_at": "2021-01-20T01:02:11Z",
+          "used_tool": "Github Actions",
+          "number": 54
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 56
+    },
+    "inspector-metrics": {
+      "data": [
+        {
+          "started_at": "2020-12-01T19:12:08Z",
+          "used_tool": "TravisCI",
+          "number": 1325
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 27
+    }
+  },
+  "skip_failing_tests": {}
+}

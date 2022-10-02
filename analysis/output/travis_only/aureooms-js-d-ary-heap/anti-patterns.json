@@ -1,0 +1,87 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "greenkeeper/ava-0.20.0": 0,
+      "greenkeeper/ava-0.21.0": 0,
+      "greenkeeper/ava-0.22.0": 0,
+      "greenkeeper/ava-pin-0.18.1": 0,
+      "greenkeeper/codeclimate-test-reporter-0.5.0": 0,
+      "greenkeeper/esdoc-1.0.0-alpha.1": 0,
+      "greenkeeper/esdoc-1.0.0-alpha.2": 0,
+      "greenkeeper/esdoc-1.0.0-alpha.3": 0,
+      "greenkeeper/esdoc-1.0.1": 0,
+      "greenkeeper/remove-node-0.10": 0,
+      "greenkeeper-aureooms-js-heap-spec-9.0.0": 0,
+      "greenkeeper-aureooms-js-heap-spec-10.0.0": 0,
+      "greenkeeper-aureooms-js-heap-spec-10.0.1": 0,
+      "greenkeeper-aureooms-js-random-2.0.0": 0,
+      "greenkeeper-aureooms-node-package-7.0.0": 0,
+      "greenkeeper-update-all": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "gh-pages": 413,
+      "greenkeeper/ava-0.20.0": 1904,
+      "greenkeeper/ava-0.21.0": 1889,
+      "greenkeeper/ava-0.22.0": 1857,
+      "greenkeeper/ava-pin-0.18.1": 2034,
+      "greenkeeper/codeclimate-test-reporter-0.5.0": 1931,
+      "greenkeeper/esdoc-1.0.0-alpha.1": 1971,
+      "greenkeeper/esdoc-1.0.0-alpha.2": 1971,
+      "greenkeeper/esdoc-1.0.0-alpha.3": 1971,
+      "greenkeeper/esdoc-1.0.1": 1873,
+      "greenkeeper/remove-node-0.10": 2144,
+      "greenkeeper-aureooms-js-heap-spec-9.0.0": 2067,
+      "greenkeeper-aureooms-js-heap-spec-10.0.0": 2066,
+      "greenkeeper-aureooms-js-heap-spec-10.0.1": 2066,
+      "greenkeeper-aureooms-js-random-2.0.0": 2050,
+      "greenkeeper-aureooms-node-package-7.0.0": 2139,
+      "greenkeeper-update-all": 2242,
+      "main": 0
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "greenkeeper/ava-0.20.0": 0,
+      "greenkeeper/ava-0.21.0": 0,
+      "greenkeeper/ava-0.22.0": 0,
+      "greenkeeper/ava-pin-0.18.1": 0,
+      "greenkeeper/codeclimate-test-reporter-0.5.0": 0,
+      "greenkeeper/esdoc-1.0.0-alpha.1": 0,
+      "greenkeeper/esdoc-1.0.0-alpha.2": 0,
+      "greenkeeper/esdoc-1.0.0-alpha.3": 0,
+      "greenkeeper/esdoc-1.0.1": 0,
+      "greenkeeper/remove-node-0.10": 0,
+      "greenkeeper-aureooms-js-heap-spec-9.0.0": 0,
+      "greenkeeper-aureooms-js-heap-spec-10.0.0": 0,
+      "greenkeeper-aureooms-js-heap-spec-10.0.1": 0,
+      "greenkeeper-aureooms-js-random-2.0.0": 0,
+      "greenkeeper-aureooms-node-package-7.0.0": 0,
+      "greenkeeper-update-all": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "greenkeeper/remove-node-0.10",
+          "greenkeeper-aureooms-js-heap-spec-9.0.0",
+          "greenkeeper-aureooms-node-package-7.0.0",
+          "greenkeeper-update-all"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

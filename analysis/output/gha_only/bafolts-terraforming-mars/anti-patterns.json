@@ -1,0 +1,213 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2021-04-08T00:23:28Z": 305190.4761904762,
+        "2021-04-15T01:05:08Z": 336316.8316831683,
+        "2021-04-22T02:45:58Z": 329126.3157894737,
+        "2021-04-29T05:58:49Z": 326108.1081081081,
+        "2021-05-06T23:03:03Z": 324311.47540983604,
+        "2021-05-14T00:57:48Z": 380108.6956521739,
+        "2021-05-21T01:34:04Z": 335447.36842105264,
+        "2021-05-29T00:54:23Z": 336681.8181818182,
+        "2021-06-05T10:59:54Z": 954034.4827586206,
+        "2021-06-12T15:39:36Z": 536019.6078431372,
+        "2021-06-19T17:34:52Z": 1334810.810810811,
+        "2021-06-28T00:06:35Z": 580915.2542372881,
+        "2021-07-05T02:17:49Z": 2145750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 632678.5573143049,
+      "quartiles": {
+        "q1": 329126.3157894737,
+        "q3": 580915.2542372881,
+        "iqr": 251788.93844781443
+      },
+      "classification": {
+        "high_severity": {
+          "7888": 1195000,
+          "7956": 1162000,
+          "8211": 2191000,
+          "8213": 1258000,
+          "8301": 6209000,
+          "8305": 10621000,
+          "8344": 2186000,
+          "8362": 1387000,
+          "8385": 969000,
+          "8392": 30125000,
+          "8483": 32474000
+        },
+        "medium_severity": {
+          "8166": 602000,
+          "8332": 646000,
+          "8335": 584000,
+          "8349": 643000,
+          "8359": 607000,
+          "8382": 599000,
+          "8386": 649000,
+          "8387": 666000,
+          "8388": 588000,
+          "8395": 590000,
+          "8399": 631000,
+          "8400": 624000,
+          "8408": 608000,
+          "8409": 610000,
+          "8410": 590000,
+          "8411": 601000,
+          "8412": 613000,
+          "8416": 608000,
+          "8418": 686000,
+          "8419": 632000,
+          "8420": 594000,
+          "8422": 613000,
+          "8423": 598000,
+          "8424": 604000,
+          "8425": 620000,
+          "8426": 635000,
+          "8428": 613000,
+          "8430": 604000,
+          "8432": 615000,
+          "8433": 645000,
+          "8435": 620000,
+          "8437": 586000,
+          "8441": 624000,
+          "8450": 606000,
+          "8451": 614000,
+          "8452": 620000,
+          "8454": 591000,
+          "8456": 600000,
+          "8457": 592000,
+          "8459": 610000,
+          "8460": 618000,
+          "8462": 581000,
+          "8463": 581000,
+          "8465": 582000,
+          "8467": 599000,
+          "8468": 601000,
+          "8469": 631000,
+          "8470": 627000,
+          "8472": 622000,
+          "8476": 612000,
+          "8477": 635000,
+          "8478": 641000,
+          "8480": 588000,
+          "8481": 598000,
+          "8485": 611000,
+          "8487": 587000,
+          "8488": 637000,
+          "8489": 601000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "UI-PF-tracks": 0,
+      "adjacent-board-improvements": 0,
+      "avoid-setting-undefined": 0,
+      "beta": 0,
+      "card-selection-animation": 0,
+      "convert-the-base-a": 0,
+      "even-less-undefined": 0,
+      "feature/update_shuffle": 0,
+      "fix-resource-decrease-interrupts": 0,
+      "kberg-patch-1": 0,
+      "main": 0,
+      "no-translations-json": 0,
+      "rollback": 0,
+      "sfc-more-cards-again": 0,
+      "smaller-corp-logos": 0,
+      "stats": 0
+    },
+    "branch deviation": {
+      "UI-PF-tracks": 251,
+      "adjacent-board-improvements": 111,
+      "avoid-setting-undefined": 114,
+      "beta": 732,
+      "card-selection-animation": 730,
+      "convert-the-base-a": 623,
+      "even-less-undefined": 112,
+      "feature/update_shuffle": 627,
+      "fix-resource-decrease-interrupts": 709,
+      "kberg-patch-1": 36,
+      "main": 0,
+      "no-translations-json": 361,
+      "rollback": 732,
+      "sfc-more-cards-again": 426,
+      "smaller-corp-logos": 533,
+      "stats": 746
+    },
+    "unsynced activity": {
+      "UI-PF-tracks": 0,
+      "adjacent-board-improvements": 0,
+      "avoid-setting-undefined": 0,
+      "beta": 0,
+      "card-selection-animation": 0,
+      "convert-the-base-a": 0,
+      "even-less-undefined": 0,
+      "feature/update_shuffle": 0,
+      "fix-resource-decrease-interrupts": 0,
+      "kberg-patch-1": 0,
+      "main": 0,
+      "no-translations-json": 0,
+      "rollback": 0,
+      "sfc-more-cards-again": 0,
+      "smaller-corp-logos": 0,
+      "stats": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "beta",
+          "card-selection-animation",
+          "rollback",
+          "stats"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "CI": {
+      "data": [
+        {
+          "started_at": "2021-04-10T12:20:35Z",
+          "used_tool": "Github Actions",
+          "number": 7809
+        },
+        {
+          "started_at": "2021-04-10T12:38:00Z",
+          "used_tool": "Github Actions",
+          "number": 7810
+        },
+        {
+          "started_at": "2021-05-10T14:43:20Z",
+          "used_tool": "Github Actions",
+          "number": 8166
+        },
+        {
+          "started_at": "2021-06-16T20:59:19Z",
+          "used_tool": "Github Actions",
+          "number": 8356
+        },
+        {
+          "started_at": "2021-07-07T14:36:19Z",
+          "used_tool": "Github Actions",
+          "number": 8482
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 232
+    }
+  },
+  "skip_failing_tests": {}
+}

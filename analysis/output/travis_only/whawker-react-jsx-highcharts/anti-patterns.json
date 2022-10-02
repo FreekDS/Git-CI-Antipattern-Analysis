@@ -1,0 +1,132 @@
+{
+  "slow_build": {
+    "react-jsx-highcharts": {
+      "data": {
+        "2021-04-11T18:03:56Z": 196000.0,
+        "2021-04-18T18:04:52Z": 194000.0,
+        "2021-04-25T18:05:19Z": 187000.0,
+        "2021-05-02T18:05:29Z": 207500.0,
+        "2021-05-09T18:06:08Z": 193000.0,
+        "2021-05-16T18:06:42Z": 197000.0,
+        "2021-05-23T18:09:37Z": 175200.0,
+        "2021-06-04T08:41:22Z": 201200.0,
+        "2021-06-11T10:00:12Z": 198470.58823529413,
+        "2021-06-20T18:09:33Z": 195750.0,
+        "2021-06-27T18:09:39Z": 209000.0,
+        "2021-07-04T18:09:57Z": 190000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 195343.3823529412,
+      "quartiles": {
+        "q1": 192250.0,
+        "q3": 199152.9411764706,
+        "iqr": 6902.941176470602
+      },
+      "classification": {
+        "high_severity": {
+          "928": 217000,
+          "933": 215000,
+          "941": 212000,
+          "943": 210000,
+          "955": 210000
+        },
+        "medium_severity": {
+          "932": 208000,
+          "934": 202000,
+          "936": 205000,
+          "937": 204000,
+          "940": 205000,
+          "948": 201000,
+          "950": 205000,
+          "952": 200000,
+          "953": 203000,
+          "960": 204000,
+          "962": 205000,
+          "963": 206000,
+          "967": 209000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "delay-render-unmounted": 0,
+      "docusaurus": 0,
+      "docusaurus-docs": 0,
+      "fix/badges": 0,
+      "gh-pages": 1887,
+      "highcharts-gantt-examples": 0,
+      "lerna": 0,
+      "master": 0,
+      "react-jsx-highcharts-gantt": 0,
+      "test/hs10.1": 0,
+      "travis-local-testing": 0,
+      "v1-legacy": 0,
+      "v2-legacy": 0,
+      "with-highcharts-overrides": 0
+    },
+    "branch deviation": {
+      "delay-render-unmounted": 1190,
+      "docusaurus": 1060,
+      "docusaurus-docs": 1060,
+      "fix/badges": 154,
+      "gh-pages": 993,
+      "highcharts-gantt-examples": 1404,
+      "lerna": 1553,
+      "master": 0,
+      "react-jsx-highcharts-gantt": 1306,
+      "test/hs10.1": 112,
+      "travis-local-testing": 1070,
+      "v1-legacy": 1742,
+      "v2-legacy": 1643,
+      "with-highcharts-overrides": 1552
+    },
+    "unsynced activity": {
+      "delay-render-unmounted": 0,
+      "docusaurus": 0,
+      "docusaurus-docs": 0,
+      "fix/badges": 0,
+      "gh-pages": 894,
+      "highcharts-gantt-examples": 0,
+      "lerna": 0,
+      "master": 0,
+      "react-jsx-highcharts-gantt": 0,
+      "test/hs10.1": 0,
+      "travis-local-testing": 0,
+      "v1-legacy": 0,
+      "v2-legacy": 0,
+      "with-highcharts-overrides": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "gh-pages"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "lerna",
+          "v1-legacy",
+          "v2-legacy",
+          "with-highcharts-overrides"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "gh-pages"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "react-jsx-highcharts": {
+      "data": [],
+      "release_build_count": 33
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,92 @@
+{
+  "slow_build": {
+    "cf-nodejs-logging-support": {
+      "data": {
+        "2021-04-14T14:48:25Z": 166166.66666666666,
+        "2021-04-27T17:17:52Z": 160000.0,
+        "2021-05-06T22:41:22Z": 160500.0,
+        "2021-06-09T16:09:23Z": 165833.33333333334
+      },
+      "tool": "TravisCI",
+      "total avg": 163125.0,
+      "quartiles": {
+        "q1": 160375.0,
+        "q3": 165916.6666666667,
+        "iqr": 5541.666666666686
+      },
+      "classification": {
+        "high_severity": {
+          "436": 243000
+        },
+        "medium_severity": {
+          "439": 168000,
+          "454": 166000,
+          "455": 173000,
+          "456": 166000,
+          "457": 168000,
+          "458": 166000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-rework-documentation": 0,
+      "dependabot/bundler/docs/tzinfo-1.2.10": 0,
+      "master": 0,
+      "rework": 0,
+      "rework-documentation": 0,
+      "test-performance": 0,
+      "update-deps": 0
+    },
+    "branch deviation": {
+      "add-rework-documentation": -80,
+      "dependabot/bundler/docs/tzinfo-1.2.10": -42,
+      "master": 0,
+      "rework": -65,
+      "rework-documentation": -89,
+      "test-performance": -97,
+      "update-deps": 67
+    },
+    "unsynced activity": {
+      "add-rework-documentation": 0,
+      "dependabot/bundler/docs/tzinfo-1.2.10": 0,
+      "master": 0,
+      "rework": 0,
+      "rework-documentation": 0,
+      "test-performance": 0,
+      "update-deps": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/bundler/docs/tzinfo-1.2.10",
+          "master",
+          "rework",
+          "update-deps"
+        ],
+        "high_severity": [
+          "add-rework-documentation",
+          "rework-documentation",
+          "test-performance"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "cf-nodejs-logging-support": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

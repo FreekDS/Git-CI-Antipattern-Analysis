@@ -1,0 +1,89 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "1.x": 0,
+      "2.x": 0,
+      "3.x": 0,
+      "5.x": 0,
+      "dependabot/npm_and_yarn/packages/react-intl/example-sandboxes/strict-locale-type/terser-5.15.0": 0,
+      "dependabot/npm_and_yarn/packages/react-intl/example-sandboxes/strict-message-types/terser-5.15.0": 0,
+      "main": 0,
+      "renovate/aspect_rules_esbuild-digest": 0,
+      "renovate/bazel_gazelle-0.x": 0,
+      "renovate/estree-0.x": 0,
+      "renovate/io_bazel_rules_docker-0.x": 0,
+      "renovate/io_bazel_rules_go-0.x": 0,
+      "renovate/material-ui-monorepo": 0,
+      "renovate/pin-dependencies": 0,
+      "renovate/swc-core-1.x": 0,
+      "renovate/testing-library-react-13.x": 0,
+      "renovate/ubuntu2204-22.x": 0,
+      "version": 0
+    },
+    "branch deviation": {
+      "1.x": 2484,
+      "2.x": 1216,
+      "3.x": 921,
+      "5.x": 754,
+      "dependabot/npm_and_yarn/packages/react-intl/example-sandboxes/strict-locale-type/terser-5.15.0": 6,
+      "dependabot/npm_and_yarn/packages/react-intl/example-sandboxes/strict-message-types/terser-5.15.0": 6,
+      "main": 0,
+      "renovate/aspect_rules_esbuild-digest": -2,
+      "renovate/bazel_gazelle-0.x": -2,
+      "renovate/estree-0.x": -1,
+      "renovate/io_bazel_rules_docker-0.x": -1,
+      "renovate/io_bazel_rules_go-0.x": -1,
+      "renovate/material-ui-monorepo": -1,
+      "renovate/pin-dependencies": -2,
+      "renovate/swc-core-1.x": -2,
+      "renovate/testing-library-react-13.x": -1,
+      "renovate/ubuntu2204-22.x": -1,
+      "version": 253
+    },
+    "unsynced activity": {
+      "1.x": 0,
+      "2.x": 0,
+      "3.x": 0,
+      "5.x": 0,
+      "dependabot/npm_and_yarn/packages/react-intl/example-sandboxes/strict-locale-type/terser-5.15.0": 0,
+      "dependabot/npm_and_yarn/packages/react-intl/example-sandboxes/strict-message-types/terser-5.15.0": 0,
+      "main": 0,
+      "renovate/aspect_rules_esbuild-digest": 0,
+      "renovate/bazel_gazelle-0.x": 0,
+      "renovate/estree-0.x": 0,
+      "renovate/io_bazel_rules_docker-0.x": 0,
+      "renovate/io_bazel_rules_go-0.x": 0,
+      "renovate/material-ui-monorepo": 0,
+      "renovate/pin-dependencies": 0,
+      "renovate/swc-core-1.x": 0,
+      "renovate/testing-library-react-13.x": 0,
+      "renovate/ubuntu2204-22.x": 0,
+      "version": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "version"
+        ],
+        "high_severity": [
+          "1.x",
+          "2.x",
+          "3.x",
+          "5.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

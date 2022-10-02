@@ -1,0 +1,1438 @@
+{
+  "slow_build": {
+    "Joplin Continuous Integration": {
+      "data": {
+        "2021-06-10T11:10:59Z": 1336763.779527559,
+        "2021-06-17T11:46:41Z": 1938021.0526315789,
+        "2021-06-24T12:23:04Z": 4959384.615384615,
+        "2021-07-01T19:07:38Z": 1039615.3846153846
+      },
+      "tool": "Github Actions",
+      "total avg": 2318446.2080397843,
+      "quartiles": {
+        "q1": 1262476.6807995155,
+        "q3": 2693361.943319838,
+        "iqr": 1430885.2625203226
+      },
+      "classification": {
+        "high_severity": {
+          "63": 26819000,
+          "76": 23635000,
+          "144": 7004000,
+          "203": 64664000,
+          "210": 7041000,
+          "230": 22141000,
+          "237": 22013000,
+          "266": 47091000,
+          "276": 34631000,
+          "277": 59774000,
+          "278": 26402000
+        },
+        "medium_severity": {
+          "73": 2780000,
+          "78": 3620000,
+          "90": 3617000,
+          "159": 3026000,
+          "162": 3426000,
+          "170": 2878000,
+          "171": 3946000
+        }
+      }
+    },
+    "GitHub Actions Demo": {
+      "data": {
+        "2021-06-09T22:13:23Z": 377272.7272727273
+      },
+      "tool": "Github Actions",
+      "total avg": 377272.7272727273,
+      "quartiles": {
+        "q1": 377272.7272727273,
+        "q3": 377272.7272727273,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 562000,
+          "5": 472000,
+          "6": 602000,
+          "7": 644000,
+          "8": 659000
+        },
+        "medium_severity": {}
+      }
+    },
+    "joplin": {
+      "data": {
+        "2021-04-08T12:21:03Z": 2678370.3703703703,
+        "2021-04-15T18:30:10Z": 2564530.612244898,
+        "2021-04-23T13:33:26Z": 2754298.245614035,
+        "2021-04-30T15:03:42Z": 2689787.234042553,
+        "2021-05-07T18:20:09Z": 3037524.5901639345,
+        "2021-05-14T21:00:13Z": 3132032.2580645164,
+        "2021-05-21T23:18:16Z": 2678615.3846153845,
+        "2021-05-29T12:35:34Z": 2770615.3846153845
+      },
+      "tool": "TravisCI",
+      "total avg": 2788221.7599663846,
+      "quartiles": {
+        "q1": 2678554.131054131,
+        "q3": 2837342.686002522,
+        "iqr": 158788.55494839093
+      },
+      "classification": {
+        "high_severity": {
+          "3956": 3108000,
+          "3959": 3131000,
+          "3960": 3184000,
+          "3963": 3183000,
+          "3969": 3236000,
+          "3973": 3174000,
+          "3974": 3207000,
+          "3984": 3203000,
+          "3990": 3704000,
+          "4004": 3129000,
+          "4019": 3211000,
+          "4020": 3213000,
+          "4024": 3130000,
+          "4025": 3123000,
+          "4027": 3154000,
+          "4028": 3237000,
+          "4032": 3163000,
+          "4034": 3097000,
+          "4035": 3180000,
+          "4040": 3116000,
+          "4041": 3223000,
+          "4044": 3117000,
+          "4055": 3104000,
+          "4057": 3580000,
+          "4066": 5155000,
+          "4077": 3283000,
+          "4079": 3143000,
+          "4080": 3197000,
+          "4087": 3094000,
+          "4089": 3141000,
+          "4095": 3079000,
+          "4098": 3930000,
+          "4101": 3278000,
+          "4105": 3245000,
+          "4108": 3159000,
+          "4109": 3137000,
+          "4113": 3183000,
+          "4114": 3231000,
+          "4121": 3217000,
+          "4134": 3167000,
+          "4137": 3270000,
+          "4138": 3260000,
+          "4140": 3739000,
+          "4143": 3084000,
+          "4144": 3160000,
+          "4146": 3148000,
+          "4147": 3108000,
+          "4148": 3081000,
+          "4149": 3279000,
+          "4150": 3104000,
+          "4152": 3359000,
+          "4153": 3135000,
+          "4163": 3141000,
+          "4164": 3158000,
+          "4165": 3125000,
+          "4166": 3150000,
+          "4167": 3111000,
+          "4168": 3087000,
+          "4169": 3175000,
+          "4171": 3224000,
+          "4175": 3156000,
+          "4176": 3431000,
+          "4177": 3345000,
+          "4179": 3094000,
+          "4180": 3435000,
+          "4181": 3339000,
+          "4183": 3341000,
+          "4185": 3303000,
+          "4188": 3326000,
+          "4189": 3378000,
+          "4194": 3683000,
+          "4195": 3328000,
+          "4196": 3277000,
+          "4197": 3362000,
+          "4198": 3334000,
+          "4200": 3252000,
+          "4201": 3658000,
+          "4202": 3244000,
+          "4203": 3214000,
+          "4204": 3308000,
+          "4206": 3315000,
+          "4207": 3255000,
+          "4208": 3324000,
+          "4209": 3269000,
+          "4210": 3316000,
+          "4211": 3275000,
+          "4214": 3326000,
+          "4215": 3274000,
+          "4216": 3323000,
+          "4217": 3401000,
+          "4218": 3278000,
+          "4220": 3488000,
+          "4221": 3347000,
+          "4222": 3339000,
+          "4223": 3107000,
+          "4224": 3392000,
+          "4225": 3435000,
+          "4226": 3388000,
+          "4231": 3408000,
+          "4235": 3111000,
+          "4236": 3301000,
+          "4237": 3383000,
+          "4239": 3415000,
+          "4240": 3199000,
+          "4241": 3246000,
+          "4245": 3120000,
+          "4246": 3331000,
+          "4247": 3442000,
+          "4248": 3242000,
+          "4250": 3173000,
+          "4251": 3095000,
+          "4268": 5062000,
+          "4307": 4321000
+        },
+        "medium_severity": {
+          "3946": 3040000,
+          "3948": 2889000,
+          "3950": 2951000,
+          "3951": 2934000,
+          "3952": 2844000,
+          "3954": 2904000,
+          "3955": 2944000,
+          "3964": 2840000,
+          "3967": 3032000,
+          "3977": 2950000,
+          "3978": 2919000,
+          "3980": 2875000,
+          "3985": 2895000,
+          "3996": 2924000,
+          "4002": 2854000,
+          "4005": 2857000,
+          "4008": 2895000,
+          "4010": 2983000,
+          "4012": 2957000,
+          "4014": 2891000,
+          "4015": 2899000,
+          "4016": 2861000,
+          "4017": 2934000,
+          "4018": 2921000,
+          "4022": 2902000,
+          "4029": 2920000,
+          "4030": 2872000,
+          "4031": 2842000,
+          "4037": 2906000,
+          "4052": 2850000,
+          "4053": 2877000,
+          "4056": 2841000,
+          "4058": 2913000,
+          "4059": 2913000,
+          "4061": 2882000,
+          "4062": 2866000,
+          "4063": 2860000,
+          "4064": 2869000,
+          "4067": 2886000,
+          "4070": 2942000,
+          "4074": 2928000,
+          "4075": 3001000,
+          "4076": 2856000,
+          "4081": 3050000,
+          "4082": 2933000,
+          "4083": 2877000,
+          "4085": 2853000,
+          "4086": 2847000,
+          "4088": 2871000,
+          "4097": 2878000,
+          "4099": 2906000,
+          "4102": 2919000,
+          "4103": 2852000,
+          "4106": 2940000,
+          "4111": 2843000,
+          "4126": 2878000,
+          "4127": 2966000,
+          "4129": 2864000,
+          "4131": 2929000,
+          "4133": 2897000,
+          "4135": 2971000,
+          "4141": 2928000,
+          "4142": 2976000,
+          "4145": 2943000,
+          "4151": 2988000,
+          "4154": 2991000,
+          "4155": 2896000,
+          "4156": 2841000,
+          "4158": 3039000,
+          "4159": 2980000,
+          "4160": 3047000,
+          "4161": 2936000,
+          "4162": 2895000,
+          "4170": 2933000,
+          "4172": 3021000,
+          "4173": 3010000,
+          "4174": 2935000,
+          "4178": 2960000,
+          "4190": 3073000,
+          "4193": 3018000,
+          "4199": 2966000,
+          "4205": 2938000,
+          "4212": 2976000,
+          "4213": 3007000,
+          "4219": 2984000,
+          "4227": 2934000,
+          "4228": 2959000,
+          "4229": 2940000,
+          "4232": 3066000,
+          "4233": 3003000,
+          "4234": 2997000,
+          "4238": 3035000,
+          "4244": 3046000,
+          "4257": 3064000,
+          "4260": 3000000,
+          "4261": 3057000,
+          "4262": 3044000,
+          "4265": 2912000,
+          "4266": 2856000,
+          "4267": 3037000,
+          "4273": 3074000,
+          "4276": 3018000,
+          "4277": 2983000,
+          "4278": 3009000,
+          "4281": 2940000,
+          "4285": 2999000,
+          "4286": 2859000,
+          "4291": 2898000,
+          "4293": 2946000,
+          "4298": 2987000,
+          "4299": 2929000,
+          "4300": 2903000,
+          "4301": 2885000,
+          "4302": 3058000,
+          "4303": 3026000,
+          "4309": 2976000,
+          "4312": 2856000,
+          "4314": 2908000,
+          "4315": 2943000,
+          "4318": 2987000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "android-1.4": 0,
+      "api_pagination": 0,
+      "backoff_plugin": 0,
+      "ci_windows_latest": 0,
+      "cli-1.4.3": 0,
+      "clipper_tag_autocomplete": 0,
+      "close-stale-issues": 0,
+      "codemirror_theme_update": 0,
+      "command_enabled_refactor": 0,
+      "commonmark": 0,
+      "content_script_compile": 0,
+      "custom_folder_icons": 0,
+      "custom_layout": 0,
+      "db_collate_perf": 0,
+      "desktop_refactor_notelist": 0,
+      "dev_no_template": 0,
+      "dev": 0,
+      "docker_server_update": 0,
+      "e2ee_active_mk": 0,
+      "e2ee_info_json": 0,
+      "e2ee_info_json_2": 0,
+      "electron_10": 0,
+      "electron_12": 0,
+      "external_resource_edit": 0,
+      "external-web": 0,
+      "fastlane_android": 0,
+      "fastlane": 0,
+      "fix_ci": 0,
+      "fix_html_note_link": 0,
+      "fix_link_conv": 0,
+      "fix_onedrive_auth": 0,
+      "fix_publish_note": 0,
+      "fix_search_test": 0,
+      "fix_test_mem_error": 0,
+      "fix_url_import": 0,
+      "fix_windows_ci": 0,
+      "fix_windows_ci_2": 0,
+      "fix-mobile-action-button": 0,
+      "fixing_ci_2": 0,
+      "foxmask-patch-1": 0,
+      "ga_docker_image": 0,
+      "gen-package-private": 0,
+      "hide_show_plugin_panel": 0,
+      "ios_release_script": 0,
+      "ken1kob-sort-order_v2.4.5": 0,
+      "knex_max_call_size_bug": 0,
+      "lerna_migration": 0,
+      "linkify": 0,
+      "lost_translations": 0,
+      "mac_notarization": 0,
+      "master_password": 0,
+      "master": 0,
+      "media_players": 0,
+      "mobile_codemirror": 0,
+      "mobile_plugins": 0,
+      "multi_profiles": 0,
+      "new_website_cloud": 0,
+      "new_website_frontpage": 0,
+      "new_website": 0,
+      "note_link_indexer": 0,
+      "npm_workspace": 0,
+      "openProfileDirectory": 0,
+      "orphaned_resource_bug": 0,
+      "plugin_content_scripts": 0,
+      "plugin_editor_context_menu": 0,
+      "plugin_gui": 0,
+      "plugin_item_change_event": 0,
+      "plugin_manifest_override": 0,
+      "plugin_min_version": 0,
+      "plugin_repo_update": 0,
+      "plugin_system_types_test": 0,
+      "plugin_system": 0,
+      "plugin_task_list": 0,
+      "plugin-repo-publish": 0,
+      "plugins_custom_layout": 0,
+      "ppk": 0,
+      "publish_all_test": 0,
+      "publish_android": 0,
+      "publish_notes_e2ee": 0,
+      "refactor_e2ee_screen": 0,
+      "release_cli": 0,
+      "release_clipper": 0,
+      "release_server": 0,
+      "release-1.0": 0,
+      "release-1.1": 0,
+      "release-1.2": 0,
+      "release-1.3": 0,
+      "release-1.4": 0,
+      "release-1.5": 0,
+      "release-1.6": 0,
+      "release-1.7": 0,
+      "release-1.8": 0,
+      "release-2.0": 0,
+      "release-2.1": 0,
+      "release-2.2": 0,
+      "release-2.3": 0,
+      "release-2.4": 0,
+      "release-2.5": 0,
+      "release-2.6": 0,
+      "release-2.7": 0,
+      "release-2.8": 0,
+      "release-2.9": 0,
+      "release-server-2": 0,
+      "rerevert_tag_sort": 0,
+      "rn_62": 0,
+      "rn_63": 0,
+      "rn_66": 0,
+      "roman-r-m-patch-1": 0,
+      "server_admin_pages": 0,
+      "server_app_share_rec": 0,
+      "server_app_share": 0,
+      "server_app_share_3": 0,
+      "server_arm64": 0,
+      "server_ci_postgres": 0,
+      "server_content_drivers": 0,
+      "server_delete_old_changes": 0,
+      "server_delete_users": 0,
+      "server_file_manager": 0,
+      "server_item_limit": 0,
+      "server_mailer": 0,
+      "server_multiput": 0,
+      "server_native_lock": 0,
+      "server_native_lock_2": 0,
+      "server_organizations": 0,
+      "server_oversized_accounts": 0,
+      "server_share_fix": 0,
+      "server_share_link": 0,
+      "server_stripe": 0,
+      "server_tasks": 0,
+      "server_user_flags": 0,
+      "share_e2ee_3": 0,
+      "share-leave-fix": 0,
+      "sharing_e2ee": 0,
+      "sharing_e2ee_2": 0,
+      "sidebar_plugin_context": 0,
+      "smaller_server": 0,
+      "spellchecking": 0,
+      "spellckecking_codemirror": 0,
+      "stress_tests": 0,
+      "sync_batch_upload": 0,
+      "sync_multiput": 0,
+      "sync_wizard": 0,
+      "table_editor": 0,
+      "tessus-patch-1": 0,
+      "test_gh_pages": 0,
+      "test_gh_pr": 0,
+      "test_improvements": 0,
+      "test-gh-action": 0,
+      "testing_update": 0,
+      "testing": 0,
+      "testing2": 0,
+      "theme_to_css": 0,
+      "ui_update": 0,
+      "update_body_vieser": 0,
+      "website_team_feature": 0,
+      "windows_ci": 0
+    },
+    "branch deviation": {
+      "android-1.4": 659,
+      "api_pagination": 685,
+      "backoff_plugin": 270,
+      "ci_windows_latest": 291,
+      "cli-1.4.3": 660,
+      "clipper_tag_autocomplete": 254,
+      "close-stale-issues": 252,
+      "codemirror_theme_update": 428,
+      "command_enabled_refactor": 698,
+      "commonmark": 685,
+      "content_script_compile": 622,
+      "custom_folder_icons": 223,
+      "custom_layout": 673,
+      "db_collate_perf": 342,
+      "desktop_refactor_notelist": 156,
+      "dev_no_template": 407,
+      "dev": 0,
+      "docker_server_update": 607,
+      "e2ee_active_mk": 157,
+      "e2ee_info_json": 407,
+      "e2ee_info_json_2": 401,
+      "electron_10": 666,
+      "electron_12": 351,
+      "external_resource_edit": 688,
+      "external-web": 272,
+      "fastlane_android": 321,
+      "fastlane": 199,
+      "fix_ci": 258,
+      "fix_html_note_link": 666,
+      "fix_link_conv": 647,
+      "fix_onedrive_auth": 689,
+      "fix_publish_note": 67,
+      "fix_search_test": 657,
+      "fix_test_mem_error": 342,
+      "fix_url_import": 689,
+      "fix_windows_ci": 158,
+      "fix_windows_ci_2": 158,
+      "fix-mobile-action-button": 743,
+      "fixing_ci_2": 401,
+      "foxmask-patch-1": 687,
+      "ga_docker_image": 463,
+      "gen-package-private": 628,
+      "hide_show_plugin_panel": 623,
+      "ios_release_script": 623,
+      "ken1kob-sort-order_v2.4.5": 322,
+      "knex_max_call_size_bug": 506,
+      "lerna_migration": 681,
+      "linkify": 647,
+      "lost_translations": 313,
+      "mac_notarization": 657,
+      "master_password": 383,
+      "master": 183,
+      "media_players": 646,
+      "mobile_codemirror": 431,
+      "mobile_plugins": 687,
+      "multi_profiles": 159,
+      "new_website_cloud": 434,
+      "new_website_frontpage": 437,
+      "new_website": 440,
+      "note_link_indexer": 44,
+      "npm_workspace": 271,
+      "openProfileDirectory": 695,
+      "orphaned_resource_bug": 678,
+      "plugin_content_scripts": 696,
+      "plugin_editor_context_menu": 672,
+      "plugin_gui": 667,
+      "plugin_item_change_event": 655,
+      "plugin_manifest_override": 381,
+      "plugin_min_version": 671,
+      "plugin_repo_update": 605,
+      "plugin_system_types_test": 711,
+      "plugin_system": 708,
+      "plugin_task_list": 253,
+      "plugin-repo-publish": 270,
+      "plugins_custom_layout": 654,
+      "ppk": 349,
+      "publish_all_test": 642,
+      "publish_android": 680,
+      "publish_notes_e2ee": 11,
+      "refactor_e2ee_screen": 372,
+      "release_cli": 679,
+      "release_clipper": 679,
+      "release_server": 621,
+      "release-1.0": 733,
+      "release-1.1": 726,
+      "release-1.2": 705,
+      "release-1.3": 680,
+      "release-1.4": 655,
+      "release-1.5": 626,
+      "release-1.6": 604,
+      "release-1.7": 591,
+      "release-1.8": 491,
+      "release-2.0": 457,
+      "release-2.1": 425,
+      "release-2.2": 402,
+      "release-2.3": 396,
+      "release-2.4": 315,
+      "release-2.5": 313,
+      "release-2.6": 271,
+      "release-2.7": 155,
+      "release-2.8": 103,
+      "release-2.9": 5,
+      "release-server-2": 491,
+      "rerevert_tag_sort": 160,
+      "rn_62": 705,
+      "rn_63": 697,
+      "rn_66": 319,
+      "roman-r-m-patch-1": 194,
+      "server_admin_pages": 246,
+      "server_app_share_rec": 540,
+      "server_app_share": 589,
+      "server_app_share_3": 492,
+      "server_arm64": 297,
+      "server_ci_postgres": 291,
+      "server_content_drivers": 312,
+      "server_delete_old_changes": 329,
+      "server_delete_users": 269,
+      "server_file_manager": 627,
+      "server_item_limit": 488,
+      "server_mailer": 480,
+      "server_multiput": 456,
+      "server_native_lock": 320,
+      "server_native_lock_2": 319,
+      "server_organizations": 212,
+      "server_oversized_accounts": 394,
+      "server_share_fix": 357,
+      "server_share_link": 596,
+      "server_stripe": 471,
+      "server_tasks": 364,
+      "server_user_flags": 391,
+      "share_e2ee_3": 318,
+      "share-leave-fix": 271,
+      "sharing_e2ee": 374,
+      "sharing_e2ee_2": 374,
+      "sidebar_plugin_context": 645,
+      "smaller_server": 247,
+      "spellchecking": 685,
+      "spellckecking_codemirror": 688,
+      "stress_tests": 365,
+      "sync_batch_upload": 456,
+      "sync_multiput": 456,
+      "sync_wizard": 397,
+      "table_editor": 95,
+      "tessus-patch-1": 270,
+      "test_gh_pages": 404,
+      "test_gh_pr": 464,
+      "test_improvements": 655,
+      "test-gh-action": 464,
+      "testing_update": 484,
+      "testing": 705,
+      "testing2": 705,
+      "theme_to_css": 376,
+      "ui_update": 733,
+      "update_body_vieser": 705,
+      "website_team_feature": 165,
+      "windows_ci": 435
+    },
+    "unsynced activity": {
+      "android-1.4": 0,
+      "api_pagination": 0,
+      "backoff_plugin": 0,
+      "ci_windows_latest": 0,
+      "cli-1.4.3": 0,
+      "clipper_tag_autocomplete": 0,
+      "close-stale-issues": 0,
+      "codemirror_theme_update": 0,
+      "command_enabled_refactor": 0,
+      "commonmark": 0,
+      "content_script_compile": 0,
+      "custom_folder_icons": 0,
+      "custom_layout": 0,
+      "db_collate_perf": 0,
+      "desktop_refactor_notelist": 0,
+      "dev_no_template": 0,
+      "dev": 0,
+      "docker_server_update": 0,
+      "e2ee_active_mk": 0,
+      "e2ee_info_json": 0,
+      "e2ee_info_json_2": 0,
+      "electron_10": 0,
+      "electron_12": 0,
+      "external_resource_edit": 0,
+      "external-web": 0,
+      "fastlane_android": 0,
+      "fastlane": 0,
+      "fix_ci": 0,
+      "fix_html_note_link": 0,
+      "fix_link_conv": 0,
+      "fix_onedrive_auth": 0,
+      "fix_publish_note": 0,
+      "fix_search_test": 0,
+      "fix_test_mem_error": 0,
+      "fix_url_import": 0,
+      "fix_windows_ci": 0,
+      "fix_windows_ci_2": 0,
+      "fix-mobile-action-button": 0,
+      "fixing_ci_2": 0,
+      "foxmask-patch-1": 0,
+      "ga_docker_image": 0,
+      "gen-package-private": 0,
+      "hide_show_plugin_panel": 0,
+      "ios_release_script": 0,
+      "ken1kob-sort-order_v2.4.5": 0,
+      "knex_max_call_size_bug": 0,
+      "lerna_migration": 0,
+      "linkify": 0,
+      "lost_translations": 0,
+      "mac_notarization": 0,
+      "master_password": 0,
+      "master": 0,
+      "media_players": 0,
+      "mobile_codemirror": 0,
+      "mobile_plugins": 0,
+      "multi_profiles": 0,
+      "new_website_cloud": 0,
+      "new_website_frontpage": 0,
+      "new_website": 0,
+      "note_link_indexer": 0,
+      "npm_workspace": 0,
+      "openProfileDirectory": 0,
+      "orphaned_resource_bug": 0,
+      "plugin_content_scripts": 0,
+      "plugin_editor_context_menu": 0,
+      "plugin_gui": 0,
+      "plugin_item_change_event": 0,
+      "plugin_manifest_override": 0,
+      "plugin_min_version": 0,
+      "plugin_repo_update": 0,
+      "plugin_system_types_test": 0,
+      "plugin_system": 0,
+      "plugin_task_list": 0,
+      "plugin-repo-publish": 0,
+      "plugins_custom_layout": 0,
+      "ppk": 0,
+      "publish_all_test": 0,
+      "publish_android": 0,
+      "publish_notes_e2ee": 0,
+      "refactor_e2ee_screen": 0,
+      "release_cli": 0,
+      "release_clipper": 0,
+      "release_server": 0,
+      "release-1.0": 0,
+      "release-1.1": 0,
+      "release-1.2": 0,
+      "release-1.3": 0,
+      "release-1.4": 0,
+      "release-1.5": 0,
+      "release-1.6": 0,
+      "release-1.7": 0,
+      "release-1.8": 0,
+      "release-2.0": 0,
+      "release-2.1": 0,
+      "release-2.2": 0,
+      "release-2.3": 0,
+      "release-2.4": 0,
+      "release-2.5": 0,
+      "release-2.6": 0,
+      "release-2.7": 0,
+      "release-2.8": 0,
+      "release-2.9": 0,
+      "release-server-2": 0,
+      "rerevert_tag_sort": 0,
+      "rn_62": 0,
+      "rn_63": 0,
+      "rn_66": 0,
+      "roman-r-m-patch-1": 0,
+      "server_admin_pages": 0,
+      "server_app_share_rec": 0,
+      "server_app_share": 0,
+      "server_app_share_3": 0,
+      "server_arm64": 0,
+      "server_ci_postgres": 0,
+      "server_content_drivers": 0,
+      "server_delete_old_changes": 0,
+      "server_delete_users": 0,
+      "server_file_manager": 0,
+      "server_item_limit": 0,
+      "server_mailer": 0,
+      "server_multiput": 0,
+      "server_native_lock": 0,
+      "server_native_lock_2": 0,
+      "server_organizations": 0,
+      "server_oversized_accounts": 0,
+      "server_share_fix": 0,
+      "server_share_link": 0,
+      "server_stripe": 0,
+      "server_tasks": 0,
+      "server_user_flags": 0,
+      "share_e2ee_3": 0,
+      "share-leave-fix": 0,
+      "sharing_e2ee": 0,
+      "sharing_e2ee_2": 0,
+      "sidebar_plugin_context": 0,
+      "smaller_server": 0,
+      "spellchecking": 0,
+      "spellckecking_codemirror": 0,
+      "stress_tests": 0,
+      "sync_batch_upload": 0,
+      "sync_multiput": 0,
+      "sync_wizard": 0,
+      "table_editor": 0,
+      "tessus-patch-1": 0,
+      "test_gh_pages": 0,
+      "test_gh_pr": 0,
+      "test_improvements": 0,
+      "test-gh-action": 0,
+      "testing_update": 0,
+      "testing": 0,
+      "testing2": 0,
+      "theme_to_css": 0,
+      "ui_update": 0,
+      "update_body_vieser": 0,
+      "website_team_feature": 0,
+      "windows_ci": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "android-1.4",
+          "api_pagination",
+          "cli-1.4.3",
+          "command_enabled_refactor",
+          "commonmark",
+          "custom_layout",
+          "electron_10",
+          "external_resource_edit",
+          "fix_html_note_link",
+          "fix_onedrive_auth",
+          "fix_url_import",
+          "fix-mobile-action-button",
+          "foxmask-patch-1",
+          "lerna_migration",
+          "mobile_plugins",
+          "openProfileDirectory",
+          "orphaned_resource_bug",
+          "plugin_content_scripts",
+          "plugin_editor_context_menu",
+          "plugin_gui",
+          "plugin_min_version",
+          "plugin_system_types_test",
+          "plugin_system",
+          "publish_android",
+          "release_cli",
+          "release_clipper",
+          "release-1.0",
+          "release-1.1",
+          "release-1.2",
+          "release-1.3",
+          "rn_62",
+          "rn_63",
+          "spellchecking",
+          "spellckecking_codemirror",
+          "testing",
+          "testing2",
+          "ui_update",
+          "update_body_vieser"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Joplin Continuous Integration": {
+      "data": [
+        {
+          "started_at": "2021-06-10T17:35:25Z",
+          "used_tool": "Github Actions",
+          "number": 26
+        },
+        {
+          "started_at": "2021-06-10T22:24:47Z",
+          "used_tool": "Github Actions",
+          "number": 27
+        },
+        {
+          "started_at": "2021-06-10T23:06:25Z",
+          "used_tool": "Github Actions",
+          "number": 28
+        },
+        {
+          "started_at": "2021-06-11T09:58:17Z",
+          "used_tool": "Github Actions",
+          "number": 32
+        },
+        {
+          "started_at": "2021-06-11T11:32:47Z",
+          "used_tool": "Github Actions",
+          "number": 33
+        },
+        {
+          "started_at": "2021-06-11T11:56:56Z",
+          "used_tool": "Github Actions",
+          "number": 34
+        },
+        {
+          "started_at": "2021-06-11T23:37:21Z",
+          "used_tool": "Github Actions",
+          "number": 63
+        },
+        {
+          "started_at": "2021-06-17T17:05:37Z",
+          "used_tool": "Github Actions",
+          "number": 135
+        },
+        {
+          "started_at": "2021-06-17T17:17:46Z",
+          "used_tool": "Github Actions",
+          "number": 136
+        },
+        {
+          "started_at": "2021-06-17T17:23:43Z",
+          "used_tool": "Github Actions",
+          "number": 137
+        },
+        {
+          "started_at": "2021-06-17T17:28:01Z",
+          "used_tool": "Github Actions",
+          "number": 138
+        },
+        {
+          "started_at": "2021-06-18T16:15:12Z",
+          "used_tool": "Github Actions",
+          "number": 152
+        },
+        {
+          "started_at": "2021-06-18T16:17:52Z",
+          "used_tool": "Github Actions",
+          "number": 153
+        },
+        {
+          "started_at": "2021-06-20T10:21:57Z",
+          "used_tool": "Github Actions",
+          "number": 178
+        },
+        {
+          "started_at": "2021-06-20T11:03:47Z",
+          "used_tool": "Github Actions",
+          "number": 179
+        },
+        {
+          "started_at": "2021-06-20T11:31:12Z",
+          "used_tool": "Github Actions",
+          "number": 181
+        },
+        {
+          "started_at": "2021-06-21T18:09:29Z",
+          "used_tool": "Github Actions",
+          "number": 196
+        },
+        {
+          "started_at": "2021-06-21T18:31:06Z",
+          "used_tool": "Github Actions",
+          "number": 197
+        },
+        {
+          "started_at": "2021-06-26T03:46:41Z",
+          "used_tool": "Github Actions",
+          "number": 237
+        },
+        {
+          "started_at": "2021-06-28T00:25:14Z",
+          "used_tool": "Github Actions",
+          "number": 266
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 132
+    },
+    "joplin": {
+      "data": [
+        {
+          "started_at": "2021-04-08T14:07:51Z",
+          "used_tool": "TravisCI",
+          "number": 3947
+        },
+        {
+          "started_at": "2021-04-08T16:29:04Z",
+          "used_tool": "TravisCI",
+          "number": 3949
+        },
+        {
+          "started_at": "2021-04-09T00:48:21Z",
+          "used_tool": "TravisCI",
+          "number": 3952
+        },
+        {
+          "started_at": "2021-04-09T07:50:48Z",
+          "used_tool": "TravisCI",
+          "number": 3953
+        },
+        {
+          "started_at": "2021-04-11T09:19:27Z",
+          "used_tool": "TravisCI",
+          "number": 3957
+        },
+        {
+          "started_at": "2021-04-11T09:25:15Z",
+          "used_tool": "TravisCI",
+          "number": 3958
+        },
+        {
+          "started_at": "2021-04-12T09:06:41Z",
+          "used_tool": "TravisCI",
+          "number": 3962
+        },
+        {
+          "started_at": "2021-04-13T17:17:27Z",
+          "used_tool": "TravisCI",
+          "number": 3965
+        },
+        {
+          "started_at": "2021-04-14T16:01:19Z",
+          "used_tool": "TravisCI",
+          "number": 3968
+        },
+        {
+          "started_at": "2021-04-15T10:29:37Z",
+          "used_tool": "TravisCI",
+          "number": 3971
+        },
+        {
+          "started_at": "2021-04-15T18:30:10Z",
+          "used_tool": "TravisCI",
+          "number": 3972
+        },
+        {
+          "started_at": "2021-04-16T10:08:43Z",
+          "used_tool": "TravisCI",
+          "number": 3975
+        },
+        {
+          "started_at": "2021-04-16T10:37:45Z",
+          "used_tool": "TravisCI",
+          "number": 3976
+        },
+        {
+          "started_at": "2021-04-16T20:18:50Z",
+          "used_tool": "TravisCI",
+          "number": 3979
+        },
+        {
+          "started_at": "2021-04-17T18:42:05Z",
+          "used_tool": "TravisCI",
+          "number": 3981
+        },
+        {
+          "started_at": "2021-04-17T19:08:03Z",
+          "used_tool": "TravisCI",
+          "number": 3982
+        },
+        {
+          "started_at": "2021-04-17T23:19:07Z",
+          "used_tool": "TravisCI",
+          "number": 3983
+        },
+        {
+          "started_at": "2021-04-18T17:28:16Z",
+          "used_tool": "TravisCI",
+          "number": 3986
+        },
+        {
+          "started_at": "2021-04-18T18:18:48Z",
+          "used_tool": "TravisCI",
+          "number": 3987
+        },
+        {
+          "started_at": "2021-04-19T10:24:54Z",
+          "used_tool": "TravisCI",
+          "number": 3988
+        },
+        {
+          "started_at": "2021-04-19T10:46:50Z",
+          "used_tool": "TravisCI",
+          "number": 3989
+        },
+        {
+          "started_at": "2021-04-19T15:15:35Z",
+          "used_tool": "TravisCI",
+          "number": 3990
+        },
+        {
+          "started_at": "2021-04-19T15:50:36Z",
+          "used_tool": "TravisCI",
+          "number": 3991
+        },
+        {
+          "started_at": "2021-04-19T16:13:17Z",
+          "used_tool": "TravisCI",
+          "number": 3992
+        },
+        {
+          "started_at": "2021-04-19T18:02:34Z",
+          "used_tool": "TravisCI",
+          "number": 3993
+        },
+        {
+          "started_at": "2021-04-20T08:00:25Z",
+          "used_tool": "TravisCI",
+          "number": 3994
+        },
+        {
+          "started_at": "2021-04-20T10:22:11Z",
+          "used_tool": "TravisCI",
+          "number": 3995
+        },
+        {
+          "started_at": "2021-04-20T17:50:16Z",
+          "used_tool": "TravisCI",
+          "number": 3997
+        },
+        {
+          "started_at": "2021-04-20T19:43:46Z",
+          "used_tool": "TravisCI",
+          "number": 3998
+        },
+        {
+          "started_at": "2021-04-20T19:51:39Z",
+          "used_tool": "TravisCI",
+          "number": 3999
+        },
+        {
+          "started_at": "2021-04-20T20:01:18Z",
+          "used_tool": "TravisCI",
+          "number": 4000
+        },
+        {
+          "started_at": "2021-04-20T20:22:10Z",
+          "used_tool": "TravisCI",
+          "number": 4001
+        },
+        {
+          "started_at": "2021-04-21T14:56:40Z",
+          "used_tool": "TravisCI",
+          "number": 4007
+        },
+        {
+          "started_at": "2021-04-21T20:23:38Z",
+          "used_tool": "TravisCI",
+          "number": 4009
+        },
+        {
+          "started_at": "2021-04-23T13:33:26Z",
+          "used_tool": "TravisCI",
+          "number": 4021
+        },
+        {
+          "started_at": "2021-04-23T18:05:52Z",
+          "used_tool": "TravisCI",
+          "number": 4023
+        },
+        {
+          "started_at": "2021-04-24T08:34:16Z",
+          "used_tool": "TravisCI",
+          "number": 4026
+        },
+        {
+          "started_at": "2021-04-24T17:24:57Z",
+          "used_tool": "TravisCI",
+          "number": 4033
+        },
+        {
+          "started_at": "2021-04-25T08:46:27Z",
+          "used_tool": "TravisCI",
+          "number": 4039
+        },
+        {
+          "started_at": "2021-04-25T09:24:43Z",
+          "used_tool": "TravisCI",
+          "number": 4046
+        },
+        {
+          "started_at": "2021-04-25T10:28:52Z",
+          "used_tool": "TravisCI",
+          "number": 4049
+        },
+        {
+          "started_at": "2021-04-25T10:53:21Z",
+          "used_tool": "TravisCI",
+          "number": 4050
+        },
+        {
+          "started_at": "2021-04-25T14:15:27Z",
+          "used_tool": "TravisCI",
+          "number": 4054
+        },
+        {
+          "started_at": "2021-04-28T07:26:26Z",
+          "used_tool": "TravisCI",
+          "number": 4071
+        },
+        {
+          "started_at": "2021-04-28T16:44:13Z",
+          "used_tool": "TravisCI",
+          "number": 4072
+        },
+        {
+          "started_at": "2021-04-28T17:22:54Z",
+          "used_tool": "TravisCI",
+          "number": 4073
+        },
+        {
+          "started_at": "2021-05-01T07:30:30Z",
+          "used_tool": "TravisCI",
+          "number": 4084
+        },
+        {
+          "started_at": "2021-05-02T08:39:02Z",
+          "used_tool": "TravisCI",
+          "number": 4090
+        },
+        {
+          "started_at": "2021-05-02T17:42:52Z",
+          "used_tool": "TravisCI",
+          "number": 4091
+        },
+        {
+          "started_at": "2021-05-02T18:20:30Z",
+          "used_tool": "TravisCI",
+          "number": 4092
+        },
+        {
+          "started_at": "2021-05-02T18:21:41Z",
+          "used_tool": "TravisCI",
+          "number": 4093
+        },
+        {
+          "started_at": "2021-05-03T10:59:58Z",
+          "used_tool": "TravisCI",
+          "number": 4096
+        },
+        {
+          "started_at": "2021-05-03T13:14:11Z",
+          "used_tool": "TravisCI",
+          "number": 4097
+        },
+        {
+          "started_at": "2021-05-03T13:17:13Z",
+          "used_tool": "TravisCI",
+          "number": 4098
+        },
+        {
+          "started_at": "2021-05-03T13:43:40Z",
+          "used_tool": "TravisCI",
+          "number": 4100
+        },
+        {
+          "started_at": "2021-05-03T17:08:51Z",
+          "used_tool": "TravisCI",
+          "number": 4103
+        },
+        {
+          "started_at": "2021-05-03T17:24:15Z",
+          "used_tool": "TravisCI",
+          "number": 4104
+        },
+        {
+          "started_at": "2021-05-04T08:57:17Z",
+          "used_tool": "TravisCI",
+          "number": 4107
+        },
+        {
+          "started_at": "2021-05-05T12:02:35Z",
+          "used_tool": "TravisCI",
+          "number": 4115
+        },
+        {
+          "started_at": "2021-05-05T14:41:30Z",
+          "used_tool": "TravisCI",
+          "number": 4116
+        },
+        {
+          "started_at": "2021-05-05T15:46:59Z",
+          "used_tool": "TravisCI",
+          "number": 4117
+        },
+        {
+          "started_at": "2021-05-05T19:55:10Z",
+          "used_tool": "TravisCI",
+          "number": 4118
+        },
+        {
+          "started_at": "2021-05-05T20:07:27Z",
+          "used_tool": "TravisCI",
+          "number": 4119
+        },
+        {
+          "started_at": "2021-05-06T11:26:16Z",
+          "used_tool": "TravisCI",
+          "number": 4121
+        },
+        {
+          "started_at": "2021-05-06T19:15:04Z",
+          "used_tool": "TravisCI",
+          "number": 4122
+        },
+        {
+          "started_at": "2021-05-06T23:04:43Z",
+          "used_tool": "TravisCI",
+          "number": 4123
+        },
+        {
+          "started_at": "2021-05-06T23:08:35Z",
+          "used_tool": "TravisCI",
+          "number": 4124
+        },
+        {
+          "started_at": "2021-05-07T09:22:05Z",
+          "used_tool": "TravisCI",
+          "number": 4126
+        },
+        {
+          "started_at": "2021-05-07T13:16:15Z",
+          "used_tool": "TravisCI",
+          "number": 4127
+        },
+        {
+          "started_at": "2021-05-07T18:20:09Z",
+          "used_tool": "TravisCI",
+          "number": 4128
+        },
+        {
+          "started_at": "2021-05-08T16:49:05Z",
+          "used_tool": "TravisCI",
+          "number": 4132
+        },
+        {
+          "started_at": "2021-05-08T18:46:21Z",
+          "used_tool": "TravisCI",
+          "number": 4133
+        },
+        {
+          "started_at": "2021-05-11T15:32:19Z",
+          "used_tool": "TravisCI",
+          "number": 4154
+        },
+        {
+          "started_at": "2021-05-12T16:17:55Z",
+          "used_tool": "TravisCI",
+          "number": 4156
+        },
+        {
+          "started_at": "2021-05-12T16:30:52Z",
+          "used_tool": "TravisCI",
+          "number": 4157
+        },
+        {
+          "started_at": "2021-05-14T21:00:13Z",
+          "used_tool": "TravisCI",
+          "number": 4191
+        },
+        {
+          "started_at": "2021-05-14T21:19:29Z",
+          "used_tool": "TravisCI",
+          "number": 4192
+        },
+        {
+          "started_at": "2021-05-17T22:21:14Z",
+          "used_tool": "TravisCI",
+          "number": 4227
+        },
+        {
+          "started_at": "2021-05-18T13:54:52Z",
+          "used_tool": "TravisCI",
+          "number": 4230
+        },
+        {
+          "started_at": "2021-05-18T20:14:20Z",
+          "used_tool": "TravisCI",
+          "number": 4233
+        },
+        {
+          "started_at": "2021-05-18T20:25:21Z",
+          "used_tool": "TravisCI",
+          "number": 4234
+        },
+        {
+          "started_at": "2021-05-21T13:18:41Z",
+          "used_tool": "TravisCI",
+          "number": 4249
+        },
+        {
+          "started_at": "2021-05-25T14:44:41Z",
+          "used_tool": "TravisCI",
+          "number": 4269
+        },
+        {
+          "started_at": "2021-05-25T15:21:06Z",
+          "used_tool": "TravisCI",
+          "number": 4270
+        },
+        {
+          "started_at": "2021-05-25T15:51:52Z",
+          "used_tool": "TravisCI",
+          "number": 4271
+        },
+        {
+          "started_at": "2021-05-25T16:13:11Z",
+          "used_tool": "TravisCI",
+          "number": 4272
+        },
+        {
+          "started_at": "2021-05-27T11:45:02Z",
+          "used_tool": "TravisCI",
+          "number": 4282
+        },
+        {
+          "started_at": "2021-05-27T11:46:11Z",
+          "used_tool": "TravisCI",
+          "number": 4283
+        },
+        {
+          "started_at": "2021-05-27T13:35:17Z",
+          "used_tool": "TravisCI",
+          "number": 4284
+        },
+        {
+          "started_at": "2021-05-29T22:56:18Z",
+          "used_tool": "TravisCI",
+          "number": 4297
+        },
+        {
+          "started_at": "2021-06-01T15:09:46Z",
+          "used_tool": "TravisCI",
+          "number": 4305
+        },
+        {
+          "started_at": "2021-06-01T15:25:47Z",
+          "used_tool": "TravisCI",
+          "number": 4306
+        },
+        {
+          "started_at": "2021-06-01T16:10:59Z",
+          "used_tool": "TravisCI",
+          "number": 4307
+        },
+        {
+          "started_at": "2021-06-01T16:12:26Z",
+          "used_tool": "TravisCI",
+          "number": 4304
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 361
+    }
+  },
+  "skip_failing_tests": {}
+}

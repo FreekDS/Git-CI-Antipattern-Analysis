@@ -1,0 +1,43 @@
+Missed Activity
+=========================
+Branch renovate/babel-monorepo has 381 days of missed activity!
+Branch renovate/karma-6.x has 128 days of missed activity!
+Branch renovate/prettier-2.x has 513 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/karma-6.x, 128 seconds
+HIGH SEVERITY
+Branch renovate/babel-monorepo, 381 seconds
+Branch renovate/prettier-2.x, 513 seconds
+
+Branch Deviation
+=========================
+Average deviation: -43.18181818181818 days
+Branch main moved away from main with 0 days, 43.18181818181818 more than average
+Branch renovate/lock-file-maintenance moved away from main with -15 days, 28.18181818181818 more than average
+Branch renovate/postcss-cli-9.x moved away from main with -15 days, 28.18181818181818 more than average
+Branch renovate/yargs-17.x moved away from main with -36 days, 7.18181818181818 more than average
+MEDIUM SEVERITY
+Branch main, 0 days
+Branch renovate/lock-file-maintenance, -15 days
+Branch renovate/postcss-cli-9.x, -15 days
+HIGH SEVERITY
+Branch renovate/babel-monorepo, -57 days
+Branch renovate/cssnano-preset-advanced-5.x, -62 days
+Branch renovate/eslint-8.x, -61 days
+Branch renovate/karma-6.x, -58 days
+Branch renovate/major-jasmine-monorepo, -54 days
+Branch renovate/major-semantic-release-monorepo, -57 days
+Branch renovate/prettier-2.x, -60 days
+Branch renovate/yargs-17.x, -36 days
+
+Unsynced activity
+=========================
+Average unsynced: 108.54545454545455 days
+Branch renovate/babel-monorepo is unsynced with 437 days, 328.45454545454544 more than average
+Branch renovate/karma-6.x is unsynced with 185 days, 76.45454545454545 more than average
+Branch renovate/prettier-2.x is unsynced with 572 days, 463.45454545454544 more than average
+MEDIUM SEVERITY
+Branch renovate/karma-6.x, 185 days
+HIGH SEVERITY
+Branch renovate/babel-monorepo, 437 days
+Branch renovate/prettier-2.x, 572 days

@@ -1,0 +1,31 @@
+Missed Activity
+=========================
+Branch v3-dev has 1792 days of missed activity!
+Branch v4-dev has 726 days of missed activity!
+MEDIUM SEVERITY
+Branch v3-dev, 1792 seconds
+Branch v4-dev, 726 seconds
+
+Branch Deviation
+=========================
+Average deviation: 214.35294117647058 days
+Branch v3-dev moved away from main with 1509 days, 1294.6470588235295 more than average
+Branch v4-dev moved away from main with 726 days, 511.6470588235294 more than average
+Branch v4-npm-scripts moved away from main with 326 days, 111.64705882352942 more than average
+Branch v4-tooltip-iframe moved away from main with 1264 days, 1049.6470588235295 more than average
+Branch v4.2.x moved away from main with 264 days, 49.64705882352942 more than average
+MEDIUM SEVERITY
+Branch v4-npm-scripts, 326 days
+HIGH SEVERITY
+Branch v3-dev, 1509 days
+Branch v4-dev, 726 days
+Branch v4-tooltip-iframe, 1264 days
+
+Unsynced activity
+=========================
+Average unsynced: 16.529411764705884 days
+Branch v3-dev is unsynced with 282 days, 265.47058823529414 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch v3-dev, 282 days
+Branch v4-dev, -1 days

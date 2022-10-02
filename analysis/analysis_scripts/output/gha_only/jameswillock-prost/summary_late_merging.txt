@@ -1,0 +1,29 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -65.33333333333333 days
+Branch dependabot/npm_and_yarn/npm-8.11.0 moved away from main with -38 days, 27.33333333333333 more than average
+Branch depfu/update/npm/axios-0.27.2 moved away from main with -2 days, 63.33333333333333 more than average
+Branch depfu/update/npm/cache-manager-3.6.3 moved away from main with -26 days, 39.33333333333333 more than average
+Branch depfu/update/npm/prettier-2.7.1 moved away from main with -52 days, 13.333333333333329 more than average
+Branch master moved away from main with 0 days, 65.33333333333333 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/npm-8.11.0, -38 days
+Branch depfu/update/npm/axios-0.27.2, -2 days
+Branch depfu/update/npm/cache-manager-3.6.3, -26 days
+Branch depfu/update/npm/commander-9.4.0, -81 days
+Branch depfu/update/npm/prettier-2.7.1, -52 days
+Branch master, 0 days
+HIGH SEVERITY
+Branch depfu/update/npm/axios-mock-adapter-1.21.2, -107 days
+Branch depfu/update/npm/eslint-8.23.1, -140 days
+Branch depfu/update/npm/npm-8.19.2, -142 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

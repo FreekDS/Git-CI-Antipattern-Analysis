@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+Branch updates has 1055 days of missed activity!
+MEDIUM SEVERITY
+Branch updates, 1055 seconds
+
+Branch Deviation
+=========================
+Average deviation: 190.42857142857142 days
+Branch dependabot/npm_and_yarn/tmpl-1.0.5 moved away from main with 210 days, 19.571428571428584 more than average
+Branch updates moved away from main with 1055 days, 864.5714285714286 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/tmpl-1.0.5, 210 days
+HIGH SEVERITY
+Branch updates, 1055 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

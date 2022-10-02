@@ -1,0 +1,77 @@
+Missed Activity
+=========================
+Branch 1.27.0 has 89 days of missed activity!
+Branch 1.28.0 has 78 days of missed activity!
+Branch 1.28.1 has 73 days of missed activity!
+Branch 1.28.2 has 73 days of missed activity!
+Branch 1.28.3 has 72 days of missed activity!
+Branch 1.28.4 has 65 days of missed activity!
+Branch 1.28.5 has 64 days of missed activity!
+Branch 1.28.6 has 61 days of missed activity!
+Branch 1.28.7 has 60 days of missed activity!
+Branch 1.28.8 has 59 days of missed activity!
+Branch 1.29.0 has 1 days of missed activity!
+Branch 1.29.4 has -1 days of missed activity!
+MEDIUM SEVERITY
+Branch 1.27.0, 89 seconds
+HIGH SEVERITY
+Branch 1.28.0, 78 seconds
+HIGH SEVERITY
+Branch 1.28.1, 73 seconds
+HIGH SEVERITY
+Branch 1.28.2, 73 seconds
+HIGH SEVERITY
+Branch 1.28.3, 72 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 40.04761904761905 days
+Branch 1.27.0 moved away from main with 89 days, 48.95238095238095 more than average
+Branch 1.28.0 moved away from main with 78 days, 37.95238095238095 more than average
+Branch 1.28.1 moved away from main with 73 days, 32.95238095238095 more than average
+Branch 1.28.2 moved away from main with 73 days, 32.95238095238095 more than average
+Branch 1.28.3 moved away from main with 72 days, 31.95238095238095 more than average
+Branch 1.28.4 moved away from main with 65 days, 24.95238095238095 more than average
+Branch 1.28.5 moved away from main with 64 days, 23.95238095238095 more than average
+Branch 1.28.6 moved away from main with 61 days, 20.95238095238095 more than average
+Branch 1.28.7 moved away from main with 60 days, 19.95238095238095 more than average
+Branch 1.28.8 moved away from main with 59 days, 18.95238095238095 more than average
+Branch dependabot/npm_and_yarn/follow-redirects-1.14.8 moved away from main with 112 days, 71.95238095238095 more than average
+Branch dependabot/npm_and_yarn/prismjs-1.27.0 moved away from main with 101 days, 60.95238095238095 more than average
+Branch dependabot/npm_and_yarn/url-parse-1.5.10 moved away from main with 99 days, 58.95238095238095 more than average
+MEDIUM SEVERITY
+Branch 1.27.0, 89 days
+Branch 1.28.0, 78 days
+Branch dependabot/npm_and_yarn/follow-redirects-1.14.8, 112 days
+Branch dependabot/npm_and_yarn/parse-url-6.0.5, -101 days
+Branch dependabot/npm_and_yarn/prismjs-1.27.0, 101 days
+Branch dependabot/npm_and_yarn/url-parse-1.5.10, 99 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.6190476190476191 days
+Branch dependabot/npm_and_yarn/eventsource-1.1.1 is unsynced with 0 days, 0.6190476190476191 more than average
+Branch dependabot/npm_and_yarn/follow-redirects-1.14.8 is unsynced with 0 days, 0.6190476190476191 more than average
+Branch dependabot/npm_and_yarn/minimist-1.2.6 is unsynced with 0 days, 0.6190476190476191 more than average
+Branch dependabot/npm_and_yarn/moment-2.29.4 is unsynced with 0 days, 0.6190476190476191 more than average
+Branch dependabot/npm_and_yarn/parse-url-6.0.5 is unsynced with 0 days, 0.6190476190476191 more than average
+Branch dependabot/npm_and_yarn/prismjs-1.27.0 is unsynced with 0 days, 0.6190476190476191 more than average
+Branch dependabot/npm_and_yarn/terser-4.8.1 is unsynced with 0 days, 0.6190476190476191 more than average
+Branch dependabot/npm_and_yarn/url-parse-1.5.10 is unsynced with 0 days, 0.6190476190476191 more than average
+Branch master is unsynced with 0 days, 0.6190476190476191 more than average
+MEDIUM SEVERITY
+Branch 1.27.0, -1 days
+Branch 1.28.0, -1 days
+Branch 1.28.1, -1 days
+Branch 1.28.2, -1 days
+Branch 1.28.3, -1 days
+Branch 1.28.4, -1 days
+Branch 1.28.5, -1 days
+Branch 1.28.6, -1 days
+Branch 1.28.7, -1 days
+Branch 1.28.8, -1 days
+Branch 1.29.4, -1 days
+HIGH SEVERITY
+Branch 1.29.0, -2 days

@@ -1,0 +1,70 @@
+{
+  "slow_build": {
+    "amp-react-renderer-plugin": {
+      "data": {
+        "2021-04-19T23:32:02Z": 161777.77777777778,
+        "2021-04-28T05:43:55Z": 156777.77777777778,
+        "2021-05-06T13:09:51Z": 163366.66666666666,
+        "2021-05-24T20:34:41Z": 158166.66666666666
+      },
+      "tool": "TravisCI",
+      "total avg": 160022.22222222222,
+      "quartiles": {
+        "q1": 157819.44444444444,
+        "q3": 162175.0,
+        "iqr": 4355.555555555562
+      },
+      "classification": {
+        "high_severity": {
+          "322": 179000,
+          "330": 213000,
+          "331": 188000,
+          "363": 305000
+        },
+        "medium_severity": {
+          "325": 165000,
+          "329": 164000,
+          "342": 163000,
+          "351": 163000,
+          "361": 163000,
+          "366": 164000,
+          "380": 165000,
+          "382": 163000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "amp-react-renderer-plugin": {
+      "data": [],
+      "release_build_count": 43
+    }
+  },
+  "skip_failing_tests": {}
+}

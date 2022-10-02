@@ -1,0 +1,42 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1076.2173913043478 days
+Branch greenkeeper/coveralls-3.0.5 moved away from main with 1161 days, 84.78260869565224 more than average
+Branch greenkeeper/coveralls-pin-3.0.4 moved away from main with 1161 days, 84.78260869565224 more than average
+Branch greenkeeper/lint-staged-9.2.1 moved away from main with 1148 days, 71.78260869565224 more than average
+Branch greenkeeper/semantic-release-15.13.21 moved away from main with 1128 days, 51.78260869565224 more than average
+Branch greenkeeper/semantic-release-15.13.24 moved away from main with 1119 days, 42.78260869565224 more than average
+Branch greenkeeper/semantic-release-pin-15.13.20 moved away from main with 1128 days, 51.78260869565224 more than average
+Branch greenkeeper/@types/node-12.7.1 moved away from main with 1134 days, 57.78260869565224 more than average
+Branch greenkeeper/@types/node-12.7.2 moved away from main with 1127 days, 50.78260869565224 more than average
+Branch greenkeeper/@types/node-12.7.3 moved away from main with 1112 days, 35.78260869565224 more than average
+Branch greenkeeper/@types/node-12.7.4 moved away from main with 1107 days, 30.782608695652243 more than average
+Branch greenkeeper/@types/node-12.7.5 moved away from main with 1100 days, 23.782608695652243 more than average
+Branch greenkeeper/@types/node-pin-12.7.0 moved away from main with 1134 days, 57.78260869565224 more than average
+Branch greenkeeper/webpack-4.36.0 moved away from main with 1155 days, 78.78260869565224 more than average
+Branch greenkeeper/webpack-4.36.1 moved away from main with 1155 days, 78.78260869565224 more than average
+Branch greenkeeper/webpack-4.39.2 moved away from main with 1128 days, 51.78260869565224 more than average
+Branch greenkeeper/webpack-4.39.3 moved away from main with 1114 days, 37.78260869565224 more than average
+Branch greenkeeper/webpack-4.40.0 moved away from main with 1098 days, 21.782608695652243 more than average
+Branch greenkeeper/webpack-4.40.1 moved away from main with 1098 days, 21.782608695652243 more than average
+Branch greenkeeper/webpack-4.40.2 moved away from main with 1097 days, 20.782608695652243 more than average
+Branch greenkeeper/webpack-pin-4.35.3 moved away from main with 1155 days, 78.78260869565224 more than average
+Branch greenkeeper/webpack-pin-4.39.1 moved away from main with 1128 days, 51.78260869565224 more than average
+MEDIUM SEVERITY
+Branch greenkeeper/coveralls-3.0.5, 1161 days
+Branch greenkeeper/coveralls-pin-3.0.4, 1161 days
+Branch greenkeeper/lint-staged-9.2.1, 1148 days
+Branch greenkeeper/webpack-4.36.0, 1155 days
+Branch greenkeeper/webpack-4.36.1, 1155 days
+Branch greenkeeper/webpack-pin-4.35.3, 1155 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

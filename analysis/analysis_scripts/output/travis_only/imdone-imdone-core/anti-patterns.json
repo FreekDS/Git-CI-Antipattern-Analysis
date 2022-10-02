@@ -1,0 +1,307 @@
+{
+  "slow_build": {
+    "imdone-core": {
+      "data": {
+        "2021-04-11T22:40:59Z": 41363.63636363636,
+        "2021-04-19T03:48:46Z": 45304.34782608696,
+        "2021-04-30T21:42:27Z": 44000.0,
+        "2021-05-09T12:58:25Z": 44600.0,
+        "2021-05-30T16:03:46Z": 43000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 43653.596837944664,
+      "quartiles": {
+        "q1": 43000.0,
+        "q3": 44600.0,
+        "iqr": 1600.0
+      },
+      "classification": {
+        "high_severity": {
+          "784": 48000,
+          "786": 48000,
+          "792": 80000,
+          "798": 49000
+        },
+        "medium_severity": {
+          "781": 46000,
+          "788": 47000,
+          "790": 46000,
+          "791": 47000,
+          "794": 46000,
+          "797": 46000,
+          "800": 46000,
+          "799": 47000,
+          "801": 46000,
+          "802": 46000,
+          "803": 45000,
+          "804": 45000,
+          "805": 45000,
+          "806": 45000,
+          "807": 46000,
+          "808": 46000,
+          "809": 46000,
+          "819": 47000,
+          "821": 45000,
+          "823": 46000,
+          "825": 45000,
+          "826": 45000,
+          "827": 46000,
+          "830": 46000,
+          "833": 45000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.27.0": 89,
+      "1.28.0": 78,
+      "1.28.1": 73,
+      "1.28.2": 73,
+      "1.28.3": 72,
+      "1.28.4": 65,
+      "1.28.5": 64,
+      "1.28.6": 61,
+      "1.28.7": 60,
+      "1.28.8": 59,
+      "1.29.0": 1,
+      "1.29.4": -1,
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": 0,
+      "dependabot/npm_and_yarn/prismjs-1.27.0": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "1.27.0": 89,
+      "1.28.0": 78,
+      "1.28.1": 73,
+      "1.28.2": 73,
+      "1.28.3": 72,
+      "1.28.4": 65,
+      "1.28.5": 64,
+      "1.28.6": 61,
+      "1.28.7": 60,
+      "1.28.8": 59,
+      "1.29.0": 3,
+      "1.29.4": 0,
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 5,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 112,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 1,
+      "dependabot/npm_and_yarn/moment-2.29.4": -30,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": -101,
+      "dependabot/npm_and_yarn/prismjs-1.27.0": 101,
+      "dependabot/npm_and_yarn/terser-4.8.1": -43,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 99,
+      "master": 0
+    },
+    "unsynced activity": {
+      "1.27.0": -1,
+      "1.28.0": -1,
+      "1.28.1": -1,
+      "1.28.2": -1,
+      "1.28.3": -1,
+      "1.28.4": -1,
+      "1.28.5": -1,
+      "1.28.6": -1,
+      "1.28.7": -1,
+      "1.28.8": -1,
+      "1.29.0": -2,
+      "1.29.4": -1,
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": 0,
+      "dependabot/npm_and_yarn/prismjs-1.27.0": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "1.27.0",
+          "1.28.0",
+          "1.28.1",
+          "1.28.2",
+          "1.28.3"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "1.27.0",
+          "1.28.0",
+          "dependabot/npm_and_yarn/follow-redirects-1.14.8",
+          "dependabot/npm_and_yarn/parse-url-6.0.5",
+          "dependabot/npm_and_yarn/prismjs-1.27.0",
+          "dependabot/npm_and_yarn/url-parse-1.5.10"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "1.27.0",
+          "1.28.0",
+          "1.28.1",
+          "1.28.2",
+          "1.28.3",
+          "1.28.4",
+          "1.28.5",
+          "1.28.6",
+          "1.28.7",
+          "1.28.8",
+          "1.29.4"
+        ],
+        "high_severity": [
+          "1.29.0"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "imdone-core": {
+      "data": [
+        {
+          "started_at": "2021-04-11T22:42:34Z",
+          "used_tool": "TravisCI",
+          "number": 783
+        },
+        {
+          "started_at": "2021-04-12T15:53:54Z",
+          "used_tool": "TravisCI",
+          "number": 787
+        },
+        {
+          "started_at": "2021-04-19T03:49:33Z",
+          "used_tool": "TravisCI",
+          "number": 793
+        },
+        {
+          "started_at": "2021-04-21T04:30:08Z",
+          "used_tool": "TravisCI",
+          "number": 802
+        },
+        {
+          "started_at": "2021-04-21T04:31:19Z",
+          "used_tool": "TravisCI",
+          "number": 804
+        },
+        {
+          "started_at": "2021-04-21T04:49:45Z",
+          "used_tool": "TravisCI",
+          "number": 805
+        },
+        {
+          "started_at": "2021-04-22T12:52:17Z",
+          "used_tool": "TravisCI",
+          "number": 806
+        },
+        {
+          "started_at": "2021-04-24T19:11:31Z",
+          "used_tool": "TravisCI",
+          "number": 807
+        },
+        {
+          "started_at": "2021-04-24T19:12:40Z",
+          "used_tool": "TravisCI",
+          "number": 809
+        },
+        {
+          "started_at": "2021-04-24T19:28:34Z",
+          "used_tool": "TravisCI",
+          "number": 810
+        },
+        {
+          "started_at": "2021-04-25T04:23:30Z",
+          "used_tool": "TravisCI",
+          "number": 811
+        },
+        {
+          "started_at": "2021-04-25T04:24:47Z",
+          "used_tool": "TravisCI",
+          "number": 813
+        },
+        {
+          "started_at": "2021-04-25T04:34:43Z",
+          "used_tool": "TravisCI",
+          "number": 814
+        },
+        {
+          "started_at": "2021-04-30T21:42:27Z",
+          "used_tool": "TravisCI",
+          "number": 815
+        },
+        {
+          "started_at": "2021-05-01T19:46:59Z",
+          "used_tool": "TravisCI",
+          "number": 816
+        },
+        {
+          "started_at": "2021-05-01T19:48:06Z",
+          "used_tool": "TravisCI",
+          "number": 818
+        },
+        {
+          "started_at": "2021-05-06T16:18:57Z",
+          "used_tool": "TravisCI",
+          "number": 820
+        },
+        {
+          "started_at": "2021-05-09T12:58:25Z",
+          "used_tool": "TravisCI",
+          "number": 822
+        },
+        {
+          "started_at": "2021-05-11T23:44:40Z",
+          "used_tool": "TravisCI",
+          "number": 823
+        },
+        {
+          "started_at": "2021-05-14T18:28:01Z",
+          "used_tool": "TravisCI",
+          "number": 824
+        },
+        {
+          "started_at": "2021-05-14T18:29:19Z",
+          "used_tool": "TravisCI",
+          "number": 826
+        },
+        {
+          "started_at": "2021-05-14T18:29:36Z",
+          "used_tool": "TravisCI",
+          "number": 828
+        },
+        {
+          "started_at": "2021-05-14T18:30:25Z",
+          "used_tool": "TravisCI",
+          "number": 830
+        },
+        {
+          "started_at": "2021-05-30T16:03:46Z",
+          "used_tool": "TravisCI",
+          "number": 831
+        },
+        {
+          "started_at": "2021-05-31T14:43:26Z",
+          "used_tool": "TravisCI",
+          "number": 832
+        },
+        {
+          "started_at": "2021-06-03T15:42:23Z",
+          "used_tool": "TravisCI",
+          "number": 833
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 35
+    }
+  },
+  "skip_failing_tests": {}
+}

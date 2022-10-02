@@ -1,0 +1,26 @@
+Missed Activity
+=========================
+Branch dev-benedikt has 272 days of missed activity!
+Branch pr/375 has 157 days of missed activity!
+MEDIUM SEVERITY
+Branch dev-benedikt, 272 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 288.6 days
+Branch whiteOutline moved away from main with 777 days, 488.4 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch whiteOutline, 777 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.4 days
+Branch emoji14 is unsynced with 0 days, 0.4 more than average
+Branch master is unsynced with 0 days, 0.4 more than average
+Branch whiteOutline is unsynced with 0 days, 0.4 more than average
+MEDIUM SEVERITY
+Branch dev-benedikt, -1 days
+Branch pr/375, -1 days
+HIGH SEVERITY

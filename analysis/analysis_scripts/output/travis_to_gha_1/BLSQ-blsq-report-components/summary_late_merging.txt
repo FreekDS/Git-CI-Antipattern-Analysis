@@ -1,0 +1,27 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 659.6875 days
+Branch add-completionData-option moved away from main with 1155 days, 495.3125 more than average
+Branch add-custom-attributes-fields moved away from main with 1238 days, 578.3125 more than average
+Branch file-value-url moved away from main with 1201 days, 541.3125 more than average
+Branch fix-current-user moved away from main with 1355 days, 695.3125 more than average
+Branch fix-url moved away from main with 1202 days, 542.3125 more than average
+Branch gh-pages moved away from main with 1369 days, 709.3125 more than average
+Branch refactor-app moved away from main with 753 days, 93.3125 more than average
+Branch test-translations-periods moved away from main with 1119 days, 459.3125 more than average
+MEDIUM SEVERITY
+Branch add-custom-attributes-fields, 1238 days
+Branch fix-current-user, 1355 days
+Branch fix-url, 1202 days
+Branch gh-pages, 1369 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

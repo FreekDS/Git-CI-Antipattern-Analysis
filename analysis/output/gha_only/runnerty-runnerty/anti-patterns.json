@@ -3,14 +3,17 @@
   "late_merging": {
     "missed activity": {
       "2.9.0": 0,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.37": 0,
       "main": 0
     },
     "branch deviation": {
       "2.9.0": 498,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.37": -117,
       "main": 0
     },
     "unsynced activity": {
       "2.9.0": 0,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.37": 0,
       "main": 0
     },
     "classification": {

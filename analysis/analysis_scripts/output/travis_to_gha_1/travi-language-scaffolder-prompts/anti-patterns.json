@@ -1,0 +1,195 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2020-11-22T03:57:13Z": 107000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 107000.0,
+      "quartiles": {
+        "q1": 107000.0,
+        "q3": 107000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "language-scaffolder-prompts": {
+      "data": {
+        "2020-10-08T05:33:59Z": 66105.26315789473,
+        "2020-10-15T17:35:10Z": 62916.666666666664,
+        "2020-10-24T06:55:18Z": 60117.64705882353,
+        "2020-11-01T07:05:01Z": 63958.333333333336,
+        "2020-11-09T00:33:27Z": 63636.36363636364,
+        "2020-11-16T01:45:13Z": 64882.35294117647
+      },
+      "tool": "TravisCI",
+      "total avg": 63602.771132376394,
+      "quartiles": {
+        "q1": 63096.59090909091,
+        "q3": 64651.348039215685,
+        "iqr": 1554.7571301247735
+      },
+      "classification": {
+        "high_severity": {
+          "942": 73000,
+          "943": 74000,
+          "945": 78000,
+          "946": 67000,
+          "948": 74000,
+          "949": 76000,
+          "951": 76000,
+          "952": 71000,
+          "954": 75000,
+          "955": 71000,
+          "957": 75000,
+          "958": 74000,
+          "960": 73000,
+          "961": 73000,
+          "963": 72000,
+          "965": 78000,
+          "966": 72000,
+          "968": 76000,
+          "971": 77000,
+          "973": 72000,
+          "975": 76000,
+          "976": 71000,
+          "978": 70000,
+          "979": 73000,
+          "981": 71000,
+          "982": 72000,
+          "984": 69000,
+          "985": 70000,
+          "987": 76000,
+          "990": 71000,
+          "992": 71000,
+          "993": 69000,
+          "996": 71000,
+          "998": 84000,
+          "999": 74000,
+          "1002": 70000,
+          "1004": 84000,
+          "1005": 71000,
+          "1007": 71000,
+          "1009": 75000,
+          "1010": 68000,
+          "1012": 75000,
+          "1015": 75000,
+          "1017": 75000,
+          "1018": 75000,
+          "1020": 80000,
+          "1021": 71000,
+          "1023": 75000,
+          "1025": 75000,
+          "1026": 70000,
+          "1028": 74000,
+          "1029": 71000,
+          "1031": 74000,
+          "1032": 72000,
+          "1034": 73000,
+          "1035": 70000,
+          "1037": 69000,
+          "1038": 68000,
+          "1040": 71000,
+          "1041": 72000,
+          "1043": 77000,
+          "1044": 90000,
+          "1046": 75000,
+          "1047": 68000,
+          "1049": 74000,
+          "1051": 75000,
+          "1052": 68000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0,
+      "renovate/master-inquirer-9.x": 0
+    },
+    "branch deviation": {
+      "master": 0,
+      "renovate/master-inquirer-9.x": -1
+    },
+    "unsynced activity": {
+      "master": 0,
+      "renovate/master-inquirer-9.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "renovate/master-inquirer-9.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "language-scaffolder-prompts": {
+      "data": [
+        {
+          "started_at": "2020-10-15T17:35:14Z",
+          "used_tool": "TravisCI",
+          "number": 962
+        },
+        {
+          "started_at": "2020-10-16T19:17:12Z",
+          "used_tool": "TravisCI",
+          "number": 970
+        },
+        {
+          "started_at": "2020-10-16T21:23:52Z",
+          "used_tool": "TravisCI",
+          "number": 972
+        },
+        {
+          "started_at": "2020-10-26T00:33:59Z",
+          "used_tool": "TravisCI",
+          "number": 989
+        },
+        {
+          "started_at": "2020-10-28T10:23:51Z",
+          "used_tool": "TravisCI",
+          "number": 995
+        },
+        {
+          "started_at": "2020-10-30T20:48:12Z",
+          "used_tool": "TravisCI",
+          "number": 1001
+        },
+        {
+          "started_at": "2020-11-01T21:14:54Z",
+          "used_tool": "TravisCI",
+          "number": 1006
+        },
+        {
+          "started_at": "2020-11-02T23:06:30Z",
+          "used_tool": "TravisCI",
+          "number": 1014
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 72
+    }
+  },
+  "skip_failing_tests": {}
+}

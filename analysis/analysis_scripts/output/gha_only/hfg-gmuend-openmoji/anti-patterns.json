@@ -1,0 +1,121 @@
+{
+  "slow_build": {
+    "npm test": {
+      "data": {
+        "2021-04-23T12:47:50Z": 207500.0,
+        "2021-04-30T13:25:39Z": 198500.0,
+        "2021-05-10T08:38:30Z": 5384500.0,
+        "2021-05-18T13:06:56Z": 250000.0,
+        "2021-06-29T06:44:16Z": 193000.0,
+        "2021-07-07T06:48:20Z": 197000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1071750.0,
+      "quartiles": {
+        "q1": 197375.0,
+        "q3": 239375.0,
+        "iqr": 42000.0
+      },
+      "classification": {
+        "high_severity": {
+          "416": 20999000
+        },
+        "medium_severity": {
+          "407": 242000,
+          "417": 250000
+        }
+      }
+    },
+    "npm run test-dev": {
+      "data": {
+        "2021-04-10T11:43:42Z": 193000.0,
+        "2021-04-23T23:06:26Z": 194000.0,
+        "2021-05-04T11:05:51Z": 170250.0,
+        "2021-05-12T07:21:46Z": 4854333.333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 1352895.8333333333,
+      "quartiles": {
+        "q1": 187312.5,
+        "q3": 1359083.3333333333,
+        "iqr": 1171770.8333333333
+      },
+      "classification": {
+        "high_severity": {
+          "286": 11831000
+        },
+        "medium_severity": {
+          "289": 2578000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dev-benedikt": 272,
+      "emoji14": 0,
+      "master": 0,
+      "pr/375": 157,
+      "whiteOutline": 0
+    },
+    "branch deviation": {
+      "dev-benedikt": 273,
+      "emoji14": 236,
+      "master": 0,
+      "pr/375": 157,
+      "whiteOutline": 777
+    },
+    "unsynced activity": {
+      "dev-benedikt": -1,
+      "emoji14": 0,
+      "master": 0,
+      "pr/375": -1,
+      "whiteOutline": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "dev-benedikt"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "whiteOutline"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "dev-benedikt",
+          "pr/375"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "npm test": {
+      "data": [],
+      "release_build_count": 14
+    },
+    "npm run test-dev": {
+      "data": [
+        {
+          "started_at": "2021-05-10T08:38:15Z",
+          "used_tool": "Github Actions",
+          "number": 285
+        },
+        {
+          "started_at": "2021-05-12T07:21:46Z",
+          "used_tool": "Github Actions",
+          "number": 286
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 5
+    }
+  },
+  "skip_failing_tests": {}
+}

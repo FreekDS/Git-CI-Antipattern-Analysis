@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 967.2 days
+Branch develop moved away from main with 2133 days, 1165.8 more than average
+Branch feature/threeline-performance moved away from main with 1878 days, 910.8 more than average
+MEDIUM SEVERITY
+Branch develop, 2133 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

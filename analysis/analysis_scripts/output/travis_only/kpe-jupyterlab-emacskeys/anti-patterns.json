@@ -1,0 +1,60 @@
+{
+  "slow_build": {
+    "jupyterlab-emacskeys": {
+      "data": {
+        "2021-05-18T13:45:12Z": 44285.71428571428,
+        "2021-05-29T00:20:19Z": 43000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 43642.857142857145,
+      "quartiles": {
+        "q1": 43321.42857142857,
+        "q3": 43964.28571428571,
+        "iqr": 642.8571428571377
+      },
+      "classification": {
+        "high_severity": {
+          "48": 49000,
+          "50": 49000,
+          "49": 48000,
+          "51": 49000,
+          "52": 54000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "jupyterlab-emacskeys": {
+      "data": [],
+      "release_build_count": 4
+    }
+  },
+  "skip_failing_tests": {}
+}

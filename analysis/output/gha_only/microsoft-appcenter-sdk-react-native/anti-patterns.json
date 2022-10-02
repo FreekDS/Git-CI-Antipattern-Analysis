@@ -1,0 +1,140 @@
+{
+  "slow_build": {
+    "Code Scanning - Action": {
+      "data": {
+        "2021-04-11T00:16:17Z": 130000.0,
+        "2021-04-25T00:15:24Z": 131750.0,
+        "2021-05-04T10:37:32Z": 136181.81818181818,
+        "2021-05-11T15:06:56Z": 247000.0,
+        "2021-05-23T00:09:19Z": 122666.66666666667,
+        "2021-05-30T00:20:06Z": 126333.33333333333,
+        "2021-06-13T00:06:19Z": 116000.0,
+        "2021-06-20T00:06:46Z": 132545.45454545456,
+        "2021-06-28T09:11:45Z": 126500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 140997.47474747474,
+      "quartiles": {
+        "q1": 126333.33333333333,
+        "q3": 132545.45454545456,
+        "iqr": 6212.12121212123
+      },
+      "classification": {
+        "high_severity": {
+          "249": 147000,
+          "253": 152000,
+          "255": 143000,
+          "256": 689000,
+          "266": 167000,
+          "270": 142000,
+          "276": 148000,
+          "277": 142000
+        },
+        "medium_severity": {
+          "241": 133000,
+          "242": 140000,
+          "243": 137000,
+          "244": 139000,
+          "245": 139000,
+          "247": 139000,
+          "252": 141000,
+          "254": 137000,
+          "257": 136000,
+          "259": 136000,
+          "262": 137000,
+          "269": 137000,
+          "272": 137000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "TestCIBuild": 0,
+      "TestCustomerCrashIssue909": 0,
+      "TestPostCloneBuild": 0,
+      "demoapp-shared": 0,
+      "develop": 45,
+      "fix-cleaner": 0,
+      "master": 0,
+      "patch/3.1.3": 0,
+      "release/update-demo-apps": 0,
+      "test-appsecret": 0,
+      "test-appsecret2": 0,
+      "test-build-4-3-1": 0,
+      "testGradlePatch": 0,
+      "v4.3.0-branch": 0,
+      "v-dmkira/fix-demo-app": 0,
+      "v-dmkira/fix-rn-build": 0,
+      "v-dmkira/test-fix-rn-69": 0
+    },
+    "branch deviation": {
+      "TestCIBuild": 217,
+      "TestCustomerCrashIssue909": 220,
+      "TestPostCloneBuild": 224,
+      "demoapp-shared": 529,
+      "develop": 0,
+      "fix-cleaner": 130,
+      "master": 42,
+      "patch/3.1.3": 651,
+      "release/update-demo-apps": 231,
+      "test-appsecret": 320,
+      "test-appsecret2": 129,
+      "test-build-4-3-1": 349,
+      "testGradlePatch": 229,
+      "v4.3.0-branch": 350,
+      "v-dmkira/fix-demo-app": 229,
+      "v-dmkira/fix-rn-build": 349,
+      "v-dmkira/test-fix-rn-69": 66
+    },
+    "unsynced activity": {
+      "TestCIBuild": 0,
+      "TestCustomerCrashIssue909": 0,
+      "TestPostCloneBuild": 0,
+      "demoapp-shared": 0,
+      "develop": 45,
+      "fix-cleaner": 0,
+      "master": 0,
+      "patch/3.1.3": 0,
+      "release/update-demo-apps": 0,
+      "test-appsecret": 0,
+      "test-appsecret2": 0,
+      "test-build-4-3-1": 0,
+      "testGradlePatch": 0,
+      "v4.3.0-branch": 0,
+      "v-dmkira/fix-demo-app": 0,
+      "v-dmkira/fix-rn-build": 0,
+      "v-dmkira/test-fix-rn-69": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "demoapp-shared",
+          "patch/3.1.3",
+          "v4.3.0-branch"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Code Scanning - Action": {
+      "data": [],
+      "release_build_count": 19
+    }
+  },
+  "skip_failing_tests": {}
+}

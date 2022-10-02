@@ -1,0 +1,183 @@
+{
+  "slow_build": {
+    "Elyra Canvas publish": {
+      "data": {
+        "2020-12-02T23:51:29Z": 531000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 531000.0,
+      "quartiles": {
+        "q1": 531000.0,
+        "q3": 531000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Elyra Canvas build": {
+      "data": {
+        "2020-12-01T21:03:25Z": 1332142.857142857
+      },
+      "tool": "Github Actions",
+      "total avg": 1332142.857142857,
+      "quartiles": {
+        "q1": 1332142.857142857,
+        "q3": 1332142.857142857,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 1381000,
+          "2": 1518000,
+          "3": 1388000,
+          "4": 1356000,
+          "5": 1358000,
+          "6": 1381000,
+          "11": 1554000,
+          "13": 1336000,
+          "14": 1535000,
+          "15": 1407000,
+          "16": 1439000,
+          "17": 1465000,
+          "19": 1418000,
+          "21": 1367000
+        },
+        "medium_severity": {}
+      }
+    },
+    "canvas": {
+      "data": {
+        "2020-11-18T00:42:04Z": 1341794.8717948718,
+        "2020-11-25T04:51:32Z": 923333.3333333334
+      },
+      "tool": "TravisCI",
+      "total avg": 1132564.1025641025,
+      "quartiles": {
+        "q1": 1027948.717948718,
+        "q3": 1237179.4871794872,
+        "iqr": 209230.76923076925
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "147": 1385000,
+          "148": 1269000,
+          "149": 1294000,
+          "151": 1266000,
+          "152": 1320000,
+          "153": 1454000,
+          "155": 1340000,
+          "156": 1427000,
+          "157": 1450000,
+          "158": 1338000,
+          "159": 1305000,
+          "160": 1372000,
+          "161": 1446000,
+          "162": 1342000,
+          "163": 1414000,
+          "164": 1407000,
+          "165": 1351000,
+          "166": 1402000,
+          "167": 1392000,
+          "168": 1420000,
+          "169": 1388000,
+          "172": 1248000,
+          "173": 1427000,
+          "174": 1455000,
+          "176": 1402000,
+          "177": 1285000,
+          "178": 1429000,
+          "179": 1257000,
+          "180": 1312000,
+          "181": 1246000,
+          "182": 1303000,
+          "183": 1392000,
+          "184": 1274000,
+          "185": 1438000,
+          "186": 1378000,
+          "188": 1260000,
+          "191": 1433000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0,
+      "master-backup-20200327": 0,
+      "release": 0
+    },
+    "branch deviation": {
+      "main": 0,
+      "master-backup-20200327": 914,
+      "release": 663
+    },
+    "unsynced activity": {
+      "main": 0,
+      "master-backup-20200327": 0,
+      "release": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "master-backup-20200327"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Elyra Canvas build": {
+      "data": [],
+      "release_build_count": 7
+    },
+    "canvas": {
+      "data": [
+        {
+          "started_at": "2020-11-19T01:08:52Z",
+          "used_tool": "TravisCI",
+          "number": 162
+        },
+        {
+          "started_at": "2020-11-19T01:09:32Z",
+          "used_tool": "TravisCI",
+          "number": 163
+        },
+        {
+          "started_at": "2020-11-19T23:38:59Z",
+          "used_tool": "TravisCI",
+          "number": 178
+        },
+        {
+          "started_at": "2020-11-25T23:27:34Z",
+          "used_tool": "TravisCI",
+          "number": 187
+        },
+        {
+          "started_at": "2020-11-25T23:35:02Z",
+          "used_tool": "TravisCI",
+          "number": 189
+        },
+        {
+          "started_at": "2020-11-26T20:53:31Z",
+          "used_tool": "TravisCI",
+          "number": 190
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 43
+    }
+  },
+  "skip_failing_tests": {}
+}

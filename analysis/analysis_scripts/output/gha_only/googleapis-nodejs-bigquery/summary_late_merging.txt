@@ -1,0 +1,44 @@
+Missed Activity
+=========================
+Branch release-please--branches--main has 174 days of missed activity!
+MEDIUM SEVERITY
+Branch release-please--branches--main, 174 seconds
+
+Branch Deviation
+=========================
+Average deviation: 550.6875 days
+Branch autosynth moved away from main with 750 days, 199.3125 more than average
+Branch autosynth-self moved away from main with 639 days, 88.3125 more than average
+Branch bcb-to-fb moved away from main with 589 days, 38.3125 more than average
+Branch feat-source-map moved away from main with 950 days, 399.3125 more than average
+Branch fhinkel-cloudrad moved away from main with 588 days, 37.3125 more than average
+Branch gts3alpha1 moved away from main with 732 days, 181.3125 more than average
+Branch gts-re moved away from main with 860 days, 309.3125 more than average
+Branch jsdoc_update_protos moved away from main with 923 days, 372.3125 more than average
+Branch notslint moved away from main with 878 days, 327.3125 more than average
+Branch release-v4.4.1 moved away from main with 1018 days, 467.3125 more than average
+Branch release-v5.2.0 moved away from main with 756 days, 205.3125 more than average
+Branch release-v5.2.1 moved away from main with 716 days, 165.3125 more than average
+Branch release-v5.3.1 moved away from main with 680 days, 129.3125 more than average
+Branch release-v5.5.1 moved away from main with 583 days, 32.3125 more than average
+Branch rm-pret moved away from main with 878 days, 327.3125 more than average
+Branch syfix moved away from main with 876 days, 325.3125 more than average
+Branch sync-query moved away from main with 916 days, 365.3125 more than average
+MEDIUM SEVERITY
+Branch feat-source-map, 950 days
+Branch gts-re, 860 days
+Branch jsdoc_update_protos, 923 days
+Branch notslint, 878 days
+Branch release-v4.4.1, 1018 days
+Branch rm-pret, 878 days
+Branch syfix, 876 days
+Branch sync-query, 916 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 1.59375 days
+Branch release-please--branches--main is unsynced with 51 days, 49.40625 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch release-please--branches--main, 51 days

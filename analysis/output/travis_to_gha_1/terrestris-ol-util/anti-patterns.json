@@ -1,0 +1,130 @@
+{
+  "slow_build": {
+    "Run coveralls": {
+      "data": {
+        "2021-01-25T15:03:56Z": 106000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 106000.0,
+      "quartiles": {
+        "q1": 106000.0,
+        "q3": 106000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "ol-util": {
+      "data": {
+        "2020-12-16T05:14:00Z": 271727.2727272727,
+        "2020-12-28T05:03:06Z": 292454.54545454547,
+        "2021-01-04T05:08:53Z": 298000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 287393.9393939394,
+      "quartiles": {
+        "q1": 282090.90909090906,
+        "q3": 295227.2727272727,
+        "iqr": 13136.363636363647
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "1202": 297000,
+          "1203": 298000,
+          "1206": 297000,
+          "1215": 298000,
+          "1218": 298000,
+          "1221": 298000,
+          "1222": 301000,
+          "1223": 299000,
+          "1224": 314000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ol-6.15.1": 0,
+      "enable-strict": 170,
+      "foldertoggle": 524,
+      "gh-pages": 0,
+      "greenkeeper/babel-eslint-pin-10.0.3": 0,
+      "master": 0,
+      "ol4": 0,
+      "permalink": 552
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ol-6.15.1": -1,
+      "enable-strict": 170,
+      "foldertoggle": 524,
+      "gh-pages": 36,
+      "greenkeeper/babel-eslint-pin-10.0.3": 929,
+      "master": 0,
+      "ol4": 1388,
+      "permalink": 552
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ol-6.15.1": 0,
+      "enable-strict": -1,
+      "foldertoggle": -1,
+      "gh-pages": 0,
+      "greenkeeper/babel-eslint-pin-10.0.3": 0,
+      "master": 0,
+      "ol4": 0,
+      "permalink": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "foldertoggle",
+          "permalink"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "greenkeeper/babel-eslint-pin-10.0.3",
+          "ol4"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "enable-strict",
+          "foldertoggle",
+          "permalink"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Run coveralls": {
+      "data": [
+        {
+          "started_at": "2021-01-25T15:03:56Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 1
+    },
+    "ol-util": {
+      "data": [
+        {
+          "started_at": "2020-12-17T14:17:20Z",
+          "used_tool": "TravisCI",
+          "number": 1205
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 17
+    }
+  },
+  "skip_failing_tests": {}
+}

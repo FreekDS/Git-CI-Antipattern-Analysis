@@ -1,0 +1,159 @@
+{
+  "slow_build": {
+    "Test": {
+      "data": {
+        "2021-04-08T10:16:14Z": 97800.0,
+        "2021-04-22T13:22:21Z": 112000.0,
+        "2021-04-29T21:36:38Z": 112875.0,
+        "2021-05-10T11:03:50Z": 100400.0,
+        "2021-05-18T09:14:37Z": 101714.28571428571,
+        "2021-05-27T08:55:48Z": 103444.44444444444,
+        "2021-06-04T08:38:11Z": 106500.0,
+        "2021-06-14T09:21:15Z": 98571.42857142857,
+        "2021-06-21T09:24:41Z": 90571.42857142857,
+        "2021-06-29T08:36:33Z": 99076.92307692308,
+        "2021-07-07T08:45:07Z": 84000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 100632.1373071373,
+      "quartiles": {
+        "q1": 98185.71428571429,
+        "q3": 104972.22222222222,
+        "iqr": 6786.507936507929
+      },
+      "classification": {
+        "high_severity": {
+          "437": 116000,
+          "438": 145000,
+          "440": 119000,
+          "444": 138000,
+          "445": 137000,
+          "446": 120000,
+          "469": 117000,
+          "473": 117000,
+          "478": 120000,
+          "483": 119000,
+          "489": 119000,
+          "494": 116000
+        },
+        "medium_severity": {
+          "433": 111000,
+          "435": 114000,
+          "436": 113000,
+          "449": 108000,
+          "452": 108000,
+          "453": 112000,
+          "457": 109000,
+          "460": 108000,
+          "464": 108000,
+          "471": 115000,
+          "480": 113000,
+          "481": 113000,
+          "484": 108000,
+          "485": 111000,
+          "488": 106000,
+          "505": 105000,
+          "506": 114000,
+          "513": 111000
+        }
+      }
+    },
+    "Publish": {
+      "data": {
+        "2021-05-06T19:26:12Z": 112000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 112000.0,
+      "quartiles": {
+        "q1": 112000.0,
+        "q3": 112000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/mongodb-4.9.1": 0,
+      "dependabot/npm_and_yarn/mongoose-6.6.1": 0,
+      "dependabot/npm_and_yarn/pg-8.8.0": 0,
+      "dependabot/npm_and_yarn/ts-jest-28.0.8": 0,
+      "dependabot/npm_and_yarn/types/jest-28.1.8": 0,
+      "dependabot/npm_and_yarn/types/node-18.7.18": 0,
+      "dependabot/npm_and_yarn/typescript-4.8.3": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0": 0,
+      "development": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/eslint-8.23.1": -49,
+      "dependabot/npm_and_yarn/mongodb-4.9.1": -38,
+      "dependabot/npm_and_yarn/mongoose-6.6.1": -52,
+      "dependabot/npm_and_yarn/pg-8.8.0": -30,
+      "dependabot/npm_and_yarn/ts-jest-28.0.8": -21,
+      "dependabot/npm_and_yarn/types/jest-28.1.8": -31,
+      "dependabot/npm_and_yarn/types/node-18.7.18": -51,
+      "dependabot/npm_and_yarn/typescript-4.8.3": -46,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0": -50,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0": -50,
+      "development": -49,
+      "main": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/mongodb-4.9.1": 0,
+      "dependabot/npm_and_yarn/mongoose-6.6.1": 0,
+      "dependabot/npm_and_yarn/pg-8.8.0": 0,
+      "dependabot/npm_and_yarn/ts-jest-28.0.8": 0,
+      "dependabot/npm_and_yarn/types/jest-28.1.8": 0,
+      "dependabot/npm_and_yarn/types/node-18.7.18": 0,
+      "dependabot/npm_and_yarn/typescript-4.8.3": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0": 0,
+      "development": 48,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/npm_and_yarn/eslint-8.23.1",
+          "dependabot/npm_and_yarn/mongodb-4.9.1",
+          "dependabot/npm_and_yarn/mongoose-6.6.1",
+          "dependabot/npm_and_yarn/pg-8.8.0",
+          "dependabot/npm_and_yarn/ts-jest-28.0.8",
+          "dependabot/npm_and_yarn/types/jest-28.1.8",
+          "dependabot/npm_and_yarn/types/node-18.7.18",
+          "dependabot/npm_and_yarn/typescript-4.8.3",
+          "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0",
+          "dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0",
+          "development",
+          "main"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "development"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Publish": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

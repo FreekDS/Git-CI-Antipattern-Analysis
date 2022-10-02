@@ -18,14 +18,14 @@ Branch yosssi-master, 2983 seconds
 
 Branch Deviation
 =========================
-Average deviation: 1371.2105263157894 days
-Branch allowconcurrent moved away from main with 3097 days, 1725.7894736842106 more than average
-Branch auth moved away from main with 3097 days, 1725.7894736842106 more than average
-Branch compatibility moved away from main with 2897 days, 1525.7894736842106 more than average
-Branch events moved away from main with 2917 days, 1545.7894736842106 more than average
-Branch michelle-express-rewrite moved away from main with 2604 days, 1232.7894736842106 more than average
-Branch xhr-rewrite moved away from main with 3241 days, 1869.7894736842106 more than average
-Branch yosssi-master moved away from main with 2983 days, 1611.7894736842106 more than average
+Average deviation: 1293.35 days
+Branch allowconcurrent moved away from main with 3097 days, 1803.65 more than average
+Branch auth moved away from main with 3097 days, 1803.65 more than average
+Branch compatibility moved away from main with 2897 days, 1603.65 more than average
+Branch events moved away from main with 2917 days, 1623.65 more than average
+Branch michelle-express-rewrite moved away from main with 2604 days, 1310.65 more than average
+Branch xhr-rewrite moved away from main with 3241 days, 1947.65 more than average
+Branch yosssi-master moved away from main with 2983 days, 1689.65 more than average
 MEDIUM SEVERITY
 Branch allowconcurrent, 3097 days
 Branch auth, 3097 days
@@ -36,20 +36,21 @@ HIGH SEVERITY
 
 Unsynced activity
 =========================
-Average unsynced: -0.9473684210526315 days
-Branch allowconcurrent is unsynced with 0 days, 0.9473684210526315 more than average
-Branch auth is unsynced with 0 days, 0.9473684210526315 more than average
-Branch compatibility is unsynced with 0 days, 0.9473684210526315 more than average
-Branch dependabot/npm_and_yarn/ajv-6.12.6 is unsynced with 0 days, 0.9473684210526315 more than average
-Branch dependabot/npm_and_yarn/minimist-1.2.6 is unsynced with 0 days, 0.9473684210526315 more than average
-Branch dependabot/npm_and_yarn/pathval-1.1.1 is unsynced with 0 days, 0.9473684210526315 more than average
-Branch dependabot/npm_and_yarn/url-parse-1.5.10 is unsynced with 0 days, 0.9473684210526315 more than average
-Branch feature/extendTransferMessages is unsynced with 0 days, 0.9473684210526315 more than average
-Branch fix-binary is unsynced with 0 days, 0.9473684210526315 more than average
-Branch master is unsynced with 0 days, 0.9473684210526315 more than average
-Branch michelle-express-rewrite is unsynced with 0 days, 0.9473684210526315 more than average
-Branch v0.2.9 is unsynced with 0 days, 0.9473684210526315 more than average
-Branch xhr-rewrite is unsynced with 0 days, 0.9473684210526315 more than average
+Average unsynced: -0.9 days
+Branch allowconcurrent is unsynced with 0 days, 0.9 more than average
+Branch auth is unsynced with 0 days, 0.9 more than average
+Branch compatibility is unsynced with 0 days, 0.9 more than average
+Branch dependabot/npm_and_yarn/ajv-6.12.6 is unsynced with 0 days, 0.9 more than average
+Branch dependabot/npm_and_yarn/minimist-1.2.6 is unsynced with 0 days, 0.9 more than average
+Branch dependabot/npm_and_yarn/pathval-1.1.1 is unsynced with 0 days, 0.9 more than average
+Branch dependabot/npm_and_yarn/shell-quote-1.7.3 is unsynced with 0 days, 0.9 more than average
+Branch dependabot/npm_and_yarn/url-parse-1.5.10 is unsynced with 0 days, 0.9 more than average
+Branch feature/extendTransferMessages is unsynced with 0 days, 0.9 more than average
+Branch fix-binary is unsynced with 0 days, 0.9 more than average
+Branch master is unsynced with 0 days, 0.9 more than average
+Branch michelle-express-rewrite is unsynced with 0 days, 0.9 more than average
+Branch v0.2.9 is unsynced with 0 days, 0.9 more than average
+Branch xhr-rewrite is unsynced with 0 days, 0.9 more than average
 MEDIUM SEVERITY
 Branch feature/brokenConnectionDetection, -1 days
 Branch refactoring/convertToLib, -1 days

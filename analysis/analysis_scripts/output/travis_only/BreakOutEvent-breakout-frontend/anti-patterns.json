@@ -1,0 +1,165 @@
+{
+  "slow_build": {
+    "breakout-frontend": {
+      "data": {
+        "2021-04-14T21:23:01Z": 226093.02325581395,
+        "2021-06-05T09:49:51Z": 394000.0,
+        "2021-06-20T09:17:39Z": 218000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 279364.3410852713,
+      "quartiles": {
+        "q1": 222046.511627907,
+        "q3": 310046.511627907,
+        "iqr": 88000.0
+      },
+      "classification": {
+        "high_severity": {
+          "1010": 477000
+        },
+        "medium_severity": {
+          "1020": 316000,
+          "1041": 411000,
+          "1045": 318000,
+          "1050": 394000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "Create-Event": 0,
+      "develop": 2240,
+      "donationSumPage": 0,
+      "feature_Globale_ChallengesSponsorings": 0,
+      "feature/adjustment_feed": 0,
+      "feature/cookie": 0,
+      "feature/move-team-profile": 0,
+      "feature/update-strings": 0,
+      "features/385-remove-instafeed": 0,
+      "fix-new-team-name-on-old-profile": 0,
+      "fix-translations-to-zeltschule": 0,
+      "freature/progressbar": 0,
+      "improve-docker": 0,
+      "master": 0,
+      "postgre": 0,
+      "random-color-map": 0,
+      "removeComment": 0,
+      "test-new-admin-interface": 0
+    },
+    "branch deviation": {
+      "Create-Event": 120,
+      "develop": 0,
+      "donationSumPage": 1707,
+      "feature_Globale_ChallengesSponsorings": 64,
+      "feature/adjustment_feed": 32,
+      "feature/cookie": 476,
+      "feature/move-team-profile": 56,
+      "feature/update-strings": 459,
+      "features/385-remove-instafeed": 105,
+      "fix-new-team-name-on-old-profile": 1170,
+      "fix-translations-to-zeltschule": 1171,
+      "freature/progressbar": 1886,
+      "improve-docker": 123,
+      "master": 1995,
+      "postgre": 2306,
+      "random-color-map": 1032,
+      "removeComment": 32,
+      "test-new-admin-interface": 1625
+    },
+    "unsynced activity": {
+      "Create-Event": 0,
+      "develop": 2240,
+      "donationSumPage": 0,
+      "feature_Globale_ChallengesSponsorings": 0,
+      "feature/adjustment_feed": 0,
+      "feature/cookie": 0,
+      "feature/move-team-profile": 0,
+      "feature/update-strings": 0,
+      "features/385-remove-instafeed": 0,
+      "fix-new-team-name-on-old-profile": 0,
+      "fix-translations-to-zeltschule": 0,
+      "freature/progressbar": 0,
+      "improve-docker": 0,
+      "master": 0,
+      "postgre": 0,
+      "random-color-map": 0,
+      "removeComment": 0,
+      "test-new-admin-interface": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "donationSumPage",
+          "freature/progressbar",
+          "master",
+          "postgre",
+          "test-new-admin-interface"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "breakout-frontend": {
+      "data": [
+        {
+          "started_at": "2021-04-15T11:05:56Z",
+          "used_tool": "TravisCI",
+          "number": 1014
+        },
+        {
+          "started_at": "2021-04-17T15:30:01Z",
+          "used_tool": "TravisCI",
+          "number": 1027
+        },
+        {
+          "started_at": "2021-04-17T15:52:21Z",
+          "used_tool": "TravisCI",
+          "number": 1029
+        },
+        {
+          "started_at": "2021-04-17T16:13:23Z",
+          "used_tool": "TravisCI",
+          "number": 1031
+        },
+        {
+          "started_at": "2021-04-20T20:05:56Z",
+          "used_tool": "TravisCI",
+          "number": 1035
+        },
+        {
+          "started_at": "2021-04-20T20:23:11Z",
+          "used_tool": "TravisCI",
+          "number": 1037
+        },
+        {
+          "started_at": "2021-04-20T20:23:38Z",
+          "used_tool": "TravisCI",
+          "number": 1038
+        },
+        {
+          "started_at": "2021-06-20T09:17:39Z",
+          "used_tool": "TravisCI",
+          "number": 1051
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 28
+    }
+  },
+  "skip_failing_tests": {}
+}

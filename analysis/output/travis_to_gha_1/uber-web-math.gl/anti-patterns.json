@@ -1,0 +1,170 @@
+{
+  "slow_build": {
+    "test": {
+      "data": {
+        "2020-10-27T18:44:53Z": 186000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 186000.0,
+      "quartiles": {
+        "q1": 186000.0,
+        "q3": 186000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "math.gl": {
+      "data": {
+        "2020-09-24T00:31:55Z": 543461.5384615385,
+        "2020-10-06T09:59:50Z": 549350.0,
+        "2020-10-13T17:47:05Z": 530000.0,
+        "2020-10-27T18:43:37Z": 536000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 539702.8846153846,
+      "quartiles": {
+        "q1": 534500.0,
+        "q3": 544933.6538461539,
+        "iqr": 10433.653846153873
+      },
+      "classification": {
+        "high_severity": {
+          "838": 564000,
+          "839": 641000,
+          "840": 614000,
+          "844": 569000,
+          "845": 573000,
+          "851": 572000,
+          "853": 570000,
+          "856": 569000,
+          "858": 567000,
+          "867": 583000,
+          "868": 582000
+        },
+        "medium_severity": {
+          "837": 551000,
+          "841": 546000,
+          "843": 551000,
+          "847": 546000,
+          "850": 550000,
+          "855": 545000,
+          "860": 552000,
+          "859": 546000,
+          "861": 551000,
+          "862": 554000,
+          "866": 556000,
+          "869": 549000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.0-release": 0,
+      "1.1-release": 0,
+      "2.0-release": 0,
+      "2.3-release": 0,
+      "3.0-release": 0,
+      "3.1-release": 0,
+      "3.2-release": 0,
+      "3.3-release": 0,
+      "3.4-release": 0,
+      "3.5-release": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "fix-ci": 0,
+      "gh-pages": 0,
+      "global-config": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "1.0-release": 1598,
+      "1.1-release": 1569,
+      "2.0-release": 1253,
+      "2.3-release": 1161,
+      "3.0-release": 944,
+      "3.1-release": 814,
+      "3.2-release": 757,
+      "3.3-release": 573,
+      "3.4-release": 187,
+      "3.5-release": 187,
+      "dependabot/npm_and_yarn/terser-4.8.1": 14,
+      "fix-ci": 185,
+      "gh-pages": 384,
+      "global-config": 185,
+      "master": 0
+    },
+    "unsynced activity": {
+      "1.0-release": 0,
+      "1.1-release": 0,
+      "2.0-release": 0,
+      "2.3-release": 0,
+      "3.0-release": 0,
+      "3.1-release": 0,
+      "3.2-release": 0,
+      "3.3-release": 0,
+      "3.4-release": 0,
+      "3.5-release": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "fix-ci": 0,
+      "gh-pages": 0,
+      "global-config": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "1.0-release",
+          "1.1-release",
+          "2.0-release",
+          "2.3-release"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "test": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "math.gl": {
+      "data": [
+        {
+          "started_at": "2020-09-24T18:45:44Z",
+          "used_tool": "TravisCI",
+          "number": 842
+        },
+        {
+          "started_at": "2020-09-28T14:26:26Z",
+          "used_tool": "TravisCI",
+          "number": 848
+        },
+        {
+          "started_at": "2020-09-28T14:39:00Z",
+          "used_tool": "TravisCI",
+          "number": 849
+        },
+        {
+          "started_at": "2020-10-08T12:26:58Z",
+          "used_tool": "TravisCI",
+          "number": 864
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 22
+    }
+  },
+  "skip_failing_tests": {}
+}

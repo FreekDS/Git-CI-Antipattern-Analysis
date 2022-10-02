@@ -1,0 +1,263 @@
+{
+  "slow_build": {
+    "Waffle": {
+      "data": {
+        "2019-11-08T13:13:28Z": 141642.85714285713,
+        "2019-11-29T09:42:42Z": 142562.5,
+        "2019-12-07T10:12:55Z": 130833.33333333333,
+        "2019-12-19T08:36:18Z": 105735.29411764706
+      },
+      "tool": "TravisCI",
+      "total avg": 130193.49614845938,
+      "quartiles": {
+        "q1": 124558.82352941176,
+        "q3": 141872.76785714284,
+        "iqr": 17313.94432773108
+      },
+      "classification": {
+        "high_severity": {
+          "509": 172000,
+          "510": 180000,
+          "511": 194000,
+          "512": 187000,
+          "520": 191000
+        },
+        "medium_severity": {
+          "502": 150000,
+          "521": 147000,
+          "522": 155000,
+          "524": 157000,
+          "525": 159000,
+          "526": 158000,
+          "533": 146000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-buidler": 0,
+      "block-with-tx": 0,
+      "bump": 0,
+      "compiler-url": 0,
+      "console.log": 0,
+      "fast-ci": 0,
+      "geth/experiments": 0,
+      "geth/napi": 0,
+      "integrate-buidler-evm": 0,
+      "integrate-hardhat-evm": 0,
+      "marekkirejczyk-patch-1": 0,
+      "master": 0,
+      "mock-contract-revert-and-args": 0,
+      "rebased/typechain-integration": 0,
+      "revert-location": 0,
+      "rzadp/big-number-test": 0,
+      "rzadp/ci-tests": 0,
+      "rzadp/simplify-tsconfigs": 0,
+      "upgrading_dependencies": 0,
+      "v2.5.0": 0,
+      "v2.5.1": 0,
+      "waffle-earl": 0,
+      "waffle-geth": 0,
+      "yivlad/make-ethers-peer": 0
+    },
+    "branch deviation": {
+      "add-buidler": 1040,
+      "block-with-tx": 283,
+      "bump": 808,
+      "compiler-url": 647,
+      "console.log": 826,
+      "fast-ci": 541,
+      "geth/experiments": 153,
+      "geth/napi": 151,
+      "integrate-buidler-evm": 682,
+      "integrate-hardhat-evm": 682,
+      "marekkirejczyk-patch-1": 549,
+      "master": 0,
+      "mock-contract-revert-and-args": 861,
+      "rebased/typechain-integration": 620,
+      "revert-location": 841,
+      "rzadp/big-number-test": 20,
+      "rzadp/ci-tests": 174,
+      "rzadp/simplify-tsconfigs": -17,
+      "upgrading_dependencies": 403,
+      "v2.5.0": 846,
+      "v2.5.1": 767,
+      "waffle-earl": 628,
+      "waffle-geth": 283,
+      "yivlad/make-ethers-peer": -17
+    },
+    "unsynced activity": {
+      "add-buidler": 0,
+      "block-with-tx": 0,
+      "bump": 0,
+      "compiler-url": 0,
+      "console.log": 0,
+      "fast-ci": 0,
+      "geth/experiments": 0,
+      "geth/napi": 0,
+      "integrate-buidler-evm": 0,
+      "integrate-hardhat-evm": 0,
+      "marekkirejczyk-patch-1": 0,
+      "master": 0,
+      "mock-contract-revert-and-args": 0,
+      "rebased/typechain-integration": 0,
+      "revert-location": 0,
+      "rzadp/big-number-test": 0,
+      "rzadp/ci-tests": 0,
+      "rzadp/simplify-tsconfigs": 0,
+      "upgrading_dependencies": 0,
+      "v2.5.0": 0,
+      "v2.5.1": 0,
+      "waffle-earl": 0,
+      "waffle-geth": 0,
+      "yivlad/make-ethers-peer": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-buidler",
+          "bump",
+          "console.log",
+          "mock-contract-revert-and-args",
+          "revert-location",
+          "v2.5.0"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Waffle": {
+      "data": [
+        {
+          "started_at": "2019-11-08T13:54:53Z",
+          "used_tool": "TravisCI",
+          "number": 508
+        },
+        {
+          "started_at": "2019-11-08T14:01:43Z",
+          "used_tool": "TravisCI",
+          "number": 510
+        },
+        {
+          "started_at": "2019-11-08T14:20:55Z",
+          "used_tool": "TravisCI",
+          "number": 512
+        },
+        {
+          "started_at": "2019-12-05T15:05:30Z",
+          "used_tool": "TravisCI",
+          "number": 529
+        },
+        {
+          "started_at": "2019-12-05T15:25:02Z",
+          "used_tool": "TravisCI",
+          "number": 530
+        },
+        {
+          "started_at": "2019-12-19T08:36:18Z",
+          "used_tool": "TravisCI",
+          "number": 537
+        },
+        {
+          "started_at": "2019-12-19T09:50:42Z",
+          "used_tool": "TravisCI",
+          "number": 538
+        },
+        {
+          "started_at": "2019-12-20T09:57:34Z",
+          "used_tool": "TravisCI",
+          "number": 540
+        },
+        {
+          "started_at": "2019-12-20T09:59:37Z",
+          "used_tool": "TravisCI",
+          "number": 542
+        },
+        {
+          "started_at": "2019-12-20T10:05:15Z",
+          "used_tool": "TravisCI",
+          "number": 544
+        },
+        {
+          "started_at": "2019-12-20T10:07:16Z",
+          "used_tool": "TravisCI",
+          "number": 546
+        },
+        {
+          "started_at": "2019-12-20T10:18:39Z",
+          "used_tool": "TravisCI",
+          "number": 548
+        },
+        {
+          "started_at": "2019-12-20T10:25:50Z",
+          "used_tool": "TravisCI",
+          "number": 550
+        },
+        {
+          "started_at": "2019-12-20T10:28:17Z",
+          "used_tool": "TravisCI",
+          "number": 552
+        },
+        {
+          "started_at": "2019-12-20T10:31:01Z",
+          "used_tool": "TravisCI",
+          "number": 554
+        },
+        {
+          "started_at": "2019-12-20T10:32:58Z",
+          "used_tool": "TravisCI",
+          "number": 556
+        },
+        {
+          "started_at": "2019-12-20T11:05:31Z",
+          "used_tool": "TravisCI",
+          "number": 558
+        },
+        {
+          "started_at": "2019-12-20T11:07:46Z",
+          "used_tool": "TravisCI",
+          "number": 560
+        },
+        {
+          "started_at": "2019-12-20T12:34:16Z",
+          "used_tool": "TravisCI",
+          "number": 562
+        },
+        {
+          "started_at": "2019-12-20T12:35:59Z",
+          "used_tool": "TravisCI",
+          "number": 564
+        },
+        {
+          "started_at": "2019-12-20T12:37:27Z",
+          "used_tool": "TravisCI",
+          "number": 566
+        },
+        {
+          "started_at": "2019-12-20T13:12:38Z",
+          "used_tool": "TravisCI",
+          "number": 568
+        },
+        {
+          "started_at": "2019-12-20T13:18:30Z",
+          "used_tool": "TravisCI",
+          "number": 570
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 41
+    }
+  },
+  "skip_failing_tests": {}
+}

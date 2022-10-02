@@ -1,0 +1,434 @@
+{
+  "slow_build": {
+    "Specberus tests": {
+      "data": {
+        "2020-09-30T13:46:27Z": 72750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 72750.0,
+      "quartiles": {
+        "q1": 72750.0,
+        "q3": 72750.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "3": 88000,
+          "5": 83000,
+          "8": 73000,
+          "9": 76000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/node.js.yml": {
+      "data": {
+        "2020-10-01T06:31:01Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Node.js CI": {
+      "data": {
+        "2020-09-30T11:30:47Z": 55000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 55000.0,
+      "quartiles": {
+        "q1": 55000.0,
+        "q3": 55000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "specberus": {
+      "data": {
+        "2020-08-17T10:05:21Z": 81714.28571428571,
+        "2020-08-24T10:08:31Z": 81081.08108108108,
+        "2020-09-01T09:59:54Z": 82948.97959183673,
+        "2020-09-08T16:18:53Z": 84857.14285714286,
+        "2020-09-16T03:48:53Z": 99600.0,
+        "2020-09-23T09:24:31Z": 110300.0,
+        "2020-09-30T11:31:11Z": 76454.54545454546
+      },
+      "tool": "TravisCI",
+      "total avg": 88136.57638555598,
+      "quartiles": {
+        "q1": 81397.6833976834,
+        "q3": 92228.57142857142,
+        "iqr": 10830.888030888018
+      },
+      "classification": {
+        "high_severity": {
+          "3088": 286000,
+          "3089": 288000,
+          "3091": 116000,
+          "3134": 217000,
+          "3135": 211000,
+          "3161": 287000,
+          "3162": 283000,
+          "3163": 286000,
+          "3160": 282000
+        },
+        "medium_severity": {
+          "3001": 93000,
+          "3006": 99000,
+          "3005": 96000,
+          "3121": 93000,
+          "3124": 93000,
+          "3131": 94000,
+          "3132": 95000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1155_echidna": 0,
+      "1260_living_charter": 466,
+      "1470_pp": 0,
+      "aws-eb": 0,
+      "dependabot/npm_and_yarn/prettier-2.7.1": 0,
+      "eslint_promise": 0,
+      "main": 0,
+      "no-pp-text": 0
+    },
+    "branch deviation": {
+      "1155_echidna": 547,
+      "1260_living_charter": 416,
+      "1470_pp": 246,
+      "aws-eb": 343,
+      "dependabot/npm_and_yarn/prettier-2.7.1": -1,
+      "eslint_promise": 655,
+      "main": 0,
+      "no-pp-text": 309
+    },
+    "unsynced activity": {
+      "1155_echidna": 0,
+      "1260_living_charter": 50,
+      "1470_pp": 0,
+      "aws-eb": 0,
+      "dependabot/npm_and_yarn/prettier-2.7.1": 0,
+      "eslint_promise": 0,
+      "main": 0,
+      "no-pp-text": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "1260_living_charter"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "1155_echidna",
+          "eslint_promise"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "1260_living_charter"
+        ]
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "Specberus tests": {
+      "data": [],
+      "release_build_count": 3
+    },
+    "specberus": {
+      "data": [
+        {
+          "started_at": "2020-08-27T05:14:08Z",
+          "used_tool": "TravisCI",
+          "number": 2958
+        },
+        {
+          "started_at": "2020-08-27T05:45:27Z",
+          "used_tool": "TravisCI",
+          "number": 2960
+        },
+        {
+          "started_at": "2020-08-30T09:26:49Z",
+          "used_tool": "TravisCI",
+          "number": 2969
+        },
+        {
+          "started_at": "2020-08-30T09:55:39Z",
+          "used_tool": "TravisCI",
+          "number": 2971
+        },
+        {
+          "started_at": "2020-08-31T06:53:09Z",
+          "used_tool": "TravisCI",
+          "number": 2973
+        },
+        {
+          "started_at": "2020-08-31T06:53:50Z",
+          "used_tool": "TravisCI",
+          "number": 2977
+        },
+        {
+          "started_at": "2020-08-31T06:54:56Z",
+          "used_tool": "TravisCI",
+          "number": 2983
+        },
+        {
+          "started_at": "2020-08-31T06:56:13Z",
+          "used_tool": "TravisCI",
+          "number": 2985
+        },
+        {
+          "started_at": "2020-08-31T07:51:26Z",
+          "used_tool": "TravisCI",
+          "number": 2987
+        },
+        {
+          "started_at": "2020-09-01T09:59:57Z",
+          "used_tool": "TravisCI",
+          "number": 2995
+        },
+        {
+          "started_at": "2020-09-01T11:02:39Z",
+          "used_tool": "TravisCI",
+          "number": 3001
+        },
+        {
+          "started_at": "2020-09-02T05:42:47Z",
+          "used_tool": "TravisCI",
+          "number": 3006
+        },
+        {
+          "started_at": "2020-09-02T07:28:11Z",
+          "used_tool": "TravisCI",
+          "number": 3008
+        },
+        {
+          "started_at": "2020-09-02T07:46:41Z",
+          "used_tool": "TravisCI",
+          "number": 3010
+        },
+        {
+          "started_at": "2020-09-02T10:12:51Z",
+          "used_tool": "TravisCI",
+          "number": 3014
+        },
+        {
+          "started_at": "2020-09-02T10:13:22Z",
+          "used_tool": "TravisCI",
+          "number": 3016
+        },
+        {
+          "started_at": "2020-09-02T11:08:16Z",
+          "used_tool": "TravisCI",
+          "number": 3018
+        },
+        {
+          "started_at": "2020-09-02T11:13:51Z",
+          "used_tool": "TravisCI",
+          "number": 3020
+        },
+        {
+          "started_at": "2020-09-02T12:56:57Z",
+          "used_tool": "TravisCI",
+          "number": 3022
+        },
+        {
+          "started_at": "2020-09-02T13:03:47Z",
+          "used_tool": "TravisCI",
+          "number": 3024
+        },
+        {
+          "started_at": "2020-09-02T13:12:01Z",
+          "used_tool": "TravisCI",
+          "number": 3026
+        },
+        {
+          "started_at": "2020-09-02T13:35:31Z",
+          "used_tool": "TravisCI",
+          "number": 3028
+        },
+        {
+          "started_at": "2020-09-03T03:47:26Z",
+          "used_tool": "TravisCI",
+          "number": 3030
+        },
+        {
+          "started_at": "2020-09-03T05:46:25Z",
+          "used_tool": "TravisCI",
+          "number": 3032
+        },
+        {
+          "started_at": "2020-09-03T06:58:54Z",
+          "used_tool": "TravisCI",
+          "number": 3034
+        },
+        {
+          "started_at": "2020-09-03T07:18:59Z",
+          "used_tool": "TravisCI",
+          "number": 3036
+        },
+        {
+          "started_at": "2020-09-03T07:30:18Z",
+          "used_tool": "TravisCI",
+          "number": 3038
+        },
+        {
+          "started_at": "2020-09-03T07:43:56Z",
+          "used_tool": "TravisCI",
+          "number": 3040
+        },
+        {
+          "started_at": "2020-09-03T08:16:22Z",
+          "used_tool": "TravisCI",
+          "number": 3042
+        },
+        {
+          "started_at": "2020-09-03T08:34:35Z",
+          "used_tool": "TravisCI",
+          "number": 3044
+        },
+        {
+          "started_at": "2020-09-03T10:47:57Z",
+          "used_tool": "TravisCI",
+          "number": 3046
+        },
+        {
+          "started_at": "2020-09-03T10:52:20Z",
+          "used_tool": "TravisCI",
+          "number": 3048
+        },
+        {
+          "started_at": "2020-09-03T11:44:10Z",
+          "used_tool": "TravisCI",
+          "number": 3050
+        },
+        {
+          "started_at": "2020-09-03T12:04:41Z",
+          "used_tool": "TravisCI",
+          "number": 3052
+        },
+        {
+          "started_at": "2020-09-03T12:39:24Z",
+          "used_tool": "TravisCI",
+          "number": 3054
+        },
+        {
+          "started_at": "2020-09-03T12:45:25Z",
+          "used_tool": "TravisCI",
+          "number": 3056
+        },
+        {
+          "started_at": "2020-09-03T12:48:51Z",
+          "used_tool": "TravisCI",
+          "number": 3058
+        },
+        {
+          "started_at": "2020-09-04T04:40:42Z",
+          "used_tool": "TravisCI",
+          "number": 3060
+        },
+        {
+          "started_at": "2020-09-04T13:07:28Z",
+          "used_tool": "TravisCI",
+          "number": 3066
+        },
+        {
+          "started_at": "2020-09-04T13:35:23Z",
+          "used_tool": "TravisCI",
+          "number": 3068
+        },
+        {
+          "started_at": "2020-09-04T13:52:45Z",
+          "used_tool": "TravisCI",
+          "number": 3070
+        },
+        {
+          "started_at": "2020-09-04T14:05:51Z",
+          "used_tool": "TravisCI",
+          "number": 3072
+        },
+        {
+          "started_at": "2020-09-07T03:17:26Z",
+          "used_tool": "TravisCI",
+          "number": 3074
+        },
+        {
+          "started_at": "2020-09-07T03:22:09Z",
+          "used_tool": "TravisCI",
+          "number": 3076
+        },
+        {
+          "started_at": "2020-09-07T05:02:59Z",
+          "used_tool": "TravisCI",
+          "number": 3078
+        },
+        {
+          "started_at": "2020-09-07T06:27:14Z",
+          "used_tool": "TravisCI",
+          "number": 3080
+        },
+        {
+          "started_at": "2020-09-07T06:57:12Z",
+          "used_tool": "TravisCI",
+          "number": 3082
+        },
+        {
+          "started_at": "2020-09-07T06:59:25Z",
+          "used_tool": "TravisCI",
+          "number": 3084
+        },
+        {
+          "started_at": "2020-09-08T05:47:03Z",
+          "used_tool": "TravisCI",
+          "number": 3089
+        },
+        {
+          "started_at": "2020-09-24T09:15:10Z",
+          "used_tool": "TravisCI",
+          "number": 3140
+        },
+        {
+          "started_at": "2020-09-24T09:25:59Z",
+          "used_tool": "TravisCI",
+          "number": 3141
+        },
+        {
+          "started_at": "2020-09-28T03:25:52Z",
+          "used_tool": "TravisCI",
+          "number": 3161
+        },
+        {
+          "started_at": "2020-09-28T03:27:01Z",
+          "used_tool": "TravisCI",
+          "number": 3163
+        },
+        {
+          "started_at": "2020-09-30T11:31:11Z",
+          "used_tool": "TravisCI",
+          "number": 3171
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 124
+    }
+  },
+  "skip_failing_tests": {}
+}

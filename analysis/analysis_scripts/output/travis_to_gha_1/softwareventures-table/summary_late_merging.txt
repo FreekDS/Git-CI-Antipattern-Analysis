@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch renovate/main-lock-file-maintenance has 318 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/main-lock-file-maintenance, 318 seconds
+
+Branch Deviation
+=========================
+Average deviation: 29.2 days
+Branch renovate/main-softwareventures-tsconfig-6.x moved away from main with 152 days, 122.8 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/semantic-release-19.0.3, -1 days
+Branch renovate/main-npm-semantic-release-vulnerability, -1 days
+HIGH SEVERITY
+Branch renovate/main-lock-file-maintenance, -4 days
+Branch renovate/main-softwareventures-tsconfig-6.x, 152 days
+
+Unsynced activity
+=========================
+Average unsynced: 64.2 days
+Branch renovate/main-lock-file-maintenance is unsynced with 321 days, 256.8 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch renovate/main-lock-file-maintenance, 321 days

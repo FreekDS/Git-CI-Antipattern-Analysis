@@ -1,0 +1,63 @@
+{
+  "slow_build": {
+    "pattern-tsraxcfaubdj": {
+      "data": {
+        "2021-04-19T20:34:38Z": 54000.0,
+        "2021-05-07T04:25:41Z": 54222.22222222222,
+        "2021-05-27T07:36:24Z": 53333.333333333336,
+        "2021-06-04T22:52:47Z": 53000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 53638.88888888889,
+      "quartiles": {
+        "q1": 53250.0,
+        "q3": 54055.555555555555,
+        "iqr": 805.5555555555547
+      },
+      "classification": {
+        "high_severity": {
+          "160": 56000,
+          "162": 57000,
+          "169": 63000
+        },
+        "medium_severity": {
+          "159": 55000,
+          "171": 55000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "pattern-tsraxcfaubdj": {
+      "data": [],
+      "release_build_count": 12
+    }
+  },
+  "skip_failing_tests": {}
+}

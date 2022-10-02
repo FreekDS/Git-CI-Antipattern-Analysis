@@ -1,0 +1,70 @@
+{
+  "slow_build": {
+    "foundry-release-npm": {
+      "data": {
+        "2021-05-07T11:51:31Z": 119750.0
+      },
+      "tool": "TravisCI",
+      "total avg": 119750.0,
+      "quartiles": {
+        "q1": 119750.0,
+        "q3": 119750.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "38": 132000,
+          "39": 131000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dev/add.cli.support": 0,
+      "dev/document.actions": 0,
+      "dev/fix.travis.ci": 0,
+      "dev/move.to.updateFiles": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dev/add.cli.support": 2456,
+      "dev/document.actions": 2455,
+      "dev/fix.travis.ci": 2811,
+      "dev/move.to.updateFiles": 2816,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dev/add.cli.support": 0,
+      "dev/document.actions": 0,
+      "dev/fix.travis.ci": 0,
+      "dev/move.to.updateFiles": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dev/move.to.updateFiles"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "foundry-release-npm": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 198.6 days
+Branch collect-triangles-perf moved away from main with 407 days, 208.4 more than average
+Branch overdraw-demo moved away from main with 478 days, 279.4 more than average
+MEDIUM SEVERITY
+Branch overdraw-demo, 478 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

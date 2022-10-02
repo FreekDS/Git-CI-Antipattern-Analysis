@@ -1,0 +1,94 @@
+{
+  "slow_build": {
+    "push-main": {
+      "data": {
+        "2021-04-10T14:54:15Z": 41000.0,
+        "2021-06-05T01:44:20Z": 41800.0
+      },
+      "tool": "Github Actions",
+      "total avg": 41400.0,
+      "quartiles": {
+        "q1": 41200.0,
+        "q3": 41600.0,
+        "iqr": 400.0
+      },
+      "classification": {
+        "high_severity": {
+          "8": 47000,
+          "11": 46000,
+          "14": 45000,
+          "15": 45000,
+          "17": 43000
+        },
+        "medium_severity": {}
+      }
+    },
+    "pull_request-main": {
+      "data": {
+        "2021-04-10T14:53:33Z": 43000.0,
+        "2021-04-30T16:43:50Z": 44000.0,
+        "2021-05-11T06:32:54Z": 36000.0,
+        "2021-05-26T04:23:55Z": 45500.0,
+        "2021-06-05T01:43:33Z": 40562.5
+      },
+      "tool": "Github Actions",
+      "total avg": 41812.5,
+      "quartiles": {
+        "q1": 40562.5,
+        "q3": 44000.0,
+        "iqr": 3437.5
+      },
+      "classification": {
+        "high_severity": {
+          "32": 50000
+        },
+        "medium_severity": {
+          "15": 45000,
+          "16": 46000,
+          "26": 46000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "cli": 0,
+      "graphql": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "cli": 653,
+      "graphql": 842,
+      "master": 0
+    },
+    "unsynced activity": {
+      "cli": 0,
+      "graphql": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "graphql"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "push-main": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

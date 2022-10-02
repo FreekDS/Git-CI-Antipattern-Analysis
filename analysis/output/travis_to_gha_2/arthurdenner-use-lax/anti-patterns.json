@@ -1,0 +1,163 @@
+{
+  "slow_build": {
+    "Run checks": {
+      "data": {
+        "2021-01-28T21:48:36Z": 75166.66666666667,
+        "2021-02-08T05:07:56Z": 59095.23809523809,
+        "2021-02-15T05:08:16Z": 56083.333333333336,
+        "2021-02-22T08:24:40Z": 75760.0,
+        "2021-03-01T22:48:24Z": 59162.79069767442,
+        "2021-03-11T23:03:28Z": 52333.333333333336
+      },
+      "tool": "Github Actions",
+      "total avg": 62933.56035437431,
+      "quartiles": {
+        "q1": 56836.30952380953,
+        "q3": 71165.69767441861,
+        "iqr": 14329.388150609084
+      },
+      "classification": {
+        "high_severity": {
+          "6": 98000,
+          "13": 93000,
+          "15": 208000,
+          "18": 105000,
+          "21": 94000,
+          "154": 97000,
+          "156": 128000,
+          "157": 97000,
+          "158": 208000,
+          "159": 97000,
+          "161": 119000,
+          "183": 132000
+        },
+        "medium_severity": {
+          "1": 75000,
+          "19": 72000,
+          "28": 88000,
+          "42": 74000,
+          "49": 73000,
+          "55": 74000,
+          "56": 72000,
+          "57": 72000,
+          "82": 74000,
+          "91": 74000,
+          "93": 73000,
+          "116": 82000,
+          "121": 72000,
+          "151": 82000,
+          "152": 75000,
+          "155": 74000,
+          "160": 81000,
+          "173": 73000,
+          "174": 72000,
+          "182": 75000,
+          "184": 78000,
+          "185": 79000
+        }
+      }
+    },
+    "use-lax": {
+      "data": {
+        "2020-12-21T04:59:28Z": 148333.33333333334,
+        "2020-12-30T17:03:44Z": 268000.0,
+        "2021-01-11T05:00:37Z": 53111.11111111111,
+        "2021-01-18T05:08:17Z": 47500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 129236.11111111112,
+      "quartiles": {
+        "q1": 51708.33333333333,
+        "q3": 178250.0,
+        "iqr": 126541.66666666667
+      },
+      "classification": {
+        "high_severity": {
+          "855": 1785000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/add-v2-config-file": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "dependabot/add-v2-config-file": 489,
+      "main": 0
+    },
+    "unsynced activity": {
+      "dependabot/add-v2-config-file": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/add-v2-config-file"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Run checks": {
+      "data": [
+        {
+          "started_at": "2021-02-08T07:14:17Z",
+          "used_tool": "Github Actions",
+          "number": 39
+        },
+        {
+          "started_at": "2021-02-08T07:15:54Z",
+          "used_tool": "Github Actions",
+          "number": 46
+        },
+        {
+          "started_at": "2021-02-08T07:23:02Z",
+          "used_tool": "Github Actions",
+          "number": 53
+        },
+        {
+          "started_at": "2021-03-08T07:43:35Z",
+          "used_tool": "Github Actions",
+          "number": 199
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 52
+    },
+    "use-lax": {
+      "data": [
+        {
+          "started_at": "2020-12-21T04:59:29Z",
+          "used_tool": "TravisCI",
+          "number": 793
+        },
+        {
+          "started_at": "2020-12-21T05:01:36Z",
+          "used_tool": "TravisCI",
+          "number": 795
+        },
+        {
+          "started_at": "2020-12-21T05:03:22Z",
+          "used_tool": "TravisCI",
+          "number": 797
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 20
+    }
+  },
+  "skip_failing_tests": {}
+}

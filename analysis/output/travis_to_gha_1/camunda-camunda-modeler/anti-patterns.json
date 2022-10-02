@@ -1,0 +1,567 @@
+{
+  "slow_build": {
+    "NIGHTLY": {
+      "data": {
+        "2021-05-05T09:01:40Z": 1349000.0,
+        "2021-05-17T18:14:23Z": 22249000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 11799000.0,
+      "quartiles": {
+        "q1": 6574000.0,
+        "q3": 17024000.0,
+        "iqr": 10450000.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 64426000
+        },
+        "medium_severity": {}
+      }
+    },
+    "CI": {
+      "data": {
+        "2021-04-06T07:30:55Z": 244231.884057971,
+        "2021-04-13T14:18:41Z": 331023.8095238095,
+        "2021-04-21T10:11:20Z": 702855.2631578947,
+        "2021-04-28T13:37:16Z": 858159.0909090909,
+        "2021-05-05T13:58:23Z": 1020571.4285714285,
+        "2021-05-14T13:46:59Z": 1141766.6666666667
+      },
+      "tool": "Github Actions",
+      "total avg": 716434.6904811435,
+      "quartiles": {
+        "q1": 423981.6729323308,
+        "q3": 979968.3441558441,
+        "iqr": 555986.6712235133
+      },
+      "classification": {
+        "high_severity": {
+          "756": 5022000
+        },
+        "medium_severity": {
+          "561": 982000,
+          "584": 981000,
+          "599": 1012000,
+          "607": 998000,
+          "23": 1069000,
+          "632": 1046000,
+          "636": 1073000,
+          "651": 989000,
+          "654": 1010000,
+          "657": 1020000,
+          "668": 993000,
+          "671": 1007000,
+          "688": 1223000,
+          "691": 985000,
+          "697": 1207000,
+          "698": 1157000,
+          "699": 1109000,
+          "700": 1190000,
+          "710": 1219000,
+          "711": 1132000,
+          "713": 1156000,
+          "714": 1196000,
+          "721": 1000000,
+          "735": 1018000,
+          "736": 985000,
+          "738": 993000,
+          "739": 987000,
+          "742": 1036000,
+          "744": 984000,
+          "746": 1019000,
+          "748": 1016000,
+          "749": 1025000,
+          "750": 1000000,
+          "755": 1419000,
+          "757": 1169000,
+          "758": 1372000,
+          "763": 1011000,
+          "769": 1090000,
+          "773": 995000,
+          "774": 1486000,
+          "775": 1347000,
+          "776": 1004000,
+          "778": 1133000,
+          "779": 1140000,
+          "780": 1206000,
+          "781": 1151000,
+          "782": 1035000,
+          "783": 981000,
+          "786": 990000,
+          "787": 1177000,
+          "790": 1004000,
+          "793": 1701000,
+          "794": 1158000,
+          "795": 1387000,
+          "796": 1133000,
+          "797": 1331000,
+          "798": 1310000,
+          "799": 1278000,
+          "800": 1348000,
+          "801": 1336000,
+          "802": 1189000
+        }
+      }
+    },
+    "BUILD_ON_DEMAND": {
+      "data": {
+        "2021-04-22T08:48:47Z": 1083111.111111111,
+        "2021-05-03T09:31:15Z": 864750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 973930.5555555555,
+      "quartiles": {
+        "q1": 919340.2777777778,
+        "q3": 1028520.8333333333,
+        "iqr": 109180.5555555555
+      },
+      "classification": {
+        "high_severity": {
+          "604": 1716000,
+          "609": 1300000,
+          "610": 1225000,
+          "611": 1534000,
+          "612": 1808000,
+          "620": 1776000,
+          "624": 1593000,
+          "1": 1628000,
+          "2": 1425000,
+          "3": 1326000,
+          "4": 1586000,
+          "7": 1305000,
+          "8": 1459000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/NIGHTLY.yml": {
+      "data": {
+        "2021-05-05T09:31:58Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/CI.yml": {
+      "data": {
+        "2021-05-05T09:00:47Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "camunda-modeler": {
+      "data": {
+        "2021-04-03T18:42:48Z": 712454.5454545454,
+        "2021-04-11T18:39:17Z": 847648.6486486486,
+        "2021-04-18T18:43:14Z": 1269371.7948717948,
+        "2021-04-25T19:40:25Z": 2357000.0,
+        "2021-05-03T08:10:26Z": 2192472.222222222,
+        "2021-05-10T08:22:12Z": 2446571.4285714286,
+        "2021-05-17T08:39:05Z": 1085100.0
+      },
+      "tool": "TravisCI",
+      "total avg": 1558659.8056812342,
+      "quartiles": {
+        "q1": 966374.3243243243,
+        "q3": 2274736.111111111,
+        "iqr": 1308361.7867867867
+      },
+      "classification": {
+        "high_severity": {
+          "7912": 5454000,
+          "7938": 5380000,
+          "7942": 5358000,
+          "7948": 5286000,
+          "7959": 5295000,
+          "7968": 5503000,
+          "7983": 5376000,
+          "7984": 5185000,
+          "7985": 5532000,
+          "7995": 5362000,
+          "7996": 5233000,
+          "8004": 5170000,
+          "8013": 5157000,
+          "8017": 5259000,
+          "8018": 5179000,
+          "8019": 5091000,
+          "8030": 6095000,
+          "8042": 6154000,
+          "8044": 5091000,
+          "8063": 5332000,
+          "8069": 5879000,
+          "8070": 5250000,
+          "8071": 5199000,
+          "8073": 5247000,
+          "8074": 5163000,
+          "8075": 5089000
+        },
+        "medium_severity": {
+          "7808": 2452000,
+          "7850": 3733000,
+          "7866": 3453000,
+          "7873": 2474000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "3.x": 0,
+      "2460-form-elements": 0,
+      "2638-persist-layout": 0,
+      "2820-integrate-create-append-anything": 0,
+      "2831-remove-proppanel-padding": 0,
+      "2902-replace-operate-urls": 0,
+      "2959-resize-container": 0,
+      "3107-extract-form-linter": 0,
+      "3123-form-js-8": 0,
+      "3126-integrate-forms-playground": 0,
+      "a11y-tests": 0,
+      "bpmnlint-recommended": 0,
+      "bump-form-js": 0,
+      "collapsed-subprocesses-build-on-demand": 0,
+      "command-palette": 0,
+      "dependabot/npm_and_yarn/develop/electron-20.1.4": 0,
+      "dependabot/npm_and_yarn/develop/electron-builder-23.3.3": 0,
+      "develop": 0,
+      "dmn-modeler": 0,
+      "element-templates": 0,
+      "fix-linting-annotations": 0,
+      "fix-overlay-handler": 0,
+      "improve-auto-merge": 0,
+      "integrate-forms-playground": 0,
+      "integrate-mixpanel-deployment": 0,
+      "integrate-mixpanel-overlays": 0,
+      "integration-tests": 0,
+      "master": 0,
+      "merge-master-to-develop": 0,
+      "miwg": 0,
+      "mixpanel-telemetry-prototype": 0,
+      "select-linting-issue": 0,
+      "slack-time-yaml-templates": 0,
+      "snippets": 0,
+      "spectron-tests": 0,
+      "test-other-windows-version": 0,
+      "test-out-new-certificate": 0,
+      "update-dmn-js": 1297,
+      "use-form-js-for-deployment-tool": 0,
+      "use-overrides-for-dependcies-link": 0,
+      "webpack-on-main": 0,
+      "whats-new-4.12.0": 0,
+      "zeebe-node-and-zeebe-tab": 0
+    },
+    "branch deviation": {
+      "3.x": 869,
+      "2460-form-elements": 301,
+      "2638-persist-layout": 240,
+      "2820-integrate-create-append-anything": 172,
+      "2831-remove-proppanel-padding": 160,
+      "2902-replace-operate-urls": 157,
+      "2959-resize-container": 118,
+      "3107-extract-form-linter": 3,
+      "3123-form-js-8": 3,
+      "3126-integrate-forms-playground": -1,
+      "a11y-tests": 251,
+      "bpmnlint-recommended": 279,
+      "bump-form-js": 71,
+      "collapsed-subprocesses-build-on-demand": 225,
+      "command-palette": 129,
+      "dependabot/npm_and_yarn/develop/electron-20.1.4": 0,
+      "dependabot/npm_and_yarn/develop/electron-builder-23.3.3": 3,
+      "develop": 0,
+      "dmn-modeler": 202,
+      "element-templates": 300,
+      "fix-linting-annotations": 3,
+      "fix-overlay-handler": 37,
+      "improve-auto-merge": 436,
+      "integrate-forms-playground": 69,
+      "integrate-mixpanel-deployment": 132,
+      "integrate-mixpanel-overlays": 132,
+      "integration-tests": 1269,
+      "master": 3,
+      "merge-master-to-develop": 269,
+      "miwg": 1388,
+      "mixpanel-telemetry-prototype": 143,
+      "select-linting-issue": -1,
+      "slack-time-yaml-templates": 28,
+      "snippets": 1006,
+      "spectron-tests": 701,
+      "test-other-windows-version": 202,
+      "test-out-new-certificate": 155,
+      "update-dmn-js": 146,
+      "use-form-js-for-deployment-tool": 464,
+      "use-overrides-for-dependcies-link": 184,
+      "webpack-on-main": 478,
+      "whats-new-4.12.0": 288,
+      "zeebe-node-and-zeebe-tab": 566
+    },
+    "unsynced activity": {
+      "3.x": 0,
+      "2460-form-elements": 0,
+      "2638-persist-layout": 0,
+      "2820-integrate-create-append-anything": 0,
+      "2831-remove-proppanel-padding": 0,
+      "2902-replace-operate-urls": 0,
+      "2959-resize-container": 0,
+      "3107-extract-form-linter": 0,
+      "3123-form-js-8": 0,
+      "3126-integrate-forms-playground": 0,
+      "a11y-tests": 0,
+      "bpmnlint-recommended": 0,
+      "bump-form-js": 0,
+      "collapsed-subprocesses-build-on-demand": 0,
+      "command-palette": 0,
+      "dependabot/npm_and_yarn/develop/electron-20.1.4": 0,
+      "dependabot/npm_and_yarn/develop/electron-builder-23.3.3": 0,
+      "develop": 0,
+      "dmn-modeler": 0,
+      "element-templates": 0,
+      "fix-linting-annotations": 0,
+      "fix-overlay-handler": 0,
+      "improve-auto-merge": 0,
+      "integrate-forms-playground": 0,
+      "integrate-mixpanel-deployment": 0,
+      "integrate-mixpanel-overlays": 0,
+      "integration-tests": 0,
+      "master": 0,
+      "merge-master-to-develop": 0,
+      "miwg": 0,
+      "mixpanel-telemetry-prototype": 0,
+      "select-linting-issue": 0,
+      "slack-time-yaml-templates": 0,
+      "snippets": 0,
+      "spectron-tests": 0,
+      "test-other-windows-version": 0,
+      "test-out-new-certificate": 0,
+      "update-dmn-js": 1151,
+      "use-form-js-for-deployment-tool": 0,
+      "use-overrides-for-dependcies-link": 0,
+      "webpack-on-main": 0,
+      "whats-new-4.12.0": 0,
+      "zeebe-node-and-zeebe-tab": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "update-dmn-js"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "2460-form-elements",
+          "element-templates",
+          "improve-auto-merge",
+          "use-form-js-for-deployment-tool",
+          "webpack-on-main",
+          "zeebe-node-and-zeebe-tab"
+        ],
+        "high_severity": [
+          "3.x",
+          "integration-tests",
+          "miwg",
+          "snippets",
+          "spectron-tests"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "update-dmn-js"
+        ]
+      }
+    },
+    "build_count": 6
+  },
+  "broken_release": {
+    "NIGHTLY": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "CI": {
+      "data": [],
+      "release_build_count": 70
+    },
+    "BUILD_ON_DEMAND": {
+      "data": [
+        {
+          "started_at": "2021-05-05T07:04:05Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 5
+    },
+    "camunda-modeler": {
+      "data": [
+        {
+          "started_at": "2021-04-06T09:29:35Z",
+          "used_tool": "TravisCI",
+          "number": 7743
+        },
+        {
+          "started_at": "2021-04-06T13:25:27Z",
+          "used_tool": "TravisCI",
+          "number": 7752
+        },
+        {
+          "started_at": "2021-04-07T09:29:56Z",
+          "used_tool": "TravisCI",
+          "number": 7763
+        },
+        {
+          "started_at": "2021-04-08T09:22:05Z",
+          "used_tool": "TravisCI",
+          "number": 7773
+        },
+        {
+          "started_at": "2021-04-09T13:34:45Z",
+          "used_tool": "TravisCI",
+          "number": 7787
+        },
+        {
+          "started_at": "2021-04-12T09:29:07Z",
+          "used_tool": "TravisCI",
+          "number": 7802
+        },
+        {
+          "started_at": "2021-04-12T09:51:13Z",
+          "used_tool": "TravisCI",
+          "number": 7803
+        },
+        {
+          "started_at": "2021-04-12T10:44:59Z",
+          "used_tool": "TravisCI",
+          "number": 7804
+        },
+        {
+          "started_at": "2021-04-13T14:27:19Z",
+          "used_tool": "TravisCI",
+          "number": 7815
+        },
+        {
+          "started_at": "2021-04-19T09:35:04Z",
+          "used_tool": "TravisCI",
+          "number": 7838
+        },
+        {
+          "started_at": "2021-04-20T13:59:31Z",
+          "used_tool": "TravisCI",
+          "number": 7858
+        },
+        {
+          "started_at": "2021-04-20T15:09:03Z",
+          "used_tool": "TravisCI",
+          "number": 7864
+        },
+        {
+          "started_at": "2021-04-21T11:02:06Z",
+          "used_tool": "TravisCI",
+          "number": 7872
+        },
+        {
+          "started_at": "2021-04-21T13:22:45Z",
+          "used_tool": "TravisCI",
+          "number": 7879
+        },
+        {
+          "started_at": "2021-04-21T13:37:56Z",
+          "used_tool": "TravisCI",
+          "number": 7884
+        },
+        {
+          "started_at": "2021-04-23T09:49:41Z",
+          "used_tool": "TravisCI",
+          "number": 7914
+        },
+        {
+          "started_at": "2021-04-23T11:09:56Z",
+          "used_tool": "TravisCI",
+          "number": 7919
+        },
+        {
+          "started_at": "2021-04-23T11:27:17Z",
+          "used_tool": "TravisCI",
+          "number": 7921
+        },
+        {
+          "started_at": "2021-04-23T11:29:37Z",
+          "used_tool": "TravisCI",
+          "number": 7922
+        },
+        {
+          "started_at": "2021-04-23T13:28:57Z",
+          "used_tool": "TravisCI",
+          "number": 7923
+        },
+        {
+          "started_at": "2021-04-23T14:53:40Z",
+          "used_tool": "TravisCI",
+          "number": 7925
+        },
+        {
+          "started_at": "2021-04-23T17:11:07Z",
+          "used_tool": "TravisCI",
+          "number": 7926
+        },
+        {
+          "started_at": "2021-04-23T20:11:22Z",
+          "used_tool": "TravisCI",
+          "number": 7929
+        },
+        {
+          "started_at": "2021-05-06T07:38:19Z",
+          "used_tool": "TravisCI",
+          "number": 8008
+        },
+        {
+          "started_at": "2021-05-10T07:19:42Z",
+          "used_tool": "TravisCI",
+          "number": 8026
+        },
+        {
+          "started_at": "2021-05-11T12:19:34Z",
+          "used_tool": "TravisCI",
+          "number": 8052
+        },
+        {
+          "started_at": "2021-05-11T13:37:56Z",
+          "used_tool": "TravisCI",
+          "number": 8057
+        },
+        {
+          "started_at": "2021-05-11T14:26:36Z",
+          "used_tool": "TravisCI",
+          "number": 8060
+        },
+        {
+          "started_at": "2021-05-17T14:38:07Z",
+          "used_tool": "TravisCI",
+          "number": 8086
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 179
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,36 @@
+Missed Activity
+=========================
+Branch create-funding-yml has 697 days of missed activity!
+Branch drop-node-testing-for-4-and-5 has 934 days of missed activity!
+Branch fix-require-readme has 659 days of missed activity!
+Branch yarn-upgrade-all has 747 days of missed activity!
+MEDIUM SEVERITY
+Branch drop-node-testing-for-4-and-5, 934 seconds
+HIGH SEVERITY
+Branch yarn-upgrade-all, 747 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 623.0 days
+Branch add-sponsor-button moved away from main with 698 days, 75.0 more than average
+Branch create-funding-yml moved away from main with 698 days, 75.0 more than average
+Branch drop-node-testing-for-4-and-5 moved away from main with 936 days, 313.0 more than average
+Branch fix-require-readme moved away from main with 659 days, 36.0 more than average
+Branch yarn-upgrade-all moved away from main with 747 days, 124.0 more than average
+MEDIUM SEVERITY
+Branch yarn-upgrade-all, 747 days
+HIGH SEVERITY
+Branch drop-node-testing-for-4-and-5, 936 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.8333333333333334 days
+Branch add-sponsor-button is unsynced with 0 days, 0.8333333333333334 more than average
+Branch master is unsynced with 0 days, 0.8333333333333334 more than average
+Branch yarn-upgrade-all is unsynced with 0 days, 0.8333333333333334 more than average
+MEDIUM SEVERITY
+Branch create-funding-yml, -2 days
+Branch drop-node-testing-for-4-and-5, -2 days
+Branch fix-require-readme, -1 days
+HIGH SEVERITY

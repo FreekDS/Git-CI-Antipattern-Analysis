@@ -1,0 +1,149 @@
+{
+  "slow_build": {
+    "CI/CD": {
+      "data": {
+        "2020-02-22T15:59:13Z": 107333.33333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 107333.33333333333,
+      "quartiles": {
+        "q1": 107333.33333333333,
+        "q3": 107333.33333333333,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 148000,
+          "3": 111000,
+          "5": 112000
+        },
+        "medium_severity": {}
+      }
+    },
+    "componentry": {
+      "data": {
+        "2020-01-11T23:56:58Z": 66928.57142857143,
+        "2020-01-21T00:24:35Z": 76200.0,
+        "2020-01-28T00:46:29Z": 82571.42857142857,
+        "2020-02-04T16:01:41Z": 83375.0,
+        "2020-02-12T15:47:28Z": 83142.85714285714,
+        "2020-02-20T17:54:03Z": 89250.0
+      },
+      "tool": "TravisCI",
+      "total avg": 80244.64285714286,
+      "quartiles": {
+        "q1": 77792.85714285714,
+        "q3": 83316.96428571429,
+        "iqr": 5524.107142857145
+      },
+      "classification": {
+        "high_severity": {
+          "465": 93000,
+          "480": 94000,
+          "486": 93000,
+          "493": 92000,
+          "496": 97000
+        },
+        "medium_severity": {
+          "457": 89000,
+          "459": 91000,
+          "460": 85000,
+          "463": 90000,
+          "466": 85000,
+          "467": 88000,
+          "471": 84000,
+          "472": 90000,
+          "473": 89000,
+          "474": 88000,
+          "477": 87000,
+          "479": 85000,
+          "489": 85000,
+          "492": 88000,
+          "494": 89000,
+          "495": 87000,
+          "497": 84000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "main": 0,
+      "renovate/major-dependencies": 0,
+      "v2": 0
+    },
+    "branch deviation": {
+      "gh-pages": 1417,
+      "main": 0,
+      "renovate/major-dependencies": 42,
+      "v2": 440
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "main": 0,
+      "renovate/major-dependencies": 0,
+      "v2": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "gh-pages"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI/CD": {
+      "data": [],
+      "release_build_count": 3
+    },
+    "componentry": {
+      "data": [
+        {
+          "started_at": "2020-01-14T15:22:10Z",
+          "used_tool": "TravisCI",
+          "number": 449
+        },
+        {
+          "started_at": "2020-02-04T00:43:47Z",
+          "used_tool": "TravisCI",
+          "number": 462
+        },
+        {
+          "started_at": "2020-02-08T14:39:17Z",
+          "used_tool": "TravisCI",
+          "number": 468
+        },
+        {
+          "started_at": "2020-02-09T04:59:22Z",
+          "used_tool": "TravisCI",
+          "number": 469
+        },
+        {
+          "started_at": "2020-02-10T05:05:01Z",
+          "used_tool": "TravisCI",
+          "number": 474
+        },
+        {
+          "started_at": "2020-02-10T16:02:49Z",
+          "used_tool": "TravisCI",
+          "number": 477
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 61
+    }
+  },
+  "skip_failing_tests": {}
+}

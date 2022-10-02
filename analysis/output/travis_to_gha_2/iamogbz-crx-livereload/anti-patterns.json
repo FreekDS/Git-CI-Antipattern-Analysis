@@ -1,0 +1,104 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "greenkeeper/coveralls-3.0.5": 0,
+      "greenkeeper/coveralls-pin-3.0.4": 0,
+      "greenkeeper/lint-staged-9.2.1": 0,
+      "greenkeeper/semantic-release-15.13.21": 0,
+      "greenkeeper/semantic-release-15.13.24": 0,
+      "greenkeeper/semantic-release-pin-15.13.20": 0,
+      "greenkeeper/@types/chrome-0.0.91": 0,
+      "greenkeeper/@types/node-12.7.1": 0,
+      "greenkeeper/@types/node-12.7.2": 0,
+      "greenkeeper/@types/node-12.7.3": 0,
+      "greenkeeper/@types/node-12.7.4": 0,
+      "greenkeeper/@types/node-12.7.5": 0,
+      "greenkeeper/@types/node-pin-12.7.0": 0,
+      "greenkeeper/webpack-4.36.0": 0,
+      "greenkeeper/webpack-4.36.1": 0,
+      "greenkeeper/webpack-4.39.2": 0,
+      "greenkeeper/webpack-4.39.3": 0,
+      "greenkeeper/webpack-4.40.0": 0,
+      "greenkeeper/webpack-4.40.1": 0,
+      "greenkeeper/webpack-4.40.2": 0,
+      "greenkeeper/webpack-pin-4.35.3": 0,
+      "greenkeeper/webpack-pin-4.39.1": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "greenkeeper/coveralls-3.0.5": 1161,
+      "greenkeeper/coveralls-pin-3.0.4": 1161,
+      "greenkeeper/lint-staged-9.2.1": 1148,
+      "greenkeeper/semantic-release-15.13.21": 1128,
+      "greenkeeper/semantic-release-15.13.24": 1119,
+      "greenkeeper/semantic-release-pin-15.13.20": 1128,
+      "greenkeeper/@types/chrome-0.0.91": 1066,
+      "greenkeeper/@types/node-12.7.1": 1134,
+      "greenkeeper/@types/node-12.7.2": 1127,
+      "greenkeeper/@types/node-12.7.3": 1112,
+      "greenkeeper/@types/node-12.7.4": 1107,
+      "greenkeeper/@types/node-12.7.5": 1100,
+      "greenkeeper/@types/node-pin-12.7.0": 1134,
+      "greenkeeper/webpack-4.36.0": 1155,
+      "greenkeeper/webpack-4.36.1": 1155,
+      "greenkeeper/webpack-4.39.2": 1128,
+      "greenkeeper/webpack-4.39.3": 1114,
+      "greenkeeper/webpack-4.40.0": 1098,
+      "greenkeeper/webpack-4.40.1": 1098,
+      "greenkeeper/webpack-4.40.2": 1097,
+      "greenkeeper/webpack-pin-4.35.3": 1155,
+      "greenkeeper/webpack-pin-4.39.1": 1128,
+      "master": 0
+    },
+    "unsynced activity": {
+      "greenkeeper/coveralls-3.0.5": 0,
+      "greenkeeper/coveralls-pin-3.0.4": 0,
+      "greenkeeper/lint-staged-9.2.1": 0,
+      "greenkeeper/semantic-release-15.13.21": 0,
+      "greenkeeper/semantic-release-15.13.24": 0,
+      "greenkeeper/semantic-release-pin-15.13.20": 0,
+      "greenkeeper/@types/chrome-0.0.91": 0,
+      "greenkeeper/@types/node-12.7.1": 0,
+      "greenkeeper/@types/node-12.7.2": 0,
+      "greenkeeper/@types/node-12.7.3": 0,
+      "greenkeeper/@types/node-12.7.4": 0,
+      "greenkeeper/@types/node-12.7.5": 0,
+      "greenkeeper/@types/node-pin-12.7.0": 0,
+      "greenkeeper/webpack-4.36.0": 0,
+      "greenkeeper/webpack-4.36.1": 0,
+      "greenkeeper/webpack-4.39.2": 0,
+      "greenkeeper/webpack-4.39.3": 0,
+      "greenkeeper/webpack-4.40.0": 0,
+      "greenkeeper/webpack-4.40.1": 0,
+      "greenkeeper/webpack-4.40.2": 0,
+      "greenkeeper/webpack-pin-4.35.3": 0,
+      "greenkeeper/webpack-pin-4.39.1": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "greenkeeper/coveralls-3.0.5",
+          "greenkeeper/coveralls-pin-3.0.4",
+          "greenkeeper/lint-staged-9.2.1",
+          "greenkeeper/webpack-4.36.0",
+          "greenkeeper/webpack-4.36.1",
+          "greenkeeper/webpack-pin-4.35.3"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

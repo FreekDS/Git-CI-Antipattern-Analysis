@@ -1,0 +1,219 @@
+{
+  "slow_build": {
+    "Continuous Integration": {
+      "data": {
+        "2021-04-11T01:37:01Z": 607727.2727272727,
+        "2021-04-18T06:56:17Z": 794000.0,
+        "2021-05-08T06:50:11Z": 859666.6666666666,
+        "2021-05-29T17:30:08Z": 942857.1428571428
+      },
+      "tool": "Github Actions",
+      "total avg": 801062.7705627705,
+      "quartiles": {
+        "q1": 747431.8181818181,
+        "q3": 880464.2857142857,
+        "iqr": 133032.46753246756
+      },
+      "classification": {
+        "high_severity": {
+          "11": 1089000,
+          "18": 1122000
+        },
+        "medium_severity": {
+          "3": 1067000,
+          "8": 950000,
+          "9": 995000,
+          "10": 929000,
+          "14": 943000,
+          "16": 897000,
+          "17": 929000,
+          "19": 908000,
+          "21": 914000,
+          "22": 946000,
+          "23": 884000
+        }
+      }
+    },
+    "Node.js Package": {
+      "data": {
+        "2021-04-09T04:21:49Z": 87000.0,
+        "2021-04-16T17:29:44Z": 937000.0,
+        "2021-05-29T17:40:39Z": 1115000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 713000.0,
+      "quartiles": {
+        "q1": 512000.0,
+        "q3": 1026000.0,
+        "iqr": 514000.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "19": 1115000
+        }
+      }
+    },
+    "library": {
+      "data": {
+        "2021-04-08T21:23:48Z": 320000.0,
+        "2021-05-06T21:40:30Z": 1251000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 785500.0,
+      "quartiles": {
+        "q1": 552750.0,
+        "q3": 1018250.0,
+        "iqr": 465500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "2358": 1251000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "backup/feature/general-improvements": 0,
+      "backup/feature/multi-qr-code-reader": 0,
+      "dependabot/npm_and_yarn/sharp-0.30.5": 0,
+      "dependabot/npm_and_yarn/terser-5.14.2": 0,
+      "develop": 1054,
+      "feature/e2e-testing": 0,
+      "feature/general-improvements": 0,
+      "feature/multi-qr-code-reader": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "backup/feature/general-improvements": 299,
+      "backup/feature/multi-qr-code-reader": 299,
+      "dependabot/npm_and_yarn/sharp-0.30.5": -37,
+      "dependabot/npm_and_yarn/terser-5.14.2": -85,
+      "develop": 378,
+      "feature/e2e-testing": 546,
+      "feature/general-improvements": 374,
+      "feature/multi-qr-code-reader": 258,
+      "master": 0
+    },
+    "unsynced activity": {
+      "backup/feature/general-improvements": 0,
+      "backup/feature/multi-qr-code-reader": 0,
+      "dependabot/npm_and_yarn/sharp-0.30.5": 0,
+      "dependabot/npm_and_yarn/terser-5.14.2": 0,
+      "develop": 676,
+      "feature/e2e-testing": 0,
+      "feature/general-improvements": 0,
+      "feature/multi-qr-code-reader": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "develop",
+          "feature/e2e-testing"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Continuous Integration": {
+      "data": [
+        {
+          "started_at": "2021-04-11T01:37:01Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2021-04-12T15:23:00Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        },
+        {
+          "started_at": "2021-04-16T17:01:47Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        },
+        {
+          "started_at": "2021-04-16T17:20:10Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        },
+        {
+          "started_at": "2021-04-16T17:20:21Z",
+          "used_tool": "Github Actions",
+          "number": 8
+        },
+        {
+          "started_at": "2021-04-16T17:22:28Z",
+          "used_tool": "Github Actions",
+          "number": 10
+        },
+        {
+          "started_at": "2021-04-16T17:28:23Z",
+          "used_tool": "Github Actions",
+          "number": 11
+        },
+        {
+          "started_at": "2021-05-29T17:30:08Z",
+          "used_tool": "Github Actions",
+          "number": 16
+        },
+        {
+          "started_at": "2021-06-03T14:05:45Z",
+          "used_tool": "Github Actions",
+          "number": 21
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 9
+    },
+    "library": {
+      "data": [
+        {
+          "started_at": "2021-04-08T21:23:48Z",
+          "used_tool": "TravisCI",
+          "number": 2347
+        },
+        {
+          "started_at": "2021-04-09T04:13:41Z",
+          "used_tool": "TravisCI",
+          "number": 2351
+        },
+        {
+          "started_at": "2021-04-09T21:23:59Z",
+          "used_tool": "TravisCI",
+          "number": 2354
+        },
+        {
+          "started_at": "2021-04-10T21:24:12Z",
+          "used_tool": "TravisCI",
+          "number": 2355
+        },
+        {
+          "started_at": "2021-05-06T21:40:30Z",
+          "used_tool": "TravisCI",
+          "number": 2358
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 6
+    }
+  },
+  "skip_failing_tests": {}
+}

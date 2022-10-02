@@ -4,21 +4,22 @@ MEDIUM SEVERITY
 
 Branch Deviation
 =========================
-Average deviation: 260.0 days
-Branch add-timeout moved away from main with 879 days, 619.0 more than average
-Branch dependabot/npm_and_yarn/commitlint/cli-13.1.0 moved away from main with 277 days, 17.0 more than average
-Branch dependabot/npm_and_yarn/commitlint/config-conventional-13.1.0 moved away from main with 284 days, 24.0 more than average
-Branch dependabot/npm_and_yarn/husky-7.0.1 moved away from main with 303 days, 43.0 more than average
-Branch dependabot/npm_and_yarn/karma-6.3.3 moved away from main with 338 days, 78.0 more than average
-Branch dependabot/npm_and_yarn/mocha-9.0.3 moved away from main with 284 days, 24.0 more than average
-Branch dependabot/npm_and_yarn/sinon-11.1.2 moved away from main with 282 days, 22.0 more than average
-Branch dependabot/npm_and_yarn/tar-4.4.15 moved away from main with 275 days, 15.0 more than average
-Branch dependabot/npm_and_yarn/webpack-and-karma-webpack-5.48.0 moved away from main with 276 days, 16.0 more than average
-Branch greenkeeper/husky-4.0.3 moved away from main with 848 days, 588.0 more than average
-Branch greenkeeper/husky-4.0.6 moved away from main with 847 days, 587.0 more than average
-Branch greenkeeper/monorepo.enzyme-20191220001729 moved away from main with 868 days, 608.0 more than average
-Branch typescript-migration moved away from main with 549 days, 289.0 more than average
+Average deviation: 206.25925925925927 days
+Branch add-timeout moved away from main with 879 days, 672.7407407407408 more than average
+Branch dependabot/npm_and_yarn/commitlint/cli-13.1.0 moved away from main with 277 days, 70.74074074074073 more than average
+Branch dependabot/npm_and_yarn/commitlint/config-conventional-13.1.0 moved away from main with 284 days, 77.74074074074073 more than average
+Branch dependabot/npm_and_yarn/husky-7.0.1 moved away from main with 303 days, 96.74074074074073 more than average
+Branch dependabot/npm_and_yarn/karma-6.3.3 moved away from main with 338 days, 131.74074074074073 more than average
+Branch dependabot/npm_and_yarn/mocha-9.0.3 moved away from main with 284 days, 77.74074074074073 more than average
+Branch dependabot/npm_and_yarn/sinon-11.1.2 moved away from main with 282 days, 75.74074074074073 more than average
+Branch dependabot/npm_and_yarn/tar-4.4.15 moved away from main with 275 days, 68.74074074074073 more than average
+Branch dependabot/npm_and_yarn/webpack-and-karma-webpack-5.48.0 moved away from main with 276 days, 69.74074074074073 more than average
+Branch greenkeeper/husky-4.0.3 moved away from main with 848 days, 641.7407407407408 more than average
+Branch greenkeeper/husky-4.0.6 moved away from main with 847 days, 640.7407407407408 more than average
+Branch greenkeeper/monorepo.enzyme-20191220001729 moved away from main with 868 days, 661.7407407407408 more than average
+Branch typescript-migration moved away from main with 549 days, 342.74074074074076 more than average
 MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/husky-7.0.1, 303 days
 Branch dependabot/npm_and_yarn/karma-6.3.3, 338 days
 Branch typescript-migration, 549 days
 HIGH SEVERITY

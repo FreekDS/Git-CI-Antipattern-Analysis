@@ -1,0 +1,123 @@
+{
+  "slow_build": {
+    "Package CI": {
+      "data": {
+        "2021-03-26T08:30:32Z": 32250.0
+      },
+      "tool": "Github Actions",
+      "total avg": 32250.0,
+      "quartiles": {
+        "q1": 32250.0,
+        "q3": 32250.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 33000,
+          "2": 35000
+        },
+        "medium_severity": {}
+      }
+    },
+    "pdForms": {
+      "data": {
+        "2021-02-19T14:13:27Z": 134666.66666666666,
+        "2021-03-05T16:03:24Z": 125600.0,
+        "2021-03-15T17:18:14Z": 106280.0,
+        "2021-03-24T10:12:13Z": 90181.81818181818
+      },
+      "tool": "TravisCI",
+      "total avg": 114182.1212121212,
+      "quartiles": {
+        "q1": 102255.45454545454,
+        "q3": 127866.66666666666,
+        "iqr": 25611.212121212113
+      },
+      "classification": {
+        "high_severity": {
+          "161": 173000,
+          "162": 178000,
+          "163": 184000,
+          "164": 179000
+        },
+        "medium_severity": {
+          "158": 132000,
+          "159": 140000,
+          "160": 132000,
+          "168": 138000,
+          "171": 142000,
+          "172": 135000,
+          "173": 138000,
+          "174": 138000,
+          "175": 137000,
+          "176": 139000,
+          "177": 136000,
+          "178": 141000,
+          "179": 141000,
+          "180": 135000,
+          "181": 140000,
+          "195": 137000,
+          "196": 139000,
+          "197": 135000,
+          "198": 133000,
+          "199": 136000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0,
+      "php81": 35,
+      "recaptcha": 0,
+      "v2.0": 0,
+      "v3.0": 0,
+      "v3.1.1-issue30-pridani-verzovani-js-nette3": 0
+    },
+    "branch deviation": {
+      "master": 0,
+      "php81": 35,
+      "recaptcha": 83,
+      "v2.0": 934,
+      "v3.0": 420,
+      "v3.1.1-issue30-pridani-verzovani-js-nette3": 454
+    },
+    "unsynced activity": {
+      "master": 0,
+      "php81": -1,
+      "recaptcha": 0,
+      "v2.0": 0,
+      "v3.0": 0,
+      "v3.1.1-issue30-pridani-verzovani-js-nette3": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "php81"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "v2.0",
+          "v3.1.1-issue30-pridani-verzovani-js-nette3"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "php81"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "pdForms": {
+      "data": [],
+      "release_build_count": 5
+    }
+  },
+  "skip_failing_tests": {}
+}

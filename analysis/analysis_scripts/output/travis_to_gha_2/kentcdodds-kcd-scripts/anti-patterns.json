@@ -1,0 +1,124 @@
+{
+  "slow_build": {
+    "validate": {
+      "data": {
+        "2020-11-05T02:39:07Z": 205444.44444444444,
+        "2020-11-12T12:47:36Z": 244200.0,
+        "2020-11-23T03:36:34Z": 1855647.0588235294,
+        "2020-12-01T18:59:05Z": 581666.6666666666,
+        "2020-12-10T12:35:16Z": 205000.0,
+        "2020-12-20T22:03:58Z": 108000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 533326.3616557734,
+      "quartiles": {
+        "q1": 205111.11111111112,
+        "q3": 497300.0,
+        "iqr": 292188.8888888889
+      },
+      "classification": {
+        "high_severity": {
+          "33": 28775000,
+          "41": 4910000
+        },
+        "medium_severity": {}
+      }
+    },
+    "kcd-scripts": {
+      "data": {
+        "2020-09-21T16:51:45Z": 316400.0,
+        "2020-10-05T20:12:25Z": 446000.0,
+        "2020-11-05T02:15:13Z": 321666.6666666667
+      },
+      "tool": "TravisCI",
+      "total avg": 361355.55555555556,
+      "quartiles": {
+        "q1": 319033.3333333334,
+        "q3": 383833.3333333334,
+        "iqr": 64800.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "387": 432000,
+          "389": 435000,
+          "392": 446000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "all-contributors/add-mpeyper": 0,
+      "main": 0,
+      "pr/add-typescript-defs": 0
+    },
+    "branch deviation": {
+      "all-contributors/add-mpeyper": 596,
+      "main": 0,
+      "pr/add-typescript-defs": 642
+    },
+    "unsynced activity": {
+      "all-contributors/add-mpeyper": 0,
+      "main": 0,
+      "pr/add-typescript-defs": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "pr/add-typescript-defs"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "validate": {
+      "data": [
+        {
+          "started_at": "2020-11-05T02:39:07Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2020-11-05T02:40:06Z",
+          "used_tool": "Github Actions",
+          "number": 2
+        },
+        {
+          "started_at": "2020-11-05T02:42:19Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 32
+    },
+    "kcd-scripts": {
+      "data": [
+        {
+          "started_at": "2020-09-21T16:57:43Z",
+          "used_tool": "TravisCI",
+          "number": 388
+        },
+        {
+          "started_at": "2020-09-21T18:58:30Z",
+          "used_tool": "TravisCI",
+          "number": 389
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 8
+    }
+  },
+  "skip_failing_tests": {}
+}

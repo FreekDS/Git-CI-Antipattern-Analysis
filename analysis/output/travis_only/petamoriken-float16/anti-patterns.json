@@ -1,0 +1,310 @@
+{
+  "slow_build": {
+    "float16": {
+      "data": {
+        "2021-04-12T00:43:53Z": 132318.18181818182,
+        "2021-04-22T16:07:51Z": 135666.66666666666,
+        "2021-05-07T18:17:45Z": 144391.30434782608,
+        "2021-05-17T00:41:31Z": 134611.11111111112,
+        "2021-05-24T01:03:16Z": 135857.14285714287,
+        "2021-06-07T00:41:52Z": 125150.0,
+        "2021-06-14T00:42:10Z": 154200.0,
+        "2021-06-22T16:09:20Z": 123250.0,
+        "2021-07-05T00:49:54Z": 138500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 135993.82297788095,
+      "quartiles": {
+        "q1": 132318.18181818182,
+        "q3": 138500.0,
+        "iqr": 6181.8181818181765
+      },
+      "classification": {
+        "high_severity": {
+          "1605": 181000,
+          "1607": 156000,
+          "1608": 199000,
+          "1609": 185000,
+          "1614": 165000,
+          "1615": 182000,
+          "1618": 163000,
+          "1617": 148000,
+          "1625": 150000,
+          "1624": 194000,
+          "1627": 158000,
+          "1630": 201000,
+          "1631": 184000,
+          "1632": 180000,
+          "1633": 217000,
+          "1636": 208000,
+          "1639": 189000,
+          "1646": 148000,
+          "1653": 174000,
+          "1651": 149000,
+          "1654": 182000,
+          "1657": 150000,
+          "1656": 173000,
+          "1658": 199000,
+          "1660": 158000,
+          "1661": 152000,
+          "1662": 165000,
+          "1663": 181000,
+          "1664": 233000,
+          "1670": 185000,
+          "1672": 191000,
+          "1673": 204000,
+          "1675": 171000,
+          "1683": 180000,
+          "1686": 189000,
+          "1687": 150000,
+          "1688": 184000,
+          "1689": 195000,
+          "1690": 214000,
+          "1699": 156000,
+          "1698": 173000,
+          "1700": 174000,
+          "1701": 151000,
+          "1703": 161000,
+          "1704": 180000,
+          "1710": 154000,
+          "1709": 177000,
+          "1711": 215000,
+          "1712": 216000,
+          "1714": 159000,
+          "1715": 170000,
+          "1716": 180000,
+          "1717": 185000,
+          "1718": 200000,
+          "1727": 151000,
+          "1732": 175000,
+          "1737": 148000,
+          "1738": 204000,
+          "1740": 197000,
+          "1739": 184000,
+          "1741": 208000,
+          "1745": 158000,
+          "1746": 188000,
+          "1748": 157000,
+          "1750": 182000,
+          "1751": 185000,
+          "1754": 165000,
+          "1757": 168000,
+          "1758": 150000,
+          "1756": 200000,
+          "1759": 165000,
+          "1760": 156000,
+          "1762": 156000,
+          "1765": 162000,
+          "1772": 148000,
+          "1774": 149000,
+          "1775": 186000,
+          "1779": 160000,
+          "1778": 159000
+        },
+        "medium_severity": {
+          "1626": 142000,
+          "1628": 144000,
+          "1647": 143000,
+          "1650": 143000,
+          "1665": 144000,
+          "1666": 145000,
+          "1671": 140000,
+          "1679": 146000,
+          "1681": 142000,
+          "1685": 142000,
+          "1707": 140000,
+          "1735": 141000,
+          "1734": 145000,
+          "1755": 139000,
+          "1763": 146000,
+          "1767": 139000,
+          "1773": 144000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/nightwatch-and-types/nightwatch-2.3.6": 0,
+      "feature/array-filtering": 0,
+      "feature/change-array-by-copy": 0,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/nightwatch-and-types/nightwatch-2.3.6": -1,
+      "feature/array-filtering": 97,
+      "feature/change-array-by-copy": 52,
+      "gh-pages": 49,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/nightwatch-and-types/nightwatch-2.3.6": 0,
+      "feature/array-filtering": 0,
+      "feature/change-array-by-copy": 0,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feature/array-filtering"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "float16": {
+      "data": [
+        {
+          "started_at": "2021-04-12T00:44:27Z",
+          "used_tool": "TravisCI",
+          "number": 1610
+        },
+        {
+          "started_at": "2021-04-12T00:44:57Z",
+          "used_tool": "TravisCI",
+          "number": 1612
+        },
+        {
+          "started_at": "2021-04-12T00:45:39Z",
+          "used_tool": "TravisCI",
+          "number": 1616
+        },
+        {
+          "started_at": "2021-04-12T00:52:14Z",
+          "used_tool": "TravisCI",
+          "number": 1625
+        },
+        {
+          "started_at": "2021-04-26T00:38:22Z",
+          "used_tool": "TravisCI",
+          "number": 1635
+        },
+        {
+          "started_at": "2021-04-26T00:38:48Z",
+          "used_tool": "TravisCI",
+          "number": 1637
+        },
+        {
+          "started_at": "2021-05-10T00:52:41Z",
+          "used_tool": "TravisCI",
+          "number": 1653
+        },
+        {
+          "started_at": "2021-05-10T00:53:00Z",
+          "used_tool": "TravisCI",
+          "number": 1655
+        },
+        {
+          "started_at": "2021-05-10T00:54:16Z",
+          "used_tool": "TravisCI",
+          "number": 1659
+        },
+        {
+          "started_at": "2021-05-17T00:43:14Z",
+          "used_tool": "TravisCI",
+          "number": 1677
+        },
+        {
+          "started_at": "2021-05-17T00:48:55Z",
+          "used_tool": "TravisCI",
+          "number": 1683
+        },
+        {
+          "started_at": "2021-05-24T01:03:38Z",
+          "used_tool": "TravisCI",
+          "number": 1691
+        },
+        {
+          "started_at": "2021-05-24T01:04:12Z",
+          "used_tool": "TravisCI",
+          "number": 1693
+        },
+        {
+          "started_at": "2021-05-24T01:04:15Z",
+          "used_tool": "TravisCI",
+          "number": 1694
+        },
+        {
+          "started_at": "2021-05-31T00:48:26Z",
+          "used_tool": "TravisCI",
+          "number": 1705
+        },
+        {
+          "started_at": "2021-05-31T00:51:45Z",
+          "used_tool": "TravisCI",
+          "number": 1711
+        },
+        {
+          "started_at": "2021-06-07T00:42:57Z",
+          "used_tool": "TravisCI",
+          "number": 1719
+        },
+        {
+          "started_at": "2021-06-07T00:43:14Z",
+          "used_tool": "TravisCI",
+          "number": 1721
+        },
+        {
+          "started_at": "2021-06-14T00:41:08Z",
+          "used_tool": "TravisCI",
+          "number": 1729
+        },
+        {
+          "started_at": "2021-06-14T00:41:18Z",
+          "used_tool": "TravisCI",
+          "number": 1731
+        },
+        {
+          "started_at": "2021-06-14T00:41:33Z",
+          "used_tool": "TravisCI",
+          "number": 1733
+        },
+        {
+          "started_at": "2021-06-14T00:53:20Z",
+          "used_tool": "TravisCI",
+          "number": 1746
+        },
+        {
+          "started_at": "2021-06-21T00:20:51Z",
+          "used_tool": "TravisCI",
+          "number": 1753
+        },
+        {
+          "started_at": "2021-06-21T00:22:40Z",
+          "used_tool": "TravisCI",
+          "number": 1756
+        },
+        {
+          "started_at": "2021-06-28T00:47:58Z",
+          "used_tool": "TravisCI",
+          "number": 1769
+        },
+        {
+          "started_at": "2021-07-05T00:50:18Z",
+          "used_tool": "TravisCI",
+          "number": 1775
+        },
+        {
+          "started_at": "2021-07-05T00:50:47Z",
+          "used_tool": "TravisCI",
+          "number": 1777
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 105
+    }
+  },
+  "skip_failing_tests": {}
+}

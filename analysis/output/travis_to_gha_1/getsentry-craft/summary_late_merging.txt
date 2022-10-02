@@ -1,0 +1,25 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 551.9166666666666 days
+Branch TEMP-monday moved away from main with 885 days, 333.08333333333337 more than average
+Branch TEMP-monday-afternoon moved away from main with 883 days, 331.08333333333337 more than average
+Branch feat/fastlane moved away from main with 556 days, 4.083333333333371 more than average
+Branch kmclb-gcs-artifact-store moved away from main with 902 days, 350.08333333333337 more than average
+Branch kmclb-gcs-work moved away from main with 889 days, 337.08333333333337 more than average
+Branch kmclb-log-level-config moved away from main with 919 days, 367.08333333333337 more than average
+Branch stash-mock-single-function moved away from main with 913 days, 361.08333333333337 more than average
+MEDIUM SEVERITY
+Branch kmclb-gcs-artifact-store, 902 days
+Branch kmclb-log-level-config, 919 days
+Branch stash-mock-single-function, 913 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

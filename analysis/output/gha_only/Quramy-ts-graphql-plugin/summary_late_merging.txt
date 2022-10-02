@@ -1,0 +1,33 @@
+Missed Activity
+=========================
+Branch master has 395 days of missed activity!
+Branch renovate/express-4.x has 135 days of missed activity!
+Branch renovate/major-jest-monorepo has 101 days of missed activity!
+Branch renovate/node-16.x has 3 days of missed activity!
+Branch renovate/react-18.x has 2 days of missed activity!
+Branch renovate/typescript-4.x has 64 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/express-4.x, 135 seconds
+HIGH SEVERITY
+Branch master, 395 seconds
+
+Branch Deviation
+=========================
+Average deviation: 56.0 days
+Branch master moved away from main with 395 days, 339.0 more than average
+MEDIUM SEVERITY
+Branch renovate/major-jest-monorepo, -3 days
+Branch renovate/typescript-4.x, 4 days
+HIGH SEVERITY
+Branch master, 395 days
+
+Unsynced activity
+=========================
+Average unsynced: 43.714285714285715 days
+Branch renovate/express-4.x is unsynced with 136 days, 92.28571428571428 more than average
+Branch renovate/major-jest-monorepo is unsynced with 104 days, 60.285714285714285 more than average
+Branch renovate/typescript-4.x is unsynced with 59 days, 15.285714285714285 more than average
+MEDIUM SEVERITY
+Branch renovate/express-4.x, 136 days
+Branch renovate/major-jest-monorepo, 104 days
+HIGH SEVERITY

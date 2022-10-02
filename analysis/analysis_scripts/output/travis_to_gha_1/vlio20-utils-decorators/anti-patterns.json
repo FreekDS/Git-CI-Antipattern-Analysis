@@ -1,0 +1,334 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2021-01-09T09:29:31Z": 383222.22222222225
+      },
+      "tool": "Github Actions",
+      "total avg": 383222.22222222225,
+      "quartiles": {
+        "q1": 383222.22222222225,
+        "q3": 383222.22222222225,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 409000,
+          "3": 596000
+        },
+        "medium_severity": {}
+      }
+    },
+    "utils-decorators": {
+      "data": {
+        "2020-11-25T23:49:11Z": 222428.57142857142,
+        "2020-12-02T23:54:00Z": 270285.71428571426,
+        "2020-12-09T23:57:23Z": 336428.5714285714,
+        "2020-12-17T00:01:39Z": 436888.8888888889,
+        "2020-12-24T00:05:47Z": 411705.8823529412,
+        "2020-12-31T00:09:24Z": 379052.63157894736,
+        "2021-01-07T00:12:12Z": 532000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 369827.1799948049,
+      "quartiles": {
+        "q1": 303357.14285714284,
+        "q3": 424297.38562091504,
+        "iqr": 120940.2427637722
+      },
+      "classification": {
+        "high_severity": {
+          "888": 639000,
+          "890": 637000,
+          "892": 656000,
+          "894": 651000,
+          "896": 665000,
+          "898": 867000,
+          "901": 662000,
+          "902": 653000,
+          "904": 654000,
+          "906": 640000,
+          "908": 650000,
+          "913": 635000,
+          "919": 664000,
+          "920": 655000,
+          "924": 646000,
+          "931": 652000,
+          "934": 636000,
+          "935": 661000,
+          "938": 658000,
+          "942": 642000,
+          "944": 642000,
+          "945": 656000,
+          "948": 642000,
+          "950": 641000,
+          "957": 643000,
+          "959": 649000
+        },
+        "medium_severity": {
+          "909": 426000,
+          "952": 427000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.7.2": 571,
+      "1.8.0": 553,
+      "1.8.2": 417,
+      "1.8.3": 409,
+      "1.9.0": 404,
+      "1.10.0": 404,
+      "1.10.1": 371,
+      "1.10.2": 309,
+      "1.10.3": 277,
+      "1.10.4": 267,
+      "2.0.0": 229,
+      "2.0.1": 209,
+      "2.0.2": 155,
+      "2.0.3": 95,
+      "2.0.4": 64,
+      "2.0.5": 0,
+      "145-debounce-should-support-multi-instances": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "1.7.2": 572,
+      "1.8.0": 553,
+      "1.8.2": 417,
+      "1.8.3": 409,
+      "1.9.0": 404,
+      "1.10.0": 404,
+      "1.10.1": 371,
+      "1.10.2": 309,
+      "1.10.3": 277,
+      "1.10.4": 267,
+      "2.0.0": 233,
+      "2.0.1": 209,
+      "2.0.2": 155,
+      "2.0.3": 95,
+      "2.0.4": 64,
+      "2.0.5": 0,
+      "145-debounce-should-support-multi-instances": 0,
+      "master": 0
+    },
+    "unsynced activity": {
+      "1.7.2": -1,
+      "1.8.0": -1,
+      "1.8.2": -1,
+      "1.8.3": -1,
+      "1.9.0": -1,
+      "1.10.0": -1,
+      "1.10.1": -1,
+      "1.10.2": -1,
+      "1.10.3": -1,
+      "1.10.4": -1,
+      "2.0.0": -5,
+      "2.0.1": -1,
+      "2.0.2": -1,
+      "2.0.3": -1,
+      "2.0.4": -1,
+      "2.0.5": -1,
+      "145-debounce-should-support-multi-instances": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "1.7.2",
+          "1.8.0",
+          "1.8.2",
+          "1.8.3"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "1.7.2",
+          "1.8.0",
+          "1.8.2",
+          "1.8.3"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "1.7.2",
+          "1.8.0",
+          "1.8.2",
+          "1.8.3",
+          "1.9.0",
+          "1.10.0",
+          "1.10.1",
+          "1.10.2",
+          "1.10.3",
+          "1.10.4",
+          "2.0.0",
+          "2.0.1",
+          "2.0.2",
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "145-debounce-should-support-multi-instances",
+          "master"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "utils-decorators": {
+      "data": [
+        {
+          "started_at": "2020-11-25T23:49:11Z",
+          "used_tool": "TravisCI",
+          "number": 873
+        },
+        {
+          "started_at": "2020-11-27T23:50:53Z",
+          "used_tool": "TravisCI",
+          "number": 875
+        },
+        {
+          "started_at": "2020-11-29T23:52:16Z",
+          "used_tool": "TravisCI",
+          "number": 877
+        },
+        {
+          "started_at": "2020-12-01T23:54:12Z",
+          "used_tool": "TravisCI",
+          "number": 879
+        },
+        {
+          "started_at": "2020-12-03T23:54:55Z",
+          "used_tool": "TravisCI",
+          "number": 881
+        },
+        {
+          "started_at": "2020-12-05T23:56:22Z",
+          "used_tool": "TravisCI",
+          "number": 883
+        },
+        {
+          "started_at": "2020-12-07T23:56:58Z",
+          "used_tool": "TravisCI",
+          "number": 885
+        },
+        {
+          "started_at": "2020-12-09T23:57:23Z",
+          "used_tool": "TravisCI",
+          "number": 887
+        },
+        {
+          "started_at": "2020-12-11T23:58:42Z",
+          "used_tool": "TravisCI",
+          "number": 889
+        },
+        {
+          "started_at": "2020-12-14T00:00:16Z",
+          "used_tool": "TravisCI",
+          "number": 891
+        },
+        {
+          "started_at": "2020-12-16T00:01:17Z",
+          "used_tool": "TravisCI",
+          "number": 893
+        },
+        {
+          "started_at": "2020-12-18T00:02:22Z",
+          "used_tool": "TravisCI",
+          "number": 895
+        },
+        {
+          "started_at": "2020-12-20T00:03:01Z",
+          "used_tool": "TravisCI",
+          "number": 897
+        },
+        {
+          "started_at": "2020-12-21T21:52:20Z",
+          "used_tool": "TravisCI",
+          "number": 899
+        },
+        {
+          "started_at": "2020-12-22T00:04:24Z",
+          "used_tool": "TravisCI",
+          "number": 900
+        },
+        {
+          "started_at": "2020-12-30T11:56:26Z",
+          "used_tool": "TravisCI",
+          "number": 910
+        },
+        {
+          "started_at": "2020-12-30T12:35:51Z",
+          "used_tool": "TravisCI",
+          "number": 914
+        },
+        {
+          "started_at": "2020-12-30T14:20:13Z",
+          "used_tool": "TravisCI",
+          "number": 915
+        },
+        {
+          "started_at": "2020-12-30T17:05:13Z",
+          "used_tool": "TravisCI",
+          "number": 917
+        },
+        {
+          "started_at": "2021-01-01T17:55:47Z",
+          "used_tool": "TravisCI",
+          "number": 925
+        },
+        {
+          "started_at": "2021-01-01T18:34:28Z",
+          "used_tool": "TravisCI",
+          "number": 926
+        },
+        {
+          "started_at": "2021-01-01T18:48:56Z",
+          "used_tool": "TravisCI",
+          "number": 927
+        },
+        {
+          "started_at": "2021-01-01T18:52:10Z",
+          "used_tool": "TravisCI",
+          "number": 928
+        },
+        {
+          "started_at": "2021-01-01T18:54:14Z",
+          "used_tool": "TravisCI",
+          "number": 929
+        },
+        {
+          "started_at": "2021-01-01T18:55:06Z",
+          "used_tool": "TravisCI",
+          "number": 930
+        },
+        {
+          "started_at": "2021-01-01T19:29:54Z",
+          "used_tool": "TravisCI",
+          "number": 932
+        },
+        {
+          "started_at": "2021-01-01T20:33:48Z",
+          "used_tool": "TravisCI",
+          "number": 933
+        },
+        {
+          "started_at": "2021-01-03T00:10:14Z",
+          "used_tool": "TravisCI",
+          "number": 941
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 71
+    }
+  },
+  "skip_failing_tests": {}
+}

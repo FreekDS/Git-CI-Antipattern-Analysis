@@ -1,0 +1,19 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 617.1666666666666 days
+Branch gh-pages moved away from main with 882 days, 264.83333333333337 more than average
+Branch web moved away from main with 1490 days, 872.8333333333334 more than average
+MEDIUM SEVERITY
+Branch gh-pages, 882 days
+HIGH SEVERITY
+Branch web, 1490 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

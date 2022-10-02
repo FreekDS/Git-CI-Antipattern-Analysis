@@ -1,0 +1,201 @@
+repo;ci;start;end
+all3dp/meshprop;Travis;28/08/2015 12:22;15/03/2021 16:12
+all3dp/meshprop;GHA;15/03/2021 16:27;#NAME?
+amtrack/sfdx-browserforce-plugin;Travis;25/01/2018 12:12;29/11/2020 12:31
+amtrack/sfdx-browserforce-plugin;GHA;29/11/2020 12:31;#NAME?
+arlac77/kv-reader;Travis;21/02/2017 18:58;23/11/2020 17:04
+arlac77/kv-reader;GHA;04/06/2020 11:23;#NAME?
+arlac77/repository-provider;Travis;14/11/2017 21:08;20/11/2020 18:39
+arlac77/repository-provider;GHA;04/06/2020 11:31;#NAME?
+arthurdenner/use-lax;Travis;25/03/2019 03:38;28/01/2021 22:53
+arthurdenner/use-lax;GHA;28/01/2021 22:53;#NAME?
+aws/jsii;Travis;30/07/2019 16:49;13/10/2020 12:16
+aws/jsii;GHA;25/02/2020 13:35;#NAME?
+AxisCommunications/media-stream-library-js;Travis;08/03/2018 13:25;26/01/2020 07:04
+AxisCommunications/media-stream-library-js;GHA;24/01/2020 17:18;#NAME?
+bhovhannes/additween;Travis;13/12/2016 09:04;23/11/2020 15:03
+bhovhannes/additween;GHA;23/11/2020 15:03;#NAME?
+bitdiver/logadapter;Travis;10/12/2018 11:48;10/11/2020 19:10
+bitdiver/logadapter;GHA;10/11/2020 19:10;#NAME?
+BLSQ/blsq-report-components;Travis;28/11/2018 20:39;22/02/2021 15:31
+BLSQ/blsq-report-components;GHA;22/02/2021 15:08;#NAME?
+camunda/camunda-modeler;Travis;23/11/2015 17:59;18/05/2021 10:43
+camunda/camunda-modeler;GHA;21/01/2021 16:28;#NAME?
+casbin/node-casbin;Travis;05/08/2018 05:47;29/11/2020 05:42
+casbin/node-casbin;GHA;29/11/2020 05:42;#NAME?
+ccnmtl/supportservices-pack;Travis;19/05/2016 16:40;13/01/2021 01:38
+ccnmtl/supportservices-pack;GHA;13/01/2021 01:38;#NAME?
+chrisguttandin/audio-context-timers;Travis;22/11/2016 01:14;12/05/2021 02:37
+chrisguttandin/audio-context-timers;GHA;30/12/2020 11:23;#NAME?
+chrisguttandin/compilerr;Travis;29/11/2015 01:25;09/05/2021 19:13
+chrisguttandin/compilerr;GHA;16/01/2021 00:43;#NAME?
+chrisguttandin/extendable-media-recorder;Travis;18/12/2016 03:12;11/05/2021 18:48
+chrisguttandin/extendable-media-recorder;GHA;19/01/2021 03:18;#NAME?
+chrisguttandin/metadata-detector-streams;Travis;23/01/2017 19:38;13/05/2021 18:37
+chrisguttandin/metadata-detector-streams;GHA;27/12/2020 21:03;#NAME?
+chrisguttandin/midi-file-slicer;Travis;07/06/2016 21:40;09/05/2021 19:47
+chrisguttandin/midi-file-slicer;GHA;30/12/2020 01:51;#NAME?
+chrisguttandin/midi-json-parser-worker;Travis;30/11/2016 16:22;09/05/2021 19:23
+chrisguttandin/midi-json-parser-worker;GHA;31/12/2020 17:45;#NAME?
+chrisguttandin/midi-player;Travis;25/05/2016 14:57;09/05/2021 19:58
+chrisguttandin/midi-player;GHA;02/01/2021 05:31;#NAME?
+citation-js/citation-js;Travis;24/11/2018 18:18;08/01/2021 14:01
+citation-js/citation-js;GHA;08/01/2021 14:01;#NAME?
+ClarityCafe/Sagiri;Travis;09/12/2018 05:40;29/05/2020 11:17
+ClarityCafe/Sagiri;GHA;29/05/2020 10:53;#NAME?
+codemod-js/codemod;Travis;28/03/2017 17:47;24/01/2019 19:57
+codemod-js/codemod;GHA;24/03/2020 14:57;#NAME?
+Colonise/Config;Travis;11/11/2018 01:19;20/12/2019 06:28
+Colonise/Config;GHA;20/12/2019 07:58;#NAME?
+configcat/node-sdk;Travis;18/04/2018 09:09;11/03/2021 22:42
+configcat/node-sdk;GHA;11/03/2021 22:38;#NAME?
+crystal-ball/componentry;Travis;03/11/2017 23:21;22/02/2020 17:06
+crystal-ball/componentry;GHA;22/02/2020 17:06;#NAME?
+digabi/rich-text-editor;Travis;10/05/2017 14:17;22/02/2021 22:51
+digabi/rich-text-editor;GHA;22/02/2021 22:51;#NAME?
+donaldaverill/rxjs-console-logger-operator;Travis;01/11/2018 07:09;13/08/2019 18:37
+donaldaverill/rxjs-console-logger-operator;GHA;13/08/2019 18:07;#NAME?
+eclipse-theia/theia;Travis;16/05/2017 08:58;08/12/2020 14:58
+eclipse-theia/theia;GHA;15/10/2020 13:26;#NAME?
+edx/frontend-component-footer;Travis;08/01/2019 22:14;30/11/2020 19:56
+edx/frontend-component-footer;GHA;30/11/2020 19:56;#NAME?
+elyra-ai/canvas;Travis;02/02/2017 15:21;02/12/2020 22:10
+elyra-ai/canvas;GHA;01/12/2020 22:03;#NAME?
+es-shims/String.prototype.trimEnd;Travis;30/03/2020 09:05;22/11/2020 00:02
+es-shims/String.prototype.trimEnd;GHA;30/03/2020 09:06;#NAME?
+EthWorks/Waffle;Travis;03/08/2018 12:00;20/12/2019 14:23
+EthWorks/Waffle;GHA;26/02/2021 18:51;#NAME?
+fabricjs/fabric.js;Travis;29/07/2012 22:48;30/01/2021 08:14
+fabricjs/fabric.js;GHA;22/01/2020 15:08;#NAME?
+formatjs/formatjs;Travis;25/09/2014 00:06;09/07/2020 07:28
+formatjs/formatjs;GHA;11/09/2019 05:29;#NAME?
+freaktechnik/my-deprecations;Travis;07/11/2017 12:17;08/02/2021 16:55
+freaktechnik/my-deprecations;GHA;08/02/2021 16:55;#NAME?
+getsentry/craft;Travis;15/06/2018 14:33;29/10/2020 13:16
+getsentry/craft;GHA;29/10/2020 13:16;#NAME?
+GetStream/react-file-utils;Travis;29/01/2019 17:02;09/03/2021 15:12
+GetStream/react-file-utils;GHA;09/03/2021 15:01;#NAME?
+gkjohnson/three-mesh-bvh;Travis;12/09/2018 07:35;21/12/2020 22:04
+gkjohnson/three-mesh-bvh;GHA;21/12/2020 21:59;#NAME?
+hudovisk/react-optimize;Travis;17/04/2019 03:40;09/12/2019 02:06
+hudovisk/react-optimize;GHA;09/12/2019 02:06;#NAME?
+iamogbz/crx-livereload;Travis;12/04/2019 06:55;31/12/2020 17:40
+iamogbz/crx-livereload;GHA;10/01/2020 06:26;#NAME?
+iamogbz/jest-mock-props;Travis;12/04/2019 06:55;31/12/2020 17:27
+iamogbz/jest-mock-props;GHA;10/01/2020 06:09;#NAME?
+iTowns/itowns;Travis;22/02/2016 12:25;12/01/2021 16:05
+iTowns/itowns;GHA;16/12/2020 15:45;#NAME?
+ivmartel/dwv;Travis;19/06/2013 22:31;21/04/2021 11:26
+ivmartel/dwv;GHA;12/02/2021 18:59;#NAME?
+jarrodconnolly/sequelize-slugify;Travis;07/08/2015 19:38;14/11/2020 04:50
+jarrodconnolly/sequelize-slugify;GHA;26/08/2020 10:04;#NAME?
+jazz-soft/jazz-midi-electron;Travis;12/09/2018 05:15;07/04/2021 01:54
+jazz-soft/jazz-midi-electron;GHA;07/04/2021 01:54;#NAME?
+jazz-soft/JZZ;Travis;12/06/2018 06:05;09/04/2021 06:02
+jazz-soft/JZZ;GHA;09/04/2021 06:02;#NAME?
+kaciras-blog/uikit;Travis;05/06/2020 07:33;02/02/2021 14:06
+kaciras-blog/uikit;GHA;02/02/2021 14:06;#NAME?
+kentcdodds/eslint-config-kentcdodds;Travis;05/09/2015 01:05;05/11/2020 04:04
+kentcdodds/eslint-config-kentcdodds;GHA;05/11/2020 04:04;#NAME?
+kentcdodds/kcd-scripts;Travis;03/09/2017 08:05;05/11/2020 03:39
+kentcdodds/kcd-scripts;GHA;05/11/2020 03:39;#NAME?
+KnisterPeter/tsdi;Travis;09/01/2016 15:52;07/10/2020 17:11
+KnisterPeter/tsdi;GHA;13/10/2019 18:55;#NAME?
+kremalicious/gatsby-plugin-matomo;Travis;07/05/2018 20:26;24/02/2020 11:32
+kremalicious/gatsby-plugin-matomo;GHA;24/02/2020 11:32;#NAME?
+mathigon/textbooks;Travis;08/08/2020 04:38;01/02/2021 11:05
+mathigon/textbooks;GHA;01/02/2021 11:05;#NAME?
+mcollina/undici;Travis;26/07/2018 19:16;19/05/2020 16:51
+mcollina/undici;GHA;19/05/2020 16:51;#NAME?
+mdreizin/gatsby-plugin-robots-txt;Travis;22/04/2018 10:32;11/11/2019 22:01
+mdreizin/gatsby-plugin-robots-txt;GHA;11/11/2019 22:01;#NAME?
+mia-platform/lc39;Travis;08/01/2019 15:26;03/08/2020 12:37
+mia-platform/lc39;GHA;03/08/2020 12:33;#NAME?
+microlinkhq/mql;Travis;03/02/2019 06:15;20/03/2021 20:59
+microlinkhq/mql;GHA;20/03/2021 20:59;#NAME?
+mikro-orm/mikro-orm;Travis;04/06/2018 23:57;14/12/2019 12:24
+mikro-orm/mikro-orm;GHA;22/11/2019 23:52;#NAME?
+neovici/cosmoz-omnitable;Travis;26/02/2016 11:52;07/10/2019 12:25
+neovici/cosmoz-omnitable;GHA;07/10/2019 12:25;#NAME?
+nervosnetwork/ckb-sdk-js;Travis;31/01/2019 07:15;18/08/2020 11:27
+nervosnetwork/ckb-sdk-js;GHA;21/07/2020 14:21;#NAME?
+nextcloud/nextcloud-vue;Travis;25/09/2018 15:30;24/02/2020 12:54
+nextcloud/nextcloud-vue;GHA;06/01/2020 08:35;#NAME?
+NiGhTTraX/react-bind-component;Travis;03/01/2019 21:53;14/02/2021 10:26
+NiGhTTraX/react-bind-component;GHA;14/02/2021 10:26;#NAME?
+nodejs/i18n;Travis;31/05/2018 15:28;15/03/2020 05:11
+nodejs/i18n;GHA;15/03/2020 05:11;#NAME?
+openactive/data-models;Travis;18/07/2018 13:48;12/01/2021 15:02
+openactive/data-models;GHA;14/11/2020 17:29;#NAME?
+panva/node-oidc-provider;Travis;23/04/2016 22:29;15/08/2019 19:03
+panva/node-oidc-provider;GHA;15/08/2019 19:03;#NAME?
+parse-community/Parse-SDK-JS;Travis;16/09/2015 20:36;04/12/2020 06:45
+parse-community/Parse-SDK-JS;GHA;04/12/2020 06:45;#NAME?
+peckadesign/pdForms;Travis;03/09/2019 15:08;29/03/2021 15:18
+peckadesign/pdForms;GHA;29/03/2021 15:18;#NAME?
+phillipj/gitlab-search;Travis;18/03/2019 22:02;07/06/2020 00:19
+phillipj/gitlab-search;GHA;07/06/2020 00:19;#NAME?
+polkadot-js/tools;Travis;09/11/2018 09:55;10/10/2019 11:50
+polkadot-js/tools;GHA;04/10/2019 09:39;#NAME?
+ppeerttu/koa-req-validation;Travis;29/03/2019 21:14;10/05/2020 11:57
+ppeerttu/koa-req-validation;GHA;08/05/2020 16:13;#NAME?
+prettier-solidity/prettier-plugin-solidity;Travis;07/07/2018 16:36;12/04/2021 02:15
+prettier-solidity/prettier-plugin-solidity;GHA;12/04/2021 02:15;#NAME?
+rstiller/inspector-metrics;Travis;17/02/2019 15:14;19/12/2020 21:36
+rstiller/inspector-metrics;GHA;19/12/2020 21:24;#NAME?
+rx-ts/vue;Travis;13/09/2017 08:20;17/01/2020 19:52
+rx-ts/vue;GHA;17/01/2020 19:52;#NAME?
+ryansolid/solid;Travis;18/02/2019 08:49;13/03/2021 09:13
+ryansolid/solid;GHA;13/03/2021 08:41;#NAME?
+sasaplus1/stylelint-processor-ignore-front-matter;Travis;24/01/2019 10:05;21/11/2019 18:17
+sasaplus1/stylelint-processor-ignore-front-matter;GHA;25/08/2019 14:52;#NAME?
+scurker/currency.js;Travis;12/12/2014 16:53;19/05/2021 15:47
+scurker/currency.js;GHA;23/01/2020 22:22;#NAME?
+shipshapecode/ember-math-helpers;Travis;01/03/2016 16:41;19/11/2020 16:10
+shipshapecode/ember-math-helpers;GHA;19/11/2020 16:10;#NAME?
+slowli/julia-set;Travis;03/01/2019 15:38;23/01/2021 16:29
+slowli/julia-set;GHA;23/01/2021 16:29;#NAME?
+softwareventures/table;Travis;02/01/2019 03:22;03/02/2020 17:58
+softwareventures/table;GHA;03/02/2020 17:58;#NAME?
+stylelint/stylelint;Travis;11/12/2014 08:20;21/09/2019 10:20
+stylelint/stylelint;GHA;21/09/2019 10:20;#NAME?
+szikszail/cross-process-lock;Travis;31/03/2018 15:30;27/01/2021 21:27
+szikszail/cross-process-lock;GHA;27/01/2021 21:27;#NAME?
+tanem/react-nprogress;Travis;30/09/2018 19:33;03/12/2020 21:20
+tanem/react-nprogress;GHA;03/12/2020 21:20;#NAME?
+tclindner/eslint-config-react-tc;Travis;02/06/2018 18:44;28/04/2019 21:36
+tclindner/eslint-config-react-tc;GHA;09/05/2020 04:46;#NAME?
+terrestris/ol-util;Travis;12/07/2018 15:13;25/01/2021 16:03
+terrestris/ol-util;GHA;25/01/2021 16:03;#NAME?
+TimeForANinja/node-ytpl;Travis;06/05/2018 11:28;06/09/2020 19:04
+TimeForANinja/node-ytpl;GHA;25/07/2020 10:24;#NAME?
+TimeForANinja/node-ytsr;Travis;06/05/2018 23:35;06/09/2020 19:16
+TimeForANinja/node-ytsr;GHA;22/07/2020 09:17;#NAME?
+travi/any;Travis;30/05/2016 07:31;23/11/2020 04:33
+travi/any;GHA;23/11/2020 04:33;#NAME?
+travi/circle-scaffolder-javascript;Travis;05/03/2019 06:22;22/11/2020 04:23
+travi/circle-scaffolder-javascript;GHA;22/11/2020 04:23;#NAME?
+travi/github-scaffolder;Travis;31/08/2018 07:55;10/11/2020 00:06
+travi/github-scaffolder;GHA;10/11/2020 00:06;#NAME?
+travi/gitlab-scaffolder;Travis;09/10/2018 06:53;22/11/2020 05:51
+travi/gitlab-scaffolder;GHA;22/11/2020 05:51;#NAME?
+travi/language-scaffolder-prompts;Travis;24/03/2019 00:21;22/11/2020 04:56
+travi/language-scaffolder-prompts;GHA;22/11/2020 04:56;#NAME?
+travi/travis-scaffolder-javascript;Travis;02/06/2018 06:58;23/11/2020 05:30
+travi/travis-scaffolder-javascript;GHA;23/11/2020 05:30;#NAME?
+uber-web/math.gl;Travis;19/08/2017 16:09;27/10/2020 19:44
+uber-web/math.gl;GHA;27/10/2020 19:44;#NAME?
+visgl/react-map-gl;Travis;31/03/2016 05:01;26/11/2020 00:05
+visgl/react-map-gl;GHA;26/11/2020 00:05;#NAME?
+vlio20/utils-decorators;Travis;29/03/2019 22:36;09/01/2021 11:32
+vlio20/utils-decorators;GHA;09/01/2021 11:32;#NAME?
+w3c/respec;Travis;29/05/2013 01:08;24/08/2019 21:01
+w3c/respec;GHA;24/08/2019 21:01;#NAME?
+w3c/specberus;Travis;24/11/2014 05:01;01/10/2020 08:51
+w3c/specberus;GHA;01/10/2020 08:51;#NAME?
+wikimedia/jquery.ime;Travis;04/10/2012 06:25;16/07/2020 14:23
+wikimedia/jquery.ime;GHA;16/07/2020 14:23;#NAME?
+wixplosives/test-drive-react;Travis;29/06/2017 17:10;08/11/2019 00:09
+wixplosives/test-drive-react;GHA;08/11/2019 00:08;#NAME?
+YunYouJun/vue-about-me;Travis;31/01/2019 08:53;12/08/2020 09:56
+YunYouJun/vue-about-me;GHA;12/08/2020 09:56;#NAME?

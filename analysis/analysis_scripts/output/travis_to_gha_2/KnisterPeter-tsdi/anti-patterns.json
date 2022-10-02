@@ -6,46 +6,65 @@
       "master": 0,
       "renovate/commitlint-cli-17.x": 0,
       "renovate/commitlint-config-conventional-17.x": 0,
+      "renovate/cypress-10.x": 0,
       "renovate/fkill-8.x": 0,
       "renovate/get-port-6.x": 0,
       "renovate/husky-8.x": 0,
-      "renovate/mocha-10.x": 0
+      "renovate/lint-staged-13.x": 0,
+      "renovate/lock-file-maintenance": 65,
+      "renovate/mocha-10.x": 0,
+      "renovate/typescript-4.x": 88
     },
     "branch deviation": {
-      "gh-pages": 131,
+      "gh-pages": 79,
       "master": 0,
       "renovate/commitlint-cli-17.x": -1,
-      "renovate/commitlint-config-conventional-17.x": 8,
-      "renovate/fkill-8.x": 0,
-      "renovate/get-port-6.x": 78,
-      "renovate/husky-8.x": 15,
-      "renovate/mocha-10.x": 1
+      "renovate/commitlint-config-conventional-17.x": -1,
+      "renovate/cypress-10.x": 0,
+      "renovate/fkill-8.x": 113,
+      "renovate/get-port-6.x": 190,
+      "renovate/husky-8.x": 127,
+      "renovate/lint-staged-13.x": 32,
+      "renovate/lock-file-maintenance": -1,
+      "renovate/mocha-10.x": 32,
+      "renovate/typescript-4.x": -1
     },
     "unsynced activity": {
       "gh-pages": 0,
       "master": 0,
       "renovate/commitlint-cli-17.x": 0,
       "renovate/commitlint-config-conventional-17.x": 0,
+      "renovate/cypress-10.x": 0,
       "renovate/fkill-8.x": 0,
       "renovate/get-port-6.x": 0,
       "renovate/husky-8.x": 0,
-      "renovate/mocha-10.x": 0
+      "renovate/lint-staged-13.x": 0,
+      "renovate/lock-file-maintenance": 65,
+      "renovate/mocha-10.x": 0,
+      "renovate/typescript-4.x": 88
     },
     "classification": {
       "missed activity": {
         "medium_severity": [],
-        "high_severity": []
+        "high_severity": [
+          "renovate/lock-file-maintenance",
+          "renovate/typescript-4.x"
+        ]
       },
       "branch deviation": {
-        "medium_severity": [],
-        "high_severity": [
-          "gh-pages",
-          "renovate/get-port-6.x"
-        ]
+        "medium_severity": [
+          "renovate/fkill-8.x",
+          "renovate/get-port-6.x",
+          "renovate/husky-8.x"
+        ],
+        "high_severity": []
       },
       "unsynced activity": {
         "medium_severity": [],
-        "high_severity": []
+        "high_severity": [
+          "renovate/lock-file-maintenance",
+          "renovate/typescript-4.x"
+        ]
       }
     },
     "build_count": 0

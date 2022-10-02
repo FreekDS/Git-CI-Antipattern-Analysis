@@ -1,27 +1,5 @@
 {
-  "slow_build": {
-    "Docker Image CI": {
-      "data": {
-        "2020-02-24T19:09:56Z": 81000.0,
-        "2020-03-11T08:03:06Z": 71000.0,
-        "2020-03-19T19:15:24Z": 164083.33333333334
-      },
-      "tool": "Github Actions",
-      "total avg": 105361.11111111112,
-      "quartiles": {
-        "q1": 76000.0,
-        "q3": 122541.66666666667,
-        "iqr": 46541.66666666667
-      },
-      "classification": {
-        "high_severity": {
-          "6": 770000,
-          "7": 345000
-        },
-        "medium_severity": {}
-      }
-    }
-  },
+  "slow_build": {},
   "late_merging": {
     "missed activity": {
       "allowconcurrent": 0,
@@ -30,6 +8,7 @@
       "dependabot/npm_and_yarn/ajv-6.12.6": 0,
       "dependabot/npm_and_yarn/minimist-1.2.6": 0,
       "dependabot/npm_and_yarn/pathval-1.1.1": 0,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": 0,
       "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
       "events": 2904,
       "feature/brokenConnectionDetection": 850,
@@ -51,6 +30,7 @@
       "dependabot/npm_and_yarn/ajv-6.12.6": -56,
       "dependabot/npm_and_yarn/minimist-1.2.6": -96,
       "dependabot/npm_and_yarn/pathval-1.1.1": -54,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": -186,
       "dependabot/npm_and_yarn/url-parse-1.5.10": -70,
       "events": 2917,
       "feature/brokenConnectionDetection": 850,
@@ -72,6 +52,7 @@
       "dependabot/npm_and_yarn/ajv-6.12.6": 0,
       "dependabot/npm_and_yarn/minimist-1.2.6": 0,
       "dependabot/npm_and_yarn/pathval-1.1.1": 0,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": 0,
       "dependabot/npm_and_yarn/url-parse-1.5.10": 0,
       "events": -13,
       "feature/brokenConnectionDetection": -1,
@@ -121,40 +102,8 @@
         ]
       }
     },
-    "build_count": 1
+    "build_count": 0
   },
-  "broken_release": {
-    "Docker Image CI": {
-      "data": [
-        {
-          "started_at": "2020-02-24T19:09:56Z",
-          "used_tool": "Github Actions",
-          "number": 2
-        },
-        {
-          "started_at": "2020-03-11T08:03:06Z",
-          "used_tool": "Github Actions",
-          "number": 3
-        },
-        {
-          "started_at": "2020-03-11T09:04:29Z",
-          "used_tool": "Github Actions",
-          "number": 4
-        },
-        {
-          "started_at": "2020-03-14T07:10:08Z",
-          "used_tool": "Github Actions",
-          "number": 5
-        },
-        {
-          "started_at": "2020-03-19T19:15:24Z",
-          "used_tool": "Github Actions",
-          "number": 6
-        }
-      ],
-      "tool": "Github Actions",
-      "release_build_count": 16
-    }
-  },
+  "broken_release": {},
   "skip_failing_tests": {}
 }

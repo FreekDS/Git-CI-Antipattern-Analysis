@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BEFORE = False
+BEFORE = True
 
 start_date = datetime.datetime(2022, 5, 5, 12) - datetime.timedelta(days=90)
 with open(f'{os.getcwd()}/gha_to_travis.json') as gha_f:
@@ -32,10 +32,10 @@ for repo, vals in list(gha_to_travis.items()):
 
     if BEFORE:
         print("Repo", i, '(1/2) of', len(gha_to_travis))
-        analyze_repo(GithubRepo(repo), start_date=start_d1, to_date=end_d1, create_cache=True, use_cache=True,
+        analyze_repo(GithubRepo(repo), start_date=start_d1, to_date=end_d1, create_cache=True, use_cache=False,
                      out_dir="./output/gha_to_travis_1", **opts)
     else:
         print("Repo", i, '(2/2) of', len(gha_to_travis))
-        analyze_repo(GithubRepo(repo), start_date=start_d2, to_date=end_d2, create_cache=True, use_cache=True,
+        analyze_repo(GithubRepo(repo), start_date=start_d2, to_date=end_d2, create_cache=True, use_cache=False,
                      out_dir="./output/gha_to_travis_2", **opts)
     i += 1

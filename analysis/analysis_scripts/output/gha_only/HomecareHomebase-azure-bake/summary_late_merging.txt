@@ -1,0 +1,36 @@
+Missed Activity
+=========================
+Branch fix/loading has 105 days of missed activity!
+MEDIUM SEVERITY
+Branch fix/loading, 105 seconds
+
+Branch Deviation
+=========================
+Average deviation: 129.75 days
+Branch fix/colors moved away from main with 189 days, 59.25 more than average
+Branch fix/ml-workspace moved away from main with 595 days, 465.25 more than average
+Branch users/twatson/auth_test moved away from main with 161 days, 31.25 more than average
+Branch users/twatson/test_colors moved away from main with 189 days, 59.25 more than average
+MEDIUM SEVERITY
+Branch fix/colors, 189 days
+Branch users/twatson/test_colors, 189 days
+HIGH SEVERITY
+Branch fix/ml-workspace, 595 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.08333333333333333 days
+Branch dependabot/npm_and_yarn/dot-prop-4.2.1 is unsynced with 0 days, 0.08333333333333333 more than average
+Branch dependabot/npm_and_yarn/ingredient/ingredient-functions/async-2.6.4 is unsynced with 0 days, 0.08333333333333333 more than average
+Branch dependabot/npm_and_yarn/ingredient/ingredient-network-interface/async-2.6.4 is unsynced with 0 days, 0.08333333333333333 more than average
+Branch dependabot/npm_and_yarn/ingredient/ingredient-sql-dwh/async-2.6.4 is unsynced with 0 days, 0.08333333333333333 more than average
+Branch dependabot/npm_and_yarn/moment-2.29.4 is unsynced with 0 days, 0.08333333333333333 more than average
+Branch dependabot/npm_and_yarn/parse-url-6.0.5 is unsynced with 0 days, 0.08333333333333333 more than average
+Branch fix/colors is unsynced with 0 days, 0.08333333333333333 more than average
+Branch fix/ml-workspace is unsynced with 0 days, 0.08333333333333333 more than average
+Branch master is unsynced with 0 days, 0.08333333333333333 more than average
+Branch users/twatson/auth_test is unsynced with 0 days, 0.08333333333333333 more than average
+Branch users/twatson/test_colors is unsynced with 0 days, 0.08333333333333333 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch fix/loading, -1 days

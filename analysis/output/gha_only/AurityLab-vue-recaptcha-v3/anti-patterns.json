@@ -1,0 +1,143 @@
+{
+  "slow_build": {
+    "Lint": {
+      "data": {
+        "2021-04-08T04:22:05Z": 37058.82352941176,
+        "2021-04-15T04:22:16Z": 37500.0,
+        "2021-04-22T16:23:30Z": 34916.666666666664,
+        "2021-04-30T06:33:52Z": 36428.57142857143,
+        "2021-05-07T14:05:12Z": 39866.666666666664,
+        "2021-05-17T04:03:08Z": 33636.36363636364,
+        "2021-05-24T10:06:52Z": 37000.0,
+        "2021-06-01T04:03:15Z": 35666.666666666664,
+        "2021-06-08T07:07:29Z": 36625.0,
+        "2021-06-16T18:29:28Z": 36529.41176470588,
+        "2021-06-28T09:14:18Z": 42714.28571428572,
+        "2021-07-06T04:02:16Z": 35000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 36911.87133944487,
+      "quartiles": {
+        "q1": 35500.0,
+        "q3": 37169.117647058825,
+        "iqr": 1669.1176470588252
+      },
+      "classification": {
+        "high_severity": {
+          "506": 43000,
+          "507": 42000,
+          "517": 40000,
+          "518": 40000,
+          "522": 40000,
+          "534": 43000,
+          "535": 41000,
+          "538": 44000,
+          "541": 40000,
+          "542": 41000,
+          "546": 40000,
+          "547": 41000,
+          "548": 45000,
+          "549": 44000,
+          "551": 46000,
+          "552": 42000,
+          "554": 41000,
+          "556": 48000,
+          "558": 40000,
+          "568": 43000,
+          "569": 41000,
+          "573": 45000,
+          "575": 40000,
+          "576": 42000,
+          "580": 40000,
+          "585": 42000,
+          "591": 40000,
+          "598": 45000,
+          "600": 40000,
+          "601": 82000,
+          "604": 41000,
+          "616": 43000,
+          "618": 42000,
+          "628": 57000,
+          "629": 45000,
+          "630": 105000
+        },
+        "medium_severity": {
+          "505": 38000,
+          "508": 39000,
+          "515": 39000,
+          "524": 38000,
+          "525": 39000,
+          "531": 38000,
+          "543": 39000,
+          "555": 38000,
+          "560": 39000,
+          "563": 39000,
+          "566": 39000,
+          "574": 39000,
+          "586": 38000,
+          "588": 39000,
+          "595": 38000,
+          "622": 39000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/add-v2-config-file": 499,
+      "dependabot/npm_and_yarn/vue-3.2.39": 0,
+      "dependabot/npm_and_yarn/webpack-dev-server-4.11.0": 0,
+      "master": 0,
+      "vue-v2.x": 0
+    },
+    "branch deviation": {
+      "dependabot/add-v2-config-file": 500,
+      "dependabot/npm_and_yarn/vue-3.2.39": -1,
+      "dependabot/npm_and_yarn/webpack-dev-server-4.11.0": 3,
+      "master": 0,
+      "vue-v2.x": 672
+    },
+    "unsynced activity": {
+      "dependabot/add-v2-config-file": -1,
+      "dependabot/npm_and_yarn/vue-3.2.39": 0,
+      "dependabot/npm_and_yarn/webpack-dev-server-4.11.0": 0,
+      "master": 0,
+      "vue-v2.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/add-v2-config-file"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "vue-v2.x"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/add-v2-config-file"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Lint": {
+      "data": [
+        {
+          "started_at": "2021-06-19T09:19:04Z",
+          "used_tool": "Github Actions",
+          "number": 610
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 50
+    }
+  },
+  "skip_failing_tests": {}
+}

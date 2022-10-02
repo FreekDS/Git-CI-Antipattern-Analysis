@@ -1,0 +1,61 @@
+Missed Activity
+=========================
+Branch capacitor-4 has 89 days of missed activity!
+Branch portals-dev has 77 days of missed activity!
+MEDIUM SEVERITY
+Branch capacitor-4, 89 seconds
+Branch portals-dev, 77 seconds
+
+Branch Deviation
+=========================
+Average deviation: 240.46153846153845 days
+Branch 1.x moved away from main with 771 days, 530.5384615384615 more than average
+Branch 2.x moved away from main with 326 days, 85.53846153846155 more than average
+Branch android-api-scope moved away from main with 583 days, 342.53846153846155 more than average
+Branch android-bridge-access moved away from main with 848 days, 607.5384615384615 more than average
+Branch android-http-error-info moved away from main with 348 days, 107.53846153846155 more than average
+Branch carthage-build moved away from main with 309 days, 68.53846153846155 more than average
+Branch embedded-android moved away from main with 708 days, 467.53846153846155 more than average
+Branch perm-helpers moved away from main with 635 days, 394.53846153846155 more than average
+Branch privacy-hotfix moved away from main with 704 days, 463.53846153846155 more than average
+MEDIUM SEVERITY
+Branch 1.x, 771 days
+Branch android-api-scope, 583 days
+Branch android-http-error-info, 348 days
+Branch embedded-android, 708 days
+Branch perm-helpers, 635 days
+Branch privacy-hotfix, 704 days
+HIGH SEVERITY
+Branch android-bridge-access, 848 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.07692307692307693 days
+Branch 1.x is unsynced with 0 days, 0.07692307692307693 more than average
+Branch 2.x is unsynced with 0 days, 0.07692307692307693 more than average
+Branch 3.x is unsynced with 0 days, 0.07692307692307693 more than average
+Branch android-api-scope is unsynced with 0 days, 0.07692307692307693 more than average
+Branch android-bridge-access is unsynced with 0 days, 0.07692307692307693 more than average
+Branch android-http-error-info is unsynced with 0 days, 0.07692307692307693 more than average
+Branch carthage-build is unsynced with 0 days, 0.07692307692307693 more than average
+Branch configurable-cordova-paths is unsynced with 0 days, 0.07692307692307693 more than average
+Branch cookies/poc is unsynced with 0 days, 0.07692307692307693 more than average
+Branch embedded-android is unsynced with 0 days, 0.07692307692307693 more than average
+Branch feat/cli-build-command-android is unsynced with 0 days, 0.07692307692307693 more than average
+Branch feat/cli-build-command-ios is unsynced with 0 days, 0.07692307692307693 more than average
+Branch feat/cookies is unsynced with 0 days, 0.07692307692307693 more than average
+Branch feat/cookies-http-merged is unsynced with 0 days, 0.07692307692307693 more than average
+Branch feat/enviroment-configs is unsynced with 0 days, 0.07692307692307693 more than average
+Branch feat/http is unsynced with 0 days, 0.07692307692307693 more than average
+Branch feature/android/show-warning-on-old-webview is unsynced with 0 days, 0.07692307692307693 more than average
+Branch feature/cli/auto-adb-reverse is unsynced with 0 days, 0.07692307692307693 more than average
+Branch kotlin-experimental is unsynced with 0 days, 0.07692307692307693 more than average
+Branch main is unsynced with 0 days, 0.07692307692307693 more than average
+Branch native-publish is unsynced with 0 days, 0.07692307692307693 more than average
+Branch perm-helpers is unsynced with 0 days, 0.07692307692307693 more than average
+Branch portals-custom-webview is unsynced with 0 days, 0.07692307692307693 more than average
+Branch privacy-hotfix is unsynced with 0 days, 0.07692307692307693 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch capacitor-4, -1 days
+Branch portals-dev, -1 days

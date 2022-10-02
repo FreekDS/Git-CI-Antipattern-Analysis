@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 607.0 days
+Branch feat/barrage moved away from main with 1007 days, 400.0 more than average
+Branch feat/nested-pg-queries moved away from main with 1011 days, 404.0 more than average
+Branch feat/persistent-test moved away from main with 849 days, 242.0 more than average
+Branch perf/cache-pg-typed-tables moved away from main with 652 days, 45.0 more than average
+Branch sql-parser-2 moved away from main with 1007 days, 400.0 more than average
+Branch test/Barrage.Map moved away from main with 1007 days, 400.0 more than average
+Branch test/aborted-tx moved away from main with 837 days, 230.0 more than average
+MEDIUM SEVERITY
+Branch feat/nested-pg-queries, 1011 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

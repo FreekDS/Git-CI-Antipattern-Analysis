@@ -1,0 +1,168 @@
+Missed Activity
+=========================
+Branch next has 696 days of missed activity!
+Branch release has 64 days of missed activity!
+Branch wip/activityMonitor has 310 days of missed activity!
+Branch wip/cikm-camera-ready has 647 days of missed activity!
+Branch wip/code-style has 236 days of missed activity!
+Branch wip/conversation-devices has 272 days of missed activity!
+Branch wip/fix-conversation-logs has 318 days of missed activity!
+Branch wip/fix-make has 102 days of missed activity!
+Branch wip/fix-requote has 235 days of missed activity!
+Branch wip/issue-668 has 271 days of missed activity!
+Branch wip/issue-728 has 308 days of missed activity!
+Branch wip/italian4 has 240 days of missed activity!
+Branch wip/manual-annotate has 688 days of missed activity!
+Branch wip/mehrad/fixes has 115 days of missed activity!
+Branch wip/mehrad/i18n_pr has 232 days of missed activity!
+Branch wip/nlg-fix has 268 days of missed activity!
+Branch wip/refactor-timers has 321 days of missed activity!
+Branch wip/reminder-notification has 278 days of missed activity!
+Branch wip/schemaorg-automation has 747 days of missed activity!
+Branch wip/thingpedia-template-fixes has 633 days of missed activity!
+Branch wip/travis-node-upgrade has 66 days of missed activity!
+Branch wip/typescript45 has 194 days of missed activity!
+MEDIUM SEVERITY
+Branch next, 696 seconds
+Branch release, 64 seconds
+Branch wip/activityMonitor, 310 seconds
+Branch wip/cikm-camera-ready, 647 seconds
+Branch wip/code-style, 236 seconds
+Branch wip/conversation-devices, 272 seconds
+Branch wip/fix-conversation-logs, 318 seconds
+Branch wip/fix-make, 102 seconds
+Branch wip/fix-requote, 235 seconds
+Branch wip/issue-668, 271 seconds
+Branch wip/issue-728, 308 seconds
+Branch wip/italian4, 240 seconds
+Branch wip/manual-annotate, 688 seconds
+Branch wip/mehrad/fixes, 115 seconds
+Branch wip/mehrad/i18n_pr, 232 seconds
+Branch wip/nlg-fix, 268 seconds
+Branch wip/refactor-timers, 321 seconds
+Branch wip/reminder-notification, 278 seconds
+Branch wip/schemaorg-automation, 747 seconds
+Branch wip/thingpedia-template-fixes, 633 seconds
+Branch wip/travis-node-upgrade, 66 seconds
+Branch wip/typescript45, 194 seconds
+
+Branch Deviation
+=========================
+Average deviation: 336.6949152542373 days
+Branch covid-genie moved away from main with 349 days, 12.305084745762713 more than average
+Branch next moved away from main with 478 days, 141.3050847457627 more than average
+Branch revert-160-wip/fix-compound-arrays moved away from main with 775 days, 438.3050847457627 more than average
+Branch stable-0-5 moved away from main with 823 days, 486.3050847457627 more than average
+Branch stable-0-6 moved away from main with 774 days, 437.3050847457627 more than average
+Branch stable-0-8 moved away from main with 375 days, 38.30508474576271 more than average
+Branch wip/auto-eval-dlgthingtalk moved away from main with 661 days, 324.3050847457627 more than average
+Branch wip/card-output moved away from main with 515 days, 178.3050847457627 more than average
+Branch wip/cikm-camera-ready moved away from main with 645 days, 308.3050847457627 more than average
+Branch wip/cikm-camera-ready-hotel moved away from main with 656 days, 319.3050847457627 more than average
+Branch wip/clean-sentence moved away from main with 360 days, 23.305084745762713 more than average
+Branch wip/confirm-template moved away from main with 664 days, 327.3050847457627 more than average
+Branch wip/continuous-speech moved away from main with 378 days, 41.30508474576271 more than average
+Branch wip/csqa-convert moved away from main with 458 days, 121.30508474576271 more than average
+Branch wip/dlgthingtalk-nov2020-tmp moved away from main with 578 days, 241.3050847457627 more than average
+Branch wip/dlgthingtalk-nov2020 moved away from main with 558 days, 221.3050847457627 more than average
+Branch wip/enable-table-join-for-dialogs moved away from main with 405 days, 68.30508474576271 more than average
+Branch wip/error-correct moved away from main with 408 days, 71.30508474576271 more than average
+Branch wip/error-correct2 moved away from main with 386 days, 49.30508474576271 more than average
+Branch wip/faster-generation moved away from main with 675 days, 338.3050847457627 more than average
+Branch wip/fix-policy-errors moved away from main with 394 days, 57.30508474576271 more than average
+Branch wip/import-describe-fixes moved away from main with 499 days, 162.3050847457627 more than average
+Branch wip/import-describe-test moved away from main with 502 days, 165.3050847457627 more than average
+Branch wip/italian moved away from main with 902 days, 565.3050847457628 more than average
+Branch wip/italian3 moved away from main with 648 days, 311.3050847457627 more than average
+Branch wip/liandrew moved away from main with 798 days, 461.3050847457627 more than average
+Branch wip/mehrad/evaluation moved away from main with 540 days, 203.3050847457627 more than average
+Branch wip/mehrad/evaluation-2 moved away from main with 563 days, 226.3050847457627 more than average
+Branch wip/mehrad/tokenizers moved away from main with 708 days, 371.3050847457627 more than average
+Branch wip/multiwoz2021 moved away from main with 386 days, 49.30508474576271 more than average
+Branch wip/multiwoz-2_2 moved away from main with 664 days, 327.3050847457627 more than average
+Branch wip/naoki-cs294s moved away from main with 489 days, 152.3050847457627 more than average
+Branch wip/naoki-cs294s-efficient moved away from main with 588 days, 251.3050847457627 more than average
+Branch wip/naoki-cs399 moved away from main with 419 days, 82.30508474576271 more than average
+Branch wip/new-dialogue-language moved away from main with 395 days, 58.30508474576271 more than average
+Branch wip/new-dialogues-2 moved away from main with 734 days, 397.3050847457627 more than average
+Branch wip/new-dialogues-3 moved away from main with 718 days, 381.3050847457627 more than average
+Branch wip/new-generation-algorithm moved away from main with 1034 days, 697.3050847457628 more than average
+Branch wip/new-state-machine moved away from main with 602 days, 265.3050847457627 more than average
+Branch wip/new-unit-templates moved away from main with 594 days, 257.3050847457627 more than average
+Branch wip/nlg-server moved away from main with 430 days, 93.30508474576271 more than average
+Branch wip/no-multidomain moved away from main with 480 days, 143.3050847457627 more than average
+Branch wip/parallel moved away from main with 1003 days, 666.3050847457628 more than average
+Branch wip/prethingtalk-2 moved away from main with 544 days, 207.3050847457627 more than average
+Branch wip/saligrama-backtranslate moved away from main with 368 days, 31.305084745762713 more than average
+Branch wip/schema2qa2.0 moved away from main with 439 days, 102.30508474576271 more than average
+Branch wip/schemaorg-automation moved away from main with 734 days, 397.3050847457627 more than average
+Branch wip/sgd-auto-annotate moved away from main with 649 days, 312.3050847457627 more than average
+Branch wip/sinaj/ranker moved away from main with 807 days, 470.3050847457627 more than average
+Branch wip/subquery-templates2 moved away from main with 448 days, 111.30508474576271 more than average
+Branch wip/template-fixes moved away from main with 639 days, 302.3050847457627 more than average
+Branch wip/thingpedia-template-fixes moved away from main with 632 days, 295.3050847457627 more than average
+Branch wip/tmp-multiwoz-2_2 moved away from main with 663 days, 326.3050847457627 more than average
+Branch wip/vitsai moved away from main with 396 days, 59.30508474576271 more than average
+Branch wip/www20-fix-prim moved away from main with 929 days, 592.3050847457628 more than average
+Branch wip-custom-wakeword moved away from main with 453 days, 116.30508474576271 more than average
+MEDIUM SEVERITY
+Branch revert-160-wip/fix-compound-arrays, 775 days
+Branch stable-0-5, 823 days
+Branch stable-0-6, 774 days
+Branch wip/auto-eval-dlgthingtalk, 661 days
+Branch wip/cikm-camera-ready, 645 days
+Branch wip/cikm-camera-ready-hotel, 656 days
+Branch wip/confirm-template, 664 days
+Branch wip/dlgthingtalk-nov2020-tmp, 578 days
+Branch wip/dlgthingtalk-nov2020, 558 days
+Branch wip/faster-generation, 675 days
+Branch wip/italian, 902 days
+Branch wip/italian3, 648 days
+Branch wip/liandrew, 798 days
+Branch wip/mehrad/evaluation-2, 563 days
+Branch wip/mehrad/tokenizers, 708 days
+Branch wip/multiwoz-2_2, 664 days
+Branch wip/naoki-cs294s-efficient, 588 days
+Branch wip/new-dialogues-2, 734 days
+Branch wip/new-dialogues-3, 718 days
+Branch wip/new-generation-algorithm, 1034 days
+Branch wip/new-state-machine, 602 days
+Branch wip/new-unit-templates, 594 days
+Branch wip/parallel, 1003 days
+Branch wip/schemaorg-automation, 734 days
+Branch wip/sgd-auto-annotate, 649 days
+Branch wip/sinaj/ranker, 807 days
+Branch wip/template-fixes, 639 days
+Branch wip/thingpedia-template-fixes, 632 days
+Branch wip/tmp-multiwoz-2_2, 663 days
+Branch wip/www20-fix-prim, 929 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 5.322033898305085 days
+Branch next is unsynced with 217 days, 211.67796610169492 more than average
+Branch wip/manual-annotate is unsynced with 456 days, 450.6779661016949 more than average
+Branch wip/schemaorg-automation is unsynced with 13 days, 7.677966101694915 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch next, 217 days
+Branch release, -1 days
+Branch wip/activityMonitor, -1 days
+Branch wip/cikm-camera-ready, 2 days
+Branch wip/code-style, -5 days
+Branch wip/conversation-devices, -1 days
+Branch wip/fix-conversation-logs, -1 days
+Branch wip/fix-make, -42 days
+Branch wip/fix-requote, -1 days
+Branch wip/issue-668, -1 days
+Branch wip/issue-728, -2 days
+Branch wip/italian4, -1 days
+Branch wip/manual-annotate, 456 days
+Branch wip/mehrad/i18n_pr, -1 days
+Branch wip/nlg-fix, -1 days
+Branch wip/refactor-timers, -1 days
+Branch wip/reminder-notification, -1 days
+Branch wip/schemaorg-automation, 13 days
+Branch wip/thingpedia-template-fixes, 1 days
+Branch wip/typescript45, -1 days

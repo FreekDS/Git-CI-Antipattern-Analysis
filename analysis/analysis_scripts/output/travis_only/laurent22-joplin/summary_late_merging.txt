@@ -1,0 +1,127 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 458.06410256410254 days
+Branch android-1.4 moved away from main with 659 days, 200.93589743589746 more than average
+Branch api_pagination moved away from main with 685 days, 226.93589743589746 more than average
+Branch cli-1.4.3 moved away from main with 660 days, 201.93589743589746 more than average
+Branch command_enabled_refactor moved away from main with 698 days, 239.93589743589746 more than average
+Branch commonmark moved away from main with 685 days, 226.93589743589746 more than average
+Branch content_script_compile moved away from main with 622 days, 163.93589743589746 more than average
+Branch custom_layout moved away from main with 673 days, 214.93589743589746 more than average
+Branch docker_server_update moved away from main with 607 days, 148.93589743589746 more than average
+Branch electron_10 moved away from main with 666 days, 207.93589743589746 more than average
+Branch external_resource_edit moved away from main with 688 days, 229.93589743589746 more than average
+Branch fix_html_note_link moved away from main with 666 days, 207.93589743589746 more than average
+Branch fix_link_conv moved away from main with 647 days, 188.93589743589746 more than average
+Branch fix_onedrive_auth moved away from main with 689 days, 230.93589743589746 more than average
+Branch fix_search_test moved away from main with 657 days, 198.93589743589746 more than average
+Branch fix_url_import moved away from main with 689 days, 230.93589743589746 more than average
+Branch fix-mobile-action-button moved away from main with 743 days, 284.93589743589746 more than average
+Branch foxmask-patch-1 moved away from main with 687 days, 228.93589743589746 more than average
+Branch ga_docker_image moved away from main with 463 days, 4.935897435897459 more than average
+Branch gen-package-private moved away from main with 628 days, 169.93589743589746 more than average
+Branch hide_show_plugin_panel moved away from main with 623 days, 164.93589743589746 more than average
+Branch ios_release_script moved away from main with 623 days, 164.93589743589746 more than average
+Branch knex_max_call_size_bug moved away from main with 506 days, 47.93589743589746 more than average
+Branch lerna_migration moved away from main with 681 days, 222.93589743589746 more than average
+Branch linkify moved away from main with 647 days, 188.93589743589746 more than average
+Branch mac_notarization moved away from main with 657 days, 198.93589743589746 more than average
+Branch media_players moved away from main with 646 days, 187.93589743589746 more than average
+Branch mobile_plugins moved away from main with 687 days, 228.93589743589746 more than average
+Branch openProfileDirectory moved away from main with 695 days, 236.93589743589746 more than average
+Branch orphaned_resource_bug moved away from main with 678 days, 219.93589743589746 more than average
+Branch plugin_content_scripts moved away from main with 696 days, 237.93589743589746 more than average
+Branch plugin_editor_context_menu moved away from main with 672 days, 213.93589743589746 more than average
+Branch plugin_gui moved away from main with 667 days, 208.93589743589746 more than average
+Branch plugin_item_change_event moved away from main with 655 days, 196.93589743589746 more than average
+Branch plugin_min_version moved away from main with 671 days, 212.93589743589746 more than average
+Branch plugin_repo_update moved away from main with 605 days, 146.93589743589746 more than average
+Branch plugin_system_types_test moved away from main with 711 days, 252.93589743589746 more than average
+Branch plugin_system moved away from main with 708 days, 249.93589743589746 more than average
+Branch plugins_custom_layout moved away from main with 654 days, 195.93589743589746 more than average
+Branch publish_all_test moved away from main with 642 days, 183.93589743589746 more than average
+Branch publish_android moved away from main with 680 days, 221.93589743589746 more than average
+Branch release_cli moved away from main with 679 days, 220.93589743589746 more than average
+Branch release_clipper moved away from main with 679 days, 220.93589743589746 more than average
+Branch release_server moved away from main with 621 days, 162.93589743589746 more than average
+Branch release-1.0 moved away from main with 733 days, 274.93589743589746 more than average
+Branch release-1.1 moved away from main with 726 days, 267.93589743589746 more than average
+Branch release-1.2 moved away from main with 705 days, 246.93589743589746 more than average
+Branch release-1.3 moved away from main with 680 days, 221.93589743589746 more than average
+Branch release-1.4 moved away from main with 655 days, 196.93589743589746 more than average
+Branch release-1.5 moved away from main with 626 days, 167.93589743589746 more than average
+Branch release-1.6 moved away from main with 604 days, 145.93589743589746 more than average
+Branch release-1.7 moved away from main with 591 days, 132.93589743589746 more than average
+Branch release-1.8 moved away from main with 491 days, 32.93589743589746 more than average
+Branch release-server-2 moved away from main with 491 days, 32.93589743589746 more than average
+Branch rn_62 moved away from main with 705 days, 246.93589743589746 more than average
+Branch rn_63 moved away from main with 697 days, 238.93589743589746 more than average
+Branch server_app_share_rec moved away from main with 540 days, 81.93589743589746 more than average
+Branch server_app_share moved away from main with 589 days, 130.93589743589746 more than average
+Branch server_app_share_3 moved away from main with 492 days, 33.93589743589746 more than average
+Branch server_file_manager moved away from main with 627 days, 168.93589743589746 more than average
+Branch server_item_limit moved away from main with 488 days, 29.93589743589746 more than average
+Branch server_mailer moved away from main with 480 days, 21.93589743589746 more than average
+Branch server_share_link moved away from main with 596 days, 137.93589743589746 more than average
+Branch server_stripe moved away from main with 471 days, 12.93589743589746 more than average
+Branch sidebar_plugin_context moved away from main with 645 days, 186.93589743589746 more than average
+Branch spellchecking moved away from main with 685 days, 226.93589743589746 more than average
+Branch spellckecking_codemirror moved away from main with 688 days, 229.93589743589746 more than average
+Branch test_gh_pr moved away from main with 464 days, 5.935897435897459 more than average
+Branch test_improvements moved away from main with 655 days, 196.93589743589746 more than average
+Branch test-gh-action moved away from main with 464 days, 5.935897435897459 more than average
+Branch testing_update moved away from main with 484 days, 25.93589743589746 more than average
+Branch testing moved away from main with 705 days, 246.93589743589746 more than average
+Branch testing2 moved away from main with 705 days, 246.93589743589746 more than average
+Branch ui_update moved away from main with 733 days, 274.93589743589746 more than average
+Branch update_body_vieser moved away from main with 705 days, 246.93589743589746 more than average
+MEDIUM SEVERITY
+Branch android-1.4, 659 days
+Branch api_pagination, 685 days
+Branch cli-1.4.3, 660 days
+Branch command_enabled_refactor, 698 days
+Branch commonmark, 685 days
+Branch custom_layout, 673 days
+Branch electron_10, 666 days
+Branch external_resource_edit, 688 days
+Branch fix_html_note_link, 666 days
+Branch fix_onedrive_auth, 689 days
+Branch fix_url_import, 689 days
+Branch fix-mobile-action-button, 743 days
+Branch foxmask-patch-1, 687 days
+Branch lerna_migration, 681 days
+Branch mobile_plugins, 687 days
+Branch openProfileDirectory, 695 days
+Branch orphaned_resource_bug, 678 days
+Branch plugin_content_scripts, 696 days
+Branch plugin_editor_context_menu, 672 days
+Branch plugin_gui, 667 days
+Branch plugin_min_version, 671 days
+Branch plugin_system_types_test, 711 days
+Branch plugin_system, 708 days
+Branch publish_android, 680 days
+Branch release_cli, 679 days
+Branch release_clipper, 679 days
+Branch release-1.0, 733 days
+Branch release-1.1, 726 days
+Branch release-1.2, 705 days
+Branch release-1.3, 680 days
+Branch rn_62, 705 days
+Branch rn_63, 697 days
+Branch spellchecking, 685 days
+Branch spellckecking_codemirror, 688 days
+Branch testing, 705 days
+Branch testing2, 705 days
+Branch ui_update, 733 days
+Branch update_body_vieser, 705 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

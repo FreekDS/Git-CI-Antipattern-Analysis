@@ -1,0 +1,36 @@
+Missed Activity
+=========================
+Branch enable-strict has 170 days of missed activity!
+Branch foldertoggle has 524 days of missed activity!
+Branch permalink has 552 days of missed activity!
+MEDIUM SEVERITY
+Branch foldertoggle, 524 seconds
+HIGH SEVERITY
+Branch permalink, 552 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 449.75 days
+Branch foldertoggle moved away from main with 524 days, 74.25 more than average
+Branch greenkeeper/babel-eslint-pin-10.0.3 moved away from main with 929 days, 479.25 more than average
+Branch ol4 moved away from main with 1388 days, 938.25 more than average
+Branch permalink moved away from main with 552 days, 102.25 more than average
+MEDIUM SEVERITY
+Branch greenkeeper/babel-eslint-pin-10.0.3, 929 days
+Branch ol4, 1388 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.375 days
+Branch dependabot/npm_and_yarn/ol-6.15.1 is unsynced with 0 days, 0.375 more than average
+Branch gh-pages is unsynced with 0 days, 0.375 more than average
+Branch greenkeeper/babel-eslint-pin-10.0.3 is unsynced with 0 days, 0.375 more than average
+Branch master is unsynced with 0 days, 0.375 more than average
+Branch ol4 is unsynced with 0 days, 0.375 more than average
+MEDIUM SEVERITY
+Branch enable-strict, -1 days
+Branch foldertoggle, -1 days
+Branch permalink, -1 days
+HIGH SEVERITY

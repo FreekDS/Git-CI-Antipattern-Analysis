@@ -1,0 +1,55 @@
+Missed Activity
+=========================
+Branch bugfixforlistcolumnswithmultivaluseasobject has 1078 days of missed activity!
+Branch es6 has 1465 days of missed activity!
+Branch feature/ab7355 has 105 days of missed activity!
+Branch feature/explicit-save-as has 1064 days of missed activity!
+Branch feature/gh442 has 465 days of missed activity!
+Branch feature/gh3282-migrate-default-templates has 540 days of missed activity!
+Branch issue/170-boolean-column-filter has 1611 days of missed activity!
+MEDIUM SEVERITY
+Branch feature/gh442, 465 seconds
+HIGH SEVERITY
+Branch bugfixforlistcolumnswithmultivaluseasobject, 1078 seconds
+Branch es6, 1465 seconds
+Branch feature/explicit-save-as, 1064 seconds
+Branch feature/gh3282-migrate-default-templates, 540 seconds
+Branch issue/170-boolean-column-filter, 1611 seconds
+
+Branch Deviation
+=========================
+Average deviation: 1023.8333333333334 days
+Branch aligning-group-on-rows moved away from main with 1478 days, 454.16666666666663 more than average
+Branch bugfixforlistcolumnswithmultivaluseasobject moved away from main with 1078 days, 54.16666666666663 more than average
+Branch clear-number moved away from main with 1734 days, 710.1666666666666 more than average
+Branch clear-number-2 moved away from main with 1682 days, 658.1666666666666 more than average
+Branch column-rework moved away from main with 2043 days, 1019.1666666666666 more than average
+Branch es6 moved away from main with 1465 days, 441.16666666666663 more than average
+Branch feature/explicit-save-as moved away from main with 1064 days, 40.16666666666663 more than average
+Branch filter-label-covers-numeric-input moved away from main with 1444 days, 420.16666666666663 more than average
+Branch gh246-2 moved away from main with 1296 days, 272.16666666666663 more than average
+Branch gh-pages moved away from main with 2397 days, 1373.1666666666665 more than average
+Branch issue/170-boolean-column-filter moved away from main with 1615 days, 591.1666666666666 more than average
+Branch no-filesaver-lock moved away from main with 1286 days, 262.16666666666663 more than average
+Branch updateCosmozBehaviors moved away from main with 1346 days, 322.16666666666663 more than average
+MEDIUM SEVERITY
+Branch aligning-group-on-rows, 1478 days
+Branch clear-number, 1734 days
+Branch clear-number-2, 1682 days
+Branch column-rework, 2043 days
+Branch gh-pages, 2397 days
+Branch issue/170-boolean-column-filter, 1615 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 3.0833333333333335 days
+Branch feature/ab7355 is unsynced with 84 days, 80.91666666666667 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch es6, -1 days
+Branch feature/ab7355, 84 days
+Branch feature/explicit-save-as, -1 days
+Branch feature/gh442, -1 days
+Branch feature/gh3282-migrate-default-templates, -2 days
+Branch issue/170-boolean-column-filter, -5 days

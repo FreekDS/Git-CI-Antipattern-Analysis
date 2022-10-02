@@ -1,0 +1,226 @@
+{
+  "slow_build": {
+    "ci": {
+      "data": {
+        "2020-12-03T17:22:42Z": 3451285.714285714,
+        "2020-12-10T19:20:39Z": 212500.0,
+        "2020-12-25T21:56:05Z": 243500.0,
+        "2021-01-07T17:46:39Z": 195076.92307692306
+      },
+      "tool": "Github Actions",
+      "total avg": 1025590.6593406593,
+      "quartiles": {
+        "q1": 208144.23076923075,
+        "q3": 1045446.4285714285,
+        "iqr": 837302.1978021978
+      },
+      "classification": {
+        "high_severity": {
+          "8": 6962000,
+          "13": 62091000
+        },
+        "medium_severity": {}
+      }
+    },
+    "docs": {
+      "data": {
+        "2020-12-03T18:29:19Z": 69250.0,
+        "2020-12-10T20:52:36Z": 79000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 74125.0,
+      "quartiles": {
+        "q1": 71687.5,
+        "q3": 76562.5,
+        "iqr": 4875.0
+      },
+      "classification": {
+        "high_severity": {
+          "5": 94000,
+          "6": 130000,
+          "7": 85000,
+          "8": 85000
+        },
+        "medium_severity": {
+          "9": 83000,
+          "10": 79000
+        }
+      }
+    },
+    "release": {
+      "data": {
+        "2020-12-10T20:52:36Z": 209000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 209000.0,
+      "quartiles": {
+        "q1": 209000.0,
+        "q3": 209000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/pages.yml": {
+      "data": {
+        "2020-12-03T19:01:15Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Parse-SDK-JS": {
+      "data": {
+        "2020-10-22T15:32:26Z": 319052.63157894736,
+        "2020-10-29T20:19:33Z": 369000.0,
+        "2020-11-06T01:52:33Z": 329961.53846153844,
+        "2020-11-15T15:07:38Z": 271500.0,
+        "2020-11-25T09:28:47Z": 308833.3333333333
+      },
+      "tool": "TravisCI",
+      "total avg": 319669.5006747638,
+      "quartiles": {
+        "q1": 308833.3333333333,
+        "q3": 329961.53846153844,
+        "iqr": 21128.205128205125
+      },
+      "classification": {
+        "high_severity": {
+          "2214": 471000,
+          "2224": 379000,
+          "2229": 381000,
+          "2240": 377000
+        },
+        "medium_severity": {
+          "2196": 343000,
+          "2198": 333000,
+          "2201": 340000,
+          "2202": 333000,
+          "2208": 345000,
+          "2212": 345000,
+          "2215": 334000,
+          "2217": 334000,
+          "2220": 349000,
+          "2222": 339000,
+          "2225": 345000,
+          "2228": 338000,
+          "2231": 331000,
+          "2236": 333000,
+          "2237": 331000,
+          "2239": 333000,
+          "2242": 330000,
+          "2249": 336000,
+          "2251": 335000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "alpha": 0,
+      "beta": 0,
+      "dependabot/npm_and_yarn/parse-server-1109d0c": 0,
+      "gh-pages": 0,
+      "read-preference-distinct": 0,
+      "release": 0,
+      "snyk-upgrade-8db2c50286a4fcf76738e51e7b10d039": 0,
+      "snyk-upgrade-64e52dc70dd57f9e864e7717281f8ede": 0,
+      "snyk-upgrade-3290738c9b45831fcab2dd1555a109fc": 0,
+      "snyk-upgrade-f835c5c8e26659b40f4032ed6557a93c": 0
+    },
+    "branch deviation": {
+      "alpha": 0,
+      "beta": 11,
+      "dependabot/npm_and_yarn/parse-server-1109d0c": -2,
+      "gh-pages": 11,
+      "read-preference-distinct": 706,
+      "release": 11,
+      "snyk-upgrade-8db2c50286a4fcf76738e51e7b10d039": 36,
+      "snyk-upgrade-64e52dc70dd57f9e864e7717281f8ede": 36,
+      "snyk-upgrade-3290738c9b45831fcab2dd1555a109fc": 90,
+      "snyk-upgrade-f835c5c8e26659b40f4032ed6557a93c": 36
+    },
+    "unsynced activity": {
+      "alpha": 0,
+      "beta": 0,
+      "dependabot/npm_and_yarn/parse-server-1109d0c": 0,
+      "gh-pages": 0,
+      "read-preference-distinct": 0,
+      "release": 0,
+      "snyk-upgrade-8db2c50286a4fcf76738e51e7b10d039": 0,
+      "snyk-upgrade-64e52dc70dd57f9e864e7717281f8ede": 0,
+      "snyk-upgrade-3290738c9b45831fcab2dd1555a109fc": 0,
+      "snyk-upgrade-f835c5c8e26659b40f4032ed6557a93c": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "read-preference-distinct",
+          "snyk-upgrade-3290738c9b45831fcab2dd1555a109fc"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 5
+  },
+  "broken_release": {
+    "ci": {
+      "data": [],
+      "release_build_count": 14
+    },
+    "docs": {
+      "data": [],
+      "release_build_count": 4
+    },
+    "Parse-SDK-JS": {
+      "data": [
+        {
+          "started_at": "2020-10-24T20:31:08Z",
+          "used_tool": "TravisCI",
+          "number": 2206
+        },
+        {
+          "started_at": "2020-11-10T16:55:48Z",
+          "used_tool": "TravisCI",
+          "number": 2230
+        },
+        {
+          "started_at": "2020-11-18T14:19:20Z",
+          "used_tool": "TravisCI",
+          "number": 2243
+        },
+        {
+          "started_at": "2020-11-18T23:58:14Z",
+          "used_tool": "TravisCI",
+          "number": 2244
+        },
+        {
+          "started_at": "2020-11-25T09:28:47Z",
+          "used_tool": "TravisCI",
+          "number": 2246
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 56
+    }
+  },
+  "skip_failing_tests": {}
+}

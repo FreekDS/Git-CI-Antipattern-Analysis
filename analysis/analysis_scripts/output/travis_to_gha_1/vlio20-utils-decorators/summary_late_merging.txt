@@ -1,0 +1,87 @@
+Missed Activity
+=========================
+Branch 1.7.2 has 571 days of missed activity!
+Branch 1.8.0 has 553 days of missed activity!
+Branch 1.8.2 has 417 days of missed activity!
+Branch 1.8.3 has 409 days of missed activity!
+Branch 1.9.0 has 404 days of missed activity!
+Branch 1.10.0 has 404 days of missed activity!
+Branch 1.10.1 has 371 days of missed activity!
+Branch 1.10.2 has 309 days of missed activity!
+Branch 1.10.3 has 277 days of missed activity!
+Branch 1.10.4 has 267 days of missed activity!
+Branch 2.0.0 has 229 days of missed activity!
+Branch 2.0.1 has 209 days of missed activity!
+Branch 2.0.2 has 155 days of missed activity!
+Branch 2.0.3 has 95 days of missed activity!
+Branch 2.0.4 has 64 days of missed activity!
+MEDIUM SEVERITY
+Branch 1.7.2, 571 seconds
+HIGH SEVERITY
+Branch 1.8.0, 553 seconds
+HIGH SEVERITY
+Branch 1.8.2, 417 seconds
+HIGH SEVERITY
+Branch 1.8.3, 409 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 263.27777777777777 days
+Branch 1.7.2 moved away from main with 572 days, 308.72222222222223 more than average
+Branch 1.8.0 moved away from main with 553 days, 289.72222222222223 more than average
+Branch 1.8.2 moved away from main with 417 days, 153.72222222222223 more than average
+Branch 1.8.3 moved away from main with 409 days, 145.72222222222223 more than average
+Branch 1.9.0 moved away from main with 404 days, 140.72222222222223 more than average
+Branch 1.10.0 moved away from main with 404 days, 140.72222222222223 more than average
+Branch 1.10.1 moved away from main with 371 days, 107.72222222222223 more than average
+Branch 1.10.2 moved away from main with 309 days, 45.72222222222223 more than average
+Branch 1.10.3 moved away from main with 277 days, 13.722222222222229 more than average
+Branch 1.10.4 moved away from main with 267 days, 3.7222222222222285 more than average
+MEDIUM SEVERITY
+Branch 1.7.2, 572 days
+Branch 1.8.0, 553 days
+Branch 1.8.2, 417 days
+Branch 1.8.3, 409 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -1.1111111111111112 days
+Branch 1.7.2 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.8.0 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.8.2 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.8.3 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.9.0 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.10.0 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.10.1 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.10.2 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.10.3 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 1.10.4 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 2.0.1 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 2.0.2 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 2.0.3 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 2.0.4 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 2.0.5 is unsynced with -1 days, 0.11111111111111116 more than average
+Branch 145-debounce-should-support-multi-instances is unsynced with 0 days, 1.1111111111111112 more than average
+Branch master is unsynced with 0 days, 1.1111111111111112 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch 1.7.2, -1 days
+Branch 1.8.0, -1 days
+Branch 1.8.2, -1 days
+Branch 1.8.3, -1 days
+Branch 1.9.0, -1 days
+Branch 1.10.0, -1 days
+Branch 1.10.1, -1 days
+Branch 1.10.2, -1 days
+Branch 1.10.3, -1 days
+Branch 1.10.4, -1 days
+Branch 2.0.0, -5 days
+Branch 2.0.1, -1 days
+Branch 2.0.2, -1 days
+Branch 2.0.3, -1 days
+Branch 2.0.4, -1 days
+Branch 2.0.5, -1 days
+Branch 145-debounce-should-support-multi-instances, 0 days
+Branch master, 0 days

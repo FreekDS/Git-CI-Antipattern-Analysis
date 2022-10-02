@@ -1,16 +1,16 @@
 Missed Activity
 =========================
-Branch develop has 789 days of missed activity!
+Branch develop has 888 days of missed activity!
 MEDIUM SEVERITY
-Branch develop, 789 seconds
+Branch develop, 888 seconds
 HIGH SEVERITY
 
 Branch Deviation
 =========================
-Average deviation: 395.0 days
-Branch develop moved away from main with 790 days, 395.0 more than average
+Average deviation: 444.0 days
+Branch develop moved away from main with 888 days, 444.0 more than average
 MEDIUM SEVERITY
-Branch develop, 790 days
+Branch develop, 888 days
 HIGH SEVERITY
 
 Unsynced activity

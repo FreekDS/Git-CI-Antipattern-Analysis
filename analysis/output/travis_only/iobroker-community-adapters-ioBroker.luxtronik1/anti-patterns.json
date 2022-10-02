@@ -1,0 +1,48 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "dependabot/add-v2-config-file": 709,
+      "dependabot/npm_and_yarn/iobroker/testing-4.1.0": 0,
+      "goodbye-greenkeeper": 720,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/add-v2-config-file": 709,
+      "dependabot/npm_and_yarn/iobroker/testing-4.1.0": -9,
+      "goodbye-greenkeeper": 826,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/add-v2-config-file": -1,
+      "dependabot/npm_and_yarn/iobroker/testing-4.1.0": 0,
+      "goodbye-greenkeeper": -107,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "goodbye-greenkeeper"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "goodbye-greenkeeper"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "dependabot/add-v2-config-file"
+        ],
+        "high_severity": [
+          "goodbye-greenkeeper"
+        ]
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

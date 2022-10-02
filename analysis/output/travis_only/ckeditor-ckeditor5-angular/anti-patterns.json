@@ -1,0 +1,71 @@
+{
+  "slow_build": {
+    "ckeditor5-angular": {
+      "data": {
+        "2021-05-10T09:55:25Z": 202000.0,
+        "2021-05-21T12:54:03Z": 107000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 154500.0,
+      "quartiles": {
+        "q1": 130750.0,
+        "q3": 178250.0,
+        "iqr": 47500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "406": 202000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0,
+      "t/21": 0,
+      "t/136": 0
+    },
+    "branch deviation": {
+      "master": 0,
+      "t/21": 1385,
+      "t/136": 1048
+    },
+    "unsynced activity": {
+      "master": 0,
+      "t/21": 0,
+      "t/136": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "t/21"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "ckeditor5-angular": {
+      "data": [
+        {
+          "started_at": "2021-05-21T12:54:03Z",
+          "used_tool": "TravisCI",
+          "number": 407
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

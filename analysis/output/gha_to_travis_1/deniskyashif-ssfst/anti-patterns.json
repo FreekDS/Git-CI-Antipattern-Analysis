@@ -1,27 +1,5 @@
 {
-  "slow_build": {
-    "Node CI": {
-      "data": {
-        "2020-01-17T08:58:02Z": 32000.0,
-        "2020-02-12T20:32:35Z": 31333.333333333332
-      },
-      "tool": "Github Actions",
-      "total avg": 31666.666666666664,
-      "quartiles": {
-        "q1": 31500.0,
-        "q3": 31833.333333333332,
-        "iqr": 333.3333333333321
-      },
-      "classification": {
-        "high_severity": {
-          "4": 44000
-        },
-        "medium_severity": {
-          "3": 32000
-        }
-      }
-    }
-  },
+  "slow_build": {},
   "late_merging": {
     "missed activity": {
       "dependabot/npm_and_yarn/minimist-1.2.6": 0,
@@ -53,30 +31,8 @@
         "high_severity": []
       }
     },
-    "build_count": 1
+    "build_count": 0
   },
-  "broken_release": {
-    "Node CI": {
-      "data": [
-        {
-          "started_at": "2020-02-12T20:32:35Z",
-          "used_tool": "Github Actions",
-          "number": 4
-        },
-        {
-          "started_at": "2020-02-12T20:36:24Z",
-          "used_tool": "Github Actions",
-          "number": 5
-        },
-        {
-          "started_at": "2020-02-12T20:38:56Z",
-          "used_tool": "Github Actions",
-          "number": 6
-        }
-      ],
-      "tool": "Github Actions",
-      "release_build_count": 4
-    }
-  },
+  "broken_release": {},
   "skip_failing_tests": {}
 }

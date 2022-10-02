@@ -1,0 +1,170 @@
+{
+  "slow_build": {
+    "Solid CI": {
+      "data": {
+        "2021-03-13T07:41:46Z": 118000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 118000.0,
+      "quartiles": {
+        "q1": 118000.0,
+        "q3": 118000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 206000,
+          "3": 201000,
+          "5": 183000
+        },
+        "medium_severity": {}
+      }
+    },
+    "solid": {
+      "data": {
+        "2021-01-28T10:10:50Z": 147225.8064516129,
+        "2021-02-05T01:11:20Z": 161600.0,
+        "2021-02-12T10:47:14Z": 185437.5,
+        "2021-02-26T10:30:21Z": 179250.0,
+        "2021-03-06T06:51:02Z": 187250.0
+      },
+      "tool": "TravisCI",
+      "total avg": 172152.66129032258,
+      "quartiles": {
+        "q1": 161600.0,
+        "q3": 185437.5,
+        "iqr": 23837.5
+      },
+      "classification": {
+        "high_severity": {
+          "965": 251000
+        },
+        "medium_severity": {
+          "962": 196000,
+          "983": 195000,
+          "984": 190000,
+          "986": 191000,
+          "987": 193000,
+          "992": 192000,
+          "993": 188000,
+          "996": 192000,
+          "997": 195000,
+          "998": 196000,
+          "999": 201000,
+          "1006": 187000,
+          "1007": 187000,
+          "1009": 186000,
+          "1017": 193000,
+          "1018": 186000,
+          "1021": 204000,
+          "1020": 186000,
+          "1022": 189000,
+          "1023": 190000,
+          "1025": 186000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "0.x": 0,
+      "main": 0,
+      "new-reactivity": 0,
+      "next": 0
+    },
+    "branch deviation": {
+      "0.x": 470,
+      "main": 0,
+      "new-reactivity": 341,
+      "next": 20
+    },
+    "unsynced activity": {
+      "0.x": 0,
+      "main": 0,
+      "new-reactivity": 0,
+      "next": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "0.x"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Solid CI": {
+      "data": [
+        {
+          "started_at": "2021-03-13T07:41:46Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2021-03-13T08:17:17Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 5
+    },
+    "solid": {
+      "data": [
+        {
+          "started_at": "2021-02-02T00:50:31Z",
+          "used_tool": "TravisCI",
+          "number": 944
+        },
+        {
+          "started_at": "2021-02-02T08:23:29Z",
+          "used_tool": "TravisCI",
+          "number": 948
+        },
+        {
+          "started_at": "2021-02-09T09:00:44Z",
+          "used_tool": "TravisCI",
+          "number": 974
+        },
+        {
+          "started_at": "2021-02-10T00:10:31Z",
+          "used_tool": "TravisCI",
+          "number": 983
+        },
+        {
+          "started_at": "2021-02-10T00:19:09Z",
+          "used_tool": "TravisCI",
+          "number": 984
+        },
+        {
+          "started_at": "2021-02-10T00:26:06Z",
+          "used_tool": "TravisCI",
+          "number": 985
+        },
+        {
+          "started_at": "2021-03-01T06:00:13Z",
+          "used_tool": "TravisCI",
+          "number": 1013
+        },
+        {
+          "started_at": "2021-03-01T15:03:17Z",
+          "used_tool": "TravisCI",
+          "number": 1015
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 56
+    }
+  },
+  "skip_failing_tests": {}
+}

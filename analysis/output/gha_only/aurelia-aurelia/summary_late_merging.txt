@@ -1,0 +1,90 @@
+Missed Activity
+=========================
+Branch jwx-router-refactor has 161 days of missed activity!
+Branch lifecycles has 1338 days of missed activity!
+Branch renovate/all has 1000 days of missed activity!
+Branch repo-cleanup has 634 days of missed activity!
+Branch test-runner has 1429 days of missed activity!
+Branch updates has 1387 days of missed activity!
+MEDIUM SEVERITY
+Branch jwx-router-refactor, 161 seconds
+Branch lifecycles, 1338 seconds
+Branch renovate/all, 1000 seconds
+Branch repo-cleanup, 634 seconds
+Branch test-runner, 1429 seconds
+Branch updates, 1387 seconds
+
+Branch Deviation
+=========================
+Average deviation: 592.9354838709677 days
+Branch api-doc-generator moved away from main with 928 days, 335.0645161290323 more than average
+Branch aurelia-store-update moved away from main with 944 days, 351.0645161290323 more than average
+Branch benchmark-work moved away from main with 663 days, 70.06451612903231 more than average
+Branch docs/README-cli moved away from main with 1075 days, 482.0645161290323 more than average
+Branch feat/static-batching moved away from main with 668 days, 75.06451612903231 more than average
+Branch feature/app-basic-docs moved away from main with 709 days, 116.06451612903231 more than average
+Branch feature/wip-routing-docs moved away from main with 832 days, 239.0645161290323 more than average
+Branch fix-undefined moved away from main with 1076 days, 483.0645161290323 more than average
+Branch idea/iterator-binding moved away from main with 1084 days, 491.0645161290323 more than average
+Branch jwx-router-configuration-smoke-tests moved away from main with 647 days, 54.06451612903231 more than average
+Branch jwx-router-configuration-tests moved away from main with 651 days, 58.06451612903231 more than average
+Branch jwx-router-hook-tests moved away from main with 703 days, 110.06451612903231 more than average
+Branch jwx-router-lifecycles-interim moved away from main with 719 days, 126.06451612903231 more than average
+Branch jwx-router-refactor moved away from main with 595 days, 2.064516129032313 more than average
+Branch jwx-router-route-configuration-merge moved away from main with 1004 days, 411.0645161290323 more than average
+Branch jwx-router-route-configuration-rebase-backup-2 moved away from main with 1033 days, 440.0645161290323 more than average
+Branch jwx-router-route-configuration-wrong-host moved away from main with 1009 days, 416.0645161290323 more than average
+Branch jwx-router-titles moved away from main with 838 days, 245.0645161290323 more than average
+Branch jwx-router-update-goto moved away from main with 1097 days, 504.0645161290323 more than average
+Branch jwx-router-url-fix moved away from main with 714 days, 121.06451612903231 more than average
+Branch kernel-stuff moved away from main with 720 days, 127.06451612903231 more than average
+Branch lifecycles moved away from main with 722 days, 129.0645161290323 more than average
+Branch lifecycles-2 moved away from main with 719 days, 126.06451612903231 more than average
+Branch local-resource-rename moved away from main with 1090 days, 497.0645161290323 more than average
+Branch nativescript moved away from main with 932 days, 339.0645161290323 more than average
+Branch observer-lookups moved away from main with 1037 days, 444.0645161290323 more than average
+Branch refactor/static-observation moved away from main with 742 days, 149.0645161290323 more than average
+Branch renovate/all moved away from main with 641 days, 48.06451612903231 more than average
+Branch repo-cleanup moved away from main with 634 days, 41.06451612903231 more than average
+Branch singleton moved away from main with 845 days, 252.0645161290323 more than average
+Branch static-site-generator moved away from main with 872 days, 279.0645161290323 more than average
+Branch test-runner moved away from main with 938 days, 345.0645161290323 more than average
+Branch toggle-attribute moved away from main with 1033 days, 440.0645161290323 more than average
+Branch uibench moved away from main with 709 days, 116.06451612903231 more than average
+Branch update-examples-to-aurelia moved away from main with 1083 days, 490.0645161290323 more than average
+Branch updates moved away from main with 684 days, 91.06451612903231 more than average
+Branch ws-shenanigans moved away from main with 981 days, 388.0645161290323 more than average
+Branch zewa666-patch-1 moved away from main with 709 days, 116.06451612903231 more than average
+MEDIUM SEVERITY
+Branch api-doc-generator, 928 days
+Branch aurelia-store-update, 944 days
+Branch docs/README-cli, 1075 days
+Branch fix-undefined, 1076 days
+Branch idea/iterator-binding, 1084 days
+Branch jwx-router-route-configuration-merge, 1004 days
+Branch jwx-router-route-configuration-rebase-backup-2, 1033 days
+Branch jwx-router-route-configuration-wrong-host, 1009 days
+Branch jwx-router-update-goto, 1097 days
+Branch local-resource-rename, 1090 days
+Branch nativescript, 932 days
+Branch observer-lookups, 1037 days
+Branch test-runner, 938 days
+Branch toggle-attribute, 1033 days
+Branch update-examples-to-aurelia, 1083 days
+Branch ws-shenanigans, 981 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 27.951612903225808 days
+Branch lifecycles is unsynced with 616 days, 588.0483870967741 more than average
+Branch renovate/all is unsynced with 359 days, 331.0483870967742 more than average
+Branch test-runner is unsynced with 490 days, 462.0483870967742 more than average
+Branch updates is unsynced with 703 days, 675.0483870967741 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch jwx-router-refactor, -435 days
+Branch lifecycles, 616 days
+Branch renovate/all, 359 days
+Branch test-runner, 490 days
+Branch updates, 703 days

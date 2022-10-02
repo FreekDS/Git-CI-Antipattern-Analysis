@@ -1,0 +1,72 @@
+Missed Activity
+=========================
+Branch kolea2-patch-1 has 335 days of missed activity!
+Branch owl-bot-copy has 96 days of missed activity!
+Branch owl-bot-update-lock-5ed10ba99cd1ea8c3a0f29b4c53e8a2723a101952705baed6b61783111c64c1c has 258 days of missed activity!
+Branch release-please--branches--main has 70 days of missed activity!
+MEDIUM SEVERITY
+Branch kolea2-patch-1, 335 seconds
+Branch owl-bot-copy, 96 seconds
+Branch owl-bot-update-lock-5ed10ba99cd1ea8c3a0f29b4c53e8a2723a101952705baed6b61783111c64c1c, 258 seconds
+Branch release-please--branches--main, 70 seconds
+
+Branch Deviation
+=========================
+Average deviation: 409.45454545454544 days
+Branch autosynth-googleapis moved away from main with 496 days, 86.54545454545456 more than average
+Branch autosynth-self moved away from main with 493 days, 83.54545454545456 more than average
+Branch autosynth-synthtool moved away from main with 498 days, 88.54545454545456 more than average
+Branch bcb-to-fb moved away from main with 595 days, 185.54545454545456 more than average
+Branch feature/introduce-backups moved away from main with 764 days, 354.54545454545456 more than average
+Branch fix-fallback moved away from main with 825 days, 415.54545454545456 more than average
+Branch flakey-tests moved away from main with 453 days, 43.54545454545456 more than average
+Branch gts3alpha1 moved away from main with 738 days, 328.54545454545456 more than average
+Branch gts-re moved away from main with 867 days, 457.54545454545456 more than average
+Branch notslint moved away from main with 884 days, 474.54545454545456 more than average
+Branch owl-bot-d571e94b-5d82-41db-83d7-0c0aae5c87a2 moved away from main with 425 days, 15.545454545454561 more than average
+Branch owl-bot-ec895b6a-b526-47e0-9539-92dbdce0e13b moved away from main with 411 days, 1.545454545454561 more than average
+Branch owl-bot-update-lock-06c970a44680229c1e8cefa701dbc93b80468ec4a34e6968475084e4ec1e2d7d moved away from main with 421 days, 11.545454545454561 more than average
+Branch owl-bot-update-lock-8b8c77dc9b5b9891bb9994fb3f7df82c4c8dd264e54fb60ba388c5bb6aece004 moved away from main with 455 days, 45.54545454545456 more than average
+Branch owl-bot-update-lock-14aaee566d6fc07716bb92da416195156e47a4777e7d1cd2bb3e28c46fe30fe2 moved away from main with 464 days, 54.54545454545456 more than average
+Branch owl-bot-update-lock-64c6fb01f27f312ee564388fb5e72660d30ffc3b28a229d674f763af811c27d7 moved away from main with 457 days, 47.54545454545456 more than average
+Branch owl-bot-update-lock-68ff4ac3fa9a72e35a9bff74930700950064d4b279f5edb6dc1e02f828024b82 moved away from main with 454 days, 44.54545454545456 more than average
+Branch owl-bot-update-lock-92f330e675de5fbd2276c7b0dc71d213344a07171f8d3d0044c2bb1002bcc9dd moved away from main with 455 days, 45.54545454545456 more than average
+Branch owl-bot-update-lock-805e2e389eafefa5ed484c30b83a7a875e6b1c7ee125d812e8b01ecc531c3fac moved away from main with 447 days, 37.54545454545456 more than average
+Branch owl-bot-update-lock-bbdd52de226c00df3356cdf25460397b429ab49552becca645adbc412f6a4ed5 moved away from main with 456 days, 46.54545454545456 more than average
+Branch owl-bot-update-lock-c0ea296a88a37bf6556fb20669d29b4431f0064dd2a825a1628bca865bc9711f moved away from main with 454 days, 44.54545454545456 more than average
+Branch owl-bot-update-lock-c9c7828c165b1985579098978877935ee52dda2b1b538087514fd24fa2443e7a moved away from main with 457 days, 47.54545454545456 more than average
+Branch owl-bot-update-lock-e3acc52bee3e06b9059ccb305952ab4cfe8e477fffa7be88a793ed6df5c3f11f moved away from main with 456 days, 46.54545454545456 more than average
+Branch release-v3.2.0 moved away from main with 677 days, 267.54545454545456 more than average
+Branch release-v3.2.3 moved away from main with 562 days, 152.54545454545456 more than average
+Branch release-v4.0.0 moved away from main with 566 days, 156.54545454545456 more than average
+Branch rm-pret moved away from main with 884 days, 474.54545454545456 more than average
+Branch syfix moved away from main with 884 days, 474.54545454545456 more than average
+MEDIUM SEVERITY
+Branch autosynth-googleapis, 496 days
+Branch autosynth-self, 493 days
+Branch autosynth-synthtool, 498 days
+Branch bcb-to-fb, 595 days
+Branch feature/introduce-backups, 764 days
+Branch fix-fallback, 825 days
+Branch gts3alpha1, 738 days
+Branch release-v3.2.0, 677 days
+Branch release-v3.2.3, 562 days
+Branch release-v4.0.0, 566 days
+HIGH SEVERITY
+Branch gts-re, 867 days
+Branch notslint, 884 days
+Branch rm-pret, 884 days
+Branch syfix, 884 days
+
+Unsynced activity
+=========================
+Average unsynced: 3.9272727272727272 days
+Branch kolea2-patch-1 is unsynced with 109 days, 105.07272727272728 more than average
+Branch owl-bot-copy is unsynced with 98 days, 94.07272727272728 more than average
+Branch owl-bot-update-lock-5ed10ba99cd1ea8c3a0f29b4c53e8a2723a101952705baed6b61783111c64c1c is unsynced with 12 days, 8.072727272727272 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch kolea2-patch-1, 109 days
+Branch owl-bot-copy, 98 days
+Branch owl-bot-update-lock-5ed10ba99cd1ea8c3a0f29b4c53e8a2723a101952705baed6b61783111c64c1c, 12 days
+Branch release-please--branches--main, -3 days

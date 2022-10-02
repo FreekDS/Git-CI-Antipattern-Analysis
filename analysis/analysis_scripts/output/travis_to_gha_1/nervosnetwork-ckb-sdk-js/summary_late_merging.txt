@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+Branch develop has 1243 days of missed activity!
+MEDIUM SEVERITY
+Branch develop, 1243 seconds
+
+Branch Deviation
+=========================
+Average deviation: 55.75 days
+Branch add-raw-tx-formatter-in-result-formatters moved away from main with 120 days, 64.25 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch add-raw-tx-formatter-in-result-formatters, 120 days
+
+Unsynced activity
+=========================
+Average unsynced: 310.75 days
+Branch develop is unsynced with 1243 days, 932.25 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch develop, 1243 days

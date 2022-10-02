@@ -1,0 +1,257 @@
+{
+  "slow_build": {
+    "Master": {
+      "data": {
+        "2019-10-08T15:56:34Z": 62875.0,
+        "2019-10-22T11:54:49Z": 87722.22222222222,
+        "2019-10-29T16:45:25Z": 136500.0,
+        "2019-11-06T22:25:11Z": 60700.0,
+        "2019-11-14T10:06:29Z": 197666.66666666666
+      },
+      "tool": "Github Actions",
+      "total avg": 109092.77777777778,
+      "quartiles": {
+        "q1": 62875.0,
+        "q3": 136500.0,
+        "iqr": 73625.0
+      },
+      "classification": {
+        "high_severity": {
+          "17": 337000,
+          "36": 607000
+        },
+        "medium_severity": {
+          "17": 144000,
+          "23": 152000,
+          "26": 143000,
+          "1": 145000,
+          "3": 137000,
+          "5": 139000,
+          "9": 203000,
+          "10": 165000,
+          "13": 204000,
+          "15": 234000,
+          "19": 176000,
+          "34": 204000
+        }
+      }
+    },
+    "PR": {
+      "data": {
+        "2019-10-08T15:28:51Z": 114600.0,
+        "2019-10-22T11:49:44Z": 169875.0,
+        "2019-10-29T16:21:16Z": 416750.0,
+        "2019-11-06T22:23:03Z": 103800.0,
+        "2019-11-14T09:50:51Z": 86500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 178305.0,
+      "quartiles": {
+        "q1": 103800.0,
+        "q3": 169875.0,
+        "iqr": 66075.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 306000,
+          "7": 346000,
+          "8": 335000,
+          "9": 443000,
+          "10": 543000
+        },
+        "medium_severity": {
+          "5": 257000,
+          "6": 197000
+        }
+      }
+    },
+    "CI": {
+      "data": {
+        "2019-10-04T09:40:18Z": 117000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 117000.0,
+      "quartiles": {
+        "q1": 117000.0,
+        "q3": 117000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 119000,
+          "8": 120000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node CI": {
+      "data": {
+        "2019-10-04T06:56:57Z": 194333.33333333334
+      },
+      "tool": "Github Actions",
+      "total avg": 194333.33333333334,
+      "quartiles": {
+        "q1": 194333.33333333334,
+        "q3": 194333.33333333334,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 262000
+        },
+        "medium_severity": {}
+      }
+    },
+    "tools": {
+      "data": {
+        "2019-08-29T19:59:50Z": 153333.33333333334,
+        "2019-09-10T12:43:56Z": 147241.37931034484,
+        "2019-09-25T12:48:30Z": 182666.66666666666,
+        "2019-10-04T07:27:45Z": 223454.54545454544
+      },
+      "tool": "TravisCI",
+      "total avg": 176673.98119122256,
+      "quartiles": {
+        "q1": 151810.3448275862,
+        "q3": 192863.63636363635,
+        "iqr": 41053.29153605015
+      },
+      "classification": {
+        "high_severity": {
+          "204": 271000,
+          "205": 272000
+        },
+        "medium_severity": {
+          "180": 197000,
+          "193": 198000,
+          "194": 232000,
+          "195": 219000,
+          "196": 230000,
+          "197": 195000,
+          "198": 199000,
+          "199": 215000,
+          "200": 203000,
+          "201": 222000,
+          "203": 200000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "jg-bump-deps": 705,
+      "master": 0
+    },
+    "branch deviation": {
+      "jg-bump-deps": 204,
+      "master": 0
+    },
+    "unsynced activity": {
+      "jg-bump-deps": 500,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "jg-bump-deps"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "jg-bump-deps"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "jg-bump-deps"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 5
+  },
+  "broken_release": {
+    "Master": {
+      "data": [
+        {
+          "started_at": "2019-10-28T15:39:37Z",
+          "used_tool": "Github Actions",
+          "number": 9
+        },
+        {
+          "started_at": "2019-10-28T15:44:06Z",
+          "used_tool": "Github Actions",
+          "number": 10
+        },
+        {
+          "started_at": "2019-10-28T15:58:47Z",
+          "used_tool": "Github Actions",
+          "number": 11
+        },
+        {
+          "started_at": "2019-10-28T16:03:50Z",
+          "used_tool": "Github Actions",
+          "number": 12
+        },
+        {
+          "started_at": "2019-11-06T22:26:54Z",
+          "used_tool": "Github Actions",
+          "number": 22
+        },
+        {
+          "started_at": "2019-11-08T16:03:31Z",
+          "used_tool": "Github Actions",
+          "number": 24
+        },
+        {
+          "started_at": "2019-11-10T16:05:48Z",
+          "used_tool": "Github Actions",
+          "number": 26
+        },
+        {
+          "started_at": "2019-11-13T08:05:21Z",
+          "used_tool": "Github Actions",
+          "number": 28
+        },
+        {
+          "started_at": "2019-11-13T12:32:02Z",
+          "used_tool": "Github Actions",
+          "number": 30
+        },
+        {
+          "started_at": "2019-11-14T10:08:11Z",
+          "used_tool": "Github Actions",
+          "number": 32
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 48
+    },
+    "PR": {
+      "data": [
+        {
+          "started_at": "2019-10-29T16:21:16Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 2
+    },
+    "CI": {
+      "data": [],
+      "release_build_count": 4
+    },
+    "Node CI": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "tools": {
+      "data": [],
+      "release_build_count": 35
+    }
+  },
+  "skip_failing_tests": {}
+}

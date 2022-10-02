@@ -1,93 +1,26 @@
 {
-  "slow_build": {
-    "": {
-      "data": {
-        "2019-11-13T18:06:09Z": 500.0
-      },
-      "tool": "Github Actions",
-      "total avg": 500.0,
-      "quartiles": {
-        "q1": 500.0,
-        "q3": 500.0,
-        "iqr": 0.0
-      },
-      "classification": {
-        "high_severity": {
-          "2": 1000,
-          "5": 1000,
-          "7": 1000,
-          "9": 1000,
-          "10": 1000,
-          "12": 1000
-        },
-        "medium_severity": {}
-      }
-    },
-    "Mark stale issues and pull requests": {
-      "data": {
-        "2019-11-10T02:05:32Z": 24238.636363636364
-      },
-      "tool": "Github Actions",
-      "total avg": 24238.636363636364,
-      "quartiles": {
-        "q1": 24238.636363636364,
-        "q3": 24238.636363636364,
-        "iqr": 0.0
-      },
-      "classification": {
-        "high_severity": {
-          "414": 32000,
-          "419": 32000,
-          "422": 26000,
-          "423": 27000,
-          "430": 25000,
-          "432": 26000,
-          "437": 32000,
-          "438": 26000,
-          "440": 33000,
-          "442": 27000,
-          "444": 26000,
-          "445": 26000,
-          "446": 27000,
-          "447": 27000,
-          "451": 33000,
-          "452": 26000,
-          "453": 33000,
-          "454": 27000,
-          "456": 26000,
-          "459": 26000,
-          "460": 27000,
-          "461": 27000,
-          "462": 25000,
-          "463": 27000,
-          "472": 32000,
-          "473": 37000,
-          "476": 30000,
-          "479": 25000,
-          "485": 25000,
-          "491": 25000,
-          "494": 25000,
-          "496": 27000,
-          "497": 28000,
-          "498": 26000,
-          "501": 25000
-        },
-        "medium_severity": {}
-      }
-    }
-  },
+  "slow_build": {},
   "late_merging": {
     "missed activity": {
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 0,
       "marino/create-payment-types-fix": 0,
-      "master": 0
+      "master": 0,
+      "pimm+jan/retry": 0,
+      "pimm/profiles-settlements": 0
     },
     "branch deviation": {
-      "marino/create-payment-types-fix": 107,
-      "master": 0
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 56,
+      "marino/create-payment-types-fix": 317,
+      "master": 0,
+      "pimm+jan/retry": -13,
+      "pimm/profiles-settlements": -5
     },
     "unsynced activity": {
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 0,
       "marino/create-payment-types-fix": 0,
-      "master": 0
+      "master": 0,
+      "pimm+jan/retry": 0,
+      "pimm/profiles-settlements": 0
     },
     "classification": {
       "missed activity": {
@@ -95,79 +28,18 @@
         "high_severity": []
       },
       "branch deviation": {
-        "medium_severity": [
+        "medium_severity": [],
+        "high_severity": [
           "marino/create-payment-types-fix"
-        ],
-        "high_severity": []
+        ]
       },
       "unsynced activity": {
         "medium_severity": [],
         "high_severity": []
       }
     },
-    "build_count": 2
+    "build_count": 0
   },
-  "broken_release": {
-    "": {
-      "data": [
-        {
-          "started_at": "2019-11-13T18:06:09Z",
-          "used_tool": "Github Actions",
-          "number": 1
-        },
-        {
-          "started_at": "2019-11-13T19:05:08Z",
-          "used_tool": "Github Actions",
-          "number": 2
-        },
-        {
-          "started_at": "2019-11-13T19:48:29Z",
-          "used_tool": "Github Actions",
-          "number": 4
-        },
-        {
-          "started_at": "2019-11-13T19:48:29Z",
-          "used_tool": "Github Actions",
-          "number": 5
-        },
-        {
-          "started_at": "2019-11-13T19:48:32Z",
-          "used_tool": "Github Actions",
-          "number": 6
-        },
-        {
-          "started_at": "2019-11-13T19:48:32Z",
-          "used_tool": "Github Actions",
-          "number": 7
-        },
-        {
-          "started_at": "2019-11-13T19:48:48Z",
-          "used_tool": "Github Actions",
-          "number": 9
-        },
-        {
-          "started_at": "2019-11-13T19:48:52Z",
-          "used_tool": "Github Actions",
-          "number": 10
-        },
-        {
-          "started_at": "2019-11-13T19:50:25Z",
-          "used_tool": "Github Actions",
-          "number": 11
-        },
-        {
-          "started_at": "2019-11-13T19:50:33Z",
-          "used_tool": "Github Actions",
-          "number": 12
-        }
-      ],
-      "tool": "Github Actions",
-      "release_build_count": 10
-    },
-    "Mark stale issues and pull requests": {
-      "data": [],
-      "release_build_count": 88
-    }
-  },
+  "broken_release": {},
   "skip_failing_tests": {}
 }

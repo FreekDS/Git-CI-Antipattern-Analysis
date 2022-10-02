@@ -1,0 +1,22 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 277.61538461538464 days
+Branch feature/schema-performance-2 moved away from main with 291 days, 13.384615384615358 more than average
+Branch fix-caching moved away from main with 1056 days, 778.3846153846154 more than average
+Branch gh-pages moved away from main with 1492 days, 1214.3846153846152 more than average
+Branch infrastructure/heroku moved away from main with 308 days, 30.38461538461536 more than average
+MEDIUM SEVERITY
+Branch infrastructure/heroku, 308 days
+HIGH SEVERITY
+Branch fix-caching, 1056 days
+Branch gh-pages, 1492 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

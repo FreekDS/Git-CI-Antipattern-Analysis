@@ -17,7 +17,7 @@ with open(f'{os.getcwd()}/travis_only.json') as gha_f:
 
 opts = {
     'detect_only': False,
-    'use_cache': True,
+    'use_cache': False,
     'create_cache': True,
     'out_dir': "./output/travis_only",
     'verbose': True,
@@ -27,7 +27,7 @@ opts = {
 
 i = 1
 
-for repo in list(travis_only.keys()):
+for repo in list(travis_only.keys())[50:]:
     print("Repo", i, 'of', len(travis_only))
     i += 1
     res = analyze_repo(GithubRepo(repo), **opts)

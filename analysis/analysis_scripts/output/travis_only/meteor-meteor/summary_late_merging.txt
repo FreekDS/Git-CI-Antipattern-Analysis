@@ -1,0 +1,1354 @@
+Missed Activity
+=========================
+Branch abernix/update-1.5.4-history.md-master has 1770 days of missed activity!
+Branch browserstack-check has 532 days of missed activity!
+Branch enable-throttled-gc has 1888 days of missed activity!
+Branch fix-jsdocs has 2146 days of missed activity!
+Branch merge-1.4.4.x-and-1.5.x-into-master has 1628 days of missed activity!
+Branch release-1.4.1.2 has 2170 days of missed activity!
+Branch release-1.4.1.3 has 2153 days of missed activity!
+Branch release-1.4.2.x has 2049 days of missed activity!
+Branch release-1.4.2 has 2149 days of missed activity!
+Branch release-1.4.2.1 has 2135 days of missed activity!
+Branch release-1.4.2.2 has 2126 days of missed activity!
+Branch release-1.4.2.5 has 2045 days of missed activity!
+Branch release-1.4.2.6 has 2043 days of missed activity!
+Branch release-1.4.2.7 has 2038 days of missed activity!
+Branch release-1.4.3.x has 1986 days of missed activity!
+Branch release-1.4.3 has 2041 days of missed activity!
+Branch release-1.4.3.1 has 2038 days of missed activity!
+Branch release-1.4.3.2 has 2010 days of missed activity!
+Branch release-1.4.4.1 has 1985 days of missed activity!
+Branch release-1.4.4.2 has 1961 days of missed activity!
+Branch release-1.4.4.3 has 1940 days of missed activity!
+Branch release-1.5 has 1932 days of missed activity!
+Branch release-1.5.1 has 1889 days of missed activity!
+Branch release-1.5.2 has 1834 days of missed activity!
+Branch release-1.5.2.1 has 1814 days of missed activity!
+Branch release-1.5.2.2 has 1810 days of missed activity!
+Branch release-1.6 has 1782 days of missed activity!
+Branch release-1.6.0.1 has 1740 days of missed activity!
+Branch release-1.6.1 has 1697 days of missed activity!
+Branch release-1.6.1.1 has 1626 days of missed activity!
+Branch release-1.6.1.2 has 1571 days of missed activity!
+Branch release-1.6.1.3 has 1550 days of missed activity!
+Branch release-1.7 has 1570 days of missed activity!
+Branch release-1.7.0.1 has 1568 days of missed activity!
+Branch release-1.7.0.2 has 1553 days of missed activity!
+Branch release-1.7.0.3 has 1553 days of missed activity!
+Branch release-1.7.0.4 has 1499 days of missed activity!
+Branch release-1.7.0.5 has 1489 days of missed activity!
+Branch release-1.7.1 has 1439 days of missed activity!
+Branch release-1.8.0.1 has 1391 days of missed activity!
+Branch release-1.8.0.2 has 1346 days of missed activity!
+Branch release-1.8.1 has 1260 days of missed activity!
+Branch release-1.8.2 has 1034 days of missed activity!
+Branch release-1.8.3 has 1000 days of missed activity!
+Branch release-1.9 has 979 days of missed activity!
+Branch release-1.9.1 has 938 days of missed activity!
+Branch release-1.9.2 has 937 days of missed activity!
+Branch release-1.10 has 915 days of missed activity!
+Branch release-1.12 has 649 days of missed activity!
+Branch release-2.1.1 has 525 days of missed activity!
+Branch release-2.2 has 516 days of missed activity!
+Branch release-2.3.1 has 433 days of missed activity!
+Branch release-2.4 has 364 days of missed activity!
+Branch release-2.5 has 327 days of missed activity!
+Branch release-2.5.1 has 301 days of missed activity!
+Branch release-2.5.2 has 266 days of missed activity!
+Branch release-2.5.3 has 252 days of missed activity!
+Branch release-2.5.5 has 237 days of missed activity!
+Branch release-2.6 has 224 days of missed activity!
+Branch release-2.7.1 has 167 days of missed activity!
+Branch release-2.7.2 has 128 days of missed activity!
+Branch release-2.7.3 has 105 days of missed activity!
+MEDIUM SEVERITY
+Branch abernix/update-1.5.4-history.md-master, 1770 seconds
+Branch browserstack-check, 532 seconds
+Branch enable-throttled-gc, 1888 seconds
+Branch fix-jsdocs, 2146 seconds
+Branch merge-1.4.4.x-and-1.5.x-into-master, 1628 seconds
+Branch release-1.4.1.2, 2170 seconds
+Branch release-1.4.1.3, 2153 seconds
+Branch release-1.4.2.x, 2049 seconds
+Branch release-1.4.2, 2149 seconds
+Branch release-1.4.2.1, 2135 seconds
+Branch release-1.4.2.2, 2126 seconds
+Branch release-1.4.2.5, 2045 seconds
+Branch release-1.4.2.6, 2043 seconds
+Branch release-1.4.2.7, 2038 seconds
+Branch release-1.4.3.x, 1986 seconds
+Branch release-1.4.3, 2041 seconds
+Branch release-1.4.3.1, 2038 seconds
+Branch release-1.4.3.2, 2010 seconds
+Branch release-1.4.4.1, 1985 seconds
+Branch release-1.4.4.2, 1961 seconds
+Branch release-1.4.4.3, 1940 seconds
+Branch release-1.5, 1932 seconds
+Branch release-1.5.1, 1889 seconds
+Branch release-1.5.2, 1834 seconds
+Branch release-1.5.2.1, 1814 seconds
+Branch release-1.5.2.2, 1810 seconds
+Branch release-1.6, 1782 seconds
+Branch release-1.6.0.1, 1740 seconds
+Branch release-1.6.1, 1697 seconds
+Branch release-1.6.1.1, 1626 seconds
+Branch release-1.6.1.2, 1571 seconds
+Branch release-1.6.1.3, 1550 seconds
+Branch release-1.7, 1570 seconds
+Branch release-1.7.0.1, 1568 seconds
+Branch release-1.7.0.2, 1553 seconds
+Branch release-1.7.0.3, 1553 seconds
+Branch release-1.7.0.4, 1499 seconds
+Branch release-1.7.0.5, 1489 seconds
+Branch release-1.7.1, 1439 seconds
+Branch release-1.8.0.1, 1391 seconds
+Branch release-1.8.0.2, 1346 seconds
+Branch release-1.8.1, 1260 seconds
+Branch release-1.8.2, 1034 seconds
+Branch release-1.8.3, 1000 seconds
+Branch release-1.9, 979 seconds
+Branch release-1.9.1, 938 seconds
+Branch release-1.9.2, 937 seconds
+Branch release-1.10, 915 seconds
+Branch release-1.12, 649 seconds
+Branch release-2.1.1, 525 seconds
+Branch release-2.2, 516 seconds
+Branch release-2.3.1, 433 seconds
+Branch release-2.4, 364 seconds
+Branch release-2.5, 327 seconds
+Branch release-2.5.1, 301 seconds
+Branch release-2.5.2, 266 seconds
+Branch release-2.5.3, 252 seconds
+Branch release-2.5.5, 237 seconds
+Branch release-2.6, 224 seconds
+Branch release-2.7.1, 167 seconds
+Branch release-2.7.2, 128 seconds
+Branch release-2.7.3, 105 seconds
+
+Branch Deviation
+=========================
+Average deviation: 1684.9243397573161 days
+Branch 0.6.4-docs-with-linker moved away from main with 3324 days, 1639.0756602426839 more than average
+Branch 0.7.1.2-with-dev-bundle-0.3.38 moved away from main with 3010 days, 1325.0756602426839 more than average
+Branch 0.9.4-nim-test-noctl moved away from main with 2897 days, 1212.0756602426839 more than average
+Branch 1.2.1-with-faster-rebuild moved away from main with 2463 days, 778.0756602426839 more than average
+Branch 6to5-experiment moved away from main with 2781 days, 1096.0756602426839 more than average
+Branch 844-other-npm-url-types moved away from main with 2485 days, 800.0756602426839 more than average
+Branch 7087-fix-flaky-tests moved away from main with 2302 days, 617.0756602426839 more than average
+Branch 7149-CSS-respect-CDN-settings moved away from main with 2268 days, 583.0756602426839 more than average
+Branch 7266-add-retrying-to-installer moved away from main with 2260 days, 575.0756602426839 more than average
+Branch 7267-request-resuming moved away from main with 2253 days, 568.0756602426839 more than average
+Branch 7267-use-request-retry moved away from main with 2263 days, 578.0756602426839 more than average
+Branch 7491-no-kexec moved away from main with 2239 days, 554.0756602426839 more than average
+Branch 7491-no-kexec-2 moved away from main with 2238 days, 553.0756602426839 more than average
+Branch 7494-better-test-file-options moved away from main with 2240 days, 555.0756602426839 more than average
+Branch 7495-update-indirect-dependencies moved away from main with 2219 days, 534.0756602426839 more than average
+Branch 7822-mongo-reconnect-settings moved away from main with 2168 days, 483.07566024268385 more than average
+Branch D807-wrapAsync moved away from main with 2931 days, 1246.0756602426839 more than average
+Branch Package._define moved away from main with 1772 days, 87.07566024268385 more than average
+Branch WebAppInternals.registerBoilerplateDataCallback moved away from main with 1906 days, 221.07566024268385 more than average
+Branch abenrix/update-rimraf-2.6.1 moved away from main with 1923 days, 238.07566024268385 more than average
+Branch abernix/auth-deploy-cleanup moved away from main with 1871 days, 186.07566024268385 more than average
+Branch abernix/auto-install-self-test-deps moved away from main with 1868 days, 183.07566024268385 more than average
+Branch abernix/browserstackback moved away from main with 1751 days, 66.07566024268385 more than average
+Branch abernix/clear-password-on-retry moved away from main with 1888 days, 203.07566024268385 more than average
+Branch abernix/ddp-server-rework moved away from main with 1686 days, 1.0756602426838526 more than average
+Branch abernix/dev-bundle-53773.1.0 moved away from main with 1854 days, 169.07566024268385 more than average
+Branch abernix/dev-bundle-from-hash moved away from main with 1854 days, 169.07566024268385 more than average
+Branch abernix/feature/update-test-in-console moved away from main with 2023 days, 338.07566024268385 more than average
+Branch abernix/fix-exp-token-deploy moved away from main with 1857 days, 172.07566024268385 more than average
+Branch abernix/fix-node-build-macos moved away from main with 1813 days, 128.07566024268385 more than average
+Branch abernix/fix-npm-install-1.6 moved away from main with 1855 days, 170.07566024268385 more than average
+Branch abernix/fix-windows-faux-success moved away from main with 1786 days, 101.07566024268385 more than average
+Branch abernix/pr-template moved away from main with 1828 days, 143.07566024268385 more than average
+Branch abernix/remove-longjohn moved away from main with 1870 days, 185.07566024268385 more than average
+Branch abernix/selftest-junit moved away from main with 1855 days, 170.07566024268385 more than average
+Branch abernix/selftest-modern moved away from main with 1864 days, 179.07566024268385 more than average
+Branch abernix/selftest-modern-devel moved away from main with 1864 days, 179.07566024268385 more than average
+Branch abernix/server-shell-underscore moved away from main with 1749 days, 64.07566024268385 more than average
+Branch abernix/test-node-build-old moved away from main with 1813 days, 128.07566024268385 more than average
+Branch abernix/update-1.5.4-history.md-master moved away from main with 1770 days, 85.07566024268385 more than average
+Branch abernix-wix-fix moved away from main with 2247 days, 562.0756602426839 more than average
+Branch accounts-case-sashko moved away from main with 2575 days, 890.0756602426839 more than average
+Branch accounts-observe-leak moved away from main with 2672 days, 987.0756602426839 more than average
+Branch accounts-password-case-insensitivity moved away from main with 2577 days, 892.0756602426839 more than average
+Branch accounts-reorg-upgraders moved away from main with 2042 days, 357.07566024268385 more than average
+Branch adam/clean-up-cli-help moved away from main with 1728 days, 43.07566024268385 more than average
+Branch add-gyp-tools-to-server-bundle moved away from main with 2232 days, 547.0756602426839 more than average
+Branch add-meteor-promise-to-dev-bundle moved away from main with 2687 days, 1002.0756602426839 more than average
+Branch add-meteor-promise-to-tool-bundle moved away from main with 2686 days, 1001.0756602426839 more than average
+Branch add-node-pathwatcher-to-dev-bundle moved away from main with 2857 days, 1172.0756602426839 more than average
+Branch add-promise-to-dev-bundle moved away from main with 2832 days, 1147.0756602426839 more than average
+Branch add-watchman-to-dev-bundle moved away from main with 2863 days, 1178.0756602426839 more than average
+Branch airbnb-style moved away from main with 2638 days, 953.0756602426839 more than average
+Branch allow-es6-in-meteor-shell moved away from main with 2638 days, 953.0756602426839 more than average
+Branch always-include-es5-shim-in-cordova-bundle moved away from main with 1695 days, 10.075660242683853 more than average
+Branch anubhav-compile-error-improvements moved away from main with 2597 days, 912.0756602426839 more than average
+Branch anubhav-improve-error-reporting moved away from main with 2585 days, 900.0756602426839 more than average
+Branch anubhav-rate-limit moved away from main with 2611 days, 926.0756602426839 more than average
+Branch app-tests moved away from main with 2400 days, 715.0756602426839 more than average
+Branch app-tests-no-remove-html moved away from main with 2413 days, 728.0756602426839 more than average
+Branch appconfig-mail-url moved away from main with 3206 days, 1521.0756602426839 more than average
+Branch arbitrary-meteor-subcommands moved away from main with 1890 days, 205.07566024268385 more than average
+Branch assets-url moved away from main with 2920 days, 1235.0756602426839 more than average
+Branch async-call-apply moved away from main with 2282 days, 597.0756602426839 more than average
+Branch autoupdate-fixup moved away from main with 3196 days, 1511.0756602426839 more than average
+Branch avital-call-in-observe moved away from main with 2626 days, 941.0756602426839 more than average
+Branch avital-dev-bundle-fstream moved away from main with 2730 days, 1045.0756602426839 more than average
+Branch avital-faster-stringify-ddp moved away from main with 2518 days, 833.0756602426839 more than average
+Branch avital-justin-perf012 moved away from main with 2736 days, 1051.0756602426839 more than average
+Branch avital-less-minimongo-clones moved away from main with 2490 days, 805.0756602426839 more than average
+Branch avital-long moved away from main with 2731 days, 1046.0756602426839 more than average
+Branch avital-long-paths moved away from main with 2732 days, 1047.0756602426839 more than average
+Branch avital-spacebars-react-compile-test moved away from main with 2647 days, 962.0756602426839 more than average
+Branch avital-test-dev-bundle-on-windows moved away from main with 2730 days, 1045.0756602426839 more than average
+Branch avital-test-meetup-flakiness moved away from main with 2834 days, 1149.0756602426839 more than average
+Branch avital-test-with-evan moved away from main with 2871 days, 1186.0756602426839 more than average
+Branch avital-windows-ensure-dev-bundle-deleted moved away from main with 2777 days, 1092.0756602426839 more than average
+Branch avital-windows-installer2 moved away from main with 2673 days, 988.0756602426839 more than average
+Branch avital-windows-installer-fetch-latest moved away from main with 2703 days, 1018.0756602426839 more than average
+Branch avital-windows-kill-more moved away from main with 2776 days, 1091.0756602426839 more than average
+Branch avital-windows-selftest-run moved away from main with 2777 days, 1092.0756602426839 more than average
+Branch babel-7-with-builtins moved away from main with 1744 days, 59.07566024268385 more than average
+Branch babel-runtime-revamp moved away from main with 2141 days, 456.07566024268385 more than average
+Branch batch-plugins-guerrilla moved away from main with 2619 days, 934.0756602426839 more than average
+Branch batch-plugins-static-assets-wip moved away from main with 2624 days, 939.0756602426839 more than average
+Branch bcryptjs moved away from main with 2227 days, 542.0756602426839 more than average
+Branch behind-proxy moved away from main with 2895 days, 1210.0756602426839 more than average
+Branch benchmarks moved away from main with 2980 days, 1295.0756602426839 more than average
+Branch benjamn-roadmap-august-2017-followup moved away from main with 1860 days, 175.07566024268385 more than average
+Branch benjamn-roadmap-august-2017 moved away from main with 1860 days, 175.07566024268385 more than average
+Branch bigdocs moved away from main with 3315 days, 1630.0756602426839 more than average
+Branch blaze-inclusion-fix moved away from main with 3021 days, 1336.0756602426839 more than average
+Branch blaze-jsclass-inherits moved away from main with 3004 days, 1319.0756602426839 more than average
+Branch blaze-refactor-old moved away from main with 3112 days, 1427.0756602426839 more than average
+Branch blaze-refactor-svg-detection moved away from main with 3024 days, 1339.0756602426839 more than average
+Branch blaze-render-with-data-gc moved away from main with 2835 days, 1150.0756602426839 more than average
+Branch brewer-spiderable-config moved away from main with 2680 days, 995.0756602426839 more than average
+Branch broken-templating moved away from main with 2402 days, 717.0756602426839 more than average
+Branch build-download-better-vbump moved away from main with 3007 days, 1322.0756602426839 more than average
+Branch build-speed-bench moved away from main with 2589 days, 904.0756602426839 more than average
+Branch bump-MIN_NODE_VERSION moved away from main with 1730 days, 45.07566024268385 more than average
+Branch bundle-package.json-when-main-absent moved away from main with 1736 days, 51.07566024268385 more than average
+Branch bundler-profile moved away from main with 3170 days, 1485.0756602426839 more than average
+Branch bundler-speedups moved away from main with 3170 days, 1485.0756602426839 more than average
+Branch bundler-test-for-tim moved away from main with 3165 days, 1480.0756602426839 more than average
+Branch case-insensitive-forgot-password moved away from main with 2486 days, 801.0756602426839 more than average
+Branch cdn-fix moved away from main with 2570 days, 885.0756602426839 more than average
+Branch chat-benchmark moved away from main with 3245 days, 1560.0756602426839 more than average
+Branch chat-benchmark-autorooms moved away from main with 3248 days, 1563.0756602426839 more than average
+Branch chat-benchmark-facts moved away from main with 3248 days, 1563.0756602426839 more than average
+Branch chat-benchmark-facts-writeseq moved away from main with 3247 days, 1562.0756602426839 more than average
+Branch chat-benchmark-fixedrooms moved away from main with 3248 days, 1563.0756602426839 more than average
+Branch chat-benchmark-oplog moved away from main with 3278 days, 1593.0756602426839 more than average
+Branch checklib32 moved away from main with 2882 days, 1197.0756602426839 more than average
+Branch clean-reset-on-password-change moved away from main with 2828 days, 1143.0756602426839 more than average
+Branch colon-slice-separator moved away from main with 3319 days, 1634.0756602426839 more than average
+Branch colons-validation moved away from main with 2738 days, 1053.0756602426839 more than average
+Branch combine-all-isopackets moved away from main with 1808 days, 123.07566024268385 more than average
+Branch common_aws_config moved away from main with 2974 days, 1289.0756602426839 more than average
+Branch constraint-solver-errors-ancestor moved away from main with 2946 days, 1261.0756602426839 more than average
+Branch convert-to-npm-package moved away from main with 2311 days, 626.0756602426839 more than average
+Branch cordova-deps-where moved away from main with 2864 days, 1179.0756602426839 more than average
+Branch cordova-improvements moved away from main with 2401 days, 716.0756602426839 more than average
+Branch cordova-updates moved away from main with 2172 days, 487.07566024268385 more than average
+Branch create-in-current-dir moved away from main with 2576 days, 891.0756602426839 more than average
+Branch create-package moved away from main with 2742 days, 1057.0756602426839 more than average
+Branch cs-errors moved away from main with 2925 days, 1240.0756602426839 more than average
+Branch css-bundler-experiments moved away from main with 3067 days, 1382.0756602426839 more than average
+Branch ctl-migrate moved away from main with 3330 days, 1645.0756602426839 more than average
+Branch ddp-batching moved away from main with 2333 days, 648.0756602426839 more than average
+Branch ddp-client-refactor moved away from main with 1770 days, 85.07566024268385 more than average
+Branch ddp-client-refactor-2 moved away from main with 1767 days, 82.07566024268385 more than average
+Branch ddp-rate-limiter-server moved away from main with 2493 days, 808.0756602426839 more than average
+Branch debug-circle-timeout-promise-await moved away from main with 2182 days, 497.07566024268385 more than average
+Branch debug-only-refactor moved away from main with 2898 days, 1213.0756602426839 more than average
+Branch decompose-package-singletons moved away from main with 2168 days, 483.07566024268385 more than average
+Branch dependency-cache moved away from main with 2850 days, 1165.0756602426839 more than average
+Branch deploy-node moved away from main with 2284 days, 599.0756602426839 more than average
+Branch deprecate-profile moved away from main with 2653 days, 968.0756602426839 more than average
+Branch deregisterHelper moved away from main with 2401 days, 716.0756602426839 more than average
+Branch detect-inspector-attachment moved away from main with 1807 days, 122.07566024268385 more than average
+Branch dev_bundle-0.3.54 moved away from main with 2916 days, 1231.0756602426839 more than average
+Branch dev_bundle-0.3.55 moved away from main with 2916 days, 1231.0756602426839 more than average
+Branch dev-bundle-0.6.8 moved away from main with 2297 days, 612.0756602426839 more than average
+Branch dev-bundle-0.6.9 moved away from main with 2294 days, 609.0756602426839 more than average
+Branch dev-bundle-0.6.10 moved away from main with 2292 days, 607.0756602426839 more than average
+Branch dev-bundle-0.6.11 moved away from main with 2280 days, 595.0756602426839 more than average
+Branch dev-bundle-0.6.12 moved away from main with 2280 days, 595.0756602426839 more than average
+Branch dev-bundle-0.6.13 moved away from main with 2280 days, 595.0756602426839 more than average
+Branch dev-bundle-0.6.14 moved away from main with 2276 days, 591.0756602426839 more than average
+Branch dev-bundle-0.6.15 moved away from main with 2276 days, 591.0756602426839 more than average
+Branch dev-bundle-0.6.16 moved away from main with 2266 days, 581.0756602426839 more than average
+Branch dev-bundle-0.6.17 moved away from main with 2259 days, 574.0756602426839 more than average
+Branch dev-bundle-0.6.18 moved away from main with 2259 days, 574.0756602426839 more than average
+Branch dev-bundle-0.6.19 moved away from main with 2253 days, 568.0756602426839 more than average
+Branch dev-bundle-0.7.0 moved away from main with 2244 days, 559.0756602426839 more than average
+Branch dev-bundle-0.7.11 moved away from main with 2038 days, 353.07566024268385 more than average
+Branch dev-bundle-0.7.12 moved away from main with 2038 days, 353.07566024268385 more than average
+Branch dev-bundle-1.3.2 moved away from main with 2351 days, 666.0756602426839 more than average
+Branch dev-bundle-4.0.3 moved away from main with 2296 days, 611.0756602426839 more than average
+Branch dev-bundle-4.0.4 moved away from main with 2296 days, 611.0756602426839 more than average
+Branch dev-bundle-4.0.9 moved away from main with 2282 days, 597.0756602426839 more than average
+Branch dev-bundle-4.0.10 moved away from main with 2281 days, 596.0756602426839 more than average
+Branch dev-bundle-4.0.11 moved away from main with 2274 days, 589.0756602426839 more than average
+Branch dev-bundle-4.0.12 moved away from main with 2270 days, 585.0756602426839 more than average
+Branch dev-bundle-4.0.13 moved away from main with 2270 days, 585.0756602426839 more than average
+Branch dev-bundle-4.0.14 moved away from main with 2269 days, 584.0756602426839 more than average
+Branch dev-bundle-4.0.15 moved away from main with 2268 days, 583.0756602426839 more than average
+Branch dev-bundle-4.0.16 moved away from main with 2265 days, 580.0756602426839 more than average
+Branch dev-bundle-4.1.0 moved away from main with 2257 days, 572.0756602426839 more than average
+Branch dev-bundle-4.1.1 moved away from main with 2253 days, 568.0756602426839 more than average
+Branch dev-bundle-4.1.2 moved away from main with 2253 days, 568.0756602426839 more than average
+Branch dev-bundle-4.1.3 moved away from main with 2245 days, 560.0756602426839 more than average
+Branch dev-bundle-4.1.4 moved away from main with 2244 days, 559.0756602426839 more than average
+Branch dev-bundle-4.2.0 moved away from main with 2241 days, 556.0756602426839 more than average
+Branch dev-bundle-4.2.1 moved away from main with 2235 days, 550.0756602426839 more than average
+Branch dev-bundle-4.2.3 moved away from main with 2232 days, 547.0756602426839 more than average
+Branch dev-bundle-4.2.4 moved away from main with 2232 days, 547.0756602426839 more than average
+Branch dev-bundle-4.2.5 moved away from main with 2231 days, 546.0756602426839 more than average
+Branch dev-bundle-4.2.6 moved away from main with 2225 days, 540.0756602426839 more than average
+Branch dev-bundle-4.2.7 moved away from main with 2224 days, 539.0756602426839 more than average
+Branch dev-bundle-4.2.8 moved away from main with 2221 days, 536.0756602426839 more than average
+Branch dev-bundle-4.2.9 moved away from main with 2220 days, 535.0756602426839 more than average
+Branch dev-bundle-4.2.10 moved away from main with 2196 days, 511.07566024268385 more than average
+Branch dev-bundle-4.2.11 moved away from main with 2196 days, 511.07566024268385 more than average
+Branch dev-bundle-4.2.12 moved away from main with 2178 days, 493.07566024268385 more than average
+Branch dev-bundle-4.2.13 moved away from main with 2171 days, 486.07566024268385 more than average
+Branch dev-bundle-4.3.1 moved away from main with 2171 days, 486.07566024268385 more than average
+Branch dev-bundle-4.3.2 moved away from main with 2169 days, 484.07566024268385 more than average
+Branch dev-bundle-4.3.3 moved away from main with 2167 days, 482.07566024268385 more than average
+Branch dev-bundle-4.3.4 moved away from main with 2165 days, 480.07566024268385 more than average
+Branch dev-bundle-4.3.5 moved away from main with 2164 days, 479.07566024268385 more than average
+Branch dev-bundle-4.3.6 moved away from main with 2162 days, 477.07566024268385 more than average
+Branch dev-bundle-4.3.7 moved away from main with 2155 days, 470.07566024268385 more than average
+Branch dev-bundle-4.4.0 moved away from main with 2155 days, 470.07566024268385 more than average
+Branch dev-bundle-4.6.0 moved away from main with 2154 days, 469.07566024268385 more than average
+Branch dev-bundle-4.6.1 moved away from main with 2153 days, 468.07566024268385 more than average
+Branch dev-bundle-4.6.2 moved away from main with 2147 days, 462.07566024268385 more than average
+Branch dev-bundle-4.6.3 moved away from main with 2136 days, 451.07566024268385 more than average
+Branch dev-bundle-4.7.0 moved away from main with 2133 days, 448.07566024268385 more than average
+Branch dev-bundle-4.7.1 moved away from main with 2129 days, 444.07566024268385 more than average
+Branch dev-bundle-4.7.5 moved away from main with 2112 days, 427.07566024268385 more than average
+Branch dev-bundle-4.7.6 moved away from main with 2056 days, 371.07566024268385 more than average
+Branch dev-bundle-4.7.7 moved away from main with 2051 days, 366.07566024268385 more than average
+Branch dev-bundle-4.7.8 moved away from main with 2049 days, 364.07566024268385 more than average
+Branch dev-bundle-4.7.13 moved away from main with 2018 days, 333.07566024268385 more than average
+Branch dev-bundle-4.7.14 moved away from main with 2008 days, 323.07566024268385 more than average
+Branch dev-bundle-4.7.15 moved away from main with 2008 days, 323.07566024268385 more than average
+Branch dev-bundle-4.7.16 moved away from main with 2004 days, 319.07566024268385 more than average
+Branch dev-bundle-4.7.17 moved away from main with 2003 days, 318.07566024268385 more than average
+Branch dev-bundle-4.7.18 moved away from main with 2002 days, 317.07566024268385 more than average
+Branch dev-bundle-4.7.19 moved away from main with 2002 days, 317.07566024268385 more than average
+Branch dev-bundle-4.7.20 moved away from main with 1996 days, 311.07566024268385 more than average
+Branch dev-bundle-4.7.21 moved away from main with 1989 days, 304.07566024268385 more than average
+Branch dev-bundle-4.7.22 moved away from main with 1988 days, 303.07566024268385 more than average
+Branch dev-bundle-4.7.23 moved away from main with 1987 days, 302.07566024268385 more than average
+Branch dev-bundle-4.7.24 moved away from main with 1979 days, 294.07566024268385 more than average
+Branch dev-bundle-4.7.25 moved away from main with 1979 days, 294.07566024268385 more than average
+Branch dev-bundle-4.7.26 moved away from main with 1967 days, 282.07566024268385 more than average
+Branch dev-bundle-4.7.27 moved away from main with 1940 days, 255.07566024268385 more than average
+Branch dev-bundle-4.7.28 moved away from main with 1741 days, 56.07566024268385 more than average
+Branch dev-bundle-4.7.29 moved away from main with 1740 days, 55.07566024268385 more than average
+Branch dev-bundle-4.8.1 moved away from main with 2038 days, 353.07566024268385 more than average
+Branch dev-bundle-4.8.2 moved away from main with 2009 days, 324.07566024268385 more than average
+Branch dev-bundle-4.8.3 moved away from main with 2006 days, 321.07566024268385 more than average
+Branch dev-bundle-4.8.4 moved away from main with 1996 days, 311.07566024268385 more than average
+Branch dev-bundle-4.8.5 moved away from main with 1986 days, 301.07566024268385 more than average
+Branch dev-bundle-4.8.6 moved away from main with 1978 days, 293.07566024268385 more than average
+Branch dev-bundle-4.8.7 moved away from main with 1966 days, 281.07566024268385 more than average
+Branch dev-bundle-4.8.8 moved away from main with 1965 days, 280.07566024268385 more than average
+Branch dev-bundle-4.8.9 moved away from main with 1961 days, 276.07566024268385 more than average
+Branch dev-bundle-4.8.10 moved away from main with 1958 days, 273.07566024268385 more than average
+Branch dev-bundle-4.8.11 moved away from main with 1954 days, 269.07566024268385 more than average
+Branch dev-bundle-4.8.12 moved away from main with 1936 days, 251.07566024268385 more than average
+Branch dev-bundle-4.8.13 moved away from main with 1936 days, 251.07566024268385 more than average
+Branch dev-bundle-4.8.14 moved away from main with 1934 days, 249.07566024268385 more than average
+Branch dev-bundle-4.8.15 moved away from main with 1934 days, 249.07566024268385 more than average
+Branch dev-bundle-4.8.16 moved away from main with 1933 days, 248.07566024268385 more than average
+Branch dev-bundle-4.8.17 moved away from main with 1933 days, 248.07566024268385 more than average
+Branch dev-bundle-4.8.18 moved away from main with 1923 days, 238.07566024268385 more than average
+Branch dev-bundle-4.8.19 moved away from main with 1919 days, 234.07566024268385 more than average
+Branch dev-bundle-4.8.20 moved away from main with 1892 days, 207.07566024268385 more than average
+Branch dev-bundle-4.8.21 moved away from main with 1890 days, 205.07566024268385 more than average
+Branch dev-bundle-4.8.22 moved away from main with 1888 days, 203.07566024268385 more than average
+Branch dev-bundle-4.8.23 moved away from main with 1884 days, 199.07566024268385 more than average
+Branch dev-bundle-4.8.24 moved away from main with 1884 days, 199.07566024268385 more than average
+Branch dev-bundle-4.8.25 moved away from main with 1884 days, 199.07566024268385 more than average
+Branch dev-bundle-4.8.26 moved away from main with 1881 days, 196.07566024268385 more than average
+Branch dev-bundle-4.8.27 moved away from main with 1880 days, 195.07566024268385 more than average
+Branch dev-bundle-4.8.28 moved away from main with 1879 days, 194.07566024268385 more than average
+Branch dev-bundle-4.8.29 moved away from main with 1869 days, 184.07566024268385 more than average
+Branch dev-bundle-4.8.30 moved away from main with 1868 days, 183.07566024268385 more than average
+Branch dev-bundle-4.8.31 moved away from main with 1868 days, 183.07566024268385 more than average
+Branch dev-bundle-4.8.32 moved away from main with 1849 days, 164.07566024268385 more than average
+Branch dev-bundle-4.8.33 moved away from main with 1849 days, 164.07566024268385 more than average
+Branch dev-bundle-4.8.35 moved away from main with 1848 days, 163.07566024268385 more than average
+Branch dev-bundle-4.8.36 moved away from main with 1818 days, 133.07566024268385 more than average
+Branch dev-bundle-4.8.37 moved away from main with 1815 days, 130.07566024268385 more than average
+Branch dev-bundle-4.8.39 moved away from main with 1812 days, 127.07566024268385 more than average
+Branch dev-bundle-4.8.40 moved away from main with 1812 days, 127.07566024268385 more than average
+Branch dev-bundle-4.8.41 moved away from main with 1811 days, 126.07566024268385 more than average
+Branch dev-bundle-4.8.42 moved away from main with 1785 days, 100.07566024268385 more than average
+Branch dev-bundle-4.8.43 moved away from main with 1782 days, 97.07566024268385 more than average
+Branch dev-bundle-4.8.44 moved away from main with 1772 days, 87.07566024268385 more than average
+Branch dev-bundle-4.8.45 moved away from main with 1741 days, 56.07566024268385 more than average
+Branch dev-bundle-4.8.46 moved away from main with 1741 days, 56.07566024268385 more than average
+Branch dev-bundle-6.9.0 moved away from main with 2129 days, 444.07566024268385 more than average
+Branch dev-bundle-6.10.1 moved away from main with 1992 days, 307.07566024268385 more than average
+Branch dev-bundle-6.10.2 moved away from main with 1985 days, 300.07566024268385 more than average
+Branch dev-bundle-6.10.3 moved away from main with 1951 days, 266.07566024268385 more than average
+Branch dev-bundle-6.10.4 moved away from main with 1932 days, 247.07566024268385 more than average
+Branch dev-bundle-6.10.5 moved away from main with 1932 days, 247.07566024268385 more than average
+Branch dev-bundle-6.10.6 moved away from main with 1926 days, 241.07566024268385 more than average
+Branch dev-bundle-6.10.7 moved away from main with 1923 days, 238.07566024268385 more than average
+Branch dev-bundle-6.10.8 moved away from main with 1918 days, 233.07566024268385 more than average
+Branch dev-bundle-8.1.1 moved away from main with 1918 days, 233.07566024268385 more than average
+Branch dev-bundle-8.1.2 moved away from main with 1917 days, 232.07566024268385 more than average
+Branch dev-bundle-8.1.4 moved away from main with 1910 days, 225.07566024268385 more than average
+Branch dev-bundle-8.1.5 moved away from main with 1905 days, 220.07566024268385 more than average
+Branch dev-bundle-8.1.6 moved away from main with 1892 days, 207.07566024268385 more than average
+Branch dev-bundle-8.1.7 moved away from main with 1891 days, 206.07566024268385 more than average
+Branch dev-bundle-8.1.8 moved away from main with 1889 days, 204.07566024268385 more than average
+Branch dev-bundle-8.1.9 moved away from main with 1889 days, 204.07566024268385 more than average
+Branch dev-bundle-8.1.10 moved away from main with 1888 days, 203.07566024268385 more than average
+Branch dev-bundle-8.1.11 moved away from main with 1887 days, 202.07566024268385 more than average
+Branch dev-bundle-8.1.12 moved away from main with 1884 days, 199.07566024268385 more than average
+Branch dev-bundle-8.1.13 moved away from main with 1881 days, 196.07566024268385 more than average
+Branch dev-bundle-8.2.1 moved away from main with 1881 days, 196.07566024268385 more than average
+Branch dev-bundle-8.2.2 moved away from main with 1880 days, 195.07566024268385 more than average
+Branch dev-bundle-8.2.3 moved away from main with 1880 days, 195.07566024268385 more than average
+Branch dev-bundle-8.2.4 moved away from main with 1879 days, 194.07566024268385 more than average
+Branch dev-bundle-8.2.5 moved away from main with 1873 days, 188.07566024268385 more than average
+Branch dev-bundle-8.2.6 moved away from main with 1862 days, 177.07566024268385 more than average
+Branch dev-bundle-8.3.0 moved away from main with 1861 days, 176.07566024268385 more than average
+Branch dev-bundle-8.3.1 moved away from main with 1860 days, 175.07566024268385 more than average
+Branch dev-bundle-8.4.0 moved away from main with 1855 days, 170.07566024268385 more than average
+Branch dev-bundle-8.4.1 moved away from main with 1848 days, 163.07566024268385 more than average
+Branch dev-bundle-8.4.2 moved away from main with 1835 days, 150.07566024268385 more than average
+Branch dev-bundle-8.4.3 moved away from main with 1834 days, 149.07566024268385 more than average
+Branch dev-bundle-8.4.4 moved away from main with 1833 days, 148.07566024268385 more than average
+Branch dev-bundle-8.5.0 moved away from main with 1827 days, 142.07566024268385 more than average
+Branch dev-bundle-8.5.1 moved away from main with 1826 days, 141.07566024268385 more than average
+Branch dev-bundle-8.5.2 moved away from main with 1825 days, 140.07566024268385 more than average
+Branch dev-bundle-8.5.3 moved away from main with 1819 days, 134.07566024268385 more than average
+Branch dev-bundle-8.5.4 moved away from main with 1818 days, 133.07566024268385 more than average
+Branch dev-bundle-8.5.5 moved away from main with 1814 days, 129.07566024268385 more than average
+Branch dev-bundle-8.5.6 moved away from main with 1814 days, 129.07566024268385 more than average
+Branch dev-bundle-8.6.0 moved away from main with 1812 days, 127.07566024268385 more than average
+Branch dev-bundle-8.6.1 moved away from main with 1810 days, 125.07566024268385 more than average
+Branch dev-bundle-8.6.2 moved away from main with 1800 days, 115.07566024268385 more than average
+Branch dev-bundle-8.7.0 moved away from main with 1798 days, 113.07566024268385 more than average
+Branch dev-bundle-8.7.1 moved away from main with 1797 days, 112.07566024268385 more than average
+Branch dev-bundle-8.7.2 moved away from main with 1796 days, 111.07566024268385 more than average
+Branch dev-bundle-8.7.3 moved away from main with 1792 days, 107.07566024268385 more than average
+Branch dev-bundle-8.7.4 moved away from main with 1791 days, 106.07566024268385 more than average
+Branch dev-bundle-8.7.5 moved away from main with 1791 days, 106.07566024268385 more than average
+Branch dev-bundle-8.7.6 moved away from main with 1786 days, 101.07566024268385 more than average
+Branch dev-bundle-8.8.0 moved away from main with 1785 days, 100.07566024268385 more than average
+Branch dev-bundle-8.8.1 moved away from main with 1784 days, 99.07566024268385 more than average
+Branch dev-bundle-8.8.2 moved away from main with 1779 days, 94.07566024268385 more than average
+Branch dev-bundle-8.8.3 moved away from main with 1757 days, 72.07566024268385 more than average
+Branch dev-bundle-8.8.4 moved away from main with 1744 days, 59.07566024268385 more than average
+Branch dev-bundle-8.8.5 moved away from main with 1744 days, 59.07566024268385 more than average
+Branch dev-bundle-8.9.0 moved away from main with 1778 days, 93.07566024268385 more than average
+Branch dev-bundle-8.9.1 moved away from main with 1771 days, 86.07566024268385 more than average
+Branch dev-bundle-8.9.2 moved away from main with 1770 days, 85.07566024268385 more than average
+Branch dev-bundle-8.9.3 moved away from main with 1756 days, 71.07566024268385 more than average
+Branch dev-bundle-8.9.4 moved away from main with 1751 days, 66.07566024268385 more than average
+Branch dev-bundle-8.9.5 moved away from main with 1744 days, 59.07566024268385 more than average
+Branch dev-bundle-8.9.6 moved away from main with 1741 days, 56.07566024268385 more than average
+Branch dev-bundle-8.9.7 moved away from main with 1741 days, 56.07566024268385 more than average
+Branch dev-bundle-8.9.8 moved away from main with 1741 days, 56.07566024268385 more than average
+Branch dev-bundle-8.9.9 moved away from main with 1740 days, 55.07566024268385 more than average
+Branch dev-bundle-8.9.10 moved away from main with 1736 days, 51.07566024268385 more than average
+Branch dev-bundle-8.9.11 moved away from main with 1729 days, 44.07566024268385 more than average
+Branch dev-bundle-8.9.12 moved away from main with 1729 days, 44.07566024268385 more than average
+Branch dev-bundle-8.9.13 moved away from main with 1728 days, 43.07566024268385 more than average
+Branch dev-bundle-8.9.14 moved away from main with 1718 days, 33.07566024268385 more than average
+Branch dev-bundle-8.9.15 moved away from main with 1714 days, 29.075660242683853 more than average
+Branch dev-bundle-8.9.16 moved away from main with 1709 days, 24.075660242683853 more than average
+Branch dev-bundle-8.9.17 moved away from main with 1706 days, 21.075660242683853 more than average
+Branch dev-bundle-8.9.18 moved away from main with 1701 days, 16.075660242683853 more than average
+Branch dev-bundle-8.9.19 moved away from main with 1693 days, 8.075660242683853 more than average
+Branch dev-bundle-8.9.20 moved away from main with 1687 days, 2.0756602426838526 more than average
+Branch dev-bundle-8.9.21 moved away from main with 1686 days, 1.0756602426838526 more than average
+Branch dev-bundle-8888.9999.0 moved away from main with 1708 days, 23.075660242683853 more than average
+Branch dev-bundle-9999.8864.0 moved away from main with 1899 days, 214.07566024268385 more than average
+Branch dev-bundle-9999.8946.0 moved away from main with 1876 days, 191.07566024268385 more than average
+Branch dev-bundle-9999.8970.0 moved away from main with 1870 days, 185.07566024268385 more than average
+Branch dev-bundle-9999.8976.0 moved away from main with 1869 days, 184.07566024268385 more than average
+Branch dev-bundle-9999.9173.0 moved away from main with 1806 days, 121.07566024268385 more than average
+Branch dev-bundle-9999.9173.2 moved away from main with 1798 days, 113.07566024268385 more than average
+Branch dev-bundle-9999.9396.0 moved away from main with 1759 days, 74.07566024268385 more than average
+Branch dev-bundle-9999.9396.1 moved away from main with 1758 days, 73.07566024268385 more than average
+Branch dev-bundle-9999.9533.0 moved away from main with 1700 days, 15.075660242683853 more than average
+Branch dev-bundle-53773.1.1 moved away from main with 1848 days, 163.07566024268385 more than average
+Branch dev-bundle-53773.1.2 moved away from main with 1817 days, 132.07566024268385 more than average
+Branch dev-bundle-53773.2.0 moved away from main with 1817 days, 132.07566024268385 more than average
+Branch dev-bundle-cleanups moved away from main with 2849 days, 1164.0756602426839 more than average
+Branch dev-bundle-http-proxy moved away from main with 3116 days, 1431.0756602426839 more than average
+Branch dev-bundle-just-npm moved away from main with 2952 days, 1267.0756602426839 more than average
+Branch dev-bundle-node012 moved away from main with 2735 days, 1050.0756602426839 more than average
+Branch dev-bundle-paths moved away from main with 2742 days, 1057.0756602426839 more than average
+Branch dev-bundle-shrink moved away from main with 2888 days, 1203.0756602426839 more than average
+Branch devbundle-0.5.22 moved away from main with 2414 days, 729.0756602426839 more than average
+Branch development-error-app moved away from main with 2581 days, 896.0756602426839 more than average
+Branch dgreensp-constraint-solver moved away from main with 2842 days, 1157.0756602426839 more than average
+Branch dgreensp-constraint-solver-2 moved away from main with 2805 days, 1120.0756602426839 more than average
+Branch dgreensp-constraint-solver-buggy moved away from main with 2807 days, 1122.0756602426839 more than average
+Branch dgreensp-meteor-client moved away from main with 2626 days, 941.0756602426839 more than average
+Branch dgreensp-prod-only moved away from main with 2592 days, 907.0756602426839 more than average
+Branch dgreensp-rexpr moved away from main with 3256 days, 1571.0756602426839 more than average
+Branch dgreensp-selftests moved away from main with 2897 days, 1212.0756602426839 more than average
+Branch disable-color moved away from main with 2884 days, 1199.0756602426839 more than average
+Branch discovery-json moved away from main with 3346 days, 1661.0756602426839 more than average
+Branch do-not-remove-rimraf moved away from main with 2849 days, 1164.0756602426839 more than average
+Branch do-not-skip-reinstalling-unchanged-npm-deps moved away from main with 1919 days, 234.07566024268385 more than average
+Branch do-not-update-symlink-on-background-update moved away from main with 2226 days, 541.0756602426839 more than average
+Branch doc-comments moved away from main with 2721 days, 1036.0756602426839 more than average
+Branch docker moved away from main with 2891 days, 1206.0756602426839 more than average
+Branch docs-search moved away from main with 2876 days, 1191.0756602426839 more than average
+Branch docs-search-improvements moved away from main with 2836 days, 1151.0756602426839 more than average
+Branch dont_pass_transform_function moved away from main with 2978 days, 1293.0756602426839 more than average
+Branch dont-ignore-mongo-failures moved away from main with 2784 days, 1099.0756602426839 more than average
+Branch dynamic-import-via-http-post moved away from main with 1762 days, 77.07566024268385 more than average
+Branch ecmascript-compiler-plugin moved away from main with 2616 days, 931.0756602426839 more than average
+Branch ecmascript-promise moved away from main with 2612 days, 927.0756602426839 more than average
+Branch ecmascript-readme moved away from main with 2557 days, 872.0756602426839 more than average
+Branch ecmascript-runtime moved away from main with 2538 days, 853.0756602426839 more than average
+Branch ekate-hax moved away from main with 2696 days, 1011.0756602426839 more than average
+Branch eliminate-Future moved away from main with 2471 days, 786.0756602426839 more than average
+Branch eliminate-publish-for-arch moved away from main with 2225 days, 540.0756602426839 more than average
+Branch eliminate-underscore-from-meteor-package moved away from main with 1870 days, 185.07566024268385 more than average
+Branch email-deploy-config moved away from main with 3346 days, 1661.0756602426839 more than average
+Branch enable-throttled-gc moved away from main with 1888 days, 203.07566024268385 more than average
+Branch es5-shim-package moved away from main with 2616 days, 931.0756602426839 more than average
+Branch es6-tool moved away from main with 2639 days, 954.0756602426839 more than average
+Branch es6 moved away from main with 2699 days, 1014.0756602426839 more than average
+Branch exit-on-cordova-changes moved away from main with 2884 days, 1199.0756602426839 more than average
+Branch exit-on-mongo-weirdness moved away from main with 3319 days, 1634.0756602426839 more than average
+Branch experimental-getpath moved away from main with 2874 days, 1189.0756602426839 more than average
+Branch experimental-spacebars-over-react moved away from main with 2692 days, 1007.0756602426839 more than average
+Branch extract-shell-server-as-package moved away from main with 2225 days, 540.0756602426839 more than average
+Branch extract-socket-stream-client moved away from main with 1764 days, 79.07566024268385 more than average
+Branch extract-unibuild-class moved away from main with 1772 days, 87.07566024268385 more than average
+Branch facebook-api-3123 moved away from main with 2731 days, 1046.0756602426839 more than average
+Branch facts moved away from main with 3248 days, 1563.0756602426839 more than average
+Branch fall-back-to-babili-minifier moved away from main with 1999 days, 314.07566024268385 more than average
+Branch fall-back-to-windows-move-command moved away from main with 1801 days, 116.07566024268385 more than average
+Branch fancy-css-to-commonjs moved away from main with 2349 days, 664.0756602426839 more than average
+Branch fast-path-id moved away from main with 2674 days, 989.0756602426839 more than average
+Branch faye-proxy moved away from main with 2862 days, 1177.0756602426839 more than average
+Branch findOne-undefined moved away from main with 2249 days, 564.0756602426839 more than average
+Branch fix_safetybelt moved away from main with 2938 days, 1253.0756602426839 more than average
+Branch fix-2898 moved away from main with 2875 days, 1190.0756602426839 more than average
+Branch fix-5326 moved away from main with 2541 days, 856.0756602426839 more than average
+Branch fix-8761-three-ways moved away from main with 1926 days, 241.07566024268385 more than average
+Branch fix-accounts-docs moved away from main with 2582 days, 897.0756602426839 more than average
+Branch fix-copying-scoped-npm-packages moved away from main with 2227 days, 542.0756602426839 more than average
+Branch fix-echo-pipe-meteor-shell moved away from main with 2574 days, 889.0756602426839 more than average
+Branch fix-flaky-travis-tests moved away from main with 2316 days, 631.0756602426839 more than average
+Branch fix-gems-benchmark moved away from main with 2860 days, 1175.0756602426839 more than average
+Branch fix-getDevBundleForRelease-null-return moved away from main with 2176 days, 491.07566024268385 more than average
+Branch fix-google-oauth-service-data-again moved away from main with 1978 days, 293.07566024268385 more than average
+Branch fix-issue-1616 moved away from main with 3172 days, 1487.0756602426839 more than average
+Branch fix-issue-2378 moved away from main with 2776 days, 1091.0756602426839 more than average
+Branch fix-issue-3478 moved away from main with 2331 days, 646.0756602426839 more than average
+Branch fix-issue-8775 moved away from main with 1923 days, 238.07566024268385 more than average
+Branch fix-jsdocs moved away from main with 2146 days, 461.07566024268385 more than average
+Branch fix-makeErrorType-in-Firefox moved away from main with 2429 days, 744.0756602426839 more than average
+Branch fix-meteor-istest-for-packages-6331 moved away from main with 2379 days, 694.0756602426839 more than average
+Branch fix-misbehaving-promise-polyfill moved away from main with 2232 days, 547.0756602426839 more than average
+Branch fix-pr-6889 moved away from main with 2289 days, 604.0756602426839 more than average
+Branch fix-selftest-errors moved away from main with 2321 days, 636.0756602426839 more than average
+Branch fix-unicode-tests moved away from main with 2113 days, 428.07566024268385 more than average
+Branch fix-windows-dev-bundle moved away from main with 2373 days, 688.0756602426839 more than average
+Branch follow-proxy moved away from main with 3238 days, 1553.0756602426839 more than average
+Branch galaxy-api-release moved away from main with 2615 days, 930.0756602426839 more than average
+Branch galaxy-selftest-begin moved away from main with 2576 days, 891.0756602426839 more than average
+Branch gchpaco_2848 moved away from main with 2652 days, 967.0756602426839 more than average
+Branch git-hook-linter moved away from main with 2638 days, 953.0756602426839 more than average
+Branch githubble-release moved away from main with 2763 days, 1078.0756602426839 more than average
+Branch glasser/galaxy-discovery-bug moved away from main with 1942 days, 257.07566024268385 more than average
+Branch glasser/no-mother moved away from main with 2377 days, 692.0756602426839 more than average
+Branch glasser/npm-install-unnecessary moved away from main with 2024 days, 339.07566024268385 more than average
+Branch glasser/oplog-stall-workaround moved away from main with 1800 days, 115.07566024268385 more than average
+Branch glasser/oplog-stall-workaround-16 moved away from main with 1800 days, 115.07566024268385 more than average
+Branch glasser/unfork-mongodb-core moved away from main with 1798 days, 113.07566024268385 more than average
+Branch glasser/400-bad-request moved away from main with 2098 days, 413.07566024268385 more than average
+Branch globaladk moved away from main with 2884 days, 1199.0756602426839 more than average
+Branch google-oauth-exchange-server-auth moved away from main with 1973 days, 288.07566024268385 more than average
+Branch hacky-oauth2-fixes moved away from main with 2878 days, 1193.0756602426839 more than average
+Branch html5 moved away from main with 3282 days, 1597.0756602426839 more than average
+Branch http_auth_issues moved away from main with 2977 days, 1292.0756602426839 more than average
+Branch httpcall-undefined moved away from main with 2506 days, 821.0756602426839 more than average
+Branch hwillson-mongo-accounts-password-bug moved away from main with 1688 days, 3.0756602426838526 more than average
+Branch immediately-dirty-optimistic-functions moved away from main with 1859 days, 174.07566024268385 more than average
+Branch improve-Npm.require moved away from main with 1824 days, 139.07566024268385 more than average
+Branch improve-multi-file-caching-compiler moved away from main with 1695 days, 10.075660242683853 more than average
+Branch improvements-to-1.1.0.3 moved away from main with 2534 days, 849.0756602426839 more than average
+Branch inline-process.env.NODE_ENV moved away from main with 1920 days, 235.07566024268385 more than average
+Branch install-pathwatcher-from-npm moved away from main with 2848 days, 1163.0756602426839 more than average
+Branch installer-wix moved away from main with 2758 days, 1073.0756602426839 more than average
+Branch isopack-cache moved away from main with 2850 days, 1165.0756602426839 more than average
+Branch isopackets moved away from main with 2867 days, 1182.0756602426839 more than average
+Branch issue-2337-ui-dynamic moved away from main with 2972 days, 1287.0756602426839 more than average
+Branch issue-2534 moved away from main with 2756 days, 1071.0756602426839 more than average
+Branch issue-3284-fall-back-to-fs.watchFile moved away from main with 2830 days, 1145.0756602426839 more than average
+Branch issue-3730-fix moved away from main with 2765 days, 1080.0756602426839 more than average
+Branch issue-4019-debug moved away from main with 2667 days, 982.0756602426839 more than average
+Branch issue-4300 moved away from main with 2688 days, 1003.0756602426839 more than average
+Branch issue-4302-upgrade-coffeescript-to-1.9.2 moved away from main with 2688 days, 1003.0756602426839 more than average
+Branch issue-4574-Object.create-broken-in-IE8 moved away from main with 2646 days, 961.0756602426839 more than average
+Branch issue-9305-fix-module.watch-default moved away from main with 1737 days, 52.07566024268385 more than average
+Branch jenkins-node-build-script moved away from main with 1848 days, 163.07566024268385 more than average
+Branch js-protocol-fix moved away from main with 3017 days, 1332.0756602426839 more than average
+Branch just-faye moved away from main with 3121 days, 1436.0756602426839 more than average
+Branch klaussner-patch-1 moved away from main with 1767 days, 82.07566024268385 more than average
+Branch laosb-hint-adding-build moved away from main with 2304 days, 619.0756602426839 more than average
+Branch laosb-npm-3107 moved away from main with 2207 days, 522.0756602426839 more than average
+Branch laosb-pr-template moved away from main with 2218 days, 533.0756602426839 more than average
+Branch laosb-rebase-5681-fixed moved away from main with 2212 days, 527.0756602426839 more than average
+Branch log-client-updates moved away from main with 2525 days, 840.0756602426839 more than average
+Branch logic-solver moved away from main with 2792 days, 1107.0756602426839 more than average
+Branch logic-solver-cleanup moved away from main with 2705 days, 1020.0756602426839 more than average
+Branch lorensr-patch-1 moved away from main with 1941 days, 256.07566024268385 more than average
+Branch make-initial-npm-install-automatic moved away from main with 2116 days, 431.07566024268385 more than average
+Branch make-rc-test-pass moved away from main with 2893 days, 1208.0756602426839 more than average
+Branch matt-css-demo moved away from main with 2991 days, 1306.0756602426839 more than average
+Branch matt-css-experiments-2 moved away from main with 3016 days, 1331.0756602426839 more than average
+Branch matt-dev-bundle-update moved away from main with 2996 days, 1311.0756602426839 more than average
+Branch matt-style-ie-fix moved away from main with 3007 days, 1322.0756602426839 more than average
+Branch mbrewer-devBundle moved away from main with 2772 days, 1087.0756602426839 more than average
+Branch merge-4235 moved away from main with 2309 days, 624.0756602426839 more than average
+Branch merge-pr-6997 moved away from main with 2317 days, 632.0756602426839 more than average
+Branch meteor-accounts-ux-pass moved away from main with 3128 days, 1443.0756602426839 more than average
+Branch meteor-create-tutorial moved away from main with 2598 days, 913.0756602426839 more than average
+Branch meteor-debug moved away from main with 2907 days, 1222.0756602426839 more than average
+Branch meteor-debug-auto-continue moved away from main with 2836 days, 1151.0756602426839 more than average
+Branch meteor-mongo-pgrep moved away from main with 2727 days, 1042.0756602426839 more than average
+Branch meteor-shell moved away from main with 2895 days, 1210.0756602426839 more than average
+Branch meteor-shell-multi-line-input moved away from main with 2232 days, 547.0756602426839 more than average
+Branch meteor-shell-use-non-global-context moved away from main with 2728 days, 1043.0756602426839 more than average
+Branch minimongo-push-each moved away from main with 3256 days, 1571.0756602426839 more than average
+Branch minimongo-sorted-improvements moved away from main with 3096 days, 1411.0756602426839 more than average
+Branch mitar-batch-process-updates moved away from main with 2408 days, 723.0756602426839 more than average
+Branch modernize-ddp moved away from main with 1770 days, 85.07566024268385 more than average
+Branch modernize-tinytest moved away from main with 1755 days, 70.07566024268385 more than average
+Branch modernize-tracker moved away from main with 1686 days, 1.0756602426838526 more than average
+Branch modularize-package-version-parser moved away from main with 1880 days, 195.07566024268385 more than average
+Branch modules-tests moved away from main with 2486 days, 801.0756602426839 more than average
+Branch mongo-2.6 moved away from main with 2777 days, 1092.0756602426839 more than average
+Branch mongo-3.2-new-binary moved away from main with 2301 days, 616.0756602426839 more than average
+Branch mongo-3.2 moved away from main with 2288 days, 603.0756602426839 more than average
+Branch mongo-bulk-inserts moved away from main with 2750 days, 1065.0756602426839 more than average
+Branch mongo-dependency-fix moved away from main with 1881 days, 196.07566024268385 more than average
+Branch more_ux moved away from main with 2897 days, 1212.0756602426839 more than average
+Branch more-logging moved away from main with 2525 days, 840.0756602426839 more than average
+Branch move-asset-documentation moved away from main with 2281 days, 596.0756602426839 more than average
+Branch move-docs-to-own-repo moved away from main with 2317 days, 632.0756602426839 more than average
+Branch mquandalle-fix-path-minifiers-css moved away from main with 2261 days, 576.0756602426839 more than average
+Branch new-error-page moved away from main with 2554 days, 869.0756602426839 more than average
+Branch new-execfilesync moved away from main with 2578 days, 893.0756602426839 more than average
+Branch new-hexo-based-docs moved away from main with 2323 days, 638.0756602426839 more than average
+Branch nim/new-cdn moved away from main with 2328 days, 643.0756602426839 more than average
+Branch nim/un-underscore-disableoplog moved away from main with 2408 days, 723.0756602426839 more than average
+Branch nim-breaks-things moved away from main with 3225 days, 1540.0756602426839 more than average
+Branch no_haxm_bad_time moved away from main with 2881 days, 1196.0756602426839 more than average
+Branch no-app-html moved away from main with 3098 days, 1413.0756602426839 more than average
+Branch no-pgrep-linux moved away from main with 2721 days, 1036.0756602426839 more than average
+Branch no-score-check moved away from main with 1765 days, 80.07566024268385 more than average
+Branch node-0.10.21 moved away from main with 3252 days, 1567.0756602426839 more than average
+Branch node-0.10.40 moved away from main with 2616 days, 931.0756602426839 more than average
+Branch node-0.10.41 moved away from main with 2471 days, 786.0756602426839 more than average
+Branch node-aes-gcm moved away from main with 2724 days, 1039.0756602426839 more than average
+Branch node-no-fsevents moved away from main with 3260 days, 1575.0756602426839 more than average
+Branch node-path-fix moved away from main with 2611 days, 926.0756602426839 more than average
+Branch notice-shrinkwrap moved away from main with 3037 days, 1352.0756602426839 more than average
+Branch npm3-dev-bundle moved away from main with 2609 days, 924.0756602426839 more than average
+Branch npm3 moved away from main with 2463 days, 778.0756602426839 more than average
+Branch npm@3.5.2 moved away from main with 2468 days, 783.0756602426839 more than average
+Branch npm-modules moved away from main with 2750 days, 1065.0756602426839 more than average
+Branch npm-require-windows moved away from main with 2371 days, 686.0756602426839 more than average
+Branch observe-limit-directly moved away from main with 3150 days, 1465.0756602426839 more than average
+Branch oplog-backlog moved away from main with 2772 days, 1087.0756602426839 more than average
+Branch oplog-backlog-on-1.0.3.1 moved away from main with 2772 days, 1087.0756602426839 more than average
+Branch package.json-browser-object-relative-style moved away from main with 1772 days, 87.07566024268385 more than average
+Branch package-graph moved away from main with 2856 days, 1171.0756602426839 more than average
+Branch package-json-browser-field moved away from main with 2079 days, 394.07566024268385 more than average
+Branch package-version-tilde-constraints moved away from main with 1864 days, 179.07566024268385 more than average
+Branch packaging-add-maintainer moved away from main with 3032 days, 1347.0756602426839 more than average
+Branch packaging-fix-sourceIsWatched moved away from main with 2962 days, 1277.0756602426839 more than average
+Branch packaging-infinite-recursion moved away from main with 2996 days, 1311.0756602426839 more than average
+Branch packaging-matt-dev-bundle-44 moved away from main with 2994 days, 1309.0756602426839 more than average
+Branch packaging-vbump moved away from main with 3003 days, 1318.0756602426839 more than average
+Branch patch-node-4.8.4-to-fix-segfaults moved away from main with 1848 days, 163.07566024268385 more than average
+Branch pathwatcher moved away from main with 3046 days, 1361.0756602426839 more than average
+Branch pbkdf2-experimental moved away from main with 3201 days, 1516.0756602426839 more than average
+Branch permessage-deflate moved away from main with 2806 days, 1121.0756602426839 more than average
+Branch pipe-to-meteor-shell moved away from main with 2497 days, 812.0756602426839 more than average
+Branch playpen-universe-selftest moved away from main with 3014 days, 1329.0756602426839 more than average
+Branch polyfill-Promise moved away from main with 2638 days, 953.0756602426839 more than average
+Branch polyfill-map-and-set moved away from main with 2617 days, 932.0756602426839 more than average
+Branch pr-63 moved away from main with 3276 days, 1591.0756602426839 more than average
+Branch pr-1105 moved away from main with 3271 days, 1586.0756602426839 more than average
+Branch pr-1151 moved away from main with 3337 days, 1652.0756602426839 more than average
+Branch pr-1611-debug moved away from main with 3207 days, 1522.0756602426839 more than average
+Branch pr-1611 moved away from main with 3205 days, 1520.0756602426839 more than average
+Branch pr-2749 moved away from main with 2898 days, 1213.0756602426839 more than average
+Branch pr-4736 moved away from main with 2619 days, 934.0756602426839 more than average
+Branch prefer-native-tar-or-7z moved away from main with 2238 days, 553.0756602426839 more than average
+Branch prettier-ddp-client moved away from main with 1770 days, 85.07566024268385 more than average
+Branch prettier-ddp-client-2 moved away from main with 1769 days, 84.07566024268385 more than average
+Branch pretty_meteor_show moved away from main with 2889 days, 1204.0756602426839 more than average
+Branch prioritize-changed-file-watchers moved away from main with 1902 days, 217.07566024268385 more than average
+Branch profiling moved away from main with 3183 days, 1498.0756602426839 more than average
+Branch progressbar_downloads moved away from main with 2916 days, 1231.0756602426839 more than average
+Branch progressux moved away from main with 2890 days, 1205.0756602426839 more than average
+Branch proxy-minimum-tags moved away from main with 3149 days, 1464.0756602426839 more than average
+Branch pvp-require moved away from main with 2791 days, 1106.0756602426839 more than average
+Branch query-paused moved away from main with 2750 days, 1065.0756602426839 more than average
+Branch rd-noserialize moved away from main with 2790 days, 1105.0756602426839 more than average
+Branch rdickert-patch-1 moved away from main with 2423 days, 738.0756602426839 more than average
+Branch react moved away from main with 2671 days, 986.0756602426839 more than average
+Branch reactive-dict-clear moved away from main with 2506 days, 821.0756602426839 more than average
+Branch reconfigure-mongo-when-port-differs moved away from main with 2175 days, 490.07566024268385 more than average
+Branch reenable-cordova-build-tests moved away from main with 1707 days, 22.075660242683853 more than average
+Branch refactor-dev-bundle-generation moved away from main with 2849 days, 1164.0756602426839 more than average
+Branch refactor-peer-dependency-processing-and-fix-issue-9182 moved away from main with 1803 days, 118.07566024268385 more than average
+Branch refactor-reactive-dict moved away from main with 2718 days, 1033.0756602426839 more than average
+Branch refresh-for-build moved away from main with 2811 days, 1126.0756602426839 more than average
+Branch refreshpolicy moved away from main with 2888 days, 1203.0756602426839 more than average
+Branch relax-release-constraints moved away from main with 2307 days, 622.0756602426839 more than average
+Branch release/METEOR@1.3.0 moved away from main with 2354 days, 669.0756602426839 more than average
+Branch release-0.6.4.2 moved away from main with 3249 days, 1564.0756602426839 more than average
+Branch release-0.6.5.2 moved away from main with 3250 days, 1565.0756602426839 more than average
+Branch release-0.8.3-close-popup-fix moved away from main with 2973 days, 1288.0756602426839 more than average
+Branch release-1.0.5 moved away from main with 2729 days, 1044.0756602426839 more than average
+Branch release-1.1 moved away from main with 2723 days, 1038.0756602426839 more than average
+Branch release-1.2.2 moved away from main with 2436 days, 751.0756602426839 more than average
+Branch release-1.3-allow-other-test-runners moved away from main with 2396 days, 711.0756602426839 more than average
+Branch release-1.3-async-await moved away from main with 2470 days, 785.0756602426839 more than average
+Branch release-1.3-change-test-paths-6321 moved away from main with 2389 days, 704.0756602426839 more than average
+Branch release-1.3-fix-accounts-email-message moved away from main with 2394 days, 709.0756602426839 more than average
+Branch release-1.3-flaky-tests moved away from main with 2394 days, 709.0756602426839 more than average
+Branch release-1.3-module-exports moved away from main with 2406 days, 721.0756602426839 more than average
+Branch release-1.3-move-examples moved away from main with 2386 days, 701.0756602426839 more than average
+Branch release-1.3-new-docs moved away from main with 2371 days, 686.0756602426839 more than average
+Branch release-1.3-new-skeleton-6306 moved away from main with 2387 days, 702.0756602426839 more than average
+Branch release-1.3-no-default-test-driver moved away from main with 2394 days, 709.0756602426839 more than average
+Branch release-1.3-test-driver-start-6436 moved away from main with 2378 days, 693.0756602426839 more than average
+Branch release-1.3-testing-minutiae moved away from main with 2395 days, 710.0756602426839 more than average
+Branch release-1.3-tool-changes-for-galaxy moved away from main with 2389 days, 704.0756602426839 more than average
+Branch release-1.3.1 moved away from main with 2354 days, 669.0756602426839 more than average
+Branch release-1.3.2 moved away from main with 2343 days, 658.0756602426839 more than average
+Branch release-1.3.2.1 moved away from main with 2342 days, 657.0756602426839 more than average
+Branch release-1.3.2.2 moved away from main with 2340 days, 655.0756602426839 more than average
+Branch release-1.3.2.3 moved away from main with 2338 days, 653.0756602426839 more than average
+Branch release-1.3.2.4-workpop moved away from main with 2254 days, 569.0756602426839 more than average
+Branch release-1.3.2.4 moved away from main with 2338 days, 653.0756602426839 more than average
+Branch release-1.3.3-ddp-batching-beta moved away from main with 2323 days, 638.0756602426839 more than average
+Branch release-1.3.3 moved away from main with 2286 days, 601.0756602426839 more than average
+Branch release-1.3.3.1 moved away from main with 2279 days, 594.0756602426839 more than average
+Branch release-1.3.4 moved away from main with 2274 days, 589.0756602426839 more than average
+Branch release-1.3.4.1 moved away from main with 2273 days, 588.0756602426839 more than average
+Branch release-1.3.4.2 moved away from main with 2259 days, 574.0756602426839 more than average
+Branch release-1.3.4.3 moved away from main with 2258 days, 573.0756602426839 more than average
+Branch release-1.3.4.4 moved away from main with 2257 days, 572.0756602426839 more than average
+Branch release-1.3.5 moved away from main with 2249 days, 564.0756602426839 more than average
+Branch release-1.4.x moved away from main with 1740 days, 55.07566024268385 more than average
+Branch release-1.4 moved away from main with 2241 days, 556.0756602426839 more than average
+Branch release-1.4.0.2 moved away from main with 2233 days, 548.0756602426839 more than average
+Branch release-1.4.1 moved away from main with 2218 days, 533.0756602426839 more than average
+Branch release-1.4.1.1 moved away from main with 2212 days, 527.0756602426839 more than average
+Branch release-1.4.1.2 moved away from main with 2171 days, 486.07566024268385 more than average
+Branch release-1.4.1.3 moved away from main with 2153 days, 468.07566024268385 more than average
+Branch release-1.4.2.x moved away from main with 2049 days, 364.07566024268385 more than average
+Branch release-1.4.2 moved away from main with 2150 days, 465.07566024268385 more than average
+Branch release-1.4.2.1 moved away from main with 2135 days, 450.07566024268385 more than average
+Branch release-1.4.2.2 moved away from main with 2126 days, 441.07566024268385 more than average
+Branch release-1.4.2.4 moved away from main with 2050 days, 365.07566024268385 more than average
+Branch release-1.4.2.5 moved away from main with 2048 days, 363.07566024268385 more than average
+Branch release-1.4.2.6 moved away from main with 2044 days, 359.07566024268385 more than average
+Branch release-1.4.2.7 moved away from main with 2038 days, 353.07566024268385 more than average
+Branch release-1.4.3.x moved away from main with 1986 days, 301.07566024268385 more than average
+Branch release-1.4.3 moved away from main with 2041 days, 356.07566024268385 more than average
+Branch release-1.4.3.1 moved away from main with 2038 days, 353.07566024268385 more than average
+Branch release-1.4.3.2 moved away from main with 2010 days, 325.07566024268385 more than average
+Branch release-1.4.3.3 moved away from main with 2003 days, 318.07566024268385 more than average
+Branch release-1.4.4.1 moved away from main with 1985 days, 300.07566024268385 more than average
+Branch release-1.4.4.2 moved away from main with 1961 days, 276.07566024268385 more than average
+Branch release-1.4.4.3 moved away from main with 1940 days, 255.07566024268385 more than average
+Branch release-1.4.4.5 moved away from main with 1740 days, 55.07566024268385 more than average
+Branch release-1.5 moved away from main with 1933 days, 248.07566024268385 more than average
+Branch release-1.5.1 moved away from main with 1889 days, 204.07566024268385 more than average
+Branch release-1.5.2 moved away from main with 1834 days, 149.07566024268385 more than average
+Branch release-1.5.2.1 moved away from main with 1814 days, 129.07566024268385 more than average
+Branch release-1.5.2.2 moved away from main with 1810 days, 125.07566024268385 more than average
+Branch release-1.5.3 moved away from main with 1775 days, 90.07566024268385 more than average
+Branch release-1.5.4 moved away from main with 1770 days, 85.07566024268385 more than average
+Branch release-1.5.4.1 moved away from main with 1741 days, 56.07566024268385 more than average
+Branch release-1.6 moved away from main with 1783 days, 98.07566024268385 more than average
+Branch release-1.6.0.1 moved away from main with 1740 days, 55.07566024268385 more than average
+Branch release-1.6.1 moved away from main with 1697 days, 12.075660242683853 more than average
+Branch release-for-testing-springboarding moved away from main with 3431 days, 1746.0756602426839 more than average
+Branch reliable-id-gen-performance moved away from main with 2550 days, 865.0756602426839 more than average
+Branch remove-blaze moved away from main with 2225 days, 540.0756602426839 more than average
+Branch remove-esprima-from-dev-bundle moved away from main with 2609 days, 924.0756602426839 more than average
+Branch remove-npm-node-aes-gcm moved away from main with 2234 days, 549.0756602426839 more than average
+Branch remove-sockjs moved away from main with 1772 days, 87.07566024268385 more than average
+Branch remove-underscore-from-check moved away from main with 1765 days, 80.07566024268385 more than average
+Branch remove-underscore-from-client-mongo-modules moved away from main with 1765 days, 80.07566024268385 more than average
+Branch remove-underscore-from-various-packages moved away from main with 1765 days, 80.07566024268385 more than average
+Branch reproduction-for-error moved away from main with 2587 days, 902.0756602426839 more than average
+Branch reusable-accounts-constructors moved away from main with 2682 days, 997.0756602426839 more than average
+Branch revert-5792-patch-1 moved away from main with 2442 days, 757.0756602426839 more than average
+Branch revert-current-data moved away from main with 2745 days, 1060.0756602426839 more than average
+Branch revert-node-to-0.10.33 moved away from main with 2812 days, 1127.0756602426839 more than average
+Branch roadmap-2016-12-13 moved away from main with 2100 days, 415.07566024268385 more than average
+Branch run_server_tests_concurrently moved away from main with 2988 days, 1303.0756602426839 more than average
+Branch run-__meteor__-middleware-early moved away from main with 1736 days, 51.07566024268385 more than average
+Branch run-babel-compiler-lazily moved away from main with 1863 days, 178.07566024268385 more than average
+Branch run-bare-files-before-eager-modules moved away from main with 1867 days, 182.07566024268385 more than average
+Branch run-reify-before-babel moved away from main with 2113 days, 428.07566024268385 more than average
+Branch scan-non-core-packages-in-checkout moved away from main with 1869 days, 184.07566024268385 more than average
+Branch searchbutton moved away from main with 2834 days, 1149.0756602426839 more than average
+Branch selftest-logouts moved away from main with 3105 days, 1420.0756602426839 more than average
+Branch selftest-spy moved away from main with 2804 days, 1119.0756602426839 more than average
+Branch serial_option_for_tests moved away from main with 2979 days, 1294.0756602426839 more than average
+Branch server-call-apply-async moved away from main with 2582 days, 897.0756602426839 more than average
+Branch server-render-es5-shim moved away from main with 1765 days, 80.07566024268385 more than average
+Branch shark-1minute-video-1 moved away from main with 3256 days, 1571.0756602426839 more than average
+Branch shark-broken-docs moved away from main with 3282 days, 1597.0756602426839 more than average
+Branch shark-comments moved away from main with 3098 days, 1413.0756602426839 more than average
+Branch shark-eachwith moved away from main with 3190 days, 1505.0756602426839 more than average
+Branch shark-isolate moved away from main with 3190 days, 1505.0756602426839 more than average
+Branch shark-isolate-helpers moved away from main with 3127 days, 1442.0756602426839 more than average
+Branch shark-spaceguard moved away from main with 3224 days, 1539.0756602426839 more than average
+Branch shell.sock moved away from main with 2885 days, 1200.0756602426839 more than average
+Branch simpler-concat-stream moved away from main with 2234 days, 549.0756602426839 more than average
+Branch simplify-constraints moved away from main with 2868 days, 1183.0756602426839 more than average
+Branch skip-button-installer moved away from main with 2752 days, 1067.0756602426839 more than average
+Branch sockjs-polyfill moved away from main with 1766 days, 81.07566024268385 more than average
+Branch solve-issue-9176-with-live-bindings moved away from main with 1798 days, 113.07566024268385 more than average
+Branch sort-selector moved away from main with 3103 days, 1418.0756602426839 more than average
+Branch speed-up-deploy moved away from main with 2888 days, 1203.0756602426839 more than average
+Branch speed-up-selftest moved away from main with 2309 days, 624.0756602426839 more than average
+Branch spiderable_ready moved away from main with 2940 days, 1255.0756602426839 more than average
+Branch split-allow-deny moved away from main with 2485 days, 800.0756602426839 more than average
+Branch split-off-blaze moved away from main with 2395 days, 710.0756602426839 more than average
+Branch split-off-packages moved away from main with 2382 days, 697.0756602426839 more than average
+Branch sso-quick-build moved away from main with 3147 days, 1462.0756602426839 more than average
+Branch sso-with-suspend-resume-polling moved away from main with 3182 days, 1497.0756602426839 more than average
+Branch stop-adding-line-number-comments moved away from main with 1771 days, 86.07566024268385 more than average
+Branch strict_startup_order moved away from main with 2939 days, 1254.0756602426839 more than average
+Branch stringify-ddp moved away from main with 3129 days, 1444.0756602426839 more than average
+Branch stubailo-patch-1 moved away from main with 2542 days, 857.0756602426839 more than average
+Branch stubailo-patch-2 moved away from main with 2542 days, 857.0756602426839 more than average
+Branch stubailo-patch-3 moved away from main with 2071 days, 386.07566024268385 more than average
+Branch stubailo-patch-4 moved away from main with 1860 days, 175.07566024268385 more than average
+Branch stubailo-patch-5 moved away from main with 1860 days, 175.07566024268385 more than average
+Branch stylus-version-bump moved away from main with 2205 days, 520.0756602426839 more than average
+Branch stylus-windows-fix moved away from main with 2527 days, 842.0756602426839 more than average
+Branch subscribe-created moved away from main with 2868 days, 1183.0756602426839 more than average
+Branch support-google-sign-in moved away from main with 1989 days, 304.07566024268385 more than average
+Branch support-inspect-flags moved away from main with 1800 days, 115.07566024268385 more than average
+Branch support-meteorignore-files moved away from main with 1817 days, 132.07566024268385 more than average
+Branch switch-to-concat-stream moved away from main with 2234 days, 549.0756602426839 more than average
+Branch template-args moved away from main with 2700 days, 1015.0756602426839 more than average
+Branch template-body-instance moved away from main with 2758 days, 1073.0756602426839 more than average
+Branch template-name-body-allowed-fix moved away from main with 2609 days, 924.0756602426839 more than average
+Branch template-state moved away from main with 2722 days, 1037.0756602426839 more than average
+Branch template-subs moved away from main with 2771 days, 1086.0756602426839 more than average
+Branch test-app-command moved away from main with 2479 days, 794.0756602426839 more than average
+Branch test-slow-tests moved away from main with 3388 days, 1703.0756602426839 more than average
+Branch testing-md-pull-request moved away from main with 2409 days, 724.0756602426839 more than average
+Branch testsupport moved away from main with 2967 days, 1282.0756602426839 more than average
+Branch timeout_scale_factor moved away from main with 2974 days, 1289.0756602426839 more than average
+Branch tmeasday/1.1.0.3-with-livedata-changes moved away from main with 2567 days, 882.0756602426839 more than average
+Branch tmeasday-patch-1-1 moved away from main with 2317 days, 632.0756602426839 more than average
+Branch tmeasday-patch-1-2 moved away from main with 2317 days, 632.0756602426839 more than average
+Branch tmeasday-patch-1 moved away from main with 2317 days, 632.0756602426839 more than average
+Branch tmeasday-todos-guide moved away from main with 2574 days, 889.0756602426839 more than average
+Branch tool-oauth-fix moved away from main with 2797 days, 1112.0756602426839 more than average
+Branch travis moved away from main with 2317 days, 632.0756602426839 more than average
+Branch trigger-dev-bundle-rebuild-0.3.72 moved away from main with 2848 days, 1163.0756602426839 more than average
+Branch trigger-new-dev-bundle-build moved away from main with 2849 days, 1164.0756602426839 more than average
+Branch trycatch_minify moved away from main with 2937 days, 1252.0756602426839 more than average
+Branch umbrella moved away from main with 2598 days, 913.0756602426839 more than average
+Branch undelete-deprecated-stylus-package-to-fix-caching-bug moved away from main with 1695 days, 10.075660242683853 more than average
+Branch unify-build-mode moved away from main with 2375 days, 690.0756602426839 more than average
+Branch unpalatable-reentrant-minimongo-fix moved away from main with 2981 days, 1296.0756602426839 more than average
+Branch unsafe-perm-env-var moved away from main with 2148 days, 463.07566024268385 more than average
+Branch update-blaze-submodule-to-2.2.1 moved away from main with 2079 days, 394.07566024268385 more than average
+Branch update-safety-checks moved away from main with 2828 days, 1143.0756602426839 more than average
+Branch upgrade-everything moved away from main with 2875 days, 1190.0756602426839 more than average
+Branch upgrade-meteor-babel moved away from main with 2632 days, 947.0756602426839 more than average
+Branch upgrade-meteor-babel-to-0.5.5 moved away from main with 2588 days, 903.0756602426839 more than average
+Branch upgrade-meteor-babel-to-0.5.6 moved away from main with 2588 days, 903.0756602426839 more than average
+Branch upgrade-meteor-babel-to-0.8.4 moved away from main with 2351 days, 666.0756602426839 more than average
+Branch upgrade-meteor-promise moved away from main with 2548 days, 863.0756602426839 more than average
+Branch upgrade-meteor-promise-for-better-exception-handling moved away from main with 2585 days, 900.0756602426839 more than average
+Branch upgrade-mother-dev-bundle moved away from main with 2877 days, 1192.0756602426839 more than average
+Branch upgrade-node-to-0.10.43 moved away from main with 2377 days, 692.0756602426839 more than average
+Branch upgrade-node-to-0.10.45 moved away from main with 2319 days, 634.0756602426839 more than average
+Branch upgrade-node-to-v0.10.35 moved away from main with 2815 days, 1130.0756602426839 more than average
+Branch upgrade-node-to-v0.10.36 moved away from main with 2780 days, 1095.0756602426839 more than average
+Branch upgrade-npm moved away from main with 2378 days, 693.0756602426839 more than average
+Branch upgrade-pathwatcher-again moved away from main with 2849 days, 1164.0756602426839 more than average
+Branch upgrade-reify-to-fix-issue-8595 moved away from main with 1979 days, 294.07566024268385 more than average
+Branch upgrade-sockjs-client moved away from main with 2394 days, 709.0756602426839 more than average
+Branch upgrade-to-babel-7 moved away from main with 1824 days, 139.07566024268385 more than average
+Branch upgrade-to-node-v0.10.41 moved away from main with 2471 days, 786.0756602426839 more than average
+Branch upgrade-to-npm-5 moved away from main with 1905 days, 220.07566024268385 more than average
+Branch upgrade-tool-to-babel-6 moved away from main with 2413 days, 728.0756602426839 more than average
+Branch upsert-review moved away from main with 2777 days, 1092.0756602426839 more than average
+Branch use-http-proxy moved away from main with 3274 days, 1589.0756602426839 more than average
+Branch use-logic-solver moved away from main with 2745 days, 1060.0756602426839 more than average
+Branch use-logic-solver-preview-3 moved away from main with 2748 days, 1063.0756602426839 more than average
+Branch use-pathwatcher-unref-g_async-branch moved away from main with 2849 days, 1164.0756602426839 more than average
+Branch validate-fibers-support-for-async_hooks moved away from main with 1707 days, 22.075660242683853 more than average
+Branch version-solver-cleanup moved away from main with 2703 days, 1018.0756602426839 more than average
+Branch wap moved away from main with 2729 days, 1044.0756602426839 more than average
+Branch web.browser.legacy moved away from main with 1695 days, 10.075660242683853 more than average
+Branch webapp-caching-improvements moved away from main with 2438 days, 753.0756602426839 more than average
+Branch websocket-compression-take-2 moved away from main with 2749 days, 1064.0756602426839 more than average
+Branch windows-better-installer moved away from main with 2749 days, 1064.0756602426839 more than average
+Branch windows-dev-bundle moved away from main with 2373 days, 688.0756602426839 more than average
+Branch windows-installer-reinstall moved away from main with 2303 days, 618.0756602426839 more than average
+Branch windows-meteor-track moved away from main with 2750 days, 1065.0756602426839 more than average
+Branch windows-netstat-error moved away from main with 2647 days, 962.0756602426839 more than average
+Branch windows-preview-0.2.1 moved away from main with 2741 days, 1056.0756602426839 more than average
+Branch windows-spike moved away from main with 2839 days, 1154.0756602426839 more than average
+Branch windows-springboarding-subtleties moved away from main with 1794 days, 109.07566024268385 more than average
+Branch wip-release-1.3 moved away from main with 2412 days, 727.0756602426839 more than average
+Branch wip-upgrade-node moved away from main with 2317 days, 632.0756602426839 more than average
+Branch wip-upgrade-to-node-4 moved away from main with 2317 days, 632.0756602426839 more than average
+Branch wip-upgrade-to-node-5 moved away from main with 2322 days, 637.0756602426839 more than average
+Branch wip-upgrade-to-node-6 moved away from main with 1950 days, 265.07566024268385 more than average
+Branch write-package-json moved away from main with 2548 days, 863.0756602426839 more than average
+Branch write-portable-files-async-again moved away from main with 1698 days, 13.075660242683853 more than average
+Branch xunit_output moved away from main with 2973 days, 1288.0756602426839 more than average
+Branch xunit_output2 moved away from main with 2946 days, 1261.0756602426839 more than average
+Branch zol-patch-1 moved away from main with 2378 days, 693.0756602426839 more than average
+MEDIUM SEVERITY
+Branch 0.6.4-docs-with-linker, 3324 days
+Branch 0.7.1.2-with-dev-bundle-0.3.38, 3010 days
+Branch 0.9.4-nim-test-noctl, 2897 days
+Branch 1.2.1-with-faster-rebuild, 2463 days
+Branch 6to5-experiment, 2781 days
+Branch 844-other-npm-url-types, 2485 days
+Branch D807-wrapAsync, 2931 days
+Branch accounts-case-sashko, 2575 days
+Branch accounts-observe-leak, 2672 days
+Branch accounts-password-case-insensitivity, 2577 days
+Branch add-meteor-promise-to-dev-bundle, 2687 days
+Branch add-meteor-promise-to-tool-bundle, 2686 days
+Branch add-node-pathwatcher-to-dev-bundle, 2857 days
+Branch add-promise-to-dev-bundle, 2832 days
+Branch add-watchman-to-dev-bundle, 2863 days
+Branch airbnb-style, 2638 days
+Branch allow-es6-in-meteor-shell, 2638 days
+Branch anubhav-compile-error-improvements, 2597 days
+Branch anubhav-improve-error-reporting, 2585 days
+Branch anubhav-rate-limit, 2611 days
+Branch app-tests, 2400 days
+Branch app-tests-no-remove-html, 2413 days
+Branch appconfig-mail-url, 3206 days
+Branch assets-url, 2920 days
+Branch autoupdate-fixup, 3196 days
+Branch avital-call-in-observe, 2626 days
+Branch avital-dev-bundle-fstream, 2730 days
+Branch avital-faster-stringify-ddp, 2518 days
+Branch avital-justin-perf012, 2736 days
+Branch avital-less-minimongo-clones, 2490 days
+Branch avital-long, 2731 days
+Branch avital-long-paths, 2732 days
+Branch avital-spacebars-react-compile-test, 2647 days
+Branch avital-test-dev-bundle-on-windows, 2730 days
+Branch avital-test-meetup-flakiness, 2834 days
+Branch avital-test-with-evan, 2871 days
+Branch avital-windows-ensure-dev-bundle-deleted, 2777 days
+Branch avital-windows-installer2, 2673 days
+Branch avital-windows-installer-fetch-latest, 2703 days
+Branch avital-windows-kill-more, 2776 days
+Branch avital-windows-selftest-run, 2777 days
+Branch batch-plugins-guerrilla, 2619 days
+Branch batch-plugins-static-assets-wip, 2624 days
+Branch behind-proxy, 2895 days
+Branch benchmarks, 2980 days
+Branch bigdocs, 3315 days
+Branch blaze-inclusion-fix, 3021 days
+Branch blaze-jsclass-inherits, 3004 days
+Branch blaze-refactor-old, 3112 days
+Branch blaze-refactor-svg-detection, 3024 days
+Branch blaze-render-with-data-gc, 2835 days
+Branch brewer-spiderable-config, 2680 days
+Branch broken-templating, 2402 days
+Branch build-download-better-vbump, 3007 days
+Branch build-speed-bench, 2589 days
+Branch bundler-profile, 3170 days
+Branch bundler-speedups, 3170 days
+Branch bundler-test-for-tim, 3165 days
+Branch case-insensitive-forgot-password, 2486 days
+Branch cdn-fix, 2570 days
+Branch chat-benchmark, 3245 days
+Branch chat-benchmark-autorooms, 3248 days
+Branch chat-benchmark-facts, 3248 days
+Branch chat-benchmark-facts-writeseq, 3247 days
+Branch chat-benchmark-fixedrooms, 3248 days
+Branch chat-benchmark-oplog, 3278 days
+Branch checklib32, 2882 days
+Branch clean-reset-on-password-change, 2828 days
+Branch colon-slice-separator, 3319 days
+Branch colons-validation, 2738 days
+Branch common_aws_config, 2974 days
+Branch constraint-solver-errors-ancestor, 2946 days
+Branch cordova-deps-where, 2864 days
+Branch cordova-improvements, 2401 days
+Branch create-in-current-dir, 2576 days
+Branch create-package, 2742 days
+Branch cs-errors, 2925 days
+Branch css-bundler-experiments, 3067 days
+Branch ctl-migrate, 3330 days
+Branch ddp-rate-limiter-server, 2493 days
+Branch debug-only-refactor, 2898 days
+Branch dependency-cache, 2850 days
+Branch deprecate-profile, 2653 days
+Branch deregisterHelper, 2401 days
+Branch dev_bundle-0.3.54, 2916 days
+Branch dev_bundle-0.3.55, 2916 days
+Branch dev-bundle-cleanups, 2849 days
+Branch dev-bundle-http-proxy, 3116 days
+Branch dev-bundle-just-npm, 2952 days
+Branch dev-bundle-node012, 2735 days
+Branch dev-bundle-paths, 2742 days
+Branch dev-bundle-shrink, 2888 days
+Branch devbundle-0.5.22, 2414 days
+Branch development-error-app, 2581 days
+Branch dgreensp-constraint-solver, 2842 days
+Branch dgreensp-constraint-solver-2, 2805 days
+Branch dgreensp-constraint-solver-buggy, 2807 days
+Branch dgreensp-meteor-client, 2626 days
+Branch dgreensp-prod-only, 2592 days
+Branch dgreensp-rexpr, 3256 days
+Branch dgreensp-selftests, 2897 days
+Branch disable-color, 2884 days
+Branch discovery-json, 3346 days
+Branch do-not-remove-rimraf, 2849 days
+Branch doc-comments, 2721 days
+Branch docker, 2891 days
+Branch docs-search, 2876 days
+Branch docs-search-improvements, 2836 days
+Branch dont_pass_transform_function, 2978 days
+Branch dont-ignore-mongo-failures, 2784 days
+Branch ecmascript-compiler-plugin, 2616 days
+Branch ecmascript-promise, 2612 days
+Branch ecmascript-readme, 2557 days
+Branch ecmascript-runtime, 2538 days
+Branch ekate-hax, 2696 days
+Branch eliminate-Future, 2471 days
+Branch email-deploy-config, 3346 days
+Branch es5-shim-package, 2616 days
+Branch es6-tool, 2639 days
+Branch es6, 2699 days
+Branch exit-on-cordova-changes, 2884 days
+Branch exit-on-mongo-weirdness, 3319 days
+Branch experimental-getpath, 2874 days
+Branch experimental-spacebars-over-react, 2692 days
+Branch facebook-api-3123, 2731 days
+Branch facts, 3248 days
+Branch fast-path-id, 2674 days
+Branch faye-proxy, 2862 days
+Branch fix_safetybelt, 2938 days
+Branch fix-2898, 2875 days
+Branch fix-5326, 2541 days
+Branch fix-accounts-docs, 2582 days
+Branch fix-echo-pipe-meteor-shell, 2574 days
+Branch fix-gems-benchmark, 2860 days
+Branch fix-issue-1616, 3172 days
+Branch fix-issue-2378, 2776 days
+Branch fix-makeErrorType-in-Firefox, 2429 days
+Branch fix-meteor-istest-for-packages-6331, 2379 days
+Branch follow-proxy, 3238 days
+Branch galaxy-api-release, 2615 days
+Branch galaxy-selftest-begin, 2576 days
+Branch gchpaco_2848, 2652 days
+Branch git-hook-linter, 2638 days
+Branch githubble-release, 2763 days
+Branch globaladk, 2884 days
+Branch hacky-oauth2-fixes, 2878 days
+Branch html5, 3282 days
+Branch http_auth_issues, 2977 days
+Branch httpcall-undefined, 2506 days
+Branch improvements-to-1.1.0.3, 2534 days
+Branch install-pathwatcher-from-npm, 2848 days
+Branch installer-wix, 2758 days
+Branch isopack-cache, 2850 days
+Branch isopackets, 2867 days
+Branch issue-2337-ui-dynamic, 2972 days
+Branch issue-2534, 2756 days
+Branch issue-3284-fall-back-to-fs.watchFile, 2830 days
+Branch issue-3730-fix, 2765 days
+Branch issue-4019-debug, 2667 days
+Branch issue-4300, 2688 days
+Branch issue-4302-upgrade-coffeescript-to-1.9.2, 2688 days
+Branch issue-4574-Object.create-broken-in-IE8, 2646 days
+Branch js-protocol-fix, 3017 days
+Branch just-faye, 3121 days
+Branch log-client-updates, 2525 days
+Branch logic-solver, 2792 days
+Branch logic-solver-cleanup, 2705 days
+Branch make-rc-test-pass, 2893 days
+Branch matt-css-demo, 2991 days
+Branch matt-css-experiments-2, 3016 days
+Branch matt-dev-bundle-update, 2996 days
+Branch matt-style-ie-fix, 3007 days
+Branch mbrewer-devBundle, 2772 days
+Branch meteor-accounts-ux-pass, 3128 days
+Branch meteor-create-tutorial, 2598 days
+Branch meteor-debug, 2907 days
+Branch meteor-debug-auto-continue, 2836 days
+Branch meteor-mongo-pgrep, 2727 days
+Branch meteor-shell, 2895 days
+Branch meteor-shell-use-non-global-context, 2728 days
+Branch minimongo-push-each, 3256 days
+Branch minimongo-sorted-improvements, 3096 days
+Branch mitar-batch-process-updates, 2408 days
+Branch modules-tests, 2486 days
+Branch mongo-2.6, 2777 days
+Branch mongo-bulk-inserts, 2750 days
+Branch more_ux, 2897 days
+Branch more-logging, 2525 days
+Branch new-error-page, 2554 days
+Branch new-execfilesync, 2578 days
+Branch nim/un-underscore-disableoplog, 2408 days
+Branch nim-breaks-things, 3225 days
+Branch no_haxm_bad_time, 2881 days
+Branch no-app-html, 3098 days
+Branch no-pgrep-linux, 2721 days
+Branch node-0.10.21, 3252 days
+Branch node-0.10.40, 2616 days
+Branch node-0.10.41, 2471 days
+Branch node-aes-gcm, 2724 days
+Branch node-no-fsevents, 3260 days
+Branch node-path-fix, 2611 days
+Branch notice-shrinkwrap, 3037 days
+Branch npm3-dev-bundle, 2609 days
+Branch npm3, 2463 days
+Branch npm@3.5.2, 2468 days
+Branch npm-modules, 2750 days
+Branch observe-limit-directly, 3150 days
+Branch oplog-backlog, 2772 days
+Branch oplog-backlog-on-1.0.3.1, 2772 days
+Branch package-graph, 2856 days
+Branch packaging-add-maintainer, 3032 days
+Branch packaging-fix-sourceIsWatched, 2962 days
+Branch packaging-infinite-recursion, 2996 days
+Branch packaging-matt-dev-bundle-44, 2994 days
+Branch packaging-vbump, 3003 days
+Branch pathwatcher, 3046 days
+Branch pbkdf2-experimental, 3201 days
+Branch permessage-deflate, 2806 days
+Branch pipe-to-meteor-shell, 2497 days
+Branch playpen-universe-selftest, 3014 days
+Branch polyfill-Promise, 2638 days
+Branch polyfill-map-and-set, 2617 days
+Branch pr-63, 3276 days
+Branch pr-1105, 3271 days
+Branch pr-1151, 3337 days
+Branch pr-1611-debug, 3207 days
+Branch pr-1611, 3205 days
+Branch pr-2749, 2898 days
+Branch pr-4736, 2619 days
+Branch pretty_meteor_show, 2889 days
+Branch profiling, 3183 days
+Branch progressbar_downloads, 2916 days
+Branch progressux, 2890 days
+Branch proxy-minimum-tags, 3149 days
+Branch pvp-require, 2791 days
+Branch query-paused, 2750 days
+Branch rd-noserialize, 2790 days
+Branch rdickert-patch-1, 2423 days
+Branch react, 2671 days
+Branch reactive-dict-clear, 2506 days
+Branch refactor-dev-bundle-generation, 2849 days
+Branch refactor-reactive-dict, 2718 days
+Branch refresh-for-build, 2811 days
+Branch refreshpolicy, 2888 days
+Branch release-0.6.4.2, 3249 days
+Branch release-0.6.5.2, 3250 days
+Branch release-0.8.3-close-popup-fix, 2973 days
+Branch release-1.0.5, 2729 days
+Branch release-1.1, 2723 days
+Branch release-1.2.2, 2436 days
+Branch release-1.3-allow-other-test-runners, 2396 days
+Branch release-1.3-async-await, 2470 days
+Branch release-1.3-change-test-paths-6321, 2389 days
+Branch release-1.3-fix-accounts-email-message, 2394 days
+Branch release-1.3-flaky-tests, 2394 days
+Branch release-1.3-module-exports, 2406 days
+Branch release-1.3-move-examples, 2386 days
+Branch release-1.3-new-skeleton-6306, 2387 days
+Branch release-1.3-no-default-test-driver, 2394 days
+Branch release-1.3-testing-minutiae, 2395 days
+Branch release-1.3-tool-changes-for-galaxy, 2389 days
+Branch release-for-testing-springboarding, 3431 days
+Branch reliable-id-gen-performance, 2550 days
+Branch remove-esprima-from-dev-bundle, 2609 days
+Branch reproduction-for-error, 2587 days
+Branch reusable-accounts-constructors, 2682 days
+Branch revert-5792-patch-1, 2442 days
+Branch revert-current-data, 2745 days
+Branch revert-node-to-0.10.33, 2812 days
+Branch run_server_tests_concurrently, 2988 days
+Branch searchbutton, 2834 days
+Branch selftest-logouts, 3105 days
+Branch selftest-spy, 2804 days
+Branch serial_option_for_tests, 2979 days
+Branch server-call-apply-async, 2582 days
+Branch shark-1minute-video-1, 3256 days
+Branch shark-broken-docs, 3282 days
+Branch shark-comments, 3098 days
+Branch shark-eachwith, 3190 days
+Branch shark-isolate, 3190 days
+Branch shark-isolate-helpers, 3127 days
+Branch shark-spaceguard, 3224 days
+Branch shell.sock, 2885 days
+Branch simplify-constraints, 2868 days
+Branch skip-button-installer, 2752 days
+Branch sort-selector, 3103 days
+Branch speed-up-deploy, 2888 days
+Branch spiderable_ready, 2940 days
+Branch split-allow-deny, 2485 days
+Branch split-off-blaze, 2395 days
+Branch split-off-packages, 2382 days
+Branch sso-quick-build, 3147 days
+Branch sso-with-suspend-resume-polling, 3182 days
+Branch strict_startup_order, 2939 days
+Branch stringify-ddp, 3129 days
+Branch stubailo-patch-1, 2542 days
+Branch stubailo-patch-2, 2542 days
+Branch stylus-windows-fix, 2527 days
+Branch subscribe-created, 2868 days
+Branch template-args, 2700 days
+Branch template-body-instance, 2758 days
+Branch template-name-body-allowed-fix, 2609 days
+Branch template-state, 2722 days
+Branch template-subs, 2771 days
+Branch test-app-command, 2479 days
+Branch test-slow-tests, 3388 days
+Branch testing-md-pull-request, 2409 days
+Branch testsupport, 2967 days
+Branch timeout_scale_factor, 2974 days
+Branch tmeasday/1.1.0.3-with-livedata-changes, 2567 days
+Branch tmeasday-todos-guide, 2574 days
+Branch tool-oauth-fix, 2797 days
+Branch trigger-dev-bundle-rebuild-0.3.72, 2848 days
+Branch trigger-new-dev-bundle-build, 2849 days
+Branch trycatch_minify, 2937 days
+Branch umbrella, 2598 days
+Branch unpalatable-reentrant-minimongo-fix, 2981 days
+Branch update-safety-checks, 2828 days
+Branch upgrade-everything, 2875 days
+Branch upgrade-meteor-babel, 2632 days
+Branch upgrade-meteor-babel-to-0.5.5, 2588 days
+Branch upgrade-meteor-babel-to-0.5.6, 2588 days
+Branch upgrade-meteor-promise, 2548 days
+Branch upgrade-meteor-promise-for-better-exception-handling, 2585 days
+Branch upgrade-mother-dev-bundle, 2877 days
+Branch upgrade-node-to-v0.10.35, 2815 days
+Branch upgrade-node-to-v0.10.36, 2780 days
+Branch upgrade-pathwatcher-again, 2849 days
+Branch upgrade-sockjs-client, 2394 days
+Branch upgrade-to-node-v0.10.41, 2471 days
+Branch upgrade-tool-to-babel-6, 2413 days
+Branch upsert-review, 2777 days
+Branch use-http-proxy, 3274 days
+Branch use-logic-solver, 2745 days
+Branch use-logic-solver-preview-3, 2748 days
+Branch use-pathwatcher-unref-g_async-branch, 2849 days
+Branch version-solver-cleanup, 2703 days
+Branch wap, 2729 days
+Branch webapp-caching-improvements, 2438 days
+Branch websocket-compression-take-2, 2749 days
+Branch windows-better-installer, 2749 days
+Branch windows-meteor-track, 2750 days
+Branch windows-netstat-error, 2647 days
+Branch windows-preview-0.2.1, 2741 days
+Branch windows-spike, 2839 days
+Branch wip-release-1.3, 2412 days
+Branch write-package-json, 2548 days
+Branch xunit_output, 2973 days
+Branch xunit_output2, 2946 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.10349750178443969 days
+Branch release-1.8.2 is unsynced with 89 days, 88.89650249821555 more than average
+Branch release-2.2 is unsynced with 118 days, 117.89650249821555 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch abernix/update-1.5.4-history.md-master, -1 days
+Branch browserstack-check, -2 days
+Branch enable-throttled-gc, -1 days
+Branch fix-jsdocs, -1 days
+Branch merge-1.4.4.x-and-1.5.x-into-master, -1 days
+Branch release-1.4.1.2, -1 days
+Branch release-1.4.1.3, -1 days
+Branch release-1.4.2, -1 days
+Branch release-1.4.2.1, -1 days
+Branch release-1.4.2.2, -1 days
+Branch release-1.4.2.5, -4 days
+Branch release-1.4.2.6, -1 days
+Branch release-1.4.2.7, -1 days
+Branch release-1.4.3.x, -1 days
+Branch release-1.4.3, -1 days
+Branch release-1.4.3.1, -1 days
+Branch release-1.4.3.2, -1 days
+Branch release-1.4.4.1, -1 days
+Branch release-1.4.4.2, -1 days
+Branch release-1.4.4.3, -1 days
+Branch release-1.5, -1 days
+Branch release-1.5.1, -1 days
+Branch release-1.5.2, -1 days
+Branch release-1.5.2.1, -1 days
+Branch release-1.5.2.2, -1 days
+Branch release-1.6, -1 days
+Branch release-1.6.0.1, -1 days
+Branch release-1.6.1, -1 days
+Branch release-1.6.1.1, -1 days
+Branch release-1.6.1.2, -1 days
+Branch release-1.6.1.3, -1 days
+Branch release-1.7, -1 days
+Branch release-1.7.0.1, -1 days
+Branch release-1.7.0.2, -1 days
+Branch release-1.7.0.3, -1 days
+Branch release-1.7.0.4, -1 days
+Branch release-1.7.0.5, -1 days
+Branch release-1.7.1, -1 days
+Branch release-1.8.0.1, -1 days
+Branch release-1.8.0.2, -1 days
+Branch release-1.8.1, -1 days
+Branch release-1.8.2, 89 days
+Branch release-1.8.3, -1 days
+Branch release-1.9, -1 days
+Branch release-1.9.1, -1 days
+Branch release-1.9.2, -1 days
+Branch release-1.10, -1 days
+Branch release-1.12, -1 days
+Branch release-2.1.1, -1 days
+Branch release-2.2, 118 days
+Branch release-2.3.1, -1 days
+Branch release-2.5, -1 days
+Branch release-2.5.1, -1 days
+Branch release-2.5.2, -1 days
+Branch release-2.5.3, -1 days
+Branch release-2.5.5, -1 days
+Branch release-2.6, -1 days
+Branch release-2.7.1, -1 days
+Branch release-2.7.2, -1 days
+Branch release-2.7.3, -1 days

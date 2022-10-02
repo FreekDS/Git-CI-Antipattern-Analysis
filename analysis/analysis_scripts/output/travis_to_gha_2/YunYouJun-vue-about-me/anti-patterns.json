@@ -1,0 +1,98 @@
+{
+  "slow_build": {
+    "Demo": {
+      "data": {
+        "2020-08-12T07:56:41Z": 39800.0
+      },
+      "tool": "Github Actions",
+      "total avg": 39800.0,
+      "quartiles": {
+        "q1": 39800.0,
+        "q3": 39800.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "3": 58000,
+          "4": 53000,
+          "5": 56000
+        },
+        "medium_severity": {}
+      }
+    },
+    "vue-about-me": {
+      "data": {
+        "2020-08-12T07:03:58Z": 79000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 79000.0,
+      "quartiles": {
+        "q1": 79000.0,
+        "q3": 79000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "5": 82000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "gh-pages": -1,
+      "master": 0
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "gh-pages"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Demo": {
+      "data": [
+        {
+          "started_at": "2020-08-12T07:56:41Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        },
+        {
+          "started_at": "2020-08-12T08:00:39Z",
+          "used_tool": "Github Actions",
+          "number": 2
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 5
+    },
+    "vue-about-me": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

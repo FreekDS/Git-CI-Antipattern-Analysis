@@ -1,0 +1,227 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2020-11-22T04:52:00Z": 92200.0,
+        "2020-11-29T06:03:37Z": 96176.4705882353,
+        "2020-12-06T06:32:52Z": 92260.86956521739,
+        "2020-12-14T00:30:36Z": 84933.33333333333,
+        "2020-12-21T00:57:29Z": 83333.33333333333,
+        "2020-12-28T01:21:55Z": 77500.0,
+        "2021-01-04T03:09:44Z": 81300.0
+      },
+      "tool": "Github Actions",
+      "total avg": 86814.8581171599,
+      "quartiles": {
+        "q1": 82316.66666666666,
+        "q3": 92230.4347826087,
+        "iqr": 9913.768115942046
+      },
+      "classification": {
+        "high_severity": {
+          "9": 144000,
+          "11": 141000,
+          "12": 183000,
+          "18": 114000,
+          "29": 113000,
+          "36": 120000,
+          "38": 182000,
+          "61": 154000
+        },
+        "medium_severity": {
+          "6": 93000,
+          "7": 98000,
+          "8": 100000,
+          "14": 94000,
+          "27": 95000,
+          "37": 95000,
+          "39": 105000,
+          "44": 106000,
+          "45": 94000,
+          "60": 104000,
+          "88": 95000
+        }
+      }
+    },
+    "gitlab-scaffolder": {
+      "data": {
+        "2020-10-09T23:24:53Z": 54913.04347826087,
+        "2020-10-21T07:41:50Z": 76956.52173913043,
+        "2020-10-28T09:15:05Z": 59157.89473684211,
+        "2020-11-04T16:42:34Z": 62500.0,
+        "2020-11-14T15:57:24Z": 62166.666666666664
+      },
+      "tool": "TravisCI",
+      "total avg": 63138.82532418001,
+      "quartiles": {
+        "q1": 59157.89473684211,
+        "q3": 62500.0,
+        "iqr": 3342.105263157893
+      },
+      "classification": {
+        "high_severity": {
+          "807": 70000,
+          "809": 70000,
+          "811": 83000,
+          "812": 73000,
+          "819": 70000,
+          "821": 73000,
+          "822": 71000,
+          "830": 70000,
+          "832": 70000,
+          "833": 72000,
+          "836": 71000,
+          "838": 73000,
+          "839": 70000,
+          "843": 73000,
+          "844": 432000,
+          "845": 70000,
+          "848": 70000,
+          "850": 69000,
+          "852": 70000,
+          "853": 70000,
+          "855": 72000,
+          "856": 68000,
+          "858": 83000,
+          "859": 72000,
+          "861": 70000,
+          "866": 69000,
+          "867": 71000,
+          "869": 69000,
+          "874": 84000,
+          "875": 70000,
+          "879": 70000,
+          "880": 69000,
+          "882": 73000,
+          "883": 69000,
+          "885": 70000,
+          "886": 70000,
+          "888": 73000,
+          "889": 78000,
+          "891": 71000,
+          "893": 72000,
+          "894": 69000,
+          "896": 74000,
+          "897": 69000,
+          "901": 71000,
+          "899": 70000
+        },
+        "medium_severity": {
+          "816": 67000,
+          "835": 67000,
+          "841": 67000,
+          "864": 65000,
+          "872": 67000,
+          "877": 67000,
+          "902": 66000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0,
+      "renovate/master-inquirer-9.x": 0,
+      "renovate/master-lock-file-maintenance": 626
+    },
+    "branch deviation": {
+      "master": 0,
+      "renovate/master-inquirer-9.x": -1,
+      "renovate/master-lock-file-maintenance": 3
+    },
+    "unsynced activity": {
+      "master": 0,
+      "renovate/master-inquirer-9.x": 0,
+      "renovate/master-lock-file-maintenance": 622
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "renovate/master-lock-file-maintenance"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "renovate/master-lock-file-maintenance"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "renovate/master-lock-file-maintenance"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 30
+    },
+    "gitlab-scaffolder": {
+      "data": [
+        {
+          "started_at": "2020-10-12T00:16:48Z",
+          "used_tool": "TravisCI",
+          "number": 811
+        },
+        {
+          "started_at": "2020-10-13T18:53:10Z",
+          "used_tool": "TravisCI",
+          "number": 813
+        },
+        {
+          "started_at": "2020-10-15T18:53:21Z",
+          "used_tool": "TravisCI",
+          "number": 818
+        },
+        {
+          "started_at": "2020-10-16T01:30:28Z",
+          "used_tool": "TravisCI",
+          "number": 823
+        },
+        {
+          "started_at": "2020-10-16T19:58:43Z",
+          "used_tool": "TravisCI",
+          "number": 827
+        },
+        {
+          "started_at": "2020-10-16T21:23:50Z",
+          "used_tool": "TravisCI",
+          "number": 829
+        },
+        {
+          "started_at": "2020-10-24T16:50:47Z",
+          "used_tool": "TravisCI",
+          "number": 847
+        },
+        {
+          "started_at": "2020-10-26T00:26:31Z",
+          "used_tool": "TravisCI",
+          "number": 849
+        },
+        {
+          "started_at": "2020-11-01T21:08:32Z",
+          "used_tool": "TravisCI",
+          "number": 863
+        },
+        {
+          "started_at": "2020-11-02T23:06:27Z",
+          "used_tool": "TravisCI",
+          "number": 868
+        },
+        {
+          "started_at": "2020-11-03T16:35:07Z",
+          "used_tool": "TravisCI",
+          "number": 871
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 60
+    }
+  },
+  "skip_failing_tests": {}
+}

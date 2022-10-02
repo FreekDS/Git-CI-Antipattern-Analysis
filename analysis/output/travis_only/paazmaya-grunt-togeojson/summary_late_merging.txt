@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+Branch renovate/eslint-5.x has 1164 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/eslint-5.x, 1164 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 582.5 days
+Branch renovate/eslint-5.x moved away from main with 1165 days, 582.5 more than average
+MEDIUM SEVERITY
+Branch renovate/eslint-5.x, 1165 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.5 days
+Branch master is unsynced with 0 days, 0.5 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch renovate/eslint-5.x, -1 days

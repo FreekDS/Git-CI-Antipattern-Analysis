@@ -1,0 +1,364 @@
+{
+  "slow_build": {
+    "Bundle ckb.min.js": {
+      "data": {
+        "2020-08-11T09:16:05Z": 144909.0909090909,
+        "2020-08-18T09:43:04Z": 383000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 263954.54545454547,
+      "quartiles": {
+        "q1": 204431.81818181818,
+        "q3": 323477.2727272727,
+        "iqr": 119045.45454545453
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "23": 383000
+        }
+      }
+    },
+    "Unit Tests": {
+      "data": {
+        "2020-07-21T10:19:54Z": 1607805.5555555555,
+        "2020-07-29T00:13:28Z": 1296571.4285714286,
+        "2020-08-05T00:15:05Z": 1359000.0,
+        "2020-08-12T00:15:27Z": 534083.3333333334
+      },
+      "tool": "Github Actions",
+      "total avg": 1199365.0793650793,
+      "quartiles": {
+        "q1": 1105949.4047619049,
+        "q3": 1421201.388888889,
+        "iqr": 315251.98412698414
+      },
+      "classification": {
+        "high_severity": {
+          "7": 3896000,
+          "8": 3888000,
+          "9": 2972000,
+          "11": 2686000,
+          "12": 2691000,
+          "13": 2109000,
+          "14": 2125000,
+          "15": 1986000,
+          "16": 1983000,
+          "26": 2340000,
+          "27": 2345000,
+          "31": 8284000,
+          "37": 6327000,
+          "39": 2348000,
+          "46": 7000000,
+          "50": 3631000,
+          "67": 3227000
+        },
+        "medium_severity": {
+          "41": 1451000,
+          "52": 1639000,
+          "77": 1651000
+        }
+      }
+    },
+    "SNYK": {
+      "data": {
+        "2020-07-21T11:26:21Z": 45500.0,
+        "2020-07-29T00:09:59Z": 50000.0,
+        "2020-08-05T00:11:03Z": 42142.857142857145,
+        "2020-08-12T00:11:24Z": 42857.142857142855
+      },
+      "tool": "Github Actions",
+      "total avg": 45125.0,
+      "quartiles": {
+        "q1": 42678.57142857143,
+        "q3": 46625.0,
+        "iqr": 3946.4285714285725
+      },
+      "classification": {
+        "high_severity": {
+          "3": 53000,
+          "8": 78000,
+          "9": 76000,
+          "13": 56000,
+          "20": 60000,
+          "21": 59000,
+          "22": 80000
+        },
+        "medium_severity": {
+          "4": 51000,
+          "5": 49000,
+          "6": 50000,
+          "7": 51000
+        }
+      }
+    },
+    ".github/workflows/tests.yml": {
+      "data": {
+        "2020-07-21T11:34:04Z": 1000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1000.0,
+      "quartiles": {
+        "q1": 1000.0,
+        "q3": 1000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/deploy_docs.yml": {
+      "data": {
+        "2020-07-21T11:02:54Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Deploy Docs": {
+      "data": {
+        "2020-07-21T10:46:50Z": 126000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 126000.0,
+      "quartiles": {
+        "q1": 126000.0,
+        "q3": 126000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 200000
+        },
+        "medium_severity": {}
+      }
+    },
+    "ckb-sdk-js": {
+      "data": {
+        "2020-07-09T06:18:14Z": 389318.1818181818,
+        "2020-07-16T12:40:39Z": 526400.0,
+        "2020-08-10T08:21:17Z": 686666.6666666666,
+        "2020-08-18T08:46:58Z": 880800.0
+      },
+      "tool": "TravisCI",
+      "total avg": 620796.2121212122,
+      "quartiles": {
+        "q1": 492129.54545454547,
+        "q3": 735200.0,
+        "iqr": 243070.45454545453
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "1731": 747000,
+          "1732": 880000,
+          "1733": 755000,
+          "1734": 935000,
+          "1735": 972000,
+          "1737": 757000,
+          "1738": 758000,
+          "1747": 779000,
+          "1748": 837000,
+          "1749": 820000,
+          "1750": 790000,
+          "1751": 777000,
+          "1752": 781000,
+          "1753": 934000,
+          "1754": 783000,
+          "1755": 775000,
+          "1764": 790000,
+          "1766": 753000,
+          "1775": 768000,
+          "1774": 762000,
+          "1777": 930000,
+          "1776": 758000,
+          "1778": 789000,
+          "1779": 816000,
+          "1780": 786000,
+          "1781": 796000,
+          "1782": 810000,
+          "1785": 801000,
+          "1794": 936000,
+          "1795": 841000,
+          "1793": 808000,
+          "1796": 794000,
+          "1797": 803000,
+          "1798": 797000,
+          "1799": 766000,
+          "1800": 910000,
+          "1803": 815000,
+          "1802": 815000,
+          "1804": 824000,
+          "1805": 794000,
+          "1808": 798000,
+          "1809": 930000,
+          "1810": 899000,
+          "1811": 794000,
+          "1812": 891000,
+          "1813": 904000,
+          "1814": 918000,
+          "1815": 792000,
+          "1816": 899000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-raw-tx-formatter-in-result-formatters": 0,
+      "develop": 1243,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "add-raw-tx-formatter-in-result-formatters": 120,
+      "develop": 0,
+      "gh-pages": 51,
+      "master": 52
+    },
+    "unsynced activity": {
+      "add-raw-tx-formatter-in-result-formatters": 0,
+      "develop": 1243,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "add-raw-tx-formatter-in-result-formatters"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 7
+  },
+  "broken_release": {
+    "Bundle ckb.min.js": {
+      "data": [],
+      "release_build_count": 12
+    },
+    "Unit Tests": {
+      "data": [
+        {
+          "started_at": "2020-08-08T00:15:00Z",
+          "used_tool": "Github Actions",
+          "number": 48
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 35
+    },
+    "SNYK": {
+      "data": [],
+      "release_build_count": 28
+    },
+    "ckb-sdk-js": {
+      "data": [
+        {
+          "started_at": "2020-07-14T15:38:20Z",
+          "used_tool": "TravisCI",
+          "number": 1671
+        },
+        {
+          "started_at": "2020-07-14T15:43:26Z",
+          "used_tool": "TravisCI",
+          "number": 1674
+        },
+        {
+          "started_at": "2020-07-15T17:53:59Z",
+          "used_tool": "TravisCI",
+          "number": 1695
+        },
+        {
+          "started_at": "2020-07-17T10:58:04Z",
+          "used_tool": "TravisCI",
+          "number": 1717
+        },
+        {
+          "started_at": "2020-07-18T10:39:21Z",
+          "used_tool": "TravisCI",
+          "number": 1727
+        },
+        {
+          "started_at": "2020-07-18T11:24:53Z",
+          "used_tool": "TravisCI",
+          "number": 1739
+        },
+        {
+          "started_at": "2020-07-18T11:33:56Z",
+          "used_tool": "TravisCI",
+          "number": 1740
+        },
+        {
+          "started_at": "2020-07-21T10:20:21Z",
+          "used_tool": "TravisCI",
+          "number": 1757
+        },
+        {
+          "started_at": "2020-07-21T10:23:04Z",
+          "used_tool": "TravisCI",
+          "number": 1759
+        },
+        {
+          "started_at": "2020-07-21T10:28:22Z",
+          "used_tool": "TravisCI",
+          "number": 1761
+        },
+        {
+          "started_at": "2020-07-21T10:31:53Z",
+          "used_tool": "TravisCI",
+          "number": 1763
+        },
+        {
+          "started_at": "2020-07-21T11:34:22Z",
+          "used_tool": "TravisCI",
+          "number": 1768
+        },
+        {
+          "started_at": "2020-07-21T11:36:22Z",
+          "used_tool": "TravisCI",
+          "number": 1770
+        },
+        {
+          "started_at": "2020-07-21T11:41:31Z",
+          "used_tool": "TravisCI",
+          "number": 1772
+        },
+        {
+          "started_at": "2020-08-11T17:39:47Z",
+          "used_tool": "TravisCI",
+          "number": 1801
+        },
+        {
+          "started_at": "2020-08-12T04:18:01Z",
+          "used_tool": "TravisCI",
+          "number": 1807
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 80
+    }
+  },
+  "skip_failing_tests": {}
+}

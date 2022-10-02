@@ -33,34 +33,40 @@
       "1.x": 0,
       "3.x": 0,
       "Unauthorized-emulation": 0,
+      "Uploader.complete": 0,
       "error-handler-as-service": 0,
       "get-requests-refactor": 0,
       "ios-workaround": 0,
       "master": 0,
       "refactor-chunk-size": 0,
-      "store-service": 0
+      "store-service": 0,
+      "testcafe-e2e": 0
     },
     "branch deviation": {
-      "1.x": 1165,
-      "3.x": 606,
-      "Unauthorized-emulation": 58,
-      "error-handler-as-service": 608,
-      "get-requests-refactor": 419,
-      "ios-workaround": 247,
+      "1.x": 1268,
+      "3.x": 708,
+      "Unauthorized-emulation": 161,
+      "Uploader.complete": 87,
+      "error-handler-as-service": 711,
+      "get-requests-refactor": 522,
+      "ios-workaround": 349,
       "master": 0,
-      "refactor-chunk-size": 340,
-      "store-service": 235
+      "refactor-chunk-size": 442,
+      "store-service": 338,
+      "testcafe-e2e": 9
     },
     "unsynced activity": {
       "1.x": 0,
       "3.x": 0,
       "Unauthorized-emulation": 0,
+      "Uploader.complete": 0,
       "error-handler-as-service": 0,
       "get-requests-refactor": 0,
       "ios-workaround": 0,
       "master": 0,
       "refactor-chunk-size": 0,
-      "store-service": 0
+      "store-service": 0,
+      "testcafe-e2e": 0
     },
     "classification": {
       "missed activity": {
@@ -69,11 +75,11 @@
       },
       "branch deviation": {
         "medium_severity": [
+          "1.x",
+          "3.x",
           "error-handler-as-service"
         ],
-        "high_severity": [
-          "1.x"
-        ]
+        "high_severity": []
       },
       "unsynced activity": {
         "medium_severity": [],

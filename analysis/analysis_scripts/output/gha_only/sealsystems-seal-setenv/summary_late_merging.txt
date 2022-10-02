@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+Branch PLS-431 has 1068 days of missed activity!
+MEDIUM SEVERITY
+Branch PLS-431, 1068 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 534.0 days
+Branch PLS-431 moved away from main with 1068 days, 534.0 more than average
+MEDIUM SEVERITY
+Branch PLS-431, 1068 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

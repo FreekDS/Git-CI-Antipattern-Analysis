@@ -1,0 +1,33 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 144.26923076923077 days
+Branch close-3950 moved away from main with 213 days, 68.73076923076923 more than average
+Branch close-7279 moved away from main with 179 days, 34.730769230769226 more than average
+Branch dx-improvement-control-object moved away from main with 298 days, 153.73076923076923 more than average
+Branch feature/batch-state-update moved away from main with 259 days, 114.73076923076923 more than average
+Branch feature/context-field-array moved away from main with 214 days, 69.73076923076923 more than average
+Branch fix/Path-type moved away from main with 281 days, 136.73076923076923 more than average
+Branch fix-7594 moved away from main with 235 days, 90.73076923076923 more than average
+Branch form-novalidate-with-native-valiation-fallback moved away from main with 283 days, 138.73076923076923 more than average
+Branch formstate-snapshot moved away from main with 230 days, 85.73076923076923 more than average
+Branch support-return-errors-values-handleSubmit moved away from main with 152 days, 7.730769230769226 more than average
+Branch v6 moved away from main with 462 days, 317.7307692307692 more than average
+MEDIUM SEVERITY
+Branch dx-improvement-control-object, 298 days
+Branch feature/batch-state-update, 259 days
+Branch fix/Path-type, 281 days
+Branch fix-7594, 235 days
+Branch form-novalidate-with-native-valiation-fallback, 283 days
+Branch formstate-snapshot, 230 days
+HIGH SEVERITY
+Branch v6, 462 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,122 @@
+{
+  "slow_build": {
+    "Lint": {
+      "data": {
+        "2020-07-25T08:22:50Z": 37571.42857142857,
+        "2020-08-06T19:35:29Z": 40000.0,
+        "2020-09-06T17:19:26Z": 35600.0
+      },
+      "tool": "Github Actions",
+      "total avg": 37723.80952380953,
+      "quartiles": {
+        "q1": 36585.71428571429,
+        "q3": 38785.71428571429,
+        "iqr": 2200.0
+      },
+      "classification": {
+        "high_severity": {
+          "12": 45000,
+          "13": 47000
+        },
+        "medium_severity": {
+          "14": 40000,
+          "15": 40000
+        }
+      }
+    },
+    "Node.js CI": {
+      "data": {
+        "2020-07-25T08:22:50Z": 2681714.285714286,
+        "2020-08-06T19:35:29Z": 74000.0,
+        "2020-09-06T17:19:26Z": 144000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 966571.4285714286,
+      "quartiles": {
+        "q1": 109000.0,
+        "q3": 1412857.142857143,
+        "iqr": 1303857.142857143
+      },
+      "classification": {
+        "high_severity": {
+          "10": 18482000
+        },
+        "medium_severity": {}
+      }
+    },
+    "node-ytsr": {
+      "data": {
+        "2020-07-25T14:59:15Z": 126000.0,
+        "2020-08-03T21:03:04Z": 128166.66666666667,
+        "2020-08-10T21:03:50Z": 111500.0,
+        "2020-08-17T21:04:36Z": 103000.0,
+        "2020-08-24T21:04:54Z": 102000.0,
+        "2020-08-31T21:05:22Z": 108500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 113194.44444444445,
+      "quartiles": {
+        "q1": 104375.0,
+        "q3": 122375.0,
+        "iqr": 18000.0
+      },
+      "classification": {
+        "high_severity": {
+          "262": 236000,
+          "269": 235000
+        },
+        "medium_severity": {
+          "266": 125000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Lint": {
+      "data": [],
+      "release_build_count": 3
+    },
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 3
+    },
+    "node-ytsr": {
+      "data": [
+        {
+          "started_at": "2020-08-06T19:31:03Z",
+          "used_tool": "TravisCI",
+          "number": 267
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 19
+    }
+  },
+  "skip_failing_tests": {}
+}

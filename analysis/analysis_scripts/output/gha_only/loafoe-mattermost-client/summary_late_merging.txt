@@ -1,0 +1,33 @@
+Missed Activity
+=========================
+Branch feature/remove-node-12-support has 132 days of missed activity!
+Branch feature/275-fix-preferences has 201 days of missed activity!
+Branch feature/294-improve-contributing-doc has 199 days of missed activity!
+Branch stonzy/add-channel-api has 7 days of missed activity!
+MEDIUM SEVERITY
+Branch feature/275-fix-preferences, 201 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 108.4 days
+Branch feature/remove-node-12-support moved away from main with 133 days, 24.599999999999994 more than average
+Branch feature/275-fix-preferences moved away from main with 201 days, 92.6 more than average
+Branch feature/294-improve-contributing-doc moved away from main with 199 days, 90.6 more than average
+MEDIUM SEVERITY
+Branch feature/275-fix-preferences, 201 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -1.4 days
+Branch feature/275-fix-preferences is unsynced with -1 days, 0.3999999999999999 more than average
+Branch feature/294-improve-contributing-doc is unsynced with -1 days, 0.3999999999999999 more than average
+Branch master is unsynced with 0 days, 1.4 more than average
+MEDIUM SEVERITY
+Branch master, 0 days
+HIGH SEVERITY
+Branch feature/remove-node-12-support, -2 days
+Branch feature/275-fix-preferences, -1 days
+Branch feature/294-improve-contributing-doc, -1 days
+Branch stonzy/add-channel-api, -3 days

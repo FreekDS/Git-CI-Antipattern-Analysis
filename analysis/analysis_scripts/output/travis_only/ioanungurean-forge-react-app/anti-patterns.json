@@ -1,0 +1,153 @@
+{
+  "slow_build": {
+    "forge-react-app": {
+      "data": {
+        "2021-04-29T15:06:38Z": 128794.11764705883,
+        "2021-05-06T16:49:57Z": 139857.14285714287,
+        "2021-05-24T23:19:21Z": 141000.0,
+        "2021-06-01T08:27:22Z": 124050.84745762713,
+        "2021-07-01T08:10:47Z": 150554.05405405405
+      },
+      "tool": "TravisCI",
+      "total avg": 136851.23240317657,
+      "quartiles": {
+        "q1": 128794.11764705883,
+        "q3": 141000.0,
+        "iqr": 12205.882352941175
+      },
+      "classification": {
+        "high_severity": {
+          "1238": 173000,
+          "1331": 174000,
+          "1332": 172000,
+          "1333": 175000,
+          "1334": 182000,
+          "1335": 175000,
+          "1336": 173000,
+          "1337": 173000,
+          "1338": 171000,
+          "1339": 192000,
+          "1340": 172000,
+          "1342": 177000,
+          "1343": 171000,
+          "1345": 169000,
+          "1347": 186000,
+          "1348": 169000,
+          "1351": 179000,
+          "1359": 167000,
+          "1363": 177000,
+          "1362": 174000,
+          "1366": 174000,
+          "1368": 169000,
+          "1370": 172000,
+          "1371": 181000,
+          "1374": 171000,
+          "1380": 178000,
+          "1383": 178000,
+          "1388": 174000,
+          "1391": 178000,
+          "1403": 183000,
+          "1407": 172000
+        },
+        "medium_severity": {
+          "1233": 144000,
+          "1235": 142000,
+          "1241": 146000,
+          "1246": 143000,
+          "1257": 143000,
+          "1261": 148000,
+          "1262": 156000,
+          "1263": 148000,
+          "1271": 153000,
+          "1275": 142000,
+          "1279": 143000,
+          "1310": 142000,
+          "1329": 145000,
+          "1341": 146000,
+          "1344": 147000,
+          "1346": 150000,
+          "1352": 146000,
+          "1354": 153000,
+          "1358": 151000,
+          "1372": 144000,
+          "1376": 148000,
+          "1375": 146000,
+          "1377": 149000,
+          "1386": 143000,
+          "1387": 151000,
+          "1392": 145000,
+          "1393": 158000,
+          "1399": 144000,
+          "1400": 144000,
+          "1405": 147000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/templates/ECMAScript/terser-5.14.2": 0,
+      "dependabot/npm_and_yarn/templates/TypeScript/terser-5.14.2": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/templates/ECMAScript/terser-5.14.2": -68,
+      "dependabot/npm_and_yarn/templates/TypeScript/terser-5.14.2": -68,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/templates/ECMAScript/terser-5.14.2": 0,
+      "dependabot/npm_and_yarn/templates/TypeScript/terser-5.14.2": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "dependabot/npm_and_yarn/templates/ECMAScript/terser-5.14.2",
+          "dependabot/npm_and_yarn/templates/TypeScript/terser-5.14.2"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "forge-react-app": {
+      "data": [
+        {
+          "started_at": "2021-06-01T08:43:52Z",
+          "used_tool": "TravisCI",
+          "number": 1315
+        },
+        {
+          "started_at": "2021-07-01T08:15:40Z",
+          "used_tool": "TravisCI",
+          "number": 1340
+        },
+        {
+          "started_at": "2021-07-01T08:19:02Z",
+          "used_tool": "TravisCI",
+          "number": 1356
+        },
+        {
+          "started_at": "2021-07-01T08:22:25Z",
+          "used_tool": "TravisCI",
+          "number": 1377
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 178
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,105 @@
+{
+  "slow_build": {
+    "Tests": {
+      "data": {
+        "2021-04-10T23:31:10Z": 194500.0,
+        "2021-04-25T00:01:51Z": 96500.0,
+        "2021-05-08T08:43:41Z": 139125.0,
+        "2021-05-15T16:25:09Z": 144222.22222222222,
+        "2021-05-23T02:48:35Z": 93000.0,
+        "2021-06-06T00:02:50Z": 105500.0,
+        "2021-06-19T22:01:02Z": 103500.0,
+        "2021-06-27T09:42:57Z": 140500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 127105.90277777778,
+      "quartiles": {
+        "q1": 101750.0,
+        "q3": 141430.55555555556,
+        "iqr": 39680.55555555556
+      },
+      "classification": {
+        "high_severity": {
+          "134": 232000,
+          "140": 296000,
+          "152": 337000,
+          "165": 256000
+        },
+        "medium_severity": {
+          "135": 157000,
+          "144": 144000,
+          "153": 192000,
+          "162": 177000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/npm-8.11.0": 0,
+      "depfu/update/npm/axios-0.27.2": 0,
+      "depfu/update/npm/axios-mock-adapter-1.21.2": 0,
+      "depfu/update/npm/cache-manager-3.6.3": 0,
+      "depfu/update/npm/commander-9.4.0": 0,
+      "depfu/update/npm/eslint-8.23.1": 0,
+      "depfu/update/npm/npm-8.19.2": 0,
+      "depfu/update/npm/prettier-2.7.1": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/npm-8.11.0": -38,
+      "depfu/update/npm/axios-0.27.2": -2,
+      "depfu/update/npm/axios-mock-adapter-1.21.2": -107,
+      "depfu/update/npm/cache-manager-3.6.3": -26,
+      "depfu/update/npm/commander-9.4.0": -81,
+      "depfu/update/npm/eslint-8.23.1": -140,
+      "depfu/update/npm/npm-8.19.2": -142,
+      "depfu/update/npm/prettier-2.7.1": -52,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/npm-8.11.0": 0,
+      "depfu/update/npm/axios-0.27.2": 0,
+      "depfu/update/npm/axios-mock-adapter-1.21.2": 0,
+      "depfu/update/npm/cache-manager-3.6.3": 0,
+      "depfu/update/npm/commander-9.4.0": 0,
+      "depfu/update/npm/eslint-8.23.1": 0,
+      "depfu/update/npm/npm-8.19.2": 0,
+      "depfu/update/npm/prettier-2.7.1": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/npm-8.11.0",
+          "depfu/update/npm/axios-0.27.2",
+          "depfu/update/npm/cache-manager-3.6.3",
+          "depfu/update/npm/commander-9.4.0",
+          "depfu/update/npm/prettier-2.7.1",
+          "master"
+        ],
+        "high_severity": [
+          "depfu/update/npm/axios-mock-adapter-1.21.2",
+          "depfu/update/npm/eslint-8.23.1",
+          "depfu/update/npm/npm-8.19.2"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Tests": {
+      "data": [],
+      "release_build_count": 7
+    }
+  },
+  "skip_failing_tests": {}
+}

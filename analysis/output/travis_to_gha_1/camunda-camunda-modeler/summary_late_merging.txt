@@ -1,0 +1,43 @@
+Missed Activity
+=========================
+Branch update-dmn-js has 1297 days of missed activity!
+MEDIUM SEVERITY
+Branch update-dmn-js, 1297 seconds
+
+Branch Deviation
+=========================
+Average deviation: 269.30232558139534 days
+Branch 3.x moved away from main with 869 days, 599.6976744186047 more than average
+Branch 2460-form-elements moved away from main with 301 days, 31.697674418604663 more than average
+Branch bpmnlint-recommended moved away from main with 279 days, 9.697674418604663 more than average
+Branch element-templates moved away from main with 300 days, 30.697674418604663 more than average
+Branch improve-auto-merge moved away from main with 436 days, 166.69767441860466 more than average
+Branch integration-tests moved away from main with 1269 days, 999.6976744186047 more than average
+Branch miwg moved away from main with 1388 days, 1118.6976744186047 more than average
+Branch snippets moved away from main with 1006 days, 736.6976744186047 more than average
+Branch spectron-tests moved away from main with 701 days, 431.69767441860466 more than average
+Branch use-form-js-for-deployment-tool moved away from main with 464 days, 194.69767441860466 more than average
+Branch webpack-on-main moved away from main with 478 days, 208.69767441860466 more than average
+Branch whats-new-4.12.0 moved away from main with 288 days, 18.697674418604663 more than average
+Branch zeebe-node-and-zeebe-tab moved away from main with 566 days, 296.69767441860466 more than average
+MEDIUM SEVERITY
+Branch 2460-form-elements, 301 days
+Branch element-templates, 300 days
+Branch improve-auto-merge, 436 days
+Branch use-form-js-for-deployment-tool, 464 days
+Branch webpack-on-main, 478 days
+Branch zeebe-node-and-zeebe-tab, 566 days
+HIGH SEVERITY
+Branch 3.x, 869 days
+Branch integration-tests, 1269 days
+Branch miwg, 1388 days
+Branch snippets, 1006 days
+Branch spectron-tests, 701 days
+
+Unsynced activity
+=========================
+Average unsynced: 26.767441860465116 days
+Branch update-dmn-js is unsynced with 1151 days, 1124.2325581395348 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch update-dmn-js, 1151 days

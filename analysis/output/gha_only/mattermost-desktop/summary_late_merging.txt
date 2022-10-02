@@ -1,0 +1,94 @@
+Missed Activity
+=========================
+Branch amyblais-patch-1 has 1135 days of missed activity!
+Branch amyblais-patch-2 has 1065 days of missed activity!
+MEDIUM SEVERITY
+Branch amyblais-patch-1, 1135 seconds
+Branch amyblais-patch-2, 1065 seconds
+
+Branch Deviation
+=========================
+Average deviation: 511.9741379310345 days
+Branch BV_downgrade moved away from main with 646 days, 134.02586206896552 more than average
+Branch MM18135 moved away from main with 1112 days, 600.0258620689656 more than average
+Branch MM-13906 moved away from main with 1284 days, 772.0258620689656 more than average
+Branch MM-18137 moved away from main with 1103 days, 591.0258620689656 more than average
+Branch MM-18345 moved away from main with 1100 days, 588.0258620689656 more than average
+Branch MM-18618 moved away from main with 1086 days, 574.0258620689656 more than average
+Branch MM-18851-release moved away from main with 1086 days, 574.0258620689656 more than average
+Branch MM-18851_no_exceptions moved away from main with 1081 days, 569.0258620689656 more than average
+Branch MM-18929 moved away from main with 1081 days, 569.0258620689656 more than average
+Branch MM-19510_main-notifications moved away from main with 862 days, 350.0258620689655 more than average
+Branch MM-19569-2 moved away from main with 1060 days, 548.0258620689656 more than average
+Branch MM-23082_gpo-blank-page moved away from main with 906 days, 394.0258620689655 more than average
+Branch MM-23228_linux_warn_tray moved away from main with 857 days, 345.0258620689655 more than average
+Branch MM-25765_electron-8 moved away from main with 812 days, 300.0258620689655 more than average
+Branch MM-33903_connection-issues moved away from main with 520 days, 8.025862068965523 more than average
+Branch add-exe moved away from main with 969 days, 457.0258620689655 more than average
+Branch add-missing-proptype moved away from main with 1047 days, 535.0258620689656 more than average
+Branch amyblais-patch-1 moved away from main with 1134 days, 622.0258620689656 more than average
+Branch amyblais-patch-2 moved away from main with 1064 days, 552.0258620689656 more than average
+Branch amyblais-patch-4 moved away from main with 1058 days, 546.0258620689656 more than average
+Branch beta moved away from main with 526 days, 14.025862068965523 more than average
+Branch fix_msi moved away from main with 515 days, 3.025862068965523 more than average
+Branch mac_build moved away from main with 1086 days, 574.0258620689656 more than average
+Branch master-test moved away from main with 1093 days, 581.0258620689656 more than average
+Branch msi-toast-setting moved away from main with 1158 days, 646.0258620689656 more than average
+Branch next-feature-release moved away from main with 972 days, 460.0258620689655 more than average
+Branch registry moved away from main with 812 days, 300.0258620689655 more than average
+Branch release-3.4 moved away from main with 2177 days, 1665.0258620689656 more than average
+Branch release-3.5 moved away from main with 2104 days, 1592.0258620689656 more than average
+Branch release-3.6 moved away from main with 2030 days, 1518.0258620689656 more than average
+Branch release-3.7 moved away from main with 1845 days, 1333.0258620689656 more than average
+Branch release-4.0 moved away from main with 1634 days, 1122.0258620689656 more than average
+Branch release-4.1 moved away from main with 1576 days, 1064.0258620689656 more than average
+Branch release-4.2 moved away from main with 1135 days, 623.0258620689656 more than average
+Branch release-4.3-test1 moved away from main with 1021 days, 509.0258620689655 more than average
+Branch release-4.3.0 moved away from main with 1005 days, 493.0258620689655 more than average
+Branch release-4.4 moved away from main with 858 days, 346.0258620689655 more than average
+Branch release-4.5 moved away from main with 734 days, 222.02586206896552 more than average
+Branch release-4.6 moved away from main with 599 days, 87.02586206896552 more than average
+Branch revert-1136-MM-19223 moved away from main with 994 days, 482.0258620689655 more than average
+Branch test-ci-notifications moved away from main with 945 days, 433.0258620689655 more than average
+Branch test-npm-audit moved away from main with 837 days, 325.0258620689655 more than average
+Branch use_id_for_certificate_key moved away from main with 792 days, 280.0258620689655 more than average
+Branch v.4.3 moved away from main with 1093 days, 581.0258620689656 more than average
+MEDIUM SEVERITY
+Branch MM18135, 1112 days
+Branch MM-13906, 1284 days
+Branch MM-18137, 1103 days
+Branch MM-18345, 1100 days
+Branch MM-18618, 1086 days
+Branch MM-18851-release, 1086 days
+Branch MM-18851_no_exceptions, 1081 days
+Branch MM-18929, 1081 days
+Branch MM-19569-2, 1060 days
+Branch add-exe, 969 days
+Branch add-missing-proptype, 1047 days
+Branch amyblais-patch-1, 1134 days
+Branch amyblais-patch-2, 1064 days
+Branch amyblais-patch-4, 1058 days
+Branch mac_build, 1086 days
+Branch master-test, 1093 days
+Branch msi-toast-setting, 1158 days
+Branch next-feature-release, 972 days
+Branch release-3.4, 2177 days
+Branch release-3.5, 2104 days
+Branch release-3.6, 2030 days
+Branch release-3.7, 1845 days
+Branch release-4.0, 1634 days
+Branch release-4.1, 1576 days
+Branch release-4.2, 1135 days
+Branch release-4.3-test1, 1021 days
+Branch release-4.3.0, 1005 days
+Branch revert-1136-MM-19223, 994 days
+Branch v.4.3, 1093 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.008620689655172414 days
+Branch amyblais-patch-1 is unsynced with 1 days, 0.9913793103448276 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch amyblais-patch-1, 1 days

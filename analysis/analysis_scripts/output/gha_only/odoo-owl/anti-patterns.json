@@ -1,0 +1,177 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2021-04-11T18:44:51Z": 77000.0,
+        "2021-04-21T13:27:35Z": 84000.0,
+        "2021-05-18T07:09:14Z": 396333.3333333333,
+        "2021-06-04T10:03:14Z": 82250.0,
+        "2021-06-18T08:25:35Z": 77000.0,
+        "2021-06-29T05:50:02Z": 2299722.222222222,
+        "2021-07-06T07:09:03Z": 185000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 457329.36507936503,
+      "quartiles": {
+        "q1": 79625.0,
+        "q3": 290666.6666666666,
+        "iqr": 211041.66666666663
+      },
+      "classification": {
+        "high_severity": {
+          "123": 941000,
+          "124": 2035000,
+          "157": 39940000,
+          "159": 2106000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-tests-coverage-to-gh-pages-ges": 0,
+      "gh-pages": 0,
+      "imp-add-__owl__-to-el-for-devtools-ges": 0,
+      "imp-cla-action-ges": 0,
+      "imp-foreach-can-use-any-iterable-ges": 0,
+      "issue-312-patch-example": 0,
+      "issue-410-error-handling-mounted": 0,
+      "issue-420-observer-functions": 0,
+      "issue-1132-batch-render-ged": 0,
+      "master": 0,
+      "master-crlf-text-nodes-boi": 0,
+      "master-doc-ged": 0,
+      "master-event-catcher-boi": 0,
+      "master-fix-indeterminism-in-some-tests-ges": 0,
+      "master-fix-stuff-ged": 0,
+      "master-foreach-tmp-lpe": 0,
+      "master-hydration-ged": 0,
+      "master-norender-dead-lpe": 0,
+      "master-shared-templates-ged": 0,
+      "master-strict-mode-ged": 0,
+      "master-t-out-ged": 0,
+      "master-test-ged": 0,
+      "master-xml-imp-ged": 0,
+      "next-add-tests-sad": 0,
+      "next-export-batched-sad": 0,
+      "owl-1.4.10": 0,
+      "owl-next": 0,
+      "owl-next-error-lpe": 0,
+      "owl-next-namespacetmpl-lpe": 0,
+      "owl-next-new-rendering-rebase": 0,
+      "owl-next-portal-ged": 0,
+      "owl-next-shallow-rendering-ged": 0,
+      "owl-next-toggler-async-lpe": 0,
+      "owl-next-transitions-lpe": 0,
+      "vscode-playground": 0
+    },
+    "branch deviation": {
+      "add-tests-coverage-to-gh-pages-ges": 342,
+      "gh-pages": 0,
+      "imp-add-__owl__-to-el-for-devtools-ges": 668,
+      "imp-cla-action-ges": 675,
+      "imp-foreach-can-use-any-iterable-ges": 696,
+      "issue-312-patch-example": 1070,
+      "issue-410-error-handling-mounted": 1012,
+      "issue-420-observer-functions": 1002,
+      "issue-1132-batch-render-ged": 198,
+      "master": 0,
+      "master-crlf-text-nodes-boi": 65,
+      "master-doc-ged": 182,
+      "master-event-catcher-boi": 16,
+      "master-fix-indeterminism-in-some-tests-ges": 340,
+      "master-fix-stuff-ged": 161,
+      "master-foreach-tmp-lpe": 980,
+      "master-hydration-ged": 205,
+      "master-norender-dead-lpe": 158,
+      "master-shared-templates-ged": 49,
+      "master-strict-mode-ged": 77,
+      "master-t-out-ged": 333,
+      "master-test-ged": 76,
+      "master-xml-imp-ged": 177,
+      "next-add-tests-sad": 330,
+      "next-export-batched-sad": 224,
+      "owl-1.4.10": 115,
+      "owl-next": 212,
+      "owl-next-error-lpe": 296,
+      "owl-next-namespacetmpl-lpe": 231,
+      "owl-next-new-rendering-rebase": 231,
+      "owl-next-portal-ged": 239,
+      "owl-next-shallow-rendering-ged": 293,
+      "owl-next-toggler-async-lpe": 241,
+      "owl-next-transitions-lpe": 288,
+      "vscode-playground": 694
+    },
+    "unsynced activity": {
+      "add-tests-coverage-to-gh-pages-ges": 0,
+      "gh-pages": 0,
+      "imp-add-__owl__-to-el-for-devtools-ges": 0,
+      "imp-cla-action-ges": 0,
+      "imp-foreach-can-use-any-iterable-ges": 0,
+      "issue-312-patch-example": 0,
+      "issue-410-error-handling-mounted": 0,
+      "issue-420-observer-functions": 0,
+      "issue-1132-batch-render-ged": 0,
+      "master": 0,
+      "master-crlf-text-nodes-boi": 0,
+      "master-doc-ged": 0,
+      "master-event-catcher-boi": 0,
+      "master-fix-indeterminism-in-some-tests-ges": 0,
+      "master-fix-stuff-ged": 0,
+      "master-foreach-tmp-lpe": 0,
+      "master-hydration-ged": 0,
+      "master-norender-dead-lpe": 0,
+      "master-shared-templates-ged": 0,
+      "master-strict-mode-ged": 0,
+      "master-t-out-ged": 0,
+      "master-test-ged": 0,
+      "master-xml-imp-ged": 0,
+      "next-add-tests-sad": 0,
+      "next-export-batched-sad": 0,
+      "owl-1.4.10": 0,
+      "owl-next": 0,
+      "owl-next-error-lpe": 0,
+      "owl-next-namespacetmpl-lpe": 0,
+      "owl-next-new-rendering-rebase": 0,
+      "owl-next-portal-ged": 0,
+      "owl-next-shallow-rendering-ged": 0,
+      "owl-next-toggler-async-lpe": 0,
+      "owl-next-transitions-lpe": 0,
+      "vscode-playground": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-tests-coverage-to-gh-pages-ges"
+        ],
+        "high_severity": [
+          "imp-add-__owl__-to-el-for-devtools-ges",
+          "imp-cla-action-ges",
+          "imp-foreach-can-use-any-iterable-ges",
+          "issue-312-patch-example",
+          "issue-410-error-handling-mounted",
+          "issue-420-observer-functions",
+          "master-foreach-tmp-lpe",
+          "vscode-playground"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

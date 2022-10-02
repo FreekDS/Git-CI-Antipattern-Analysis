@@ -4,11 +4,11 @@ MEDIUM SEVERITY
 
 Branch Deviation
 =========================
-Average deviation: 53.5 days
-Branch marino/create-payment-types-fix moved away from main with 107 days, 53.5 more than average
+Average deviation: 71.0 days
+Branch marino/create-payment-types-fix moved away from main with 317 days, 246.0 more than average
 MEDIUM SEVERITY
-Branch marino/create-payment-types-fix, 107 days
 HIGH SEVERITY
+Branch marino/create-payment-types-fix, 317 days
 
 Unsynced activity
 =========================

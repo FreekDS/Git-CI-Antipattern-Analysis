@@ -1,0 +1,93 @@
+{
+  "slow_build": {
+    "react-orbitjs": {
+      "data": {
+        "2021-05-07T12:11:22Z": 170400.0,
+        "2021-05-27T00:58:25Z": 176500.0,
+        "2021-06-04T21:35:01Z": 165000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 170633.33333333334,
+      "quartiles": {
+        "q1": 167700.0,
+        "q3": 173450.0,
+        "iqr": 5750.0
+      },
+      "classification": {
+        "high_severity": {
+          "270": 190000,
+          "288": 184000
+        },
+        "medium_severity": {
+          "269": 177000,
+          "271": 179000,
+          "272": 181000,
+          "276": 181000,
+          "281": 180000,
+          "280": 181000,
+          "282": 174000,
+          "284": 175000,
+          "285": 174000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/terser-5.14.2": 0,
+      "feature/async": 0,
+      "gh-pages": 0,
+      "main": 0,
+      "next": 0,
+      "react-hooks": 0,
+      "renovate/major-jest-monorepo": 142
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/terser-5.14.2": 51,
+      "feature/async": 1707,
+      "gh-pages": 175,
+      "main": 0,
+      "next": 1136,
+      "react-hooks": 1218,
+      "renovate/major-jest-monorepo": -1
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/terser-5.14.2": 0,
+      "feature/async": 0,
+      "gh-pages": 0,
+      "main": 0,
+      "next": 0,
+      "react-hooks": 0,
+      "renovate/major-jest-monorepo": 142
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/major-jest-monorepo"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feature/async",
+          "react-hooks"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/major-jest-monorepo"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "react-orbitjs": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,86 @@
+{
+  "slow_build": {
+    "Publish": {
+      "data": {
+        "2021-05-07T08:41:29Z": 33666.666666666664,
+        "2021-06-17T01:12:39Z": 31800.0
+      },
+      "tool": "Github Actions",
+      "total avg": 32733.333333333332,
+      "quartiles": {
+        "q1": 32266.666666666664,
+        "q3": 33200.0,
+        "iqr": 933.3333333333358
+      },
+      "classification": {
+        "high_severity": {
+          "29": 37000,
+          "33": 36000,
+          "34": 36000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Create release": {
+      "data": {
+        "2021-05-07T08:41:26Z": 19666.666666666668,
+        "2021-06-17T01:12:36Z": 16600.0
+      },
+      "tool": "Github Actions",
+      "total avg": 18133.333333333336,
+      "quartiles": {
+        "q1": 17366.666666666668,
+        "q3": 18900.0,
+        "iqr": 1533.3333333333321
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "25": 21000,
+          "26": 20000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/jose-2.0.6": 0,
+      "legacy/ecomplus-app-sdk": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/jose-2.0.6": -15,
+      "legacy/ecomplus-app-sdk": 928,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/jose-2.0.6": 0,
+      "legacy/ecomplus-app-sdk": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "legacy/ecomplus-app-sdk"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Publish": {
+      "data": [],
+      "release_build_count": 8
+    }
+  },
+  "skip_failing_tests": {}
+}

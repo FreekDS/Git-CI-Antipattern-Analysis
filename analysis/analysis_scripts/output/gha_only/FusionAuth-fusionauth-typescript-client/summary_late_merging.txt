@@ -1,0 +1,63 @@
+Missed Activity
+=========================
+Branch types-fix has 872 days of missed activity!
+MEDIUM SEVERITY
+Branch types-fix, 872 seconds
+
+Branch Deviation
+=========================
+Average deviation: 298.22222222222223 days
+Branch 1.29.3.maintenance moved away from main with 401 days, 102.77777777777777 more than average
+Branch bpontarelli/themes-and-registrations moved away from main with 501 days, 202.77777777777777 more than average
+Branch brianp/js-graal-fetch moved away from main with 387 days, 88.77777777777777 more than average
+Branch brianp/threat-detection moved away from main with 404 days, 105.77777777777777 more than average
+Branch checkbox-issue-126 moved away from main with 696 days, 397.77777777777777 more than average
+Branch consent-bug-126 moved away from main with 696 days, 397.77777777777777 more than average
+Branch degroff/kickstart-reset moved away from main with 387 days, 88.77777777777777 more than average
+Branch dependabot/npm_and_yarn/elliptic-6.5.4 moved away from main with 556 days, 257.77777777777777 more than average
+Branch dependabot/npm_and_yarn/lodash-4.17.21 moved away from main with 498 days, 199.77777777777777 more than average
+Branch my-new-branch moved away from main with 387 days, 88.77777777777777 more than average
+Branch port-jwt-manager moved away from main with 793 days, 494.77777777777777 more than average
+Branch types-fix moved away from main with 873 days, 574.7777777777778 more than average
+MEDIUM SEVERITY
+Branch bpontarelli/themes-and-registrations, 501 days
+Branch checkbox-issue-126, 696 days
+Branch consent-bug-126, 696 days
+Branch dependabot/npm_and_yarn/elliptic-6.5.4, 556 days
+Branch dependabot/npm_and_yarn/lodash-4.17.21, 498 days
+Branch port-jwt-manager, 793 days
+Branch types-fix, 873 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.037037037037037035 days
+Branch 1.29.3.maintenance is unsynced with 0 days, 0.037037037037037035 more than average
+Branch bpontarelli/themes-and-registrations is unsynced with 0 days, 0.037037037037037035 more than average
+Branch brianp/js-graal-fetch is unsynced with 0 days, 0.037037037037037035 more than average
+Branch brianp/threat-detection is unsynced with 0 days, 0.037037037037037035 more than average
+Branch checkbox-issue-126 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch consent-bug-126 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch degroff/kickstart-reset is unsynced with 0 days, 0.037037037037037035 more than average
+Branch dependabot/npm_and_yarn/elliptic-6.5.4 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch dependabot/npm_and_yarn/lodash-4.17.21 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch feature/scim is unsynced with 0 days, 0.037037037037037035 more than average
+Branch johnathon/redirect_uri-wildcard is unsynced with 0 days, 0.037037037037037035 more than average
+Branch master is unsynced with 0 days, 0.037037037037037035 more than average
+Branch my-new-branch is unsynced with 0 days, 0.037037037037037035 more than average
+Branch port-jwt-manager is unsynced with 0 days, 0.037037037037037035 more than average
+Branch rob/issue-1206 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch rob/issue-1589 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/issue-633 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/issue-971 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/issue-1547 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/issue-1676 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/issue-1699 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/webauth-apple is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/webauthn is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/webauthn-displayName is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/1819 is unsynced with 0 days, 0.037037037037037035 more than average
+Branch spencer/1848 is unsynced with 0 days, 0.037037037037037035 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch types-fix, -1 days

@@ -1,0 +1,140 @@
+{
+  "slow_build": {
+    "CI Build": {
+      "data": {
+        "2020-11-19T13:36:46Z": 381500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 381500.0,
+      "quartiles": {
+        "q1": 381500.0,
+        "q3": 381500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 382000,
+          "2": 383000
+        },
+        "medium_severity": {}
+      }
+    },
+    "ember-math-helpers": {
+      "data": {
+        "2020-10-06T02:41:10Z": 1766692.3076923077,
+        "2020-10-14T13:04:39Z": 1986300.0,
+        "2020-10-21T17:46:06Z": 1984000.0,
+        "2020-10-30T04:11:07Z": 2034500.0,
+        "2020-11-06T10:24:01Z": 1801500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 1914598.4615384615,
+      "quartiles": {
+        "q1": 1801500.0,
+        "q3": 1986300.0,
+        "iqr": 184800.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "1106": 1987000,
+          "1107": 2054000,
+          "1113": 2024000,
+          "1087": 1997000,
+          "1120": 1997000,
+          "1121": 2010000,
+          "1116": 2078000,
+          "1122": 2026000,
+          "1123": 2043000,
+          "1128": 1996000,
+          "1129": 2013000,
+          "1131": 2024000,
+          "1133": 2010000,
+          "1132": 2076000,
+          "1134": 2082000,
+          "1135": 2023000,
+          "1136": 2103000,
+          "1137": 2083000,
+          "1138": 2077000,
+          "1143": 1993000,
+          "1144": 2017000,
+          "1146": 2017000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "bump-deps": 0,
+      "dependabot/npm_and_yarn/ember-source-4.4.0": 134,
+      "gh-pages": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "bump-deps": 981,
+      "dependabot/npm_and_yarn/ember-source-4.4.0": 135,
+      "gh-pages": 232,
+      "main": 0
+    },
+    "unsynced activity": {
+      "bump-deps": 0,
+      "dependabot/npm_and_yarn/ember-source-4.4.0": -1,
+      "gh-pages": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/npm_and_yarn/ember-source-4.4.0"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "bump-deps"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/npm_and_yarn/ember-source-4.4.0"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI Build": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "ember-math-helpers": {
+      "data": [
+        {
+          "started_at": "2020-10-07T14:38:51Z",
+          "used_tool": "TravisCI",
+          "number": 1104
+        },
+        {
+          "started_at": "2020-10-13T01:42:28Z",
+          "used_tool": "TravisCI",
+          "number": 1114
+        },
+        {
+          "started_at": "2020-10-14T13:05:08Z",
+          "used_tool": "TravisCI",
+          "number": 1087
+        },
+        {
+          "started_at": "2020-10-15T17:13:33Z",
+          "used_tool": "TravisCI",
+          "number": 1117
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 50
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,96 @@
+{
+  "slow_build": {
+    "Test": {
+      "data": {
+        "2021-04-12T07:32:31Z": 223000.0,
+        "2021-05-06T21:28:18Z": 23667000.0,
+        "2021-05-17T10:06:27Z": 458857.14285714284,
+        "2021-05-29T02:51:47Z": 673000.0,
+        "2021-07-06T12:24:50Z": 343500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 5073071.428571428,
+      "quartiles": {
+        "q1": 343500.0,
+        "q3": 673000.0,
+        "iqr": 329500.0
+      },
+      "classification": {
+        "high_severity": {
+          "184": 46643000
+        },
+        "medium_severity": {
+          "185": 691000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/next-12.1.0": 0,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 0,
+      "feat/barrage": 0,
+      "feat/nested-pg-queries": 0,
+      "feat/persistent-test": 0,
+      "fix/fl/less-generic-pg-types": 0,
+      "master": 0,
+      "perf/cache-pg-typed-tables": 0,
+      "renovate/configure": 0,
+      "sql-parser-2": 0,
+      "test/Barrage.Map": 0,
+      "test/aborted-tx": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/next-12.1.0": 62,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 342,
+      "feat/barrage": 1007,
+      "feat/nested-pg-queries": 1011,
+      "feat/persistent-test": 849,
+      "fix/fl/less-generic-pg-types": 280,
+      "master": 0,
+      "perf/cache-pg-typed-tables": 652,
+      "renovate/configure": 230,
+      "sql-parser-2": 1007,
+      "test/Barrage.Map": 1007,
+      "test/aborted-tx": 837
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/next-12.1.0": 0,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 0,
+      "feat/barrage": 0,
+      "feat/nested-pg-queries": 0,
+      "feat/persistent-test": 0,
+      "fix/fl/less-generic-pg-types": 0,
+      "master": 0,
+      "perf/cache-pg-typed-tables": 0,
+      "renovate/configure": 0,
+      "sql-parser-2": 0,
+      "test/Barrage.Map": 0,
+      "test/aborted-tx": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feat/nested-pg-queries"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Test": {
+      "data": [],
+      "release_build_count": 8
+    }
+  },
+  "skip_failing_tests": {}
+}

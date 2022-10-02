@@ -1,0 +1,71 @@
+{
+  "slow_build": {
+    "bootstrap-table-examples": {
+      "data": {
+        "2021-04-10T07:08:26Z": 18333.333333333332,
+        "2021-04-26T02:48:19Z": 18000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 18166.666666666664,
+      "quartiles": {
+        "q1": 18083.333333333332,
+        "q3": 18250.0,
+        "iqr": 166.66666666666788
+      },
+      "classification": {
+        "high_severity": {
+          "178": 19000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "develop": -18,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "develop": 0,
+      "gh-pages": -18,
+      "master": -18
+    },
+    "unsynced activity": {
+      "develop": -18,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "develop"
+        ],
+        "high_severity": [
+          "gh-pages",
+          "master"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "bootstrap-table-examples": {
+      "data": [],
+      "release_build_count": 5
+    }
+  },
+  "skip_failing_tests": {}
+}

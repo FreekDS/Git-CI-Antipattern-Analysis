@@ -1,0 +1,1 @@
+[{"state": "failed", "id": 226094075, "number": 74, "started_at": "2021-05-17T12:37:41Z", "ended_at": "2021-05-17T12:38:09Z", "duration": 28000, "created_by": "chris-kruining", "event_type": "push", "branch": "master", "used_tool": "TravisCI", "test_results": {"": [[]]}, "workflow": "component"}]

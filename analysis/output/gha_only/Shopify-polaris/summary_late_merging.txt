@@ -1,0 +1,157 @@
+Missed Activity
+=========================
+Branch check-pre-enabled has 118 days of missed activity!
+Branch remove-homecards has 14 days of missed activity!
+Branch remove-some-borders has 114 days of missed activity!
+Branch translation-platform/async/default has 234 days of missed activity!
+Branch translation-platform/async/main/default has 48 days of missed activity!
+Branch typograhy-and-design-tweaks has 93 days of missed activity!
+Branch use-shopify-sans has 99 days of missed activity!
+MEDIUM SEVERITY
+Branch check-pre-enabled, 118 seconds
+Branch remove-homecards, 14 seconds
+Branch remove-some-borders, 114 seconds
+Branch translation-platform/async/default, 234 seconds
+Branch translation-platform/async/main/default, 48 seconds
+Branch typograhy-and-design-tweaks, 93 seconds
+Branch use-shopify-sans, 99 seconds
+
+Branch Deviation
+=========================
+Average deviation: 147.81696428571428 days
+Branch 88-merchant-communications-bell moved away from main with 239 days, 91.18303571428572 more than average
+Branch 5362-use-loom-stylelint moved away from main with 164 days, 16.183035714285722 more than average
+Branch add-link-index-table moved away from main with 510 days, 362.1830357142857 more than average
+Branch autocomplete-actionafter moved away from main with 234 days, 86.18303571428572 more than average
+Branch bump-polaris-icons-to-480 moved away from main with 357 days, 209.18303571428572 more than average
+Branch button-compatible-props moved away from main with 507 days, 359.1830357142857 more than average
+Branch button-icon-alignment moved away from main with 548 days, 400.1830357142857 more than average
+Branch change-subtitle-type-to-react-node moved away from main with 680 days, 532.1830357142858 more than average
+Branch chloe/typeahead-with-selection moved away from main with 188 days, 40.18303571428572 more than average
+Branch chromatic-ui-nav moved away from main with 217 days, 69.18303571428572 more than average
+Branch clear-button-default-behaviour moved away from main with 589 days, 441.1830357142857 more than average
+Branch colorpicker-hex-editor moved away from main with 862 days, 714.1830357142858 more than average
+Branch expose-selection-type moved away from main with 414 days, 266.1830357142857 more than average
+Branch feat/custom-font-families moved away from main with 150 days, 2.1830357142857224 more than average
+Branch feat/monorepo moved away from main with 204 days, 56.18303571428572 more than average
+Branch feat/opacity-tokens moved away from main with 163 days, 15.183035714285722 more than average
+Branch feat/typography-component moved away from main with 231 days, 83.18303571428572 more than average
+Branch feature-index-table-disable-row moved away from main with 224 days, 76.18303571428572 more than average
+Branch fix/stack-item-child-key moved away from main with 331 days, 183.18303571428572 more than average
+Branch fix-4957 moved away from main with 233 days, 85.18303571428572 more than average
+Branch fix-badge-size moved away from main with 674 days, 526.1830357142858 more than average
+Branch fix-firefox-placeholder-opacity moved away from main with 195 days, 47.18303571428572 more than average
+Branch fix-popover-focus-on-close moved away from main with 560 days, 412.1830357142857 more than average
+Branch fix-subNavItem-onClick moved away from main with 967 days, 819.1830357142858 more than average
+Branch flatten-stack-fragment-children moved away from main with 169 days, 21.183035714285722 more than average
+Branch focus-activator-page-actions moved away from main with 491 days, 343.1830357142857 more than average
+Branch holy-cow-dont-force-main-bruh moved away from main with 149 days, 1.1830357142857224 more than average
+Branch hukish/frame-with-sidenav moved away from main with 938 days, 790.1830357142858 more than average
+Branch index-table-checkable-focus moved away from main with 561 days, 413.1830357142857 more than average
+Branch investigate-popover-scroll-issue moved away from main with 184 days, 36.18303571428572 more than average
+Branch listbox-autoselection moved away from main with 188 days, 40.18303571428572 more than average
+Branch migrate-from-pipa-to-dynamic-builder-test-1 moved away from main with 171 days, 23.183035714285722 more than average
+Branch mjohnson/fix-action-type moved away from main with 230 days, 82.18303571428572 more than average
+Branch modal-focus-nonsense moved away from main with 499 days, 351.1830357142857 more than average
+Branch move-willLoadMoreOptions-prop moved away from main with 158 days, 10.183035714285722 more than average
+Branch mrcthms-normalise-page-header-height moved away from main with 245 days, 97.18303571428572 more than average
+Branch option-list-enhance-a11y moved away from main with 641 days, 493.1830357142857 more than average
+Branch phone-field-component-protoV1 moved away from main with 773 days, 625.1830357142858 more than average
+Branch phone-field-component-protoV2 moved away from main with 745 days, 597.1830357142858 more than average
+Branch polaris-intellisense-experiment moved away from main with 191 days, 43.18303571428572 more than average
+Branch popover-blue moved away from main with 188 days, 40.18303571428572 more than average
+Branch popover-issue moved away from main with 213 days, 65.18303571428572 more than average
+Branch refactor-visually-hidden moved away from main with 231 days, 83.18303571428572 more than average
+Branch resource-item-disabled-prop moved away from main with 212 days, 64.18303571428572 more than average
+Branch resourcelist-spinner-placement-bug-fix moved away from main with 174 days, 26.183035714285722 more than average
+Branch scrolllock-double-scrollbar-fix moved away from main with 645 days, 497.1830357142857 more than average
+Branch selected-nav-item-override moved away from main with 231 days, 83.18303571428572 more than average
+Branch services-db/service-yml moved away from main with 175 days, 27.183035714285722 more than average
+Branch shipit-deploy/npm moved away from main with 160 days, 12.183035714285722 more than average
+Branch shipit-deploy/production moved away from main with 177 days, 29.183035714285722 more than average
+Branch shipit-deploy/production-rc moved away from main with 177 days, 29.183035714285722 more than average
+Branch shipit-deploy/stylelint-polaris moved away from main with 149 days, 1.1830357142857224 more than average
+Branch sj/bulk-actions-loading-state moved away from main with 178 days, 30.183035714285722 more than average
+Branch sl-more-filters-a11y moved away from main with 170 days, 22.183035714285722 more than average
+Branch test-ci-checks moved away from main with 167 days, 19.183035714285722 more than average
+Branch transparent-thumbnail moved away from main with 184 days, 36.18303571428572 more than average
+Branch trigger-polaris-site-container-builder moved away from main with 160 days, 12.183035714285722 more than average
+Branch typeahead-proto moved away from main with 211 days, 63.18303571428572 more than average
+Branch ugurdinc/form-layout-width moved away from main with 294 days, 146.18303571428572 more than average
+Branch ugurdinc/layout-annotated-section moved away from main with 290 days, 142.18303571428572 more than average
+Branch unified-global-search moved away from main with 696 days, 548.1830357142858 more than average
+Branch v9 moved away from main with 224 days, 76.18303571428572 more than average
+Branch v9.2.3-rc moved away from main with 181 days, 33.18303571428572 more than average
+Branch v10.0.0-major moved away from main with 149 days, 1.1830357142857224 more than average
+MEDIUM SEVERITY
+Branch 88-merchant-communications-bell, 239 days
+Branch 5362-use-loom-stylelint, 164 days
+Branch autocomplete-actionafter, 234 days
+Branch chloe/typeahead-with-selection, 188 days
+Branch chromatic-ui-nav, 217 days
+Branch feat/monorepo, 204 days
+Branch feat/typography-component, 231 days
+Branch feature-index-table-disable-row, 224 days
+Branch fix-4957, 233 days
+Branch fix-firefox-placeholder-opacity, 195 days
+Branch flatten-stack-fragment-children, 169 days
+Branch investigate-popover-scroll-issue, 184 days
+Branch listbox-autoselection, 188 days
+Branch migrate-from-pipa-to-dynamic-builder-test-1, 171 days
+Branch mjohnson/fix-action-type, 230 days
+Branch mrcthms-normalise-page-header-height, 245 days
+Branch polaris-intellisense-experiment, 191 days
+Branch popover-blue, 188 days
+Branch popover-issue, 213 days
+Branch refactor-visually-hidden, 231 days
+Branch resource-item-disabled-prop, 212 days
+Branch resourcelist-spinner-placement-bug-fix, 174 days
+Branch selected-nav-item-override, 231 days
+Branch services-db/service-yml, 175 days
+Branch shipit-deploy/production, 177 days
+Branch shipit-deploy/production-rc, 177 days
+Branch sj/bulk-actions-loading-state, 178 days
+Branch sl-more-filters-a11y, 170 days
+Branch test-ci-checks, 167 days
+Branch transparent-thumbnail, 184 days
+Branch typeahead-proto, 211 days
+Branch ugurdinc/form-layout-width, 294 days
+Branch ugurdinc/layout-annotated-section, 290 days
+Branch v9, 224 days
+Branch v9.2.3-rc, 181 days
+HIGH SEVERITY
+Branch add-link-index-table, 510 days
+Branch bump-polaris-icons-to-480, 357 days
+Branch button-compatible-props, 507 days
+Branch button-icon-alignment, 548 days
+Branch change-subtitle-type-to-react-node, 680 days
+Branch clear-button-default-behaviour, 589 days
+Branch colorpicker-hex-editor, 862 days
+Branch expose-selection-type, 414 days
+Branch fix/stack-item-child-key, 331 days
+Branch fix-badge-size, 674 days
+Branch fix-popover-focus-on-close, 560 days
+Branch fix-subNavItem-onClick, 967 days
+Branch focus-activator-page-actions, 491 days
+Branch hukish/frame-with-sidenav, 938 days
+Branch index-table-checkable-focus, 561 days
+Branch modal-focus-nonsense, 499 days
+Branch option-list-enhance-a11y, 641 days
+Branch phone-field-component-protoV1, 773 days
+Branch phone-field-component-protoV2, 745 days
+Branch scrolllock-double-scrollbar-fix, 645 days
+Branch unified-global-search, 696 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.5580357142857143 days
+Branch translation-platform/async/default is unsynced with 91 days, 90.44196428571429 more than average
+Branch translation-platform/async/main/default is unsynced with 38 days, 37.441964285714285 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch remove-homecards, -1 days
+Branch remove-some-borders, -1 days
+Branch translation-platform/async/default, 91 days
+Branch translation-platform/async/main/default, 38 days
+Branch typograhy-and-design-tweaks, -1 days
+Branch use-shopify-sans, -1 days

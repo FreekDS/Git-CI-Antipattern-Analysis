@@ -1,0 +1,26 @@
+Missed Activity
+=========================
+Branch fix-cache has 1448 days of missed activity!
+Branch update-readme has 1448 days of missed activity!
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 637.6 days
+Branch fix-cache moved away from main with 1448 days, 810.4 more than average
+Branch update-readme moved away from main with 1456 days, 818.4 more than average
+MEDIUM SEVERITY
+Branch update-readme, 1456 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -1.8 days
+Branch beta is unsynced with 0 days, 1.8 more than average
+Branch fix-cache is unsynced with -1 days, 0.8 more than average
+Branch master is unsynced with 0 days, 1.8 more than average
+Branch renovate/lowercase-keys-3.x is unsynced with 0 days, 1.8 more than average
+MEDIUM SEVERITY
+Branch fix-cache, -1 days
+HIGH SEVERITY
+Branch update-readme, -8 days

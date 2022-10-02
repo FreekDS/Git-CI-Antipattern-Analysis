@@ -1,0 +1,34 @@
+Missed Activity
+=========================
+Branch decouple-lint has 672 days of missed activity!
+MEDIUM SEVERITY
+Branch decouple-lint, 672 seconds
+
+Branch Deviation
+=========================
+Average deviation: 53.875 days
+Branch decouple-lint moved away from main with 672 days, 618.125 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch decouple-lint, 672 days
+Branch dependabot/github_actions/actions/checkout-3, -35 days
+Branch dependabot/npm_and_yarn/eslint-8.23.1, -40 days
+Branch dependabot/npm_and_yarn/ts-jest-29.0.1, -42 days
+Branch dependabot/npm_and_yarn/types/node-18.7.18, -42 days
+Branch dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0, -41 days
+Branch dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0, -41 days
+Branch master, 0 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.125 days
+Branch dependabot/github_actions/actions/checkout-3 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/eslint-8.23.1 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/ts-jest-29.0.1 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/types/node-18.7.18 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0 is unsynced with 0 days, 0.125 more than average
+Branch dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0 is unsynced with 0 days, 0.125 more than average
+Branch master is unsynced with 0 days, 0.125 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch decouple-lint, -1 days

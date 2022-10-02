@@ -1,0 +1,53 @@
+Missed Activity
+=========================
+Branch develop has 572 days of missed activity!
+MEDIUM SEVERITY
+Branch develop, 572 seconds
+
+Branch Deviation
+=========================
+Average deviation: 730.7826086956521 days
+Branch feature/coverage moved away from main with 889 days, 158.21739130434787 more than average
+Branch feature/199-computed-from moved away from main with 878 days, 147.21739130434787 more than average
+Branch feature/201-fix-wormole-client moved away from main with 874 days, 143.21739130434787 more than average
+Branch features/20-fizz moved away from main with 1290 days, 559.2173913043479 more than average
+Branch greenkeeper/forever-1.0.1 moved away from main with 858 days, 127.21739130434787 more than average
+Branch greenkeeper/karma-sauce-launcher-4.0.0 moved away from main with 785 days, 54.21739130434787 more than average
+Branch greenkeeper/karma-sauce-launcher-4.1.0 moved away from main with 772 days, 41.21739130434787 more than average
+Branch greenkeeper/karma-sauce-launcher-4.1.2 moved away from main with 772 days, 41.21739130434787 more than average
+Branch greenkeeper/karma-sauce-launcher-4.1.3 moved away from main with 759 days, 28.21739130434787 more than average
+Branch greenkeeper/karma-sauce-launcher-4.1.4 moved away from main with 743 days, 12.21739130434787 more than average
+Branch greenkeeper/karma-typescript-5.0.0 moved away from main with 796 days, 65.21739130434787 more than average
+Branch greenkeeper/karma-typescript-5.0.1 moved away from main with 782 days, 51.21739130434787 more than average
+Branch greenkeeper/karma-typescript-5.0.2 moved away from main with 768 days, 37.21739130434787 more than average
+Branch greenkeeper/puppeteer-3.0.2 moved away from main with 744 days, 13.21739130434787 more than average
+Branch greenkeeper/puppeteer-3.0.3 moved away from main with 736 days, 5.217391304347871 more than average
+Branch greenkeeper/puppeteer-3.0.4 moved away from main with 735 days, 4.217391304347871 more than average
+Branch greenkeeper/puppeteer-pin-3.0.1 moved away from main with 744 days, 13.21739130434787 more than average
+Branch greenkeeper/ts-node-8.10.0 moved away from main with 739 days, 8.21739130434787 more than average
+Branch greenkeeper/ts-node-8.10.1 moved away from main with 739 days, 8.21739130434787 more than average
+Branch greenkeeper/typedoc-0.17.6 moved away from main with 745 days, 14.21739130434787 more than average
+Branch greenkeeper/typedoc-pin-0.17.5 moved away from main with 745 days, 14.21739130434787 more than average
+Branch greenkeeper/@types/chai-4.2.9 moved away from main with 820 days, 89.21739130434787 more than average
+MEDIUM SEVERITY
+Branch greenkeeper/karma-sauce-launcher-4.0.0, 785 days
+Branch greenkeeper/karma-sauce-launcher-4.1.0, 772 days
+Branch greenkeeper/karma-sauce-launcher-4.1.2, 772 days
+Branch greenkeeper/karma-typescript-5.0.0, 796 days
+Branch greenkeeper/karma-typescript-5.0.1, 782 days
+Branch greenkeeper/karma-typescript-5.0.2, 768 days
+Branch greenkeeper/@types/chai-4.2.9, 820 days
+HIGH SEVERITY
+Branch feature/coverage, 889 days
+Branch feature/199-computed-from, 878 days
+Branch feature/201-fix-wormole-client, 874 days
+Branch features/20-fizz, 1290 days
+Branch greenkeeper/forever-1.0.1, 858 days
+
+Unsynced activity
+=========================
+Average unsynced: 12.434782608695652 days
+Branch develop is unsynced with 572 days, 559.5652173913044 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch develop, 572 days

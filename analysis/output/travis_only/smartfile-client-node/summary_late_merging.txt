@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 78.125 days
+Branch v3info moved away from main with 631 days, 552.875 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch dependabot/npm_and_yarn/ajv-6.12.6, -1 days
+Branch dependabot/npm_and_yarn/ansi-regex-3.0.1, -1 days
+Branch dependabot/npm_and_yarn/async-2.6.4, -1 days
+Branch dependabot/npm_and_yarn/minimist-1.2.6, -1 days
+Branch dependabot/npm_and_yarn/moment-2.29.4, -1 days
+Branch dependabot/npm_and_yarn/moment-timezone-0.5.35, -1 days
+Branch master, 0 days
+Branch v3info, 631 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

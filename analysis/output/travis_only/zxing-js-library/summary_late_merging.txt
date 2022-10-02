@@ -1,0 +1,27 @@
+Missed Activity
+=========================
+Branch develop has 1054 days of missed activity!
+MEDIUM SEVERITY
+Branch develop, 1054 seconds
+
+Branch Deviation
+=========================
+Average deviation: 225.77777777777777 days
+Branch backup/feature/general-improvements moved away from main with 299 days, 73.22222222222223 more than average
+Branch backup/feature/multi-qr-code-reader moved away from main with 299 days, 73.22222222222223 more than average
+Branch develop moved away from main with 378 days, 152.22222222222223 more than average
+Branch feature/e2e-testing moved away from main with 546 days, 320.22222222222223 more than average
+Branch feature/general-improvements moved away from main with 374 days, 148.22222222222223 more than average
+Branch feature/multi-qr-code-reader moved away from main with 258 days, 32.22222222222223 more than average
+MEDIUM SEVERITY
+Branch develop, 378 days
+Branch feature/e2e-testing, 546 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 75.11111111111111 days
+Branch develop is unsynced with 676 days, 600.8888888888889 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch develop, 676 days

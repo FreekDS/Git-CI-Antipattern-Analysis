@@ -1,0 +1,25 @@
+Missed Activity
+=========================
+Branch dependabot/add-v2-config-file has 499 days of missed activity!
+MEDIUM SEVERITY
+Branch dependabot/add-v2-config-file, 499 seconds
+
+Branch Deviation
+=========================
+Average deviation: 234.8 days
+Branch dependabot/add-v2-config-file moved away from main with 500 days, 265.2 more than average
+Branch vue-v2.x moved away from main with 672 days, 437.2 more than average
+MEDIUM SEVERITY
+Branch vue-v2.x, 672 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.2 days
+Branch dependabot/npm_and_yarn/vue-3.2.39 is unsynced with 0 days, 0.2 more than average
+Branch dependabot/npm_and_yarn/webpack-dev-server-4.11.0 is unsynced with 0 days, 0.2 more than average
+Branch master is unsynced with 0 days, 0.2 more than average
+Branch vue-v2.x is unsynced with 0 days, 0.2 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch dependabot/add-v2-config-file, -1 days

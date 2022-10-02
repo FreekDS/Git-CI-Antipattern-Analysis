@@ -4,8 +4,8 @@ MEDIUM SEVERITY
 
 Branch Deviation
 =========================
-Average deviation: 249.0 days
-Branch 2.9.0 moved away from main with 498 days, 249.0 more than average
+Average deviation: 127.0 days
+Branch 2.9.0 moved away from main with 498 days, 371.0 more than average
 MEDIUM SEVERITY
 Branch 2.9.0, 498 days
 HIGH SEVERITY

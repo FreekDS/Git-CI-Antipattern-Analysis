@@ -1,0 +1,49 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 182.56140350877192 days
+Branch api_bookmarks moved away from main with 675 days, 492.43859649122805 more than average
+Branch change-ui-dropdown-on-flexberry-dropdown moved away from main with 308 days, 125.43859649122808 more than average
+Branch check-all-visibility moved away from main with 330 days, 147.43859649122808 more than average
+Branch dependabot/npm_and_yarn/cached-path-relative-1.1.0 moved away from main with 231 days, 48.43859649122808 more than average
+Branch dependabot/npm_and_yarn/follow-redirects-1.14.8 moved away from main with 214 days, 31.438596491228083 more than average
+Branch dependabot/npm_and_yarn/handlebars-4.7.7 moved away from main with 217 days, 34.43859649122808 more than average
+Branch dependabot/npm_and_yarn/mout-1.2.3 moved away from main with 218 days, 35.43859649122808 more than average
+Branch dropdown-on-gis-search-form moved away from main with 307 days, 124.43859649122808 more than average
+Branch edit-form-at-attrs-panel moved away from main with 294 days, 111.43859649122808 more than average
+Branch feature-161988-add-user-labels moved away from main with 1505 days, 1322.438596491228 more than average
+Branch feature-ember-update-tests moved away from main with 284 days, 101.43859649122808 more than average
+Branch feature-tile-export moved away from main with 583 days, 400.43859649122805 more than average
+Branch fix_reloadLayerWithFilter moved away from main with 198 days, 15.438596491228083 more than average
+Branch history-fix2 moved away from main with 322 days, 139.43859649122808 more than average
+Branch history-layers moved away from main with 324 days, 141.43859649122808 more than average
+Branch maplayer-extra-button moved away from main with 333 days, 150.43859649122808 more than average
+Branch master moved away from main with 387 days, 204.43859649122808 more than average
+Branch show_or_hide_buttons moved away from main with 475 days, 292.43859649122805 more than average
+Branch smartForest moved away from main with 211 days, 28.438596491228083 more than average
+Branch wms-canvas-test moved away from main with 514 days, 331.43859649122805 more than average
+MEDIUM SEVERITY
+Branch change-ui-dropdown-on-flexberry-dropdown, 308 days
+Branch check-all-visibility, 330 days
+Branch dropdown-on-gis-search-form, 307 days
+Branch edit-form-at-attrs-panel, 294 days
+Branch feature-ember-update-tests, 284 days
+Branch history-fix2, 322 days
+Branch history-layers, 324 days
+Branch maplayer-extra-button, 333 days
+Branch master, 387 days
+Branch show_or_hide_buttons, 475 days
+Branch wms-canvas-test, 514 days
+HIGH SEVERITY
+Branch api_bookmarks, 675 days
+Branch feature-161988-add-user-labels, 1505 days
+Branch feature-tile-export, 583 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

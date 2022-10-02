@@ -1,0 +1,64 @@
+{
+  "slow_build": {
+    "Tests": {
+      "data": {
+        "2021-02-14T09:26:43Z": 48500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 48500.0,
+      "quartiles": {
+        "q1": 48500.0,
+        "q3": 48500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 61000,
+          "2": 51000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ansi-regex-4.1.1": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ansi-regex-4.1.1": -1,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 33,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ansi-regex-4.1.1": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/minimist-1.2.6"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Tests": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

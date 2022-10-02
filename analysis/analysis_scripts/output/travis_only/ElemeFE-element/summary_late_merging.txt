@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 547.8571428571429 days
+Branch 1.x moved away from main with 1644 days, 1096.142857142857 more than average
+Branch Vue-3.0 moved away from main with 617 days, 69.14285714285711 more than average
+Branch next moved away from main with 1266 days, 718.1428571428571 more than average
+MEDIUM SEVERITY
+Branch 1.x, 1644 days
+Branch next, 1266 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

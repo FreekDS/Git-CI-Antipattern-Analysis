@@ -1,0 +1,32 @@
+Missed Activity
+=========================
+Branch potree_custom_material has 1559 days of missed activity!
+MEDIUM SEVERITY
+Branch potree_custom_material, 1559 seconds
+
+Branch Deviation
+=========================
+Average deviation: 753.0 days
+Branch format_registry_3dtiles moved away from main with 1611 days, 858.0 more than average
+Branch get_cap_1 moved away from main with 1523 days, 770.0 more than average
+Branch points_material_bug moved away from main with 1575 days, 822.0 more than average
+Branch points_material moved away from main with 1553 days, 800.0 more than average
+Branch points_shader_refacto moved away from main with 1547 days, 794.0 more than average
+Branch potree_custom_material moved away from main with 1559 days, 806.0 more than average
+Branch potree_material_copy moved away from main with 1554 days, 801.0 more than average
+Branch rework_texture_update moved away from main with 1511 days, 758.0 more than average
+Branch view_on moved away from main with 1628 days, 875.0 more than average
+MEDIUM SEVERITY
+Branch format_registry_3dtiles, 1611 days
+Branch points_material_bug, 1575 days
+Branch points_material, 1553 days
+Branch potree_custom_material, 1559 days
+Branch potree_material_copy, 1554 days
+Branch view_on, 1628 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

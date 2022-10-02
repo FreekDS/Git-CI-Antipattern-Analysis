@@ -1,0 +1,71 @@
+{
+  "slow_build": {
+    "Node CI": {
+      "data": {
+        "2021-05-06T07:09:00Z": 36200.0,
+        "2021-05-24T20:39:12Z": 39000.0,
+        "2021-06-15T15:58:42Z": 39000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 38066.666666666664,
+      "quartiles": {
+        "q1": 37600.0,
+        "q3": 39000.0,
+        "iqr": 1400.0
+      },
+      "classification": {
+        "high_severity": {
+          "31": 48000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/vite-2.9.13": 0,
+      "feature/loadingUtils": 0,
+      "feature/versioning": 0,
+      "feature/vite": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/vite-2.9.13": -37,
+      "feature/loadingUtils": 1018,
+      "feature/versioning": 1049,
+      "feature/vite": 215,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/vite-2.9.13": 0,
+      "feature/loadingUtils": 0,
+      "feature/versioning": 0,
+      "feature/vite": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feature/versioning"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Node CI": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

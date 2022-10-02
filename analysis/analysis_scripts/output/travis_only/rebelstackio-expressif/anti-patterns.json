@@ -1,0 +1,125 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2021-06-11T16:33:54Z": 35900.0
+      },
+      "tool": "Github Actions",
+      "total avg": 35900.0,
+      "quartiles": {
+        "q1": 35900.0,
+        "q3": 35900.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 36000,
+          "9": 78000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Release": {
+      "data": {
+        "2021-06-11T16:47:06Z": 417000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 417000.0,
+      "quartiles": {
+        "q1": 417000.0,
+        "q3": 417000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 634000
+        },
+        "medium_severity": {}
+      }
+    },
+    "expressif": {
+      "data": {
+        "2021-04-14T15:02:37Z": 54066.666666666664,
+        "2021-04-27T01:45:52Z": 88666.66666666667,
+        "2021-05-27T02:29:59Z": 150000.0,
+        "2021-06-10T19:32:48Z": 148000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 110183.33333333334,
+      "quartiles": {
+        "q1": 80016.66666666667,
+        "q3": 148500.0,
+        "iqr": 68483.33333333333
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "213": 157000,
+          "214": 150000,
+          "215": 155000,
+          "217": 149000,
+          "220": 149000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 0,
+      "develop": 0,
+      "feature/docs": 0,
+      "gh-pages": 0,
+      "main": 0,
+      "web": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 328,
+      "develop": 431,
+      "feature/docs": 572,
+      "gh-pages": 882,
+      "main": 0,
+      "web": 1490
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 0,
+      "develop": 0,
+      "feature/docs": 0,
+      "gh-pages": 0,
+      "main": 0,
+      "web": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "gh-pages"
+        ],
+        "high_severity": [
+          "web"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [
+        {
+          "started_at": "2021-06-15T00:41:55Z",
+          "used_tool": "Github Actions",
+          "number": 6
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 6
+    }
+  },
+  "skip_failing_tests": {}
+}

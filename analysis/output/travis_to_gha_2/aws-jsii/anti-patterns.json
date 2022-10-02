@@ -1,0 +1,101 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "automation/yarn-upgrade": 13,
+      "conroy/disclaimers": 0,
+      "conroy/extract-fix": 0,
+      "conroy/generate-examples": 0,
+      "dependabot/pip/gh-pages/mkdocs-material-approx-eq-8.4.4": 0,
+      "epolon/tsconfig-and-manifest-overrides": 0,
+      "gh-pages": 0,
+      "hackathon/rmuller/embedded-deno": 0,
+      "hackathon-2022-july": 0,
+      "huijbers/two-enums": 0,
+      "main": 0,
+      "njlynch/codeowners": 0,
+      "otaviom/skip-non-exported": 0,
+      "release": 0,
+      "rmuller/downlevel-dts": 0,
+      "rmuller/jest-swc": 0,
+      "rmuller/python-interfaces": 0,
+      "rmuller/python-positional-args": 0,
+      "rmuller/runtime-esbuild": 0,
+      "rmuller/typescript-4": 0,
+      "rmuller/v2/memory-management": 0
+    },
+    "branch deviation": {
+      "automation/yarn-upgrade": -2,
+      "conroy/disclaimers": 269,
+      "conroy/extract-fix": 258,
+      "conroy/generate-examples": 320,
+      "dependabot/pip/gh-pages/mkdocs-material-approx-eq-8.4.4": 0,
+      "epolon/tsconfig-and-manifest-overrides": 403,
+      "gh-pages": -1,
+      "hackathon/rmuller/embedded-deno": 193,
+      "hackathon-2022-july": 46,
+      "huijbers/two-enums": 290,
+      "main": 0,
+      "njlynch/codeowners": 306,
+      "otaviom/skip-non-exported": 298,
+      "release": 10,
+      "rmuller/downlevel-dts": 138,
+      "rmuller/jest-swc": 123,
+      "rmuller/python-interfaces": 216,
+      "rmuller/python-positional-args": 91,
+      "rmuller/runtime-esbuild": 13,
+      "rmuller/typescript-4": 725,
+      "rmuller/v2/memory-management": 584
+    },
+    "unsynced activity": {
+      "automation/yarn-upgrade": 15,
+      "conroy/disclaimers": 0,
+      "conroy/extract-fix": 0,
+      "conroy/generate-examples": 0,
+      "dependabot/pip/gh-pages/mkdocs-material-approx-eq-8.4.4": 0,
+      "epolon/tsconfig-and-manifest-overrides": 0,
+      "gh-pages": 0,
+      "hackathon/rmuller/embedded-deno": 0,
+      "hackathon-2022-july": 0,
+      "huijbers/two-enums": 0,
+      "main": 0,
+      "njlynch/codeowners": 0,
+      "otaviom/skip-non-exported": 0,
+      "release": 0,
+      "rmuller/downlevel-dts": 0,
+      "rmuller/jest-swc": 0,
+      "rmuller/python-interfaces": 0,
+      "rmuller/python-positional-args": 0,
+      "rmuller/runtime-esbuild": 0,
+      "rmuller/typescript-4": 0,
+      "rmuller/v2/memory-management": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "automation/yarn-upgrade"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "conroy/generate-examples",
+          "epolon/tsconfig-and-manifest-overrides",
+          "njlynch/codeowners",
+          "rmuller/typescript-4",
+          "rmuller/v2/memory-management"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "automation/yarn-upgrade"
+        ]
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

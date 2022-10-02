@@ -1,0 +1,155 @@
+Missed Activity
+=========================
+Branch before-unload has 2231 days of missed activity!
+Branch branding has 2298 days of missed activity!
+Branch codeql-analysis has 343 days of missed activity!
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0 has 1865 days of missed activity!
+Branch fix-client-tests has 575 days of missed activity!
+Branch fix-image-loading has 954 days of missed activity!
+Branch gdpr has 1575 days of missed activity!
+Branch include-dist has 2282 days of missed activity!
+Branch limit-semver has 328 days of missed activity!
+Branch lockfile has 1542 days of missed activity!
+Branch mocha-phantomjs has 2302 days of missed activity!
+Branch node-module-refs has 2227 days of missed activity!
+Branch organization has 2303 days of missed activity!
+Branch parameters has 2284 days of missed activity!
+Branch prep-0.2.0 has 343 days of missed activity!
+Branch printable has 2301 days of missed activity!
+Branch release-0.1.1 has 2299 days of missed activity!
+Branch remove-greenkeeperbadge has 832 days of missed activity!
+Branch remove-greenkeeperlockfile has 832 days of missed activity!
+Branch remove-scanjs has 343 days of missed activity!
+Branch remove-unsafe-innerhtml has 180 days of missed activity!
+Branch sentinal has 2271 days of missed activity!
+Branch thinking-through-dist has 2274 days of missed activity!
+MEDIUM SEVERITY
+Branch before-unload, 2231 seconds
+HIGH SEVERITY
+Branch branding, 2298 seconds
+HIGH SEVERITY
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0, 1865 seconds
+HIGH SEVERITY
+Branch gdpr, 1575 seconds
+HIGH SEVERITY
+Branch include-dist, 2282 seconds
+HIGH SEVERITY
+Branch lockfile, 1542 seconds
+HIGH SEVERITY
+Branch mocha-phantomjs, 2302 seconds
+HIGH SEVERITY
+Branch node-module-refs, 2227 seconds
+HIGH SEVERITY
+Branch organization, 2303 seconds
+HIGH SEVERITY
+Branch parameters, 2284 seconds
+HIGH SEVERITY
+Branch printable, 2301 seconds
+HIGH SEVERITY
+Branch release-0.1.1, 2299 seconds
+HIGH SEVERITY
+Branch sentinal, 2271 seconds
+HIGH SEVERITY
+Branch thinking-through-dist, 2274 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1327.851851851852 days
+Branch before-unload moved away from main with 2232 days, 904.148148148148 more than average
+Branch branding moved away from main with 2298 days, 970.148148148148 more than average
+Branch branding2 moved away from main with 2298 days, 970.148148148148 more than average
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0 moved away from main with 1865 days, 537.148148148148 more than average
+Branch gdpr moved away from main with 1575 days, 247.14814814814804 more than average
+Branch greenkeeper/chai-4.0.0 moved away from main with 1931 days, 603.148148148148 more than average
+Branch greenkeeper/chai-4.0.1 moved away from main with 1925 days, 597.148148148148 more than average
+Branch greenkeeper/file-loader-0.11.2 moved away from main with 1921 days, 593.148148148148 more than average
+Branch greenkeeper/style-loader-0.18.2 moved away from main with 1921 days, 593.148148148148 more than average
+Branch greenkeeper/webpack-4.17.3 moved away from main with 1458 days, 130.14814814814804 more than average
+Branch greenkeeper/webpack-4.28.4 moved away from main with 1336 days, 8.148148148148039 more than average
+Branch include-dist moved away from main with 2282 days, 954.148148148148 more than average
+Branch lockfile moved away from main with 1545 days, 217.14814814814804 more than average
+Branch mocha-phantomjs moved away from main with 2302 days, 974.148148148148 more than average
+Branch node-module-refs moved away from main with 2227 days, 899.148148148148 more than average
+Branch organization moved away from main with 2304 days, 976.148148148148 more than average
+Branch parameters moved away from main with 2284 days, 956.148148148148 more than average
+Branch printable moved away from main with 2301 days, 973.148148148148 more than average
+Branch release-0.1.1 moved away from main with 2299 days, 971.148148148148 more than average
+Branch sentinal moved away from main with 2273 days, 945.148148148148 more than average
+Branch thinking-through-dist moved away from main with 2274 days, 946.148148148148 more than average
+MEDIUM SEVERITY
+Branch before-unload, 2232 days
+Branch branding, 2298 days
+Branch branding2, 2298 days
+Branch greenkeeper/chai-4.0.0, 1931 days
+Branch greenkeeper/chai-4.0.1, 1925 days
+Branch include-dist, 2282 days
+Branch mocha-phantomjs, 2302 days
+Branch node-module-refs, 2227 days
+Branch organization, 2304 days
+Branch parameters, 2284 days
+Branch printable, 2301 days
+Branch release-0.1.1, 2299 days
+Branch sentinal, 2273 days
+Branch thinking-through-dist, 2274 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.5370370370370371 days
+Branch branding2 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch dependabot/npm_and_yarn/bootstrap-5.2.1 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/chai-4.0.0 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/chai-4.0.1 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/file-loader-0.11.2 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/style-loader-0.18.2 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/underscore-1.9.2 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.17.3 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.28.4 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.35.0 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.36.0 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.36.1 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.37.0 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.38.0 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.39.0 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.39.1 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.39.2 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.39.3 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.40.0 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.40.1 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.40.2 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.41.0 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.41.1 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.41.2 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.41.3 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.41.4 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-4.41.5 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-cli-3.3.7 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-dev-server-3.7.2 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch greenkeeper/webpack-pin-4.35.3 is unsynced with 0 days, 0.5370370370370371 more than average
+Branch master is unsynced with 0 days, 0.5370370370370371 more than average
+MEDIUM SEVERITY
+Branch before-unload, -1 days
+Branch branding, -1 days
+Branch codeql-analysis, -1 days
+Branch doppins/underscore-template-loader-from-0.8.0-below-0.9.0, -1 days
+Branch fix-image-loading, -1 days
+Branch gdpr, -1 days
+Branch include-dist, -1 days
+Branch limit-semver, -1 days
+Branch mocha-phantomjs, -1 days
+Branch node-module-refs, -1 days
+Branch organization, -1 days
+Branch parameters, -1 days
+Branch prep-0.2.0, -1 days
+Branch printable, -1 days
+Branch release-0.1.1, -1 days
+Branch remove-greenkeeperbadge, -1 days
+Branch remove-greenkeeperlockfile, -1 days
+Branch remove-scanjs, -1 days
+Branch remove-unsafe-innerhtml, -1 days
+Branch thinking-through-dist, -1 days
+HIGH SEVERITY
+Branch fix-client-tests, -3 days
+Branch lockfile, -4 days
+Branch sentinal, -2 days

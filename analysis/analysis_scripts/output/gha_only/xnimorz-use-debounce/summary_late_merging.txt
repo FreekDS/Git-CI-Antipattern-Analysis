@@ -1,0 +1,36 @@
+Missed Activity
+=========================
+Branch callPending has 1281 days of missed activity!
+Branch debounced-callback has 1302 days of missed activity!
+Branch throttled-callback has 638 days of missed activity!
+Branch v6 has 552 days of missed activity!
+MEDIUM SEVERITY
+Branch callPending, 1281 seconds
+HIGH SEVERITY
+Branch debounced-callback, 1302 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 794.125 days
+Branch callPending moved away from main with 1281 days, 486.875 more than average
+Branch debounced-callback moved away from main with 1302 days, 507.875 more than average
+Branch size-limit moved away from main with 1252 days, 457.875 more than average
+MEDIUM SEVERITY
+Branch callPending, 1281 days
+Branch debounced-callback, 1302 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.5 days
+Branch experimental-v6 is unsynced with 0 days, 0.5 more than average
+Branch master is unsynced with 0 days, 0.5 more than average
+Branch size-limit is unsynced with 0 days, 0.5 more than average
+Branch tmp is unsynced with 0 days, 0.5 more than average
+MEDIUM SEVERITY
+Branch callPending, -1 days
+Branch debounced-callback, -1 days
+Branch throttled-callback, -1 days
+Branch v6, -1 days
+HIGH SEVERITY

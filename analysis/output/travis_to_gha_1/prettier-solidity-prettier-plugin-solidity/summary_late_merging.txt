@@ -1,0 +1,19 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 140.0 days
+Branch feature/if_statement_comments moved away from main with 884 days, 744.0 more than average
+Branch ifStatementCommentsSolidity moved away from main with 516 days, 376.0 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch feature/if_statement_comments, 884 days
+Branch ifStatementCommentsSolidity, 516 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

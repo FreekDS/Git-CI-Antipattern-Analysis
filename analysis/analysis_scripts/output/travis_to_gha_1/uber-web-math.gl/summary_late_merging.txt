@@ -1,0 +1,26 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 654.0666666666667 days
+Branch 1.0-release moved away from main with 1598 days, 943.9333333333333 more than average
+Branch 1.1-release moved away from main with 1569 days, 914.9333333333333 more than average
+Branch 2.0-release moved away from main with 1253 days, 598.9333333333333 more than average
+Branch 2.3-release moved away from main with 1161 days, 506.9333333333333 more than average
+Branch 3.0-release moved away from main with 944 days, 289.9333333333333 more than average
+Branch 3.1-release moved away from main with 814 days, 159.93333333333328 more than average
+Branch 3.2-release moved away from main with 757 days, 102.93333333333328 more than average
+MEDIUM SEVERITY
+Branch 1.0-release, 1598 days
+Branch 1.1-release, 1569 days
+Branch 2.0-release, 1253 days
+Branch 2.3-release, 1161 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

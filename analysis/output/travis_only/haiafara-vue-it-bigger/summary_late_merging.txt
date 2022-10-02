@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 76.77777777777777 days
+Branch dependabot/npm_and_yarn/async-2.6.4 moved away from main with 117 days, 40.22222222222223 more than average
+Branch dependabot/npm_and_yarn/follow-redirects-1.14.8 moved away from main with 214 days, 137.22222222222223 more than average
+Branch dependabot/npm_and_yarn/minimist-1.2.6 moved away from main with 160 days, 83.22222222222223 more than average
+Branch dependabot/npm_and_yarn/nanoid-3.3.1 moved away from main with 179 days, 102.22222222222223 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/follow-redirects-1.14.8, 214 days
+Branch dependabot/npm_and_yarn/nanoid-3.3.1, 179 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

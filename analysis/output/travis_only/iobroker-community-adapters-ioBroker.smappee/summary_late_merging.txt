@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch dependabot/add-v2-config-file has 708 days of missed activity!
+MEDIUM SEVERITY
+Branch dependabot/add-v2-config-file, 708 seconds
+
+Branch Deviation
+=========================
+Average deviation: 381.0 days
+Branch dependabot/add-v2-config-file moved away from main with 708 days, 327.0 more than average
+Branch goodbye-greenkeeper moved away from main with 826 days, 445.0 more than average
+MEDIUM SEVERITY
+Branch goodbye-greenkeeper, 826 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.25 days
+Branch dependabot/npm_and_yarn/iobroker/testing-4.1.0 is unsynced with 0 days, 0.25 more than average
+Branch goodbye-greenkeeper is unsynced with 0 days, 0.25 more than average
+Branch master is unsynced with 0 days, 0.25 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch dependabot/add-v2-config-file, -1 days

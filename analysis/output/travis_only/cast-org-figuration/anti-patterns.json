@@ -1,0 +1,140 @@
+{
+  "slow_build": {
+    "figuration": {
+      "data": {
+        "2021-04-08T15:37:46Z": 384200.0,
+        "2021-04-16T14:38:23Z": 419833.3333333333,
+        "2021-05-05T13:34:00Z": 394125.0,
+        "2021-05-13T17:15:22Z": 371480.0,
+        "2021-05-20T20:52:02Z": 397600.0,
+        "2021-05-30T17:13:09Z": 438500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 400956.3888888888,
+      "quartiles": {
+        "q1": 386681.25,
+        "q3": 414275.0,
+        "iqr": 27593.75
+      },
+      "classification": {
+        "high_severity": {
+          "3475": 534000,
+          "3497": 458000,
+          "3498": 554000,
+          "3502": 468000,
+          "3517": 504000
+        },
+        "medium_severity": {
+          "3473": 438000,
+          "3483": 435000,
+          "3484": 419000,
+          "3486": 427000,
+          "3493": 437000,
+          "3495": 454000,
+          "3501": 415000,
+          "3514": 416000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/autoprefixer-10.4.9": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/jquery-3.6.1": 0,
+      "dependabot/npm_and_yarn/linkinator-4.0.3": 0,
+      "dependabot/npm_and_yarn/node-sass-7.0.3": 0,
+      "dependabot/npm_and_yarn/postcss-8.4.16": 0,
+      "dependabot/npm_and_yarn/prismjs-1.29.0": 0,
+      "dependabot/npm_and_yarn/stylelint-14.11.0": 0,
+      "dependabot/npm_and_yarn/stylelint-config-standard-28.0.0": 0,
+      "dependabot/npm_and_yarn/11ty/eleventy-1.0.2": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "v3-dev": 1792,
+      "v4-dev": 726,
+      "v4-npm-scripts": 0,
+      "v4-tooltip-iframe": 0,
+      "v4.2.x": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/autoprefixer-10.4.9": -57,
+      "dependabot/npm_and_yarn/eslint-8.23.1": -57,
+      "dependabot/npm_and_yarn/jquery-3.6.1": -43,
+      "dependabot/npm_and_yarn/linkinator-4.0.3": -57,
+      "dependabot/npm_and_yarn/node-sass-7.0.3": -57,
+      "dependabot/npm_and_yarn/postcss-8.4.16": -22,
+      "dependabot/npm_and_yarn/prismjs-1.29.0": -43,
+      "dependabot/npm_and_yarn/stylelint-14.11.0": -36,
+      "dependabot/npm_and_yarn/stylelint-config-standard-28.0.0": -36,
+      "dependabot/npm_and_yarn/11ty/eleventy-1.0.2": -36,
+      "gh-pages": -1,
+      "master": 0,
+      "v3-dev": 1509,
+      "v4-dev": 726,
+      "v4-npm-scripts": 326,
+      "v4-tooltip-iframe": 1264,
+      "v4.2.x": 264
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/autoprefixer-10.4.9": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/jquery-3.6.1": 0,
+      "dependabot/npm_and_yarn/linkinator-4.0.3": 0,
+      "dependabot/npm_and_yarn/node-sass-7.0.3": 0,
+      "dependabot/npm_and_yarn/postcss-8.4.16": 0,
+      "dependabot/npm_and_yarn/prismjs-1.29.0": 0,
+      "dependabot/npm_and_yarn/stylelint-14.11.0": 0,
+      "dependabot/npm_and_yarn/stylelint-config-standard-28.0.0": 0,
+      "dependabot/npm_and_yarn/11ty/eleventy-1.0.2": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "v3-dev": 282,
+      "v4-dev": -1,
+      "v4-npm-scripts": 0,
+      "v4-tooltip-iframe": 0,
+      "v4.2.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "v3-dev",
+          "v4-dev"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "v4-npm-scripts"
+        ],
+        "high_severity": [
+          "v3-dev",
+          "v4-dev",
+          "v4-tooltip-iframe"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "v3-dev",
+          "v4-dev"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "figuration": {
+      "data": [
+        {
+          "started_at": "2021-05-18T21:26:12Z",
+          "used_tool": "TravisCI",
+          "number": 3500
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 37
+    }
+  },
+  "skip_failing_tests": {}
+}

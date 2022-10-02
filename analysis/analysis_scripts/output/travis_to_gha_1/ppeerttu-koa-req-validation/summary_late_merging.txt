@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 24.75 days
+Branch version-1.0.0 moved away from main with 99 days, 74.25 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch version-1.0.0, 99 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.5 days
+Branch main is unsynced with 0 days, 0.5 more than average
+Branch version-1.0.0 is unsynced with 0 days, 0.5 more than average
+MEDIUM SEVERITY
+Branch support/update-deps, -1 days
+Branch version-0.17.0, -1 days
+HIGH SEVERITY

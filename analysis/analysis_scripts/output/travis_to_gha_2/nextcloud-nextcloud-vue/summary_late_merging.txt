@@ -1,0 +1,52 @@
+Missed Activity
+=========================
+Branch feature/noid/update-dependencies has 38 days of missed activity!
+Branch nickvergessen-patch-1 has 42 days of missed activity!
+Branch stable4 has 374 days of missed activity!
+MEDIUM SEVERITY
+Branch feature/noid/update-dependencies, 38 seconds
+Branch nickvergessen-patch-1, 42 seconds
+Branch stable4, 374 seconds
+
+Branch Deviation
+=========================
+Average deviation: 353.0 days
+Branch bug/appnav-performance moved away from main with 1106 days, 753.0 more than average
+Branch bugfix/do-not-hide-counter-when-displaying-actions moved away from main with 444 days, 91.0 more than average
+Branch datepicker-auto-locale moved away from main with 1381 days, 1028.0 more than average
+Branch design/text-variables-consolidation moved away from main with 856 days, 503.0 more than average
+Branch enh/sidebar-line-clamp moved away from main with 539 days, 186.0 more than average
+Branch feature/noid/allow-to-inject-preloaded-user-statuses moved away from main with 563 days, 210.0 more than average
+Branch feature/noid/avatar-menu-use-actions-component moved away from main with 604 days, 251.0 more than average
+Branch feature/noid/shared_status_state moved away from main with 751 days, 398.0 more than average
+Branch fix/actions-stop-popover-click moved away from main with 741 days, 388.0 more than average
+Branch fix/fullscreen-api moved away from main with 984 days, 631.0 more than average
+Branch revert-395-enhancement/datepicker/trigger-save-on-month-or-year moved away from main with 1137 days, 784.0 more than average
+Branch rollup moved away from main with 1303 days, 950.0 more than average
+Branch stable0-3 moved away from main with 1339 days, 986.0 more than average
+Branch stable0-12 moved away from main with 741 days, 388.0 more than average
+Branch stable0-13 moved away from main with 679 days, 326.0 more than average
+Branch stable2 moved away from main with 536 days, 183.0 more than average
+Branch stable3 moved away from main with 364 days, 11.0 more than average
+MEDIUM SEVERITY
+Branch bug/appnav-performance, 1106 days
+Branch datepicker-auto-locale, 1381 days
+Branch design/text-variables-consolidation, 856 days
+Branch feature/noid/shared_status_state, 751 days
+Branch fix/actions-stop-popover-click, 741 days
+Branch fix/fullscreen-api, 984 days
+Branch revert-395-enhancement/datepicker/trigger-save-on-month-or-year, 1137 days
+Branch rollup, 1303 days
+Branch stable0-3, 1339 days
+Branch stable0-12, 741 days
+Branch stable0-13, 679 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 4.095238095238095 days
+Branch stable4 is unsynced with 169 days, 164.9047619047619 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch nickvergessen-patch-1, 3 days
+Branch stable4, 169 days

@@ -1,0 +1,111 @@
+Missed Activity
+=========================
+Branch release-please--branches--main--components--dlp has 6 days of missed activity!
+MEDIUM SEVERITY
+Branch release-please--branches--main--components--dlp, 6 seconds
+
+Branch Deviation
+=========================
+Average deviation: 868.775 days
+Branch 8y moved away from main with 1509 days, 640.225 more than average
+Branch bump-gax moved away from main with 1059 days, 190.22500000000002 more than average
+Branch clean-prettier moved away from main with 1380 days, 511.225 more than average
+Branch deferred-init moved away from main with 922 days, 53.22500000000002 more than average
+Branch enable-context moved away from main with 896 days, 27.225000000000023 more than average
+Branch execSync moved away from main with 1251 days, 382.225 more than average
+Branch export_protos moved away from main with 930 days, 61.22500000000002 more than average
+Branch extend302 moved away from main with 1140 days, 271.225 more than average
+Branch finally-drop-node8 moved away from main with 897 days, 28.225000000000023 more than average
+Branch fix-samples-test-likelihood moved away from main with 1327 days, 458.225 more than average
+Branch fix-scripts moved away from main with 873 days, 4.225000000000023 more than average
+Branch ga moved away from main with 1031 days, 162.22500000000002 more than average
+Branch gk moved away from main with 1504 days, 635.225 more than average
+Branch jsdoc_update_protos moved away from main with 929 days, 60.22500000000002 more than average
+Branch jsdoc_update moved away from main with 930 days, 61.22500000000002 more than average
+Branch kokoro-release moved away from main with 1216 days, 347.225 more than average
+Branch linky2 moved away from main with 922 days, 53.22500000000002 more than average
+Branch lint-ignore moved away from main with 884 days, 15.225000000000023 more than average
+Branch ln moved away from main with 1308 days, 439.225 more than average
+Branch magic-proxy moved away from main with 1184 days, 315.225 more than average
+Branch mocha-config-2 moved away from main with 885 days, 16.225000000000023 more than average
+Branch mocharc moved away from main with 956 days, 87.22500000000002 more than average
+Branch modern moved away from main with 1310 days, 441.225 more than average
+Branch modernize-tests moved away from main with 921 days, 52.22500000000002 more than average
+Branch move_to_ts moved away from main with 960 days, 91.22500000000002 more than average
+Branch move-contributing-md moved away from main with 1314 days, 445.225 more than average
+Branch new-release-please moved away from main with 1093 days, 224.22500000000002 more than average
+Branch no-moar-4 moved away from main with 1527 days, 658.225 more than average
+Branch noclang moved away from main with 1195 days, 326.225 more than average
+Branch nocov moved away from main with 885 days, 16.225000000000023 more than average
+Branch node-10-codecov moved away from main with 1226 days, 357.225 more than average
+Branch node-10-codecov-presubmit moved away from main with 1226 days, 357.225 more than average
+Branch notslint moved away from main with 883 days, 14.225000000000023 more than average
+Branch npm-publish-token moved away from main with 1279 days, 410.225 more than average
+Branch nycrc moved away from main with 1379 days, 510.225 more than average
+Branch region-tag-dep moved away from main with 1036 days, 167.22500000000002 more than average
+Branch release-v0.11.0 moved away from main with 1282 days, 413.225 more than average
+Branch release-v0.12.0 moved away from main with 1237 days, 368.225 more than average
+Branch release-v1.0.0 moved away from main with 1213 days, 344.225 more than average
+Branch release-v1.1.0 moved away from main with 1205 days, 336.225 more than average
+Branch release-v1.2.0 moved away from main with 1196 days, 327.225 more than average
+Branch release-v1.2.1 moved away from main with 1186 days, 317.225 more than average
+Branch release-v1.3.0 moved away from main with 1183 days, 314.225 more than average
+Branch release-v1.3.1 moved away from main with 1176 days, 307.225 more than average
+Branch release-v1.5.0 moved away from main with 1098 days, 229.22500000000002 more than average
+Branch release-v1.5.1 moved away from main with 1083 days, 214.22500000000002 more than average
+Branch release-v1.6.0 moved away from main with 1068 days, 199.22500000000002 more than average
+Branch release-v1.7.2 moved away from main with 1031 days, 162.22500000000002 more than average
+Branch repo-automation/continuous-codecov2 moved away from main with 1425 days, 556.225 more than average
+Branch repo-automation/continuous-codecov3 moved away from main with 1425 days, 556.225 more than average
+Branch repo-automation/fix-system-key moved away from main with 1374 days, 505.225 more than average
+Branch repo-metadata moved away from main with 1205 days, 336.225 more than average
+Branch reporty moved away from main with 1378 days, 509.225 more than average
+Branch rm-pret moved away from main with 883 days, 14.225000000000023 more than average
+Branch sample-proposal moved away from main with 1258 days, 389.225 more than average
+Branch sofresh moved away from main with 1141 days, 272.225 more than average
+Branch summer_jsdoc_license moved away from main with 929 days, 60.22500000000002 more than average
+Branch syfix moved away from main with 882 days, 13.225000000000023 more than average
+Branch total-regeneration moved away from main with 885 days, 16.225000000000023 more than average
+Branch update-readme-contributing moved away from main with 910 days, 41.22500000000002 more than average
+Branch v0.8.x moved away from main with 1485 days, 616.225 more than average
+Branch version-support-readme moved away from main with 904 days, 35.22500000000002 more than average
+MEDIUM SEVERITY
+Branch 8y, 1509 days
+Branch clean-prettier, 1380 days
+Branch execSync, 1251 days
+Branch fix-samples-test-likelihood, 1327 days
+Branch gk, 1504 days
+Branch kokoro-release, 1216 days
+Branch ln, 1308 days
+Branch magic-proxy, 1184 days
+Branch modern, 1310 days
+Branch move-contributing-md, 1314 days
+Branch no-moar-4, 1527 days
+Branch noclang, 1195 days
+Branch node-10-codecov, 1226 days
+Branch node-10-codecov-presubmit, 1226 days
+Branch npm-publish-token, 1279 days
+Branch nycrc, 1379 days
+Branch release-v0.11.0, 1282 days
+Branch release-v0.12.0, 1237 days
+Branch release-v1.0.0, 1213 days
+Branch release-v1.1.0, 1205 days
+Branch release-v1.2.0, 1196 days
+Branch release-v1.2.1, 1186 days
+Branch release-v1.3.0, 1183 days
+Branch repo-automation/continuous-codecov2, 1425 days
+Branch repo-automation/continuous-codecov3, 1425 days
+Branch repo-automation/fix-system-key, 1374 days
+Branch repo-metadata, 1205 days
+Branch reporty, 1378 days
+Branch sample-proposal, 1258 days
+Branch v0.8.x, 1485 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.05 days
+Branch release-please--branches--main--components--dlp is unsynced with 6 days, 5.95 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch release-please--branches--main--components--dlp, 6 days

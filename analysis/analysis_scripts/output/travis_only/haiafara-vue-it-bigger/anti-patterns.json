@@ -1,0 +1,164 @@
+{
+  "slow_build": {
+    "vue-it-bigger": {
+      "data": {
+        "2021-04-09T17:56:15Z": 98096.7741935484,
+        "2021-04-18T16:26:47Z": 87444.44444444444,
+        "2021-04-29T14:56:31Z": 117000.0,
+        "2021-05-09T03:52:03Z": 96307.69230769231,
+        "2021-05-18T22:42:06Z": 104250.0,
+        "2021-05-26T13:20:08Z": 97777.77777777778,
+        "2021-06-02T16:01:42Z": 97454.54545454546,
+        "2021-06-11T06:57:15Z": 107235.29411764706,
+        "2021-06-23T15:23:58Z": 64955.882352941175,
+        "2021-07-04T00:41:43Z": 68666.66666666667
+      },
+      "tool": "TravisCI",
+      "total avg": 93918.90773152633,
+      "quartiles": {
+        "q1": 89660.2564102564,
+        "q3": 102711.69354838709,
+        "iqr": 13051.437138130685
+      },
+      "classification": {
+        "high_severity": {
+          "520": 159000,
+          "521": 160000,
+          "539": 328000,
+          "549": 124000,
+          "562": 175000,
+          "571": 132000,
+          "588": 154000,
+          "603": 209000
+        },
+        "medium_severity": {
+          "496": 106000,
+          "503": 112000,
+          "504": 105000,
+          "510": 103000,
+          "513": 104000,
+          "516": 110000,
+          "519": 108000,
+          "525": 107000,
+          "528": 103000,
+          "531": 107000,
+          "533": 107000,
+          "537": 111000,
+          "540": 109000,
+          "543": 111000,
+          "546": 104000,
+          "554": 109000,
+          "559": 108000,
+          "565": 107000,
+          "574": 109000,
+          "579": 108000,
+          "584": 107000,
+          "587": 108000,
+          "590": 109000,
+          "595": 107000,
+          "598": 105000,
+          "599": 105000,
+          "605": 106000,
+          "608": 104000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/nanoid-3.3.1": 0,
+      "dependabot/npm_and_yarn/terser-5.15.0": 0,
+      "depfu/update/yarn/babel-loader-8.2.5": 0,
+      "depfu/update/yarn/terser-webpack-plugin-5.3.6": 0,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/async-2.6.4": 117,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 214,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 160,
+      "dependabot/npm_and_yarn/nanoid-3.3.1": 179,
+      "dependabot/npm_and_yarn/terser-5.15.0": -1,
+      "depfu/update/yarn/babel-loader-8.2.5": 8,
+      "depfu/update/yarn/terser-webpack-plugin-5.3.6": 15,
+      "gh-pages": -1,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/follow-redirects-1.14.8": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/nanoid-3.3.1": 0,
+      "dependabot/npm_and_yarn/terser-5.15.0": 0,
+      "depfu/update/yarn/babel-loader-8.2.5": 0,
+      "depfu/update/yarn/terser-webpack-plugin-5.3.6": 0,
+      "gh-pages": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/follow-redirects-1.14.8",
+          "dependabot/npm_and_yarn/nanoid-3.3.1"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "vue-it-bigger": {
+      "data": [
+        {
+          "started_at": "2021-06-23T15:27:23Z",
+          "used_tool": "TravisCI",
+          "number": 617
+        },
+        {
+          "started_at": "2021-06-23T15:28:49Z",
+          "used_tool": "TravisCI",
+          "number": 623
+        },
+        {
+          "started_at": "2021-06-23T15:36:21Z",
+          "used_tool": "TravisCI",
+          "number": 635
+        },
+        {
+          "started_at": "2021-06-23T15:38:08Z",
+          "used_tool": "TravisCI",
+          "number": 638
+        },
+        {
+          "started_at": "2021-06-23T16:21:31Z",
+          "used_tool": "TravisCI",
+          "number": 643
+        },
+        {
+          "started_at": "2021-06-23T16:46:29Z",
+          "used_tool": "TravisCI",
+          "number": 652
+        },
+        {
+          "started_at": "2021-06-23T17:06:32Z",
+          "used_tool": "TravisCI",
+          "number": 656
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 114
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,171 @@
+{
+  "slow_build": {
+    "particle-cli": {
+      "data": {
+        "2021-04-23T17:30:55Z": 2584000.0,
+        "2021-05-03T01:03:13Z": 4552000.0,
+        "2021-05-28T20:04:50Z": 3709750.0,
+        "2021-06-07T20:10:23Z": 3850500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 3674062.5,
+      "quartiles": {
+        "q1": 3428312.5,
+        "q3": 4025875.0,
+        "iqr": 597562.5
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "2186": 4289000,
+          "2190": 4570000,
+          "2188": 4534000,
+          "2193": 4544000,
+          "2192": 4451000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "bugfix/serial-close-promise": 0,
+      "ch26678/support-ncp-firmware-in-dfu-flash": 0,
+      "ch51961/allow-dfu-flashing-devices-by-device-id": 0,
+      "chore/async-await": 0,
+      "chore/rotate-npm-credentials": 1509,
+      "develop": 0,
+      "feature/add-abilitiy-to-create-device-keys-without-device": 0,
+      "feature/binaries": 0,
+      "feature/ch51975/revoke-all-tokens": 0,
+      "feature/command_optimize": 0,
+      "feature/device-doctor": 1826,
+      "feature/local_compile": 0,
+      "feature/log_config": 0,
+      "feature/logger": 0,
+      "feature/metrics": 0,
+      "feature/monorepo": 0,
+      "feature/no-polyfill": 0,
+      "feature/no-serialport": 0,
+      "feature/product-device-name-poc": 0,
+      "feature/products-list": 0,
+      "feature/simplify-udev": 886,
+      "feature/subscribe-to-device": 0,
+      "fix/dfu-flash-address": 0,
+      "master": 0,
+      "release/1.21.0": 0,
+      "setup_done/ch46416-with-list": 0,
+      "snyk-fix-1c1cda23": 0,
+      "snyk-fix-f01df1ab": 0,
+      "typo/reseting-resetting": 1825
+    },
+    "branch deviation": {
+      "bugfix/serial-close-promise": 1984,
+      "ch26678/support-ncp-firmware-in-dfu-flash": 1348,
+      "ch51961/allow-dfu-flashing-devices-by-device-id": 739,
+      "chore/async-await": 1118,
+      "chore/rotate-npm-credentials": 1509,
+      "develop": 1887,
+      "feature/add-abilitiy-to-create-device-keys-without-device": 910,
+      "feature/binaries": 1518,
+      "feature/ch51975/revoke-all-tokens": 869,
+      "feature/command_optimize": 2024,
+      "feature/device-doctor": 1826,
+      "feature/local_compile": 2268,
+      "feature/log_config": 1188,
+      "feature/logger": 1027,
+      "feature/metrics": 1946,
+      "feature/monorepo": 896,
+      "feature/no-polyfill": 2057,
+      "feature/no-serialport": 2504,
+      "feature/product-device-name-poc": 852,
+      "feature/products-list": 934,
+      "feature/simplify-udev": 886,
+      "feature/subscribe-to-device": 1463,
+      "fix/dfu-flash-address": 2106,
+      "master": 0,
+      "release/1.21.0": 1982,
+      "setup_done/ch46416-with-list": 936,
+      "snyk-fix-1c1cda23": 2044,
+      "snyk-fix-f01df1ab": 1986,
+      "typo/reseting-resetting": 1825
+    },
+    "unsynced activity": {
+      "bugfix/serial-close-promise": 0,
+      "ch26678/support-ncp-firmware-in-dfu-flash": 0,
+      "ch51961/allow-dfu-flashing-devices-by-device-id": 0,
+      "chore/async-await": 0,
+      "chore/rotate-npm-credentials": -1,
+      "develop": 0,
+      "feature/add-abilitiy-to-create-device-keys-without-device": 0,
+      "feature/binaries": 0,
+      "feature/ch51975/revoke-all-tokens": 0,
+      "feature/command_optimize": 0,
+      "feature/device-doctor": -1,
+      "feature/local_compile": 0,
+      "feature/log_config": 0,
+      "feature/logger": 0,
+      "feature/metrics": 0,
+      "feature/monorepo": 0,
+      "feature/no-polyfill": 0,
+      "feature/no-serialport": 0,
+      "feature/product-device-name-poc": 0,
+      "feature/products-list": 0,
+      "feature/simplify-udev": -1,
+      "feature/subscribe-to-device": 0,
+      "fix/dfu-flash-address": 0,
+      "master": 0,
+      "release/1.21.0": 0,
+      "setup_done/ch46416-with-list": 0,
+      "snyk-fix-1c1cda23": 0,
+      "snyk-fix-f01df1ab": 0,
+      "typo/reseting-resetting": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "chore/rotate-npm-credentials",
+          "feature/device-doctor",
+          "feature/simplify-udev",
+          "typo/reseting-resetting"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feature/command_optimize",
+          "feature/local_compile",
+          "feature/no-polyfill",
+          "feature/no-serialport",
+          "fix/dfu-flash-address",
+          "snyk-fix-1c1cda23",
+          "snyk-fix-f01df1ab"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "chore/rotate-npm-credentials",
+          "feature/device-doctor",
+          "feature/simplify-udev",
+          "typo/reseting-resetting"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "particle-cli": {
+      "data": [
+        {
+          "started_at": "2021-04-23T17:30:55Z",
+          "used_tool": "TravisCI",
+          "number": 2185
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 5
+    }
+  },
+  "skip_failing_tests": {}
+}

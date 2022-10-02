@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 384.3333333333333 days
+Branch dependabot/npm_and_yarn/nodeenv-3.0.68 moved away from main with 411 days, 26.666666666666686 more than average
+Branch dependabot/npm_and_yarn/processenv-3.0.8 moved away from main with 464 days, 79.66666666666669 more than average
+Branch fix/robot moved away from main with 1383 days, 998.6666666666667 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/processenv-3.0.8, 464 days
+HIGH SEVERITY
+Branch fix/robot, 1383 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,130 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 441.6102941176471 days
+Branch 2.x moved away from main with 646 days, 204.38970588235293 more than average
+Branch 3.x moved away from main with 509 days, 67.38970588235293 more than average
+Branch 698 moved away from main with 509 days, 67.38970588235293 more than average
+Branch 705 moved away from main with 525 days, 83.38970588235293 more than average
+Branch 756 moved away from main with 473 days, 31.389705882352928 more than average
+Branch 810 moved away from main with 472 days, 30.389705882352928 more than average
+Branch abort-pipeline moved away from main with 526 days, 84.38970588235293 more than average
+Branch abort-socket-destroy moved away from main with 639 days, 197.38970588235293 more than average
+Branch agent-client moved away from main with 533 days, 91.38970588235293 more than average
+Branch benchmarks moved away from main with 683 days, 241.38970588235293 more than average
+Branch benjamingr-patch-1 moved away from main with 523 days, 81.38970588235293 more than average
+Branch build_docker moved away from main with 534 days, 92.38970588235293 more than average
+Branch check-trailers moved away from main with 721 days, 279.3897058823529 more than average
+Branch cleanup2 moved away from main with 541 days, 99.38970588235293 more than average
+Branch cleanup4 moved away from main with 494 days, 52.38970588235293 more than average
+Branch cleanup12 moved away from main with 443 days, 1.3897058823529278 more than average
+Branch clear-timeouts moved away from main with 662 days, 220.38970588235293 more than average
+Branch connect-timeut moved away from main with 537 days, 95.38970588235293 more than average
+Branch connector2 moved away from main with 506 days, 64.38970588235293 more than average
+Branch copy-buf moved away from main with 524 days, 82.38970588235293 more than average
+Branch deep-copy-agent-opts moved away from main with 535 days, 93.38970588235293 more than average
+Branch delvedor/proxy moved away from main with 566 days, 124.38970588235293 more than average
+Branch detached-buffer moved away from main with 498 days, 56.38970588235293 more than average
+Branch disconnect-after-destroy moved away from main with 530 days, 88.38970588235293 more than average
+Branch dockerignore moved away from main with 535 days, 93.38970588235293 more than average
+Branch docs-connections moved away from main with 562 days, 120.38970588235293 more than average
+Branch end-res-before-req moved away from main with 525 days, 83.38970588235293 more than average
+Branch err moved away from main with 517 days, 75.38970588235293 more than average
+Branch err-data moved away from main with 489 days, 47.38970588235293 more than average
+Branch errconnect moved away from main with 508 days, 66.38970588235293 more than average
+Branch error-on-socket-error moved away from main with 727 days, 285.3897058823529 more than average
+Branch fix-12 moved away from main with 708 days, 266.3897058823529 more than average
+Branch fix-583 moved away from main with 466 days, 24.389705882352928 more than average
+Branch fix-737 moved away from main with 520 days, 78.38970588235293 more than average
+Branch fix-busy moved away from main with 585 days, 143.38970588235293 more than average
+Branch fix-destroy-queued moved away from main with 745 days, 303.3897058823529 more than average
+Branch fix-headers-timeout moved away from main with 530 days, 88.38970588235293 more than average
+Branch fix-test-script moved away from main with 616 days, 174.38970588235293 more than average
+Branch fix-v3-on-node-v16 moved away from main with 513 days, 71.38970588235293 more than average
+Branch guard-on-error-throw moved away from main with 472 days, 30.389705882352928 more than average
+Branch handler-check moved away from main with 638 days, 196.38970588235293 more than average
+Branch headers-timeout2 moved away from main with 638 days, 196.38970588235293 more than average
+Branch husky moved away from main with 542 days, 100.38970588235293 more than average
+Branch ignore-destroyed-body moved away from main with 638 days, 196.38970588235293 more than average
+Branch incoming-close moved away from main with 457 days, 15.389705882352928 more than average
+Branch interceptable-type moved away from main with 463 days, 21.389705882352928 more than average
+Branch large-body moved away from main with 491 days, 49.38970588235293 more than average
+Branch llhttp-update moved away from main with 456 days, 14.389705882352928 more than average
+Branch long-polling-event-source moved away from main with 587 days, 145.38970588235293 more than average
+Branch merge-parser moved away from main with 527 days, 85.38970588235293 more than average
+Branch minor-fixes moved away from main with 537 days, 95.38970588235293 more than average
+Branch named-args moved away from main with 529 days, 87.38970588235293 more than average
+Branch node10 moved away from main with 538 days, 96.38970588235293 more than average
+Branch node-12-19 moved away from main with 692 days, 250.38970588235293 more than average
+Branch node-v16 moved away from main with 513 days, 71.38970588235293 more than average
+Branch parser2 moved away from main with 527 days, 85.38970588235293 more than average
+Branch parser-opt2 moved away from main with 535 days, 93.38970588235293 more than average
+Branch perf-avoid-indirection moved away from main with 740 days, 298.3897058823529 more than average
+Branch perf-buffer moved away from main with 514 days, 72.38970588235293 more than average
+Branch perf-headers moved away from main with 740 days, 298.3897058823529 more than average
+Branch perf-reuse-session moved away from main with 535 days, 93.38970588235293 more than average
+Branch queue-key moved away from main with 565 days, 123.38970588235293 more than average
+Branch raw-headers moved away from main with 525 days, 83.38970588235293 more than average
+Branch redirect3 moved away from main with 538 days, 96.38970588235293 more than average
+Branch redirect-reuse moved away from main with 509 days, 67.38970588235293 more than average
+Branch refactor-pause moved away from main with 527 days, 85.38970588235293 more than average
+Branch refactor-request2 moved away from main with 746 days, 304.3897058823529 more than average
+Branch req-err moved away from main with 507 days, 65.38970588235293 more than average
+Branch same_origin_redirect moved away from main with 446 days, 4.389705882352928 more than average
+Branch simd moved away from main with 506 days, 64.38970588235293 more than average
+Branch simd2 moved away from main with 508 days, 66.38970588235293 more than average
+Branch simplify-busy moved away from main with 748 days, 306.3897058823529 more than average
+Branch single-wasm moved away from main with 521 days, 79.38970588235293 more than average
+Branch timeout-refresh moved away from main with 531 days, 89.38970588235293 more than average
+Branch trailers moved away from main with 644 days, 202.38970588235293 more than average
+Branch typed-body moved away from main with 501 days, 59.38970588235293 more than average
+Branch update_llhttp moved away from main with 526 days, 84.38970588235293 more than average
+Branch update-deps moved away from main with 527 days, 85.38970588235293 more than average
+Branch writing-test-guide moved away from main with 489 days, 47.38970588235293 more than average
+Branch ws-instance moved away from main with 527 days, 85.38970588235293 more than average
+Branch zero-zopy moved away from main with 524 days, 82.38970588235293 more than average
+MEDIUM SEVERITY
+Branch 2.x, 646 days
+Branch abort-socket-destroy, 639 days
+Branch benchmarks, 683 days
+Branch build_docker, 534 days
+Branch check-trailers, 721 days
+Branch cleanup2, 541 days
+Branch clear-timeouts, 662 days
+Branch connect-timeut, 537 days
+Branch deep-copy-agent-opts, 535 days
+Branch delvedor/proxy, 566 days
+Branch dockerignore, 535 days
+Branch docs-connections, 562 days
+Branch error-on-socket-error, 727 days
+Branch fix-12, 708 days
+Branch fix-busy, 585 days
+Branch fix-destroy-queued, 745 days
+Branch fix-test-script, 616 days
+Branch handler-check, 638 days
+Branch headers-timeout2, 638 days
+Branch husky, 542 days
+Branch ignore-destroyed-body, 638 days
+Branch long-polling-event-source, 587 days
+Branch minor-fixes, 537 days
+Branch node10, 538 days
+Branch node-12-19, 692 days
+Branch parser-opt2, 535 days
+Branch perf-avoid-indirection, 740 days
+Branch perf-headers, 740 days
+Branch perf-reuse-session, 535 days
+Branch queue-key, 565 days
+Branch redirect3, 538 days
+Branch refactor-request2, 746 days
+Branch simplify-busy, 748 days
+Branch trailers, 644 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

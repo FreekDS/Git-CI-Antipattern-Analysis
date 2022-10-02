@@ -1,0 +1,153 @@
+{
+  "slow_build": {
+    "Build / Test / Artifacts": {
+      "data": {
+        "2020-10-29T12:14:04Z": 105230.76923076923
+      },
+      "tool": "Github Actions",
+      "total avg": 105230.76923076923,
+      "quartiles": {
+        "q1": 105230.76923076923,
+        "q3": 105230.76923076923,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "5": 107000,
+          "9": 107000,
+          "11": 124000,
+          "12": 116000,
+          "13": 131000,
+          "14": 112000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Build & Test": {
+      "data": {
+        "2020-10-29T12:10:41Z": 93000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 93000.0,
+      "quartiles": {
+        "q1": 93000.0,
+        "q3": 93000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "craft": {
+      "data": {
+        "2020-09-21T07:25:46Z": 305750.0,
+        "2020-10-07T13:58:49Z": 280307.6923076923,
+        "2020-10-15T11:52:57Z": 309923.07692307694,
+        "2020-10-23T10:13:08Z": 279400.0
+      },
+      "tool": "TravisCI",
+      "total avg": 293845.1923076923,
+      "quartiles": {
+        "q1": 280080.76923076925,
+        "q3": 306793.26923076925,
+        "iqr": 26712.5
+      },
+      "classification": {
+        "high_severity": {
+          "621": 357000,
+          "646": 414000,
+          "653": 354000,
+          "654": 363000
+        },
+        "medium_severity": {
+          "623": 338000,
+          "624": 338000,
+          "625": 327000,
+          "652": 343000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "TEMP-monday": 0,
+      "TEMP-monday-afternoon": 0,
+      "feat/fastlane": 0,
+      "feat/maven-klib-support": 0,
+      "gh-pages": 0,
+      "kmclb-gcs-artifact-store": 0,
+      "kmclb-gcs-work": 0,
+      "kmclb-log-level-config": 0,
+      "master": 0,
+      "release/0.33.5": 0,
+      "stash-mock-single-function": 0,
+      "update-symbol-collector": 0
+    },
+    "branch deviation": {
+      "TEMP-monday": 885,
+      "TEMP-monday-afternoon": 883,
+      "feat/fastlane": 556,
+      "feat/maven-klib-support": 3,
+      "gh-pages": 484,
+      "kmclb-gcs-artifact-store": 902,
+      "kmclb-gcs-work": 889,
+      "kmclb-log-level-config": 919,
+      "master": 0,
+      "release/0.33.5": -3,
+      "stash-mock-single-function": 913,
+      "update-symbol-collector": 192
+    },
+    "unsynced activity": {
+      "TEMP-monday": 0,
+      "TEMP-monday-afternoon": 0,
+      "feat/fastlane": 0,
+      "feat/maven-klib-support": 0,
+      "gh-pages": 0,
+      "kmclb-gcs-artifact-store": 0,
+      "kmclb-gcs-work": 0,
+      "kmclb-log-level-config": 0,
+      "master": 0,
+      "release/0.33.5": 0,
+      "stash-mock-single-function": 0,
+      "update-symbol-collector": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "kmclb-gcs-artifact-store",
+          "kmclb-log-level-config",
+          "stash-mock-single-function"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Build / Test / Artifacts": {
+      "data": [],
+      "release_build_count": 8
+    },
+    "craft": {
+      "data": [
+        {
+          "started_at": "2020-10-23T10:13:08Z",
+          "used_tool": "TravisCI",
+          "number": 655
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 39
+    }
+  },
+  "skip_failing_tests": {}
+}

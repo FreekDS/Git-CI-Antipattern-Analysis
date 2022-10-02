@@ -1,0 +1,167 @@
+{
+  "slow_build": {
+    "Master": {
+      "data": {
+        "2019-10-08T15:56:34Z": 57000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 57000.0,
+      "quartiles": {
+        "q1": 57000.0,
+        "q3": 57000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "10": 95000,
+          "14": 128000
+        },
+        "medium_severity": {}
+      }
+    },
+    "PR": {
+      "data": {
+        "2019-10-08T15:28:51Z": 114000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 114000.0,
+      "quartiles": {
+        "q1": 114000.0,
+        "q3": 114000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "12": 120000,
+          "13": 117000
+        },
+        "medium_severity": {}
+      }
+    },
+    "CI": {
+      "data": {
+        "2019-10-04T09:40:18Z": 117000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 117000.0,
+      "quartiles": {
+        "q1": 117000.0,
+        "q3": 117000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 119000,
+          "8": 120000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node CI": {
+      "data": {
+        "2019-10-04T06:56:57Z": 194333.33333333334
+      },
+      "tool": "Github Actions",
+      "total avg": 194333.33333333334,
+      "quartiles": {
+        "q1": 194333.33333333334,
+        "q3": 194333.33333333334,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 262000
+        },
+        "medium_severity": {}
+      }
+    },
+    "tools": {
+      "data": {
+        "2019-08-29T19:59:50Z": 153333.33333333334,
+        "2019-09-10T12:43:56Z": 147241.37931034484,
+        "2019-09-25T12:48:30Z": 182666.66666666666,
+        "2019-10-04T07:27:45Z": 223454.54545454544
+      },
+      "tool": "TravisCI",
+      "total avg": 176673.98119122256,
+      "quartiles": {
+        "q1": 151810.3448275862,
+        "q3": 192863.63636363635,
+        "iqr": 41053.29153605015
+      },
+      "classification": {
+        "high_severity": {
+          "204": 271000,
+          "205": 272000
+        },
+        "medium_severity": {
+          "180": 197000,
+          "193": 198000,
+          "194": 232000,
+          "195": 219000,
+          "196": 230000,
+          "197": 195000,
+          "198": 199000,
+          "199": 215000,
+          "200": 203000,
+          "201": 222000,
+          "203": 200000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "jg-bump-deps": 705,
+      "master": 0
+    },
+    "branch deviation": {
+      "jg-bump-deps": 204,
+      "master": 0
+    },
+    "unsynced activity": {
+      "jg-bump-deps": 500,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "jg-bump-deps"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "jg-bump-deps"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "jg-bump-deps"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 5
+  },
+  "broken_release": {
+    "Master": {
+      "data": [],
+      "release_build_count": 4
+    },
+    "CI": {
+      "data": [],
+      "release_build_count": 4
+    },
+    "Node CI": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "tools": {
+      "data": [],
+      "release_build_count": 35
+    }
+  },
+  "skip_failing_tests": {}
+}

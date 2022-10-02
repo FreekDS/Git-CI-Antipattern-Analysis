@@ -1,0 +1,25 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -43.714285714285715 days
+Branch dependabot/bundler/docs/tzinfo-1.2.10 moved away from main with -42 days, 1.7142857142857153 more than average
+Branch master moved away from main with 0 days, 43.714285714285715 more than average
+Branch update-deps moved away from main with 67 days, 110.71428571428572 more than average
+MEDIUM SEVERITY
+Branch dependabot/bundler/docs/tzinfo-1.2.10, -42 days
+Branch master, 0 days
+Branch rework, -65 days
+Branch update-deps, 67 days
+HIGH SEVERITY
+Branch add-rework-documentation, -80 days
+Branch rework-documentation, -89 days
+Branch test-performance, -97 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

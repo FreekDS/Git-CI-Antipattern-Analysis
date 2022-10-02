@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 607.6666666666666 days
+Branch 400-openjpeg moved away from main with 1808 days, 1200.3333333333335 more than average
+Branch v0.16 moved away from main with 2172 days, 1564.3333333333335 more than average
+Branch v0.27 moved away from main with 723 days, 115.33333333333337 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch 400-openjpeg, 1808 days
+Branch v0.16, 2172 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

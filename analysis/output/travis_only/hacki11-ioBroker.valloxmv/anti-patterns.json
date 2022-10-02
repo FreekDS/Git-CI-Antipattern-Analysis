@@ -1,0 +1,162 @@
+{
+  "slow_build": {
+    "Test and Release": {
+      "data": {
+        "2021-05-03T19:29:24Z": 462452.38095238095,
+        "2021-05-31T04:39:23Z": 881666.6666666666,
+        "2021-06-25T17:37:41Z": 788545.4545454546
+      },
+      "tool": "Github Actions",
+      "total avg": 710888.1673881673,
+      "quartiles": {
+        "q1": 625498.9177489178,
+        "q3": 835106.0606060605,
+        "iqr": 209607.14285714272
+      },
+      "classification": {
+        "high_severity": {
+          "49": 1343000,
+          "50": 1516000,
+          "51": 2039000,
+          "52": 1891000,
+          "53": 1630000,
+          "54": 1671000,
+          "55": 1797000,
+          "56": 1843000,
+          "60": 1258000,
+          "83": 1252000,
+          "84": 1230000,
+          "85": 1273000,
+          "86": 1522000
+        },
+        "medium_severity": {
+          "38": 936000,
+          "39": 930000,
+          "57": 1058000,
+          "58": 989000,
+          "59": 893000,
+          "77": 934000,
+          "78": 852000,
+          "79": 1096000,
+          "80": 861000,
+          "81": 877000,
+          "82": 1004000,
+          "88": 932000,
+          "89": 1050000
+        }
+      }
+    },
+    "Auto-Merge Dependabot PRs": {
+      "data": {
+        "2021-05-03T19:38:25Z": 53344.8275862069,
+        "2021-05-31T04:39:23Z": 132789.47368421053,
+        "2021-07-01T02:01:39Z": 105285.71428571429
+      },
+      "tool": "Github Actions",
+      "total avg": 97140.00518537725,
+      "quartiles": {
+        "q1": 79315.2709359606,
+        "q3": 119037.59398496241,
+        "iqr": 39722.32304900182
+      },
+      "classification": {
+        "high_severity": {
+          "35": 206000,
+          "36": 374000,
+          "37": 387000,
+          "38": 391000,
+          "39": 264000,
+          "40": 300000,
+          "41": 308000,
+          "53": 244000,
+          "54": 270000,
+          "59": 278000
+        },
+        "medium_severity": {
+          "9": 122000,
+          "16": 123000,
+          "17": 133000,
+          "57": 129000,
+          "56": 120000,
+          "58": 132000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "bf-object-subscription": 954,
+      "dependabot/npm_and_yarn/eslint-8.23.0": 0,
+      "dependabot/npm_and_yarn/iobroker/adapter-core-2.6.0": 0,
+      "dependabot/npm_and_yarn/iobroker/testing-4.1.0": 0,
+      "dependabot/npm_and_yarn/mocha-10.0.0": 0,
+      "dependabot/npm_and_yarn/sinon-14.0.0": 0,
+      "dependabot/npm_and_yarn/types/node-18.7.14": 0,
+      "ft-bypass-locked": 785,
+      "gh-actions": 485,
+      "master": 0,
+      "reset-objects": 972
+    },
+    "branch deviation": {
+      "bf-object-subscription": 954,
+      "dependabot/npm_and_yarn/eslint-8.23.0": 0,
+      "dependabot/npm_and_yarn/iobroker/adapter-core-2.6.0": 122,
+      "dependabot/npm_and_yarn/iobroker/testing-4.1.0": -1,
+      "dependabot/npm_and_yarn/mocha-10.0.0": -1,
+      "dependabot/npm_and_yarn/sinon-14.0.0": 92,
+      "dependabot/npm_and_yarn/types/node-18.7.14": 0,
+      "ft-bypass-locked": 785,
+      "gh-actions": 485,
+      "master": 0,
+      "reset-objects": 972
+    },
+    "unsynced activity": {
+      "bf-object-subscription": -1,
+      "dependabot/npm_and_yarn/eslint-8.23.0": 0,
+      "dependabot/npm_and_yarn/iobroker/adapter-core-2.6.0": 0,
+      "dependabot/npm_and_yarn/iobroker/testing-4.1.0": 0,
+      "dependabot/npm_and_yarn/mocha-10.0.0": 0,
+      "dependabot/npm_and_yarn/sinon-14.0.0": 0,
+      "dependabot/npm_and_yarn/types/node-18.7.14": 0,
+      "ft-bypass-locked": -1,
+      "gh-actions": -1,
+      "master": 0,
+      "reset-objects": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "bf-object-subscription",
+          "ft-bypass-locked",
+          "reset-objects"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "bf-object-subscription",
+          "ft-bypass-locked",
+          "reset-objects"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "bf-object-subscription",
+          "ft-bypass-locked",
+          "gh-actions",
+          "reset-objects"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Test and Release": {
+      "data": [],
+      "release_build_count": 25
+    }
+  },
+  "skip_failing_tests": {}
+}

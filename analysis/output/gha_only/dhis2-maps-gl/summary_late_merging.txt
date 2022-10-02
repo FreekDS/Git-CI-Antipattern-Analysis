@@ -1,0 +1,128 @@
+Missed Activity
+=========================
+Branch chore/add-test-framework has 1268 days of missed activity!
+Branch chore/ee-api-upgrade has 719 days of missed activity!
+Branch feat/event-polygons has 928 days of missed activity!
+Branch feat/popup-handling has 1014 days of missed activity!
+Branch feature/proportional-symbols has 1267 days of missed activity!
+Branch fix/DHIS2-10071 has 642 days of missed activity!
+Branch fix/DHIS2-12013-scale has 311 days of missed activity!
+Branch fix/dashboard-maps has 941 days of missed activity!
+Branch fix/eeapi-upgrade has 931 days of missed activity!
+Branch fix/jest-tests has 943 days of missed activity!
+Branch fix/popup-handling has 924 days of missed activity!
+Branch revert-34-fix/dashboard-maps has 941 days of missed activity!
+Branch revert-35-revert-34-fix/dashboard-maps has 941 days of missed activity!
+MEDIUM SEVERITY
+Branch chore/add-test-framework, 1268 seconds
+HIGH SEVERITY
+Branch chore/ee-api-upgrade, 719 seconds
+HIGH SEVERITY
+Branch feat/event-polygons, 928 seconds
+HIGH SEVERITY
+Branch feat/popup-handling, 1014 seconds
+HIGH SEVERITY
+Branch feature/proportional-symbols, 1267 seconds
+HIGH SEVERITY
+Branch fix/dashboard-maps, 941 seconds
+HIGH SEVERITY
+Branch fix/eeapi-upgrade, 931 seconds
+HIGH SEVERITY
+Branch fix/jest-tests, 943 seconds
+HIGH SEVERITY
+Branch fix/popup-handling, 924 seconds
+HIGH SEVERITY
+Branch revert-34-fix/dashboard-maps, 941 seconds
+HIGH SEVERITY
+Branch revert-35-revert-34-fix/dashboard-maps, 941 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 626.2222222222222 days
+Branch chore/add-test-framework moved away from main with 1268 days, 641.7777777777778 more than average
+Branch chore/d2-style-upgrade moved away from main with 936 days, 309.7777777777778 more than average
+Branch chore/ee-api-upgrade moved away from main with 719 days, 92.77777777777783 more than average
+Branch feat/DHIS2-9529 moved away from main with 641 days, 14.777777777777828 more than average
+Branch feat/event-polygons moved away from main with 928 days, 301.7777777777778 more than average
+Branch feat/hover-labels moved away from main with 944 days, 317.7777777777778 more than average
+Branch feat/popup-handling moved away from main with 1014 days, 387.7777777777778 more than average
+Branch feat/vector-tiles moved away from main with 1267 days, 640.7777777777778 more than average
+Branch feature/proportional-symbols moved away from main with 1267 days, 640.7777777777778 more than average
+Branch fix/DHIS2-10071 moved away from main with 642 days, 15.777777777777828 more than average
+Branch fix/boundary-layer moved away from main with 1267 days, 640.7777777777778 more than average
+Branch fix/dashboard-maps moved away from main with 941 days, 314.7777777777778 more than average
+Branch fix/eeapi-upgrade moved away from main with 936 days, 309.7777777777778 more than average
+Branch fix/jest-tests moved away from main with 943 days, 316.7777777777778 more than average
+Branch fix/popup-handling moved away from main with 924 days, 297.7777777777778 more than average
+Branch greenkeeper/initial moved away from main with 1285 days, 658.7777777777778 more than average
+Branch layer-handling moved away from main with 1175 days, 548.7777777777778 more than average
+Branch map-controls moved away from main with 951 days, 324.7777777777778 more than average
+Branch markers moved away from main with 950 days, 323.7777777777778 more than average
+Branch revert-34-fix/dashboard-maps moved away from main with 941 days, 314.7777777777778 more than average
+Branch revert-35-revert-34-fix/dashboard-maps moved away from main with 941 days, 314.7777777777778 more than average
+MEDIUM SEVERITY
+Branch chore/add-test-framework, 1268 days
+Branch feat/hover-labels, 944 days
+Branch feat/popup-handling, 1014 days
+Branch feat/vector-tiles, 1267 days
+Branch feature/proportional-symbols, 1267 days
+Branch fix/boundary-layer, 1267 days
+Branch fix/jest-tests, 943 days
+Branch greenkeeper/initial, 1285 days
+Branch layer-handling, 1175 days
+Branch map-controls, 951 days
+Branch markers, 950 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.24444444444444444 days
+Branch chore/d2-style-upgrade is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/babel/cli-7.14.8 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/babel/core-7.14.8 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/babel/plugin-proposal-class-properties-7.14.5 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/babel/plugin-proposal-object-rest-spread-7.14.7 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.14.5 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/babel/preset-env-7.14.9 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/babel/runtime-7.14.8 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/babel-jest-29.0.3 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/concurrently-6.2.0 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/concurrently-7.4.0 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/dhis2/cli-style-9.1.0 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/handlebars-4.7.7 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/hosted-git-info-2.8.9 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/husky-7.0.1 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/jest-and-types/jest-29.0.3 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/tar-4.4.15 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/ws-7.5.3 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch dependabot/npm_and_yarn/y18n-3.2.2 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch feat/DHIS2-9529 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch feat/DHIS2-13543 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch feat/flow-map is unsynced with 0 days, 0.24444444444444444 more than average
+Branch feat/hover-labels is unsynced with 0 days, 0.24444444444444444 more than average
+Branch feat/vector-tiles is unsynced with 0 days, 0.24444444444444444 more than average
+Branch fix/DHIS2-10071 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch fix/DHIS2-12013-scale is unsynced with 4 days, 4.2444444444444445 more than average
+Branch fix/DHIS2-12474 is unsynced with 0 days, 0.24444444444444444 more than average
+Branch fix/boundary-layer is unsynced with 0 days, 0.24444444444444444 more than average
+Branch greenkeeper/initial is unsynced with 0 days, 0.24444444444444444 more than average
+Branch layer-handling is unsynced with 0 days, 0.24444444444444444 more than average
+Branch map-controls is unsynced with 0 days, 0.24444444444444444 more than average
+Branch markers is unsynced with 0 days, 0.24444444444444444 more than average
+Branch master is unsynced with 0 days, 0.24444444444444444 more than average
+Branch vector-tile-features is unsynced with 0 days, 0.24444444444444444 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch chore/add-test-framework, -1 days
+Branch chore/ee-api-upgrade, -1 days
+Branch feat/event-polygons, -1 days
+Branch feat/popup-handling, -1 days
+Branch feature/proportional-symbols, -1 days
+Branch fix/DHIS2-12013-scale, 4 days
+Branch fix/dashboard-maps, -1 days
+Branch fix/eeapi-upgrade, -5 days
+Branch fix/jest-tests, -1 days
+Branch fix/popup-handling, -1 days
+Branch revert-34-fix/dashboard-maps, -1 days
+Branch revert-35-revert-34-fix/dashboard-maps, -1 days

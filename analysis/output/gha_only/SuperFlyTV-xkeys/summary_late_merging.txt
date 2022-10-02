@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+Branch develop has 470 days of missed activity!
+MEDIUM SEVERITY
+Branch develop, 470 seconds
+
+Branch Deviation
+=========================
+Average deviation: 75.75 days
+Branch chore/test-new-node-versions moved away from main with 170 days, 94.25 more than average
+Branch chore/update-dependencies moved away from main with 325 days, 249.25 more than average
+MEDIUM SEVERITY
+Branch chore/test-new-node-versions, 170 days
+HIGH SEVERITY
+Branch chore/update-dependencies, 325 days
+
+Unsynced activity
+=========================
+Average unsynced: 54.0 days
+Branch develop is unsynced with 432 days, 378.0 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch develop, 432 days

@@ -1,0 +1,54 @@
+Missed Activity
+=========================
+Branch colebemis-patch-1 has 381 days of missed activity!
+Branch colebemis-patch-3 has 373 days of missed activity!
+Branch dependabot/npm_and_yarn/docs/minimist-1.2.6 has 160 days of missed activity!
+Branch jules-HC-neutral-emphasis-fix has 451 days of missed activity!
+Branch jules-HC-neutral-emphasis-fixfix has 448 days of missed activity!
+Branch small-fixes-5 has 387 days of missed activity!
+MEDIUM SEVERITY
+Branch colebemis-patch-1, 381 seconds
+Branch colebemis-patch-3, 373 seconds
+Branch dependabot/npm_and_yarn/docs/minimist-1.2.6, 160 seconds
+Branch jules-HC-neutral-emphasis-fix, 451 seconds
+Branch jules-HC-neutral-emphasis-fixfix, 448 seconds
+Branch small-fixes-5, 387 seconds
+
+Branch Deviation
+=========================
+Average deviation: 203.89655172413794 days
+Branch HC-diff-improvements-II moved away from main with 296 days, 92.10344827586206 more than average
+Branch changeset-release/next_major moved away from main with 311 days, 107.10344827586206 more than average
+Branch colebemis-patch-1 moved away from main with 381 days, 177.10344827586206 more than average
+Branch colebemis-patch-2 moved away from main with 381 days, 177.10344827586206 more than average
+Branch colebemis-patch-3 moved away from main with 356 days, 152.10344827586206 more than average
+Branch jules-HC-neutral-emphasis-fix moved away from main with 451 days, 247.10344827586206 more than average
+Branch jules-HC-neutral-emphasis-fixfix moved away from main with 448 days, 244.10344827586206 more than average
+Branch jules-colorblind-theme-do-not-merge moved away from main with 408 days, 204.10344827586206 more than average
+Branch mp/bg-overlay-colors moved away from main with 329 days, 125.10344827586206 more than average
+Branch mp/button-visual-design-updates moved away from main with 373 days, 169.10344827586206 more than average
+Branch remove_deprecated_colors moved away from main with 363 days, 159.10344827586206 more than average
+Branch shadow-changes moved away from main with 409 days, 205.10344827586206 more than average
+Branch small-fixes-5 moved away from main with 387 days, 183.10344827586206 more than average
+MEDIUM SEVERITY
+Branch colebemis-patch-1, 381 days
+Branch colebemis-patch-2, 381 days
+Branch jules-HC-neutral-emphasis-fix, 451 days
+Branch jules-HC-neutral-emphasis-fixfix, 448 days
+Branch jules-colorblind-theme-do-not-merge, 408 days
+Branch shadow-changes, 409 days
+Branch small-fixes-5, 387 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.6206896551724138 days
+Branch colebemis-patch-3 is unsynced with 17 days, 16.379310344827587 more than average
+Branch dependabot/npm_and_yarn/docs/minimist-1.2.6 is unsynced with 4 days, 3.3793103448275863 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch colebemis-patch-3, 17 days
+Branch dependabot/npm_and_yarn/docs/minimist-1.2.6, 4 days
+Branch jules-HC-neutral-emphasis-fix, -1 days
+Branch jules-HC-neutral-emphasis-fixfix, -1 days
+Branch small-fixes-5, -1 days

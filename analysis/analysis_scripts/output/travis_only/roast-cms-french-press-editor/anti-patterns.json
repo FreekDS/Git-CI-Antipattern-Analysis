@@ -1,0 +1,67 @@
+{
+  "slow_build": {
+    "french-press-editor": {
+      "data": {
+        "2021-05-12T00:38:28Z": 63000.0,
+        "2021-05-25T01:30:07Z": 60500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 61750.0,
+      "quartiles": {
+        "q1": 61125.0,
+        "q3": 62375.0,
+        "iqr": 1250.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "153": 63000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/eventsource-1.1.1": -33,
+      "dependabot/npm_and_yarn/terser-4.8.1": -82,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/eventsource-1.1.1": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/eventsource-1.1.1",
+          "master"
+        ],
+        "high_severity": [
+          "dependabot/npm_and_yarn/terser-4.8.1"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "french-press-editor": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

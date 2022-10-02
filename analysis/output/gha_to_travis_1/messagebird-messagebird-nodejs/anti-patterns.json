@@ -1,69 +1,52 @@
 {
-  "slow_build": {
-    "messagebird": {
-      "data": {
-        "2021-03-01T15:01:10Z": 43285.71428571428
-      },
-      "tool": "Github Actions",
-      "total avg": 43285.71428571428,
-      "quartiles": {
-        "q1": 43285.71428571428,
-        "q3": 43285.71428571428,
-        "iqr": 0.0
-      },
-      "classification": {
-        "high_severity": {
-          "6": 60000,
-          "7": 54000,
-          "9": 56000,
-          "10": 53000,
-          "11": 53000
-        },
-        "medium_severity": {}
-      }
-    }
-  },
+  "slow_build": {},
   "late_merging": {
     "missed activity": {
-      "add-contacts-and-groups": 1326,
-      "bump-version-220": 1326,
-      "chore/update-readme": 441,
-      "feat/webhook-signature-jwt": 223,
-      "fix/dependency-vulnerability": 991,
-      "fix/dtslint-security-issue": 319,
+      "add-contacts-and-groups": 1357,
+      "bump-version-220": 1357,
+      "chore/update-readme": 472,
+      "dependabot/npm_and_yarn/jose-4.9.2": 0,
+      "express-middleware-stop-callback": 0,
+      "feat/webhook-signature-jwt": 254,
+      "fix/dependency-vulnerability": 1021,
+      "fix/dtslint-security-issue": 350,
       "fix/publish-workflow": 0,
-      "fix/update-dtslint": 441,
-      "fix/101-add-video": 22,
-      "fix-package-json": 1763,
+      "fix/update-dtslint": 472,
+      "fix/101-add-video": 52,
+      "fix-package-json": 1794,
       "master": 0,
-      "npm-publish-action": 740,
-      "remove-sandbox-readme": 236,
-      "remove-yarn-lock": 740,
-      "update-testing-ci": 1763,
-      "v2-3-0": 1210
+      "npm-publish-action": 771,
+      "remove-sandbox-readme": 267,
+      "remove-yarn-lock": 771,
+      "update-testing-ci": 1794,
+      "v2-3-0": 1241
     },
     "branch deviation": {
-      "add-contacts-and-groups": 1330,
-      "bump-version-220": 1326,
-      "chore/update-readme": 441,
-      "feat/webhook-signature-jwt": 223,
-      "fix/dependency-vulnerability": 991,
-      "fix/dtslint-security-issue": 319,
-      "fix/publish-workflow": 739,
-      "fix/update-dtslint": 441,
-      "fix/101-add-video": 27,
-      "fix-package-json": 1763,
+      "add-contacts-and-groups": 1360,
+      "bump-version-220": 1357,
+      "chore/update-readme": 472,
+      "dependabot/npm_and_yarn/jose-4.9.2": -92,
+      "express-middleware-stop-callback": 0,
+      "feat/webhook-signature-jwt": 254,
+      "fix/dependency-vulnerability": 1021,
+      "fix/dtslint-security-issue": 350,
+      "fix/publish-workflow": 770,
+      "fix/update-dtslint": 472,
+      "fix/101-add-video": 58,
+      "fix-package-json": 1794,
       "master": 0,
-      "npm-publish-action": 742,
-      "remove-sandbox-readme": 236,
-      "remove-yarn-lock": 740,
-      "update-testing-ci": 1763,
-      "v2-3-0": 1211
+      "npm-publish-action": 773,
+      "remove-sandbox-readme": 267,
+      "remove-yarn-lock": 771,
+      "update-testing-ci": 1794,
+      "v2-3-0": 1242
     },
     "unsynced activity": {
       "add-contacts-and-groups": -4,
       "bump-version-220": -1,
       "chore/update-readme": -1,
+      "dependabot/npm_and_yarn/jose-4.9.2": 0,
+      "express-middleware-stop-callback": -1,
       "feat/webhook-signature-jwt": -1,
       "fix/dependency-vulnerability": -1,
       "fix/dtslint-security-issue": -1,
@@ -84,7 +67,8 @@
           "add-contacts-and-groups",
           "bump-version-220",
           "fix-package-json",
-          "update-testing-ci"
+          "update-testing-ci",
+          "v2-3-0"
         ],
         "high_severity": []
       },
@@ -93,7 +77,8 @@
           "add-contacts-and-groups",
           "bump-version-220",
           "fix-package-json",
-          "update-testing-ci"
+          "update-testing-ci",
+          "v2-3-0"
         ],
         "high_severity": []
       },
@@ -103,6 +88,8 @@
           "add-contacts-and-groups",
           "bump-version-220",
           "chore/update-readme",
+          "dependabot/npm_and_yarn/jose-4.9.2",
+          "express-middleware-stop-callback",
           "feat/webhook-signature-jwt",
           "fix/dependency-vulnerability",
           "fix/dtslint-security-issue",
@@ -119,25 +106,8 @@
         ]
       }
     },
-    "build_count": 1
+    "build_count": 0
   },
-  "broken_release": {
-    "messagebird": {
-      "data": [
-        {
-          "started_at": "2021-03-01T15:52:03Z",
-          "used_tool": "Github Actions",
-          "number": 9
-        },
-        {
-          "started_at": "2021-03-01T15:54:04Z",
-          "used_tool": "Github Actions",
-          "number": 10
-        }
-      ],
-      "tool": "Github Actions",
-      "release_build_count": 2
-    }
-  },
+  "broken_release": {},
   "skip_failing_tests": {}
 }

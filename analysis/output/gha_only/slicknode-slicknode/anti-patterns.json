@@ -1,0 +1,148 @@
+{
+  "slow_build": {
+    "Deploy Documentation": {
+      "data": {
+        "2021-06-26T13:45:28Z": 37750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 37750.0,
+      "quartiles": {
+        "q1": 37750.0,
+        "q3": 37750.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "3": 39000,
+          "4": 41000,
+          "5": 47000,
+          "6": 48000,
+          "7": 41000,
+          "8": 48000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Slicknode CLI Test": {
+      "data": {
+        "2021-06-11T22:22:43Z": 4738312.5,
+        "2021-06-23T22:45:07Z": 540000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 2639156.25,
+      "quartiles": {
+        "q1": 1589578.125,
+        "q3": 3688734.375,
+        "iqr": 2099156.25
+      },
+      "classification": {
+        "high_severity": {
+          "75": 70455000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node.js CI": {
+      "data": {
+        "2021-04-08T15:37:27Z": 533000.0,
+        "2021-05-09T03:00:01Z": 623500.0,
+        "2021-06-10T00:29:31Z": 363666.6666666667
+      },
+      "tool": "Github Actions",
+      "total avg": 506722.22222222225,
+      "quartiles": {
+        "q1": 448333.3333333334,
+        "q3": 578250.0,
+        "iqr": 129916.66666666663
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "58": 604000,
+          "60": 661000,
+          "59": 600000,
+          "61": 629000,
+          "62": 618000,
+          "63": 589000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/pip/docs/mkdocs-1.2.3": 0,
+      "docs": 0,
+      "feature/graphql-query-complexity-v0.11": 192,
+      "feature/update-dependencies": 206,
+      "fix/image-auto-fields": 83,
+      "fix/test-suite-fixes": 74,
+      "master": 0,
+      "update-validator-js-dep": 21
+    },
+    "branch deviation": {
+      "dependabot/pip/docs/mkdocs-1.2.3": -1,
+      "docs": 175,
+      "feature/graphql-query-complexity-v0.11": 193,
+      "feature/update-dependencies": 206,
+      "fix/image-auto-fields": 83,
+      "fix/test-suite-fixes": 74,
+      "master": 0,
+      "update-validator-js-dep": 21
+    },
+    "unsynced activity": {
+      "dependabot/pip/docs/mkdocs-1.2.3": 0,
+      "docs": 0,
+      "feature/graphql-query-complexity-v0.11": -1,
+      "feature/update-dependencies": -1,
+      "fix/image-auto-fields": -1,
+      "fix/test-suite-fixes": -1,
+      "master": 0,
+      "update-validator-js-dep": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "feature/graphql-query-complexity-v0.11",
+          "feature/update-dependencies"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feature/graphql-query-complexity-v0.11",
+          "feature/update-dependencies"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "feature/graphql-query-complexity-v0.11",
+          "feature/update-dependencies",
+          "fix/image-auto-fields",
+          "fix/test-suite-fixes",
+          "update-validator-js-dep"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Slicknode CLI Test": {
+      "data": [
+        {
+          "started_at": "2021-06-12T19:21:55Z",
+          "used_tool": "Github Actions",
+          "number": 75
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 8
+    },
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,40 @@
+Missed Activity
+=========================
+Branch cspell-fix has 124 days of missed activity!
+Branch fix/docs-directory-lc39 has 129 days of missed activity!
+Branch fix-ts-types has 261 days of missed activity!
+MEDIUM SEVERITY
+Branch cspell-fix, 124 seconds
+Branch fix/docs-directory-lc39, 129 seconds
+Branch fix-ts-types, 261 seconds
+
+Branch Deviation
+=========================
+Average deviation: 47.5 days
+Branch 3.x moved away from main with 482 days, 434.5 more than average
+Branch cspell-fix moved away from main with 124 days, 76.5 more than average
+Branch fix/docs-directory-lc39 moved away from main with 129 days, 81.5 more than average
+Branch fix-ts-types moved away from main with 261 days, 213.5 more than average
+MEDIUM SEVERITY
+Branch fix/docs-directory-lc39, 129 days
+Branch fix-ts-types, 261 days
+HIGH SEVERITY
+Branch 3.x, 482 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.25 days
+Branch 3.x is unsynced with 0 days, 0.25 more than average
+Branch dependabot/npm_and_yarn/dotenv-expand-9.0.0 is unsynced with 0 days, 0.25 more than average
+Branch dependabot/npm_and_yarn/fastify/sensible-5.1.1 is unsynced with 0 days, 0.25 more than average
+Branch dependabot/npm_and_yarn/fastify/swagger-7.5.1 is unsynced with 0 days, 0.25 more than average
+Branch dependabot/npm_and_yarn/fastify-4.6.0 is unsynced with 0 days, 0.25 more than average
+Branch dependabot/npm_and_yarn/fastify-plugin-4.2.1 is unsynced with 0 days, 0.25 more than average
+Branch dependabot/npm_and_yarn/tsd-0.24.1 is unsynced with 0 days, 0.25 more than average
+Branch fastify-v4 is unsynced with 0 days, 0.25 more than average
+Branch master is unsynced with 0 days, 0.25 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch cspell-fix, -1 days
+Branch fix/docs-directory-lc39, -1 days
+Branch fix-ts-types, -1 days

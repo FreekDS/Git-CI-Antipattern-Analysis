@@ -1,0 +1,28 @@
+Missed Activity
+=========================
+Branch php81 has 35 days of missed activity!
+MEDIUM SEVERITY
+Branch php81, 35 seconds
+
+Branch Deviation
+=========================
+Average deviation: 321.0 days
+Branch v2.0 moved away from main with 934 days, 613.0 more than average
+Branch v3.0 moved away from main with 420 days, 99.0 more than average
+Branch v3.1.1-issue30-pridani-verzovani-js-nette3 moved away from main with 454 days, 133.0 more than average
+MEDIUM SEVERITY
+Branch v2.0, 934 days
+Branch v3.1.1-issue30-pridani-verzovani-js-nette3, 454 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.16666666666666666 days
+Branch master is unsynced with 0 days, 0.16666666666666666 more than average
+Branch recaptcha is unsynced with 0 days, 0.16666666666666666 more than average
+Branch v2.0 is unsynced with 0 days, 0.16666666666666666 more than average
+Branch v3.0 is unsynced with 0 days, 0.16666666666666666 more than average
+Branch v3.1.1-issue30-pridani-verzovani-js-nette3 is unsynced with 0 days, 0.16666666666666666 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch php81, -1 days

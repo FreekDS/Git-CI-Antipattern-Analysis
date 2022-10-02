@@ -1,0 +1,111 @@
+{
+  "slow_build": {
+    "Node CI": {
+      "data": {
+        "2021-04-18T21:27:48Z": 110166.66666666667,
+        "2021-05-17T13:19:14Z": 96000.0,
+        "2021-05-25T21:51:26Z": 100066.66666666667,
+        "2021-06-02T07:45:46Z": 130333.33333333333,
+        "2021-07-05T19:23:31Z": 117000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 110713.33333333334,
+      "quartiles": {
+        "q1": 100066.66666666667,
+        "q3": 117000.0,
+        "iqr": 16933.33333333333
+      },
+      "classification": {
+        "high_severity": {
+          "33": 145000,
+          "43": 145000,
+          "57": 148000
+        },
+        "medium_severity": {
+          "29": 127000,
+          "31": 126000,
+          "36": 123000,
+          "55": 142000,
+          "59": 135000
+        }
+      }
+    },
+    "Publish prerelease": {
+      "data": {
+        "2021-04-22T16:14:27Z": 145500.0,
+        "2021-05-30T13:12:27Z": 145666.66666666666,
+        "2021-06-08T12:05:57Z": 137000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 142722.22222222222,
+      "quartiles": {
+        "q1": 141250.0,
+        "q3": 145583.3333333333,
+        "iqr": 4333.333333333314
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "2": 147000,
+          "5": 152000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "feat/macros": 0,
+      "fix/audio-encoding": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "v1.x": 0,
+      "v2.x": 0
+    },
+    "branch deviation": {
+      "feat/macros": 287,
+      "fix/audio-encoding": 283,
+      "gh-pages": -1,
+      "master": 0,
+      "v1.x": 795,
+      "v2.x": 291
+    },
+    "unsynced activity": {
+      "feat/macros": 0,
+      "fix/audio-encoding": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "v1.x": 0,
+      "v2.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "v2.x"
+        ],
+        "high_severity": [
+          "v1.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Node CI": {
+      "data": [],
+      "release_build_count": 12
+    },
+    "Publish prerelease": {
+      "data": [],
+      "release_build_count": 4
+    }
+  },
+  "skip_failing_tests": {}
+}

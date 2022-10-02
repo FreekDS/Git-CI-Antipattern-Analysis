@@ -1,0 +1,35 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 84.45945945945945 days
+Branch 2303-modal-path-navigation moved away from main with 187 days, 102.54054054054055 more than average
+Branch 2628-source-maps moved away from main with 166 days, 81.54054054054055 more than average
+Branch 2690-disable-keyboardtab-modal-drawer moved away from main with 117 days, 32.54054054054055 more than average
+Branch backdrop-dialog-overlay moved away from main with 300 days, 215.54054054054055 more than average
+Branch core-navigate-promise moved away from main with 275 days, 190.54054054054055 more than average
+Branch fix-intent-resolution moved away from main with 268 days, 183.54054054054055 more than average
+Branch intent-hotfix moved away from main with 268 days, 183.54054054054055 more than average
+Branch mf-access-to-query-params moved away from main with 373 days, 288.5405405405405 more than average
+Branch quick-fix-contribution-broken-link-docu moved away from main with 159 days, 74.54054054054055 more than average
+Branch release-v1.22.0 moved away from main with 115 days, 30.540540540540547 more than average
+Branch webcomponent-drawer-overlap moved away from main with 297 days, 212.54054054054055 more than average
+MEDIUM SEVERITY
+Branch 2303-modal-path-navigation, 187 days
+Branch 2628-source-maps, 166 days
+Branch core-navigate-promise, 275 days
+Branch fix-intent-resolution, 268 days
+Branch intent-hotfix, 268 days
+Branch quick-fix-contribution-broken-link-docu, 159 days
+HIGH SEVERITY
+Branch backdrop-dialog-overlay, 300 days
+Branch mf-access-to-query-params, 373 days
+Branch webcomponent-drawer-overlap, 297 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

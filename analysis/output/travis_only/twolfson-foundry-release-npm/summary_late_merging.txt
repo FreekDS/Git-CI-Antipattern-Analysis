@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 2107.6 days
+Branch dev/add.cli.support moved away from main with 2456 days, 348.4000000000001 more than average
+Branch dev/document.actions moved away from main with 2455 days, 347.4000000000001 more than average
+Branch dev/fix.travis.ci moved away from main with 2811 days, 703.4000000000001 more than average
+Branch dev/move.to.updateFiles moved away from main with 2816 days, 708.4000000000001 more than average
+MEDIUM SEVERITY
+Branch dev/move.to.updateFiles, 2816 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

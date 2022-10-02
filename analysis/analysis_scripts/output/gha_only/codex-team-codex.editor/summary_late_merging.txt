@@ -1,0 +1,88 @@
+Missed Activity
+=========================
+Branch add-toolbox-titles has 1323 days of missed activity!
+Branch next has 491 days of missed activity!
+Branch next-2 has 643 days of missed activity!
+Branch release.1.6 has 1952 days of missed activity!
+Branch release/2.12 has 1200 days of missed activity!
+Branch release/2.13 has 1177 days of missed activity!
+Branch release/2.14 has 1133 days of missed activity!
+Branch release/2.15 has 1044 days of missed activity!
+Branch release/2.16 has 955 days of missed activity!
+Branch release/2.17 has 857 days of missed activity!
+Branch release/2.18 has 776 days of missed activity!
+MEDIUM SEVERITY
+Branch add-toolbox-titles, 1323 seconds
+Branch next, 491 seconds
+Branch next-2, 643 seconds
+Branch release.1.6, 1952 seconds
+Branch release/2.12, 1200 seconds
+Branch release/2.13, 1177 seconds
+Branch release/2.14, 1133 seconds
+Branch release/2.15, 1044 seconds
+Branch release/2.16, 955 seconds
+Branch release/2.17, 857 seconds
+Branch release/2.18, 776 seconds
+
+Branch Deviation
+=========================
+Average deviation: 714.5272727272727 days
+Branch add-toolbox-titles moved away from main with 1323 days, 608.4727272727273 more than average
+Branch attaches-tool-test moved away from main with 1100 days, 385.4727272727273 more than average
+Branch comments moved away from main with 1993 days, 1278.4727272727273 more than average
+Branch comments-trial-version moved away from main with 2004 days, 1289.4727272727273 more than average
+Branch feature/cbs moved away from main with 1141 days, 426.4727272727273 more than average
+Branch feature/undo-redo moved away from main with 1261 days, 546.4727272727273 more than average
+Branch inline-toolbar-improvements moved away from main with 1287 days, 572.4727272727273 more than average
+Branch localstorage-plugin moved away from main with 1980 days, 1265.4727272727273 more than average
+Branch order-inline-toolbars moved away from main with 1077 days, 362.4727272727273 more than average
+Branch personality-tool-test moved away from main with 1109 days, 394.4727272727273 more than average
+Branch refactor/rectangle-selection moved away from main with 1018 days, 303.4727272727273 more than average
+Branch release.1.5 moved away from main with 1959 days, 1244.4727272727273 more than average
+Branch release.1.6 moved away from main with 1785 days, 1070.4727272727273 more than average
+Branch release.1.7 moved away from main with 1446 days, 731.4727272727273 more than average
+Branch release.2.0 moved away from main with 1457 days, 742.4727272727273 more than average
+Branch release/2.12 moved away from main with 1196 days, 481.4727272727273 more than average
+Branch release/2.13 moved away from main with 1177 days, 462.4727272727273 more than average
+Branch release/2.14 moved away from main with 1133 days, 418.4727272727273 more than average
+Branch release/2.15 moved away from main with 1045 days, 330.4727272727273 more than average
+Branch release/2.16 moved away from main with 955 days, 240.4727272727273 more than average
+Branch release/2.17 moved away from main with 857 days, 142.4727272727273 more than average
+Branch release/2.18 moved away from main with 776 days, 61.4727272727273 more than average
+Branch tool-inputs moved away from main with 1460 days, 745.4727272727273 more than average
+Branch tunes-api moved away from main with 1285 days, 570.4727272727273 more than average
+Branch v2.0 moved away from main with 1741 days, 1026.4727272727273 more than average
+MEDIUM SEVERITY
+Branch add-toolbox-titles, 1323 days
+Branch comments, 1993 days
+Branch comments-trial-version, 2004 days
+Branch feature/undo-redo, 1261 days
+Branch inline-toolbar-improvements, 1287 days
+Branch localstorage-plugin, 1980 days
+Branch release.1.5, 1959 days
+Branch release.1.6, 1785 days
+Branch release.1.7, 1446 days
+Branch release.2.0, 1457 days
+Branch release/2.12, 1196 days
+Branch tool-inputs, 1460 days
+Branch tunes-api, 1285 days
+Branch v2.0, 1741 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 11.909090909090908 days
+Branch next is unsynced with 491 days, 479.09090909090907 more than average
+Branch release.1.6 is unsynced with 167 days, 155.0909090909091 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch next, 491 days
+Branch next-2, -1 days
+Branch release.1.6, 167 days
+Branch release/2.12, 4 days
+Branch release/2.13, -1 days
+Branch release/2.14, -1 days
+Branch release/2.15, -1 days
+Branch release/2.16, -1 days
+Branch release/2.17, -1 days
+Branch release/2.18, -1 days

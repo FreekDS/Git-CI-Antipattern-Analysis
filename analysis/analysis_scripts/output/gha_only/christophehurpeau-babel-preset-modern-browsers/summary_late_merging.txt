@@ -1,0 +1,25 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 124.16666666666667 days
+Branch babel-6 moved away from main with 1519 days, 1394.8333333333333 more than average
+Branch renovate/@pob-eslint-configs moved away from main with 130 days, 5.833333333333329 more than average
+MEDIUM SEVERITY
+Branch renovate/eslint-8.x, -47 days
+Branch renovate/eslint-plugin-prettier-4.x, -30 days
+Branch renovate/major-@pob-eslint-configs, -34 days
+Branch renovate/major-jest-monorepo, -46 days
+Branch renovate/pob-lcov-reporter-6.x, 59 days
+Branch renovate/pob-root-6.x, -59 days
+HIGH SEVERITY
+Branch babel-6, 1519 days
+Branch renovate/@pob-eslint-configs, 130 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

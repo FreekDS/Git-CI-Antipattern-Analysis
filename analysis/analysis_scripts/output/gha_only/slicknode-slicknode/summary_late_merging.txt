@@ -1,0 +1,37 @@
+Missed Activity
+=========================
+Branch feature/graphql-query-complexity-v0.11 has 192 days of missed activity!
+Branch feature/update-dependencies has 206 days of missed activity!
+Branch fix/image-auto-fields has 83 days of missed activity!
+Branch fix/test-suite-fixes has 74 days of missed activity!
+Branch update-validator-js-dep has 21 days of missed activity!
+MEDIUM SEVERITY
+Branch feature/graphql-query-complexity-v0.11, 192 seconds
+HIGH SEVERITY
+Branch feature/update-dependencies, 206 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 93.875 days
+Branch docs moved away from main with 175 days, 81.125 more than average
+Branch feature/graphql-query-complexity-v0.11 moved away from main with 193 days, 99.125 more than average
+Branch feature/update-dependencies moved away from main with 206 days, 112.125 more than average
+MEDIUM SEVERITY
+Branch feature/graphql-query-complexity-v0.11, 193 days
+Branch feature/update-dependencies, 206 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.625 days
+Branch dependabot/pip/docs/mkdocs-1.2.3 is unsynced with 0 days, 0.625 more than average
+Branch docs is unsynced with 0 days, 0.625 more than average
+Branch master is unsynced with 0 days, 0.625 more than average
+MEDIUM SEVERITY
+Branch feature/graphql-query-complexity-v0.11, -1 days
+Branch feature/update-dependencies, -1 days
+Branch fix/image-auto-fields, -1 days
+Branch fix/test-suite-fixes, -1 days
+Branch update-validator-js-dep, -1 days
+HIGH SEVERITY

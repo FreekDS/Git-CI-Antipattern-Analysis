@@ -1,0 +1,33 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -30.23076923076923 days
+Branch dependabot/npm_and_yarn/eslint-plugin-prettier-4.2.1 moved away from main with -12 days, 18.23076923076923 more than average
+Branch dependabot/npm_and_yarn/jest-and-types/jest-28.1.2 moved away from main with -12 days, 18.23076923076923 more than average
+Branch dependabot/npm_and_yarn/npm-8.12.2 moved away from main with 0 days, 30.23076923076923 more than average
+Branch dependabot/npm_and_yarn/shell-quote-1.7.3 moved away from main with -3 days, 27.23076923076923 more than average
+Branch main moved away from main with 0 days, 30.23076923076923 more than average
+Branch native-fetch moved away from main with 1 days, 31.23076923076923 more than average
+Branch oop moved away from main with 77 days, 107.23076923076923 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/cspell-6.8.1, -74 days
+Branch dependabot/npm_and_yarn/eslint-plugin-prettier-4.2.1, -12 days
+Branch dependabot/npm_and_yarn/jest-and-types/jest-28.1.2, -12 days
+Branch dependabot/npm_and_yarn/rollup/plugin-commonjs-22.0.2, -74 days
+Branch dependabot/npm_and_yarn/rollup-2.79.0, -74 days
+Branch dependabot/npm_and_yarn/shell-quote-1.7.3, -3 days
+Branch dependabot/npm_and_yarn/typedoc-0.23.13, -74 days
+Branch dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.36.1, -74 days
+Branch dependabot/npm_and_yarn/typescript-eslint/parser-5.36.1, -74 days
+Branch native-fetch, 1 days
+Branch oop, 77 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

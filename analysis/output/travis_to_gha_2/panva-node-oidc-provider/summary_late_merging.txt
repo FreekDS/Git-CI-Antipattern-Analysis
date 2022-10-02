@@ -1,0 +1,17 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 129.5 days
+Branch v6.x moved away from main with 518 days, 388.5 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch v6.x, 518 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

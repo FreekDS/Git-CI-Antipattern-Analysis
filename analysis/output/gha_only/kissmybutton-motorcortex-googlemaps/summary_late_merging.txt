@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 19.666666666666668 days
+Branch dependabot/npm_and_yarn/terser-5.14.2 moved away from main with 52 days, 32.33333333333333 more than average
+Branch release-please--branches--master--components--motorcortex-ol moved away from main with 36 days, 16.333333333333332 more than average
+Branch renovate/ol-7.x moved away from main with 28 days, 8.333333333333332 more than average
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/terser-5.14.2, 52 days
+Branch release-please--branches--master--components--motorcortex-ol, 36 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,45 @@
+Missed Activity
+=========================
+Branch chore_uptate_project has 728 days of missed activity!
+Branch fix_boundry has 814 days of missed activity!
+Branch imgbot has 890 days of missed activity!
+Branch publish has 15 days of missed activity!
+MEDIUM SEVERITY
+Branch chore_uptate_project, 728 seconds
+Branch fix_boundry, 814 seconds
+Branch imgbot, 890 seconds
+Branch publish, 15 seconds
+
+Branch Deviation
+=========================
+Average deviation: 383.3636363636364 days
+Branch 1.x moved away from main with 992 days, 608.6363636363636 more than average
+Branch chore_uptate_project moved away from main with 729 days, 345.6363636363636 more than average
+Branch feat_amap_2.0 moved away from main with 704 days, 320.6363636363636 more than average
+Branch feat_interaction moved away from main with 700 days, 316.6363636363636 more than average
+Branch feature moved away from main with 775 days, 391.6363636363636 more than average
+Branch fix/array-iterator moved away from main with 671 days, 287.6363636363636 more than average
+Branch fix_boundry moved away from main with 814 days, 430.6363636363636 more than average
+Branch fix_eventemit moved away from main with 405 days, 21.636363636363626 more than average
+Branch imgbot moved away from main with 747 days, 363.6363636363636 more than average
+Branch master_clean moved away from main with 923 days, 539.6363636363636 more than average
+Branch v2.2.2-ie11-win7-fix moved away from main with 733 days, 349.6363636363636 more than average
+MEDIUM SEVERITY
+Branch 1.x, 992 days
+Branch feature, 775 days
+Branch fix_boundry, 814 days
+Branch imgbot, 747 days
+Branch master_clean, 923 days
+Branch v2.2.2-ie11-win7-fix, 733 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 7.045454545454546 days
+Branch imgbot is unsynced with 142 days, 134.95454545454547 more than average
+Branch publish is unsynced with 15 days, 7.954545454545454 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch chore_uptate_project, -2 days
+Branch imgbot, 142 days
+Branch publish, 15 days

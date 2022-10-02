@@ -1,0 +1,22 @@
+Missed Activity
+=========================
+Branch renovate/lock-file-maintenance has 305 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/lock-file-maintenance, 305 seconds
+
+Branch Deviation
+=========================
+Average deviation: 39.666666666666664 days
+Branch renovate/p-wait-for-4.x moved away from main with 197 days, 157.33333333333334 more than average
+MEDIUM SEVERITY
+Branch renovate/lock-file-maintenance, 11 days
+HIGH SEVERITY
+Branch renovate/p-wait-for-4.x, 197 days
+
+Unsynced activity
+=========================
+Average unsynced: 48.833333333333336 days
+Branch renovate/lock-file-maintenance is unsynced with 293 days, 244.16666666666666 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch renovate/lock-file-maintenance, 293 days

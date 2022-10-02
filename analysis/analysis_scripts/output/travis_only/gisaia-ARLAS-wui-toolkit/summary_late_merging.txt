@@ -1,0 +1,25 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 249.66666666666666 days
+Branch 11.x.x moved away from main with 961 days, 711.3333333333334 more than average
+Branch 12.x.x moved away from main with 305 days, 55.33333333333334 more than average
+Branch feature/13.1.0 moved away from main with 802 days, 552.3333333333334 more than average
+Branch feature/17.X.X moved away from main with 316 days, 66.33333333333334 more than average
+Branch fix/bookmark_persistence moved away from main with 500 days, 250.33333333333334 more than average
+Branch fix/downloadCommand moved away from main with 420 days, 170.33333333333334 more than average
+MEDIUM SEVERITY
+Branch feature/13.1.0, 802 days
+Branch fix/bookmark_persistence, 500 days
+Branch fix/downloadCommand, 420 days
+HIGH SEVERITY
+Branch 11.x.x, 961 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

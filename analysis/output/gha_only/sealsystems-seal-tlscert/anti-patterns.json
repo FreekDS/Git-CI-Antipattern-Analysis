@@ -1,0 +1,187 @@
+{
+  "slow_build": {
+    "update-build-config": {
+      "data": {
+        "2021-04-08T00:45:20Z": 114750.0,
+        "2021-04-16T00:45:07Z": 120000.0,
+        "2021-04-23T00:45:08Z": 117000.0,
+        "2021-05-01T00:45:13Z": 111857.14285714286,
+        "2021-05-08T01:38:16Z": 8438875.0,
+        "2021-05-16T00:45:11Z": 110000.0,
+        "2021-05-23T00:45:17Z": 115285.71428571429,
+        "2021-05-30T00:46:02Z": 99750.0,
+        "2021-06-07T00:45:28Z": 109125.0,
+        "2021-06-15T00:44:54Z": 109750.0,
+        "2021-06-23T00:44:41Z": 110500.0,
+        "2021-07-01T00:44:06Z": 120000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 806407.7380952382,
+      "quartiles": {
+        "q1": 109937.5,
+        "q3": 117750.0,
+        "iqr": 7812.5
+      },
+      "classification": {
+        "high_severity": {
+          "107": 131000,
+          "111": 131000,
+          "117": 134000,
+          "120": 131000,
+          "121": 137000,
+          "137": 66776000,
+          "153": 141000,
+          "178": 138000,
+          "189": 135000,
+          "191": 133000
+        },
+        "medium_severity": {
+          "114": 118000,
+          "115": 121000,
+          "118": 121000,
+          "119": 126000,
+          "123": 122000,
+          "128": 123000,
+          "132": 122000,
+          "144": 122000,
+          "146": 125000,
+          "148": 119000,
+          "151": 126000,
+          "152": 120000,
+          "169": 125000,
+          "171": 122000,
+          "179": 123000,
+          "181": 122000,
+          "182": 119000,
+          "195": 128000
+        }
+      }
+    },
+    "test": {
+      "data": {
+        "2021-04-22T15:13:43Z": 125666.66666666667,
+        "2021-04-29T15:22:19Z": 89000.0,
+        "2021-05-10T01:42:56Z": 77800.0,
+        "2021-05-17T10:19:16Z": 82000.0,
+        "2021-05-24T11:58:23Z": 76500.0,
+        "2021-05-31T12:54:12Z": 78000.0,
+        "2021-06-08T08:56:08Z": 51800.0,
+        "2021-06-15T21:42:46Z": 62000.0,
+        "2021-06-28T11:37:31Z": 65500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 78696.2962962963,
+      "quartiles": {
+        "q1": 65500.0,
+        "q3": 82000.0,
+        "iqr": 16500.0
+      },
+      "classification": {
+        "high_severity": {
+          "51": 206000,
+          "52": 149000,
+          "53": 156000
+        },
+        "medium_severity": {
+          "49": 93000,
+          "55": 99000,
+          "57": 86000,
+          "60": 87000,
+          "65": 85000
+        }
+      }
+    },
+    "publish-on-npmjs-org": {
+      "data": {
+        "2021-05-31T12:58:23Z": 33000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 33000.0,
+      "quartiles": {
+        "q1": 33000.0,
+        "q3": 33000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "release": {
+      "data": {
+        "2021-04-28T00:50:25Z": 4000.0,
+        "2021-05-10T20:15:26Z": 5000.0,
+        "2021-05-31T12:55:49Z": 93500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 34166.666666666664,
+      "quartiles": {
+        "q1": 4500.0,
+        "q3": 49250.0,
+        "iqr": 44750.0
+      },
+      "classification": {
+        "high_severity": {
+          "37": 182000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/nodeenv-3.0.68": 0,
+      "dependabot/npm_and_yarn/nodeenv-3.0.75": 0,
+      "dependabot/npm_and_yarn/processenv-3.0.8": 0,
+      "fix/robot": 0,
+      "generate-cert": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/nodeenv-3.0.68": 411,
+      "dependabot/npm_and_yarn/nodeenv-3.0.75": 4,
+      "dependabot/npm_and_yarn/processenv-3.0.8": 464,
+      "fix/robot": 1383,
+      "generate-cert": 44,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/nodeenv-3.0.68": 0,
+      "dependabot/npm_and_yarn/nodeenv-3.0.75": 0,
+      "dependabot/npm_and_yarn/processenv-3.0.8": 0,
+      "fix/robot": 0,
+      "generate-cert": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/processenv-3.0.8"
+        ],
+        "high_severity": [
+          "fix/robot"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "update-build-config": {
+      "data": [],
+      "release_build_count": 91
+    },
+    "release": {
+      "data": [],
+      "release_build_count": 4
+    }
+  },
+  "skip_failing_tests": {}
+}

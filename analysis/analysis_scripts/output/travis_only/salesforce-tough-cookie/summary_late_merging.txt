@@ -1,0 +1,188 @@
+Missed Activity
+=========================
+Branch 2.1-pre has 2519 days of missed activity!
+Branch CoC-and-security has 742 days of missed activity!
+Branch MissingParamValidationIssue145 has 761 days of missed activity!
+Branch add-security-md has 742 days of missed activity!
+Branch apr2018-node-versions has 1542 days of missed activity!
+Branch changelog-md has 880 days of missed activity!
+Branch deps-2018jul30 has 1486 days of missed activity!
+Branch deps-20190826 has 1094 days of missed activity!
+Branch feat/special-use-domains has 683 days of missed activity!
+Branch fix-57 has 2477 days of missed activity!
+Branch fix-clone has 1486 days of missed activity!
+Branch fix-too-many-semicolons has 2225 days of missed activity!
+Branch gh-issue-153 has 331 days of missed activity!
+Branch inline-version has 1480 days of missed activity!
+Branch issue_195 has 702 days of missed activity!
+Branch issue-125 has 1325 days of missed activity!
+Branch issue-132 has 1325 days of missed activity!
+Branch issue-211 has 331 days of missed activity!
+Branch jar-remove-all-cookies has 1367 days of missed activity!
+Branch maint-20151001 has 2519 days of missed activity!
+Branch memstore-to-json has 2632 days of missed activity!
+Branch new-embed-ip-regex has 903 days of missed activity!
+Branch new-permutations-append has 903 days of missed activity!
+Branch no-package-lock has 1472 days of missed activity!
+Branch no-re-parser has 1643 days of missed activity!
+Branch punycode-2.1 has 1472 days of missed activity!
+Branch punycode-dep has 2130 days of missed activity!
+Branch restore-back-compat has 2221 days of missed activity!
+Branch revert-155-modernize has 1099 days of missed activity!
+Branch same-site has 1052 days of missed activity!
+Branch spaces-ReDoS has 1798 days of missed activity!
+Branch stash/no-punycode has 2676 days of missed activity!
+Branch travis-lts-verions has 1521 days of missed activity!
+Branch use-psl has 1542 days of missed activity!
+MEDIUM SEVERITY
+Branch 2.1-pre, 2519 seconds
+HIGH SEVERITY
+Branch fix-57, 2477 seconds
+HIGH SEVERITY
+Branch fix-too-many-semicolons, 2225 seconds
+HIGH SEVERITY
+Branch maint-20151001, 2519 seconds
+HIGH SEVERITY
+Branch memstore-to-json, 2632 seconds
+HIGH SEVERITY
+Branch no-re-parser, 1643 seconds
+HIGH SEVERITY
+Branch punycode-dep, 2130 seconds
+HIGH SEVERITY
+Branch restore-back-compat, 2221 seconds
+HIGH SEVERITY
+Branch spaces-ReDoS, 1798 seconds
+HIGH SEVERITY
+Branch stash/no-punycode, 2676 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1403.1555555555556 days
+Branch 2.1-pre moved away from main with 2519 days, 1115.8444444444444 more than average
+Branch apr2018-node-versions moved away from main with 1542 days, 138.84444444444443 more than average
+Branch deps-2018jul30 moved away from main with 1486 days, 82.84444444444443 more than average
+Branch eslint moved away from main with 1770 days, 366.84444444444443 more than average
+Branch fix-57 moved away from main with 2477 days, 1073.8444444444444 more than average
+Branch fix-clone moved away from main with 1522 days, 118.84444444444443 more than average
+Branch fix-too-many-semicolons moved away from main with 2226 days, 822.8444444444444 more than average
+Branch inline-version moved away from main with 1486 days, 82.84444444444443 more than average
+Branch jar-remove-all-cookies moved away from main with 1430 days, 26.844444444444434 more than average
+Branch maint-20151001 moved away from main with 2519 days, 1115.8444444444444 more than average
+Branch memstore-to-json moved away from main with 2632 days, 1228.8444444444444 more than average
+Branch modern-travis moved away from main with 2226 days, 822.8444444444444 more than average
+Branch next moved away from main with 2130 days, 726.8444444444444 more than average
+Branch no-package-lock moved away from main with 1486 days, 82.84444444444443 more than average
+Branch no-re-parser moved away from main with 1797 days, 393.84444444444443 more than average
+Branch punycode-2.1 moved away from main with 1486 days, 82.84444444444443 more than average
+Branch punycode-dep moved away from main with 2130 days, 726.8444444444444 more than average
+Branch restore-back-compat moved away from main with 2221 days, 817.8444444444444 more than average
+Branch spaces-ReDoS moved away from main with 1798 days, 394.84444444444443 more than average
+Branch stash/issue-16 moved away from main with 3123 days, 1719.8444444444444 more than average
+Branch stash/no-punycode moved away from main with 2676 days, 1272.8444444444444 more than average
+Branch travis-lts-verions moved away from main with 1522 days, 118.84444444444443 more than average
+Branch use-psl moved away from main with 1542 days, 138.84444444444443 more than average
+MEDIUM SEVERITY
+Branch 2.1-pre, 2519 days
+Branch fix-57, 2477 days
+Branch fix-too-many-semicolons, 2226 days
+Branch maint-20151001, 2519 days
+Branch memstore-to-json, 2632 days
+Branch modern-travis, 2226 days
+Branch next, 2130 days
+Branch punycode-dep, 2130 days
+Branch restore-back-compat, 2221 days
+Branch stash/issue-16, 3123 days
+Branch stash/no-punycode, 2676 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -15.977777777777778 days
+Branch 2.1-pre is unsynced with -1 days, 14.977777777777778 more than average
+Branch CoC-and-security is unsynced with -1 days, 14.977777777777778 more than average
+Branch MissingParamValidationIssue145 is unsynced with -1 days, 14.977777777777778 more than average
+Branch add-security-md is unsynced with -1 days, 14.977777777777778 more than average
+Branch apr2018-node-versions is unsynced with -1 days, 14.977777777777778 more than average
+Branch ccasey/239_cache_psl_lookup is unsynced with 0 days, 15.977777777777778 more than average
+Branch changelog-md is unsynced with -1 days, 14.977777777777778 more than average
+Branch deps-2018jul30 is unsynced with -1 days, 14.977777777777778 more than average
+Branch deps-20190108 is unsynced with 0 days, 15.977777777777778 more than average
+Branch deps-20190826 is unsynced with -1 days, 14.977777777777778 more than average
+Branch embed-ip-regex is unsynced with 0 days, 15.977777777777778 more than average
+Branch eslint is unsynced with 0 days, 15.977777777777778 more than average
+Branch feat/special-use-domains is unsynced with -1 days, 14.977777777777778 more than average
+Branch fix/246_allow_set_cookie_with_localhost_and_other_special_use_domains is unsynced with -1 days, 14.977777777777778 more than average
+Branch fix-57 is unsynced with -1 days, 14.977777777777778 more than average
+Branch fix-too-many-semicolons is unsynced with -1 days, 14.977777777777778 more than average
+Branch inline-version is unsynced with -7 days, 8.977777777777778 more than average
+Branch issue_195 is unsynced with -4 days, 11.977777777777778 more than average
+Branch issue-125 is unsynced with -1 days, 14.977777777777778 more than average
+Branch issue-132 is unsynced with -1 days, 14.977777777777778 more than average
+Branch issue-211 is unsynced with -1 days, 14.977777777777778 more than average
+Branch maint-20151001 is unsynced with -1 days, 14.977777777777778 more than average
+Branch master is unsynced with 0 days, 15.977777777777778 more than average
+Branch memstore-to-json is unsynced with -1 days, 14.977777777777778 more than average
+Branch modern-travis is unsynced with 0 days, 15.977777777777778 more than average
+Branch new-embed-ip-regex is unsynced with -1 days, 14.977777777777778 more than average
+Branch new-permutations-append is unsynced with -7 days, 8.977777777777778 more than average
+Branch next is unsynced with 0 days, 15.977777777777778 more than average
+Branch no-package-lock is unsynced with -15 days, 0.9777777777777779 more than average
+Branch permutations-append is unsynced with 0 days, 15.977777777777778 more than average
+Branch punycode-2.1 is unsynced with -15 days, 0.9777777777777779 more than average
+Branch punycode-dep is unsynced with -1 days, 14.977777777777778 more than average
+Branch restore-back-compat is unsynced with -1 days, 14.977777777777778 more than average
+Branch revert-155-modernize is unsynced with -1 days, 14.977777777777778 more than average
+Branch spaces-ReDoS is unsynced with -1 days, 14.977777777777778 more than average
+Branch stash/issue-16 is unsynced with 0 days, 15.977777777777778 more than average
+Branch stash/no-punycode is unsynced with -1 days, 14.977777777777778 more than average
+Branch travis-lts-verions is unsynced with -1 days, 14.977777777777778 more than average
+Branch typescript_support is unsynced with 0 days, 15.977777777777778 more than average
+Branch use-psl is unsynced with -1 days, 14.977777777777778 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch 2.1-pre, -1 days
+Branch CoC-and-security, -1 days
+Branch MissingParamValidationIssue145, -1 days
+Branch add-security-md, -1 days
+Branch apr2018-node-versions, -1 days
+Branch ccasey/239_cache_psl_lookup, 0 days
+Branch changelog-md, -1 days
+Branch deps-2018jul30, -1 days
+Branch deps-20190108, 0 days
+Branch deps-20190826, -1 days
+Branch embed-ip-regex, 0 days
+Branch eslint, 0 days
+Branch feat/special-use-domains, -1 days
+Branch fix/246_allow_set_cookie_with_localhost_and_other_special_use_domains, -1 days
+Branch fix-57, -1 days
+Branch fix-clone, -36 days
+Branch fix-too-many-semicolons, -1 days
+Branch gh-issue-153, -145 days
+Branch inline-version, -7 days
+Branch issue_195, -4 days
+Branch issue-125, -1 days
+Branch issue-132, -1 days
+Branch issue-211, -1 days
+Branch jar-remove-all-cookies, -64 days
+Branch maint-20151001, -1 days
+Branch master, 0 days
+Branch memstore-to-json, -1 days
+Branch modern-travis, 0 days
+Branch new-embed-ip-regex, -1 days
+Branch new-permutations-append, -7 days
+Branch next, 0 days
+Branch no-package-lock, -15 days
+Branch no-re-parser, -155 days
+Branch permutations-append, 0 days
+Branch punycode-2.1, -15 days
+Branch punycode-dep, -1 days
+Branch restore-back-compat, -1 days
+Branch revert-155-modernize, -1 days
+Branch same-site, -246 days
+Branch spaces-ReDoS, -1 days
+Branch stash/issue-16, 0 days
+Branch stash/no-punycode, -1 days
+Branch travis-lts-verions, -1 days
+Branch typescript_support, 0 days
+Branch use-psl, -1 days

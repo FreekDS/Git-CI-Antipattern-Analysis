@@ -11,13 +11,13 @@
       "v1": 0
     },
     "branch deviation": {
-      "gh-pages": 1,
-      "latest": 343,
-      "lg-zoom": 48,
+      "gh-pages": 10,
+      "latest": 487,
+      "lg-zoom": 80,
       "master": 0,
-      "next": 102,
-      "strings": 149,
-      "v1": 359
+      "next": 44,
+      "strings": 292,
+      "v1": 502
     },
     "unsynced activity": {
       "gh-pages": 0,

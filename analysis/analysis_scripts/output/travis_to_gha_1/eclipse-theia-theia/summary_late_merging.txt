@@ -1,0 +1,624 @@
+Missed Activity
+=========================
+Branch GH-1244 has 1370 days of missed activity!
+Branch GH-1352 has 1443 days of missed activity!
+Branch GH-2733 has 1475 days of missed activity!
+Branch GH-2767 has 1422 days of missed activity!
+Branch GH-3010 has 1443 days of missed activity!
+Branch GH-3071 has 1441 days of missed activity!
+Branch GH-3197 has 1422 days of missed activity!
+Branch GH-4644 has 1273 days of missed activity!
+Branch GH-5578 has 1069 days of missed activity!
+Branch GH-9685 has 440 days of missed activity!
+Branch GH-10751 has 212 days of missed activity!
+Branch THEIA-8453 has 699 days of missed activity!
+Branch TerminalSelectionColor has 1598 days of missed activity!
+Branch alextugarev/plugin-host-swallows-7084 has 952 days of missed activity!
+Branch at/debug-progress has 1115 days of missed activity!
+Branch at/fix-cr has 1205 days of missed activity!
+Branch at/fix-git-watcher has 1070 days of missed activity!
+Branch at/notification-center has 1124 days of missed activity!
+Branch at/registerDeclarationProvider has 1097 days of missed activity!
+Branch at/revert-pr5619-partially has 1083 days of missed activity!
+Branch at/scm-cleanup has 1203 days of missed activity!
+Branch at/withProgress-fix has 1104 days of missed activity!
+Branch bash has 645 days of missed activity!
+Branch change-minibrowser-link-color has 1567 days of missed activity!
+Branch fb/update-eslint has 660 days of missed activity!
+Branch fix-api has 702 days of missed activity!
+Branch fix-declaration has 1307 days of missed activity!
+Branch fix-external-plugins has 1079 days of missed activity!
+Branch fix-signature has 1332 days of missed activity!
+Branch fix-sourcemaps--monaco-editor has 671 days of missed activity!
+Branch fix-terminal-plugin-api-docs has 1403 days of missed activity!
+Branch fixTheiaInTheIframeAndStartedWithProtectedConnection2 has 1232 days of missed activity!
+Branch fs has 841 days of missed activity!
+Branch jf/winElectronEnv has 139 days of missed activity!
+Branch jk/gh6108 has 936 days of missed activity!
+Branch mp/electron-update has 230 days of missed activity!
+Branch mp/header-fix has 204 days of missed activity!
+Branch mp/ts-override has 211 days of missed activity!
+Branch mp/typedoc-fix has 351 days of missed activity!
+Branch msujew/copy-webpack-monaco has 209 days of missed activity!
+Branch msujew/http-proxy has 111 days of missed activity!
+Branch msujew/localization-cli has 215 days of missed activity!
+Branch msujew/localization-eslint has 209 days of missed activity!
+Branch msujew/nls-extraction has 203 days of missed activity!
+Branch msujew/proxy-security-token has 111 days of missed activity!
+Branch msujew/socket-io has 211 days of missed activity!
+Branch operatingsystem has 1331 days of missed activity!
+Branch output-dependencies has 672 days of missed activity!
+Branch release/1.17.0 has 384 days of missed activity!
+Branch release_1_22_0 has 230 days of missed activity!
+Branch release/1.22.1 has 229 days of missed activity!
+Branch release/1.24.0 has 167 days of missed activity!
+Branch release/1.25.0 has 139 days of missed activity!
+Branch release/1.26.0 has 111 days of missed activity!
+Branch release/1.27.0 has 76 days of missed activity!
+Branch release/1.28.0 has 48 days of missed activity!
+Branch release/1.29.0 has 20 days of missed activity!
+Branch replace-tabs has 700 days of missed activity!
+Branch se/terminal-fonts has 1303 days of missed activity!
+Branch svenefftinge-patch-1 has 1370 days of missed activity!
+Branch tasks has 765 days of missed activity!
+Branch tree has 600 days of missed activity!
+Branch tsmaeder-separate-fixup-commits has 454 days of missed activity!
+Branch unpin-ripgrep has 775 days of missed activity!
+Branch v1.9.0 has 637 days of missed activity!
+Branch vf/changelog-1.22 has 230 days of missed activity!
+Branch vf/changelog-1.26 has 111 days of missed activity!
+Branch vf/fix-quick-commands has 393 days of missed activity!
+Branch vf/runtime-import-check has 358 days of missed activity!
+Branch vf/theia-v1.23.0 has 202 days of missed activity!
+Branch vf/yarn-upgrade has 433 days of missed activity!
+Branch vf/1.20.0 has 293 days of missed activity!
+MEDIUM SEVERITY
+Branch GH-10751, 212 seconds
+HIGH SEVERITY
+Branch jf/winElectronEnv, 139 seconds
+HIGH SEVERITY
+Branch mp/electron-update, 230 seconds
+HIGH SEVERITY
+Branch mp/header-fix, 204 seconds
+HIGH SEVERITY
+Branch mp/ts-override, 211 seconds
+HIGH SEVERITY
+Branch msujew/copy-webpack-monaco, 209 seconds
+HIGH SEVERITY
+Branch msujew/localization-cli, 215 seconds
+HIGH SEVERITY
+Branch msujew/localization-eslint, 209 seconds
+HIGH SEVERITY
+Branch msujew/nls-extraction, 203 seconds
+HIGH SEVERITY
+Branch msujew/socket-io, 211 seconds
+HIGH SEVERITY
+Branch release_1_22_0, 230 seconds
+HIGH SEVERITY
+Branch release/1.22.1, 229 seconds
+HIGH SEVERITY
+Branch release/1.24.0, 167 seconds
+HIGH SEVERITY
+Branch release/1.25.0, 139 seconds
+HIGH SEVERITY
+Branch vf/changelog-1.22, 230 seconds
+HIGH SEVERITY
+Branch vf/theia-v1.23.0, 202 seconds
+HIGH SEVERITY
+Branch GH-1244, 1370 seconds
+Branch GH-1352, 1443 seconds
+Branch GH-2733, 1475 seconds
+Branch GH-2767, 1422 seconds
+Branch GH-3010, 1443 seconds
+Branch GH-3071, 1441 seconds
+Branch GH-3197, 1422 seconds
+Branch GH-4644, 1273 seconds
+Branch GH-5578, 1069 seconds
+Branch GH-9685, 440 seconds
+Branch THEIA-8453, 699 seconds
+Branch TerminalSelectionColor, 1598 seconds
+Branch alextugarev/plugin-host-swallows-7084, 952 seconds
+Branch at/debug-progress, 1115 seconds
+Branch at/fix-cr, 1205 seconds
+Branch at/fix-git-watcher, 1070 seconds
+Branch at/notification-center, 1124 seconds
+Branch at/registerDeclarationProvider, 1097 seconds
+Branch at/revert-pr5619-partially, 1083 seconds
+Branch at/scm-cleanup, 1203 seconds
+Branch at/withProgress-fix, 1104 seconds
+Branch bash, 645 seconds
+Branch change-minibrowser-link-color, 1567 seconds
+Branch fb/update-eslint, 660 seconds
+Branch fix-api, 702 seconds
+Branch fix-declaration, 1307 seconds
+Branch fix-external-plugins, 1079 seconds
+Branch fix-signature, 1332 seconds
+Branch fix-sourcemaps--monaco-editor, 671 seconds
+Branch fix-terminal-plugin-api-docs, 1403 seconds
+Branch fixTheiaInTheIframeAndStartedWithProtectedConnection2, 1232 seconds
+Branch fs, 841 seconds
+Branch jk/gh6108, 936 seconds
+Branch mp/typedoc-fix, 351 seconds
+Branch operatingsystem, 1331 seconds
+Branch output-dependencies, 672 seconds
+Branch release/1.17.0, 384 seconds
+Branch replace-tabs, 700 seconds
+Branch se/terminal-fonts, 1303 seconds
+Branch svenefftinge-patch-1, 1370 seconds
+Branch tasks, 765 seconds
+Branch tree, 600 seconds
+Branch tsmaeder-separate-fixup-commits, 454 seconds
+Branch unpin-ripgrep, 775 seconds
+Branch v1.9.0, 637 seconds
+Branch vf/fix-quick-commands, 393 seconds
+Branch vf/runtime-import-check, 358 seconds
+Branch vf/yarn-upgrade, 433 seconds
+Branch vf/1.20.0, 293 seconds
+
+Branch Deviation
+=========================
+Average deviation: 659.7003745318352 days
+Branch 0.6.1 moved away from main with 1223 days, 563.2996254681648 more than average
+Branch 0.7.1 moved away from main with 1199 days, 539.2996254681648 more than average
+Branch 0.7.2 moved away from main with 1185 days, 525.2996254681648 more than average
+Branch 0.16.1 moved away from main with 924 days, 264.2996254681648 more than average
+Branch CHE-9990-2 moved away from main with 1506 days, 846.2996254681648 more than average
+Branch CHE-12564_1 moved away from main with 1287 days, 627.2996254681648 more than average
+Branch GH-1244 moved away from main with 1370 days, 710.2996254681648 more than average
+Branch GH-1352 moved away from main with 1444 days, 784.2996254681648 more than average
+Branch GH-2733 moved away from main with 1475 days, 815.2996254681648 more than average
+Branch GH-2767 moved away from main with 1430 days, 770.2996254681648 more than average
+Branch GH-3010 moved away from main with 1447 days, 787.2996254681648 more than average
+Branch GH-3071 moved away from main with 1441 days, 781.2996254681648 more than average
+Branch GH-3197 moved away from main with 1422 days, 762.2996254681648 more than average
+Branch GH-3450 moved away from main with 1176 days, 516.2996254681648 more than average
+Branch GH-4644 moved away from main with 1273 days, 613.2996254681648 more than average
+Branch GH-5578 moved away from main with 1069 days, 409.2996254681648 more than average
+Branch GH-5820 moved away from main with 1141 days, 481.2996254681648 more than average
+Branch JB/GH-3338 moved away from main with 1392 days, 732.2996254681648 more than average
+Branch Liang/addConfig moved away from main with 812 days, 152.29962546816478 more than average
+Branch Liang/addIdToTaskConfig moved away from main with 871 days, 211.29962546816478 more than average
+Branch Liang/deprecateTerminalWidgetImpl moved away from main with 886 days, 226.29962546816478 more than average
+Branch Liang/run_active_task moved away from main with 1017 days, 357.2996254681648 more than average
+Branch Liang/task_config_validation_error moved away from main with 1046 days, 386.2996254681648 more than average
+Branch Liang/taskIdDraft moved away from main with 829 days, 169.29962546816478 more than average
+Branch THEIA-8453 moved away from main with 700 days, 40.29962546816478 more than average
+Branch TerminalSelectionColor moved away from main with 1601 days, 941.2996254681648 more than average
+Branch WebviewException moved away from main with 1031 days, 371.2996254681648 more than average
+Branch ab/backgroundTasks moved away from main with 1035 days, 375.2996254681648 more than average
+Branch ab/theia-tests moved away from main with 1118 days, 458.2996254681648 more than average
+Branch ak/close_on_explicit_user_delete moved away from main with 778 days, 118.29962546816478 more than average
+Branch ak/drop_uuid_typings moved away from main with 849 days, 189.29962546816478 more than average
+Branch ak/fix_vscode_open_selection moved away from main with 672 days, 12.299625468164777 more than average
+Branch ak/keytar moved away from main with 883 days, 223.29962546816478 more than average
+Branch ak/project_references moved away from main with 1331 days, 671.2996254681648 more than average
+Branch ak/support_jupyter_notebooks moved away from main with 890 days, 230.29962546816478 more than average
+Branch akosyakov/cut-copy-paste-keyboard-7542 moved away from main with 847 days, 187.29962546816478 more than average
+Branch akosyakov/inconsistent-vscode-workspace-6895 moved away from main with 969 days, 309.2996254681648 more than average
+Branch akosyakov/use-debug-icon-vscoode-6794 moved away from main with 776 days, 116.29962546816478 more than average
+Branch akosyakov/vscode-window-showquickpick-5764 moved away from main with 916 days, 256.2996254681648 more than average
+Branch akosyakov/workspaceservice-should-7220 moved away from main with 931 days, 271.2996254681648 more than average
+Branch alextugarev/plugin-host-swallows-7084 moved away from main with 952 days, 292.2996254681648 more than average
+Branch at/call-hierarchy moved away from main with 1321 days, 661.2996254681648 more than average
+Branch at/debug-progress moved away from main with 1120 days, 460.2996254681648 more than average
+Branch at/fix-cr moved away from main with 1205 days, 545.2996254681648 more than average
+Branch at/fix-git-watcher moved away from main with 1070 days, 410.2996254681648 more than average
+Branch at/git-status moved away from main with 1099 days, 439.2996254681648 more than average
+Branch at/notification-center moved away from main with 1125 days, 465.2996254681648 more than average
+Branch at/registerDeclarationProvider moved away from main with 1098 days, 438.2996254681648 more than average
+Branch at/revert-pr5619-partially moved away from main with 1083 days, 423.2996254681648 more than average
+Branch at/scm-cleanup moved away from main with 1209 days, 549.2996254681648 more than average
+Branch at/testing moved away from main with 1080 days, 420.2996254681648 more than average
+Branch at/wip moved away from main with 933 days, 273.2996254681648 more than average
+Branch at/wip-gh-5743 moved away from main with 1154 days, 494.2996254681648 more than average
+Branch at/withProgress-fix moved away from main with 1104 days, 444.2996254681648 more than average
+Branch by-default-open-html-file-in-preview moved away from main with 705 days, 45.29962546816478 more than average
+Branch change-content-security-policy moved away from main with 813 days, 153.29962546816478 more than average
+Branch change-minibrowser-link-color moved away from main with 1568 days, 908.2996254681648 more than average
+Branch che-7.0.0 moved away from main with 1128 days, 468.2996254681648 more than average
+Branch codeowner_test moved away from main with 1131 days, 471.2996254681648 more than average
+Branch dave_smith moved away from main with 1392 days, 732.2996254681648 more than average
+Branch eclipse_foundation_submission moved away from main with 1434 days, 774.2996254681648 more than average
+Branch fb/update-eslint moved away from main with 660 days, 0.299625468164777 more than average
+Branch findTextTerminalWidget moved away from main with 1189 days, 529.2996254681648 more than average
+Branch fix-api moved away from main with 703 days, 43.29962546816478 more than average
+Branch fix-declaration moved away from main with 1307 days, 647.2996254681648 more than average
+Branch fix-external-plugins moved away from main with 1079 days, 419.2996254681648 more than average
+Branch fix-signature moved away from main with 1336 days, 676.2996254681648 more than average
+Branch fix-sourcemaps--monaco-editor moved away from main with 671 days, 11.299625468164777 more than average
+Branch fix-terminal-plugin-api-docs moved away from main with 1403 days, 743.2996254681648 more than average
+Branch fixTheiaInTheIframeAndStartedWithProtectedConnection2 moved away from main with 1232 days, 572.2996254681648 more than average
+Branch fixWebViewUndefinedException moved away from main with 1030 days, 370.2996254681648 more than average
+Branch fs moved away from main with 842 days, 182.29962546816478 more than average
+Branch git-diff moved away from main with 1694 days, 1034.2996254681648 more than average
+Branch git-navigable-list-widget-react-migration moved away from main with 1532 days, 872.2996254681648 more than average
+Branch history-css moved away from main with 660 days, 0.299625468164777 more than average
+Branch jk/gh3791 moved away from main with 1374 days, 714.2996254681648 more than average
+Branch jk/gh6108 moved away from main with 937 days, 277.2996254681648 more than average
+Branch jschardet moved away from main with 764 days, 104.29962546816478 more than average
+Branch jx/nodejs-stock moved away from main with 765 days, 105.29962546816478 more than average
+Branch logPath moved away from main with 1375 days, 715.2996254681648 more than average
+Branch mp/dup-dep moved away from main with 915 days, 255.29962546816478 more than average
+Branch mp/es6 moved away from main with 1113 days, 453.2996254681648 more than average
+Branch mp/example-hybrid moved away from main with 1455 days, 795.2996254681648 more than average
+Branch mp/fix-deprecations moved away from main with 749 days, 89.29962546816478 more than average
+Branch mp/peer-dependencies moved away from main with 1125 days, 465.2996254681648 more than average
+Branch on-did-change-configuration--leak moved away from main with 740 days, 80.29962546816478 more than average
+Branch operatingsystem moved away from main with 1331 days, 671.2996254681648 more than average
+Branch output-dependencies moved away from main with 675 days, 15.299625468164777 more than average
+Branch outputWidgetUseTermWidget moved away from main with 1220 days, 560.2996254681648 more than average
+Branch pathTestForRemoteBinary moved away from main with 1186 days, 526.2996254681648 more than average
+Branch plugin-ext-open moved away from main with 1444 days, 784.2996254681648 more than average
+Branch process-args moved away from main with 1447 days, 787.2996254681648 more than average
+Branch queryWorkAround moved away from main with 1450 days, 790.2996254681648 more than average
+Branch replace-tabs moved away from main with 700 days, 40.29962546816478 more than average
+Branch se/increase_fs_watchers moved away from main with 1040 days, 380.2996254681648 more than average
+Branch se/terminal-fonts moved away from main with 1303 days, 643.2996254681648 more than average
+Branch se/xtend-support moved away from main with 1502 days, 842.2996254681648 more than average
+Branch se/xterm-update moved away from main with 1305 days, 645.2996254681648 more than average
+Branch search-in-workspace-react-tree moved away from main with 1538 days, 878.2996254681648 more than average
+Branch serialize-webview moved away from main with 740 days, 80.29962546816478 more than average
+Branch simark/process-async moved away from main with 1406 days, 746.2996254681648 more than average
+Branch simark/python-venv moved away from main with 1453 days, 793.2996254681648 more than average
+Branch skip-duplicates moved away from main with 1425 days, 765.2996254681648 more than average
+Branch split-terminal-composition moved away from main with 1283 days, 623.2996254681648 more than average
+Branch splitTerminal moved away from main with 1290 days, 630.2996254681648 more than average
+Branch svenefftinge-patch-1 moved away from main with 1371 days, 711.2996254681648 more than average
+Branch tasks moved away from main with 765 days, 105.29962546816478 more than average
+Branch terminalCopyOnSelection moved away from main with 1038 days, 378.2996254681648 more than average
+Branch theia#2786 moved away from main with 1426 days, 766.2996254681648 more than average
+Branch theia#4339 moved away from main with 1258 days, 598.2996254681648 more than average
+Branch ui-test-temp-workspace moved away from main with 1447 days, 787.2996254681648 more than average
+Branch unpin-ripgrep moved away from main with 775 days, 115.29962546816478 more than average
+Branch useAddressDep moved away from main with 1118 days, 458.2996254681648 more than average
+Branch vdvd moved away from main with 1337 days, 677.2996254681648 more than average
+Branch vf/GH-6936 moved away from main with 967 days, 307.2996254681648 more than average
+Branch vf/browser-context-menu moved away from main with 1059 days, 399.2996254681648 more than average
+Branch vf/debug-console-restoration moved away from main with 779 days, 119.29962546816478 more than average
+Branch vf/gh-7582 moved away from main with 791 days, 131.29962546816478 more than average
+Branch vplugin-id moved away from main with 1424 days, 764.2996254681648 more than average
+Branch waitfor moved away from main with 1447 days, 787.2996254681648 more than average
+Branch yargs moved away from main with 756 days, 96.29962546816478 more than average
+MEDIUM SEVERITY
+Branch 0.6.1, 1223 days
+Branch 0.7.1, 1199 days
+Branch 0.7.2, 1185 days
+Branch CHE-9990-2, 1506 days
+Branch CHE-12564_1, 1287 days
+Branch GH-1244, 1370 days
+Branch GH-1352, 1444 days
+Branch GH-2733, 1475 days
+Branch GH-2767, 1430 days
+Branch GH-3010, 1447 days
+Branch GH-3071, 1441 days
+Branch GH-3197, 1422 days
+Branch GH-3450, 1176 days
+Branch GH-4644, 1273 days
+Branch GH-5820, 1141 days
+Branch JB/GH-3338, 1392 days
+Branch TerminalSelectionColor, 1601 days
+Branch ab/theia-tests, 1118 days
+Branch ak/project_references, 1331 days
+Branch at/call-hierarchy, 1321 days
+Branch at/debug-progress, 1120 days
+Branch at/fix-cr, 1205 days
+Branch at/git-status, 1099 days
+Branch at/notification-center, 1125 days
+Branch at/scm-cleanup, 1209 days
+Branch at/wip-gh-5743, 1154 days
+Branch at/withProgress-fix, 1104 days
+Branch change-minibrowser-link-color, 1568 days
+Branch che-7.0.0, 1128 days
+Branch codeowner_test, 1131 days
+Branch dave_smith, 1392 days
+Branch eclipse_foundation_submission, 1434 days
+Branch findTextTerminalWidget, 1189 days
+Branch fix-declaration, 1307 days
+Branch fix-signature, 1336 days
+Branch fix-terminal-plugin-api-docs, 1403 days
+Branch fixTheiaInTheIframeAndStartedWithProtectedConnection2, 1232 days
+Branch git-diff, 1694 days
+Branch git-navigable-list-widget-react-migration, 1532 days
+Branch jk/gh3791, 1374 days
+Branch logPath, 1375 days
+Branch mp/es6, 1113 days
+Branch mp/example-hybrid, 1455 days
+Branch mp/peer-dependencies, 1125 days
+Branch operatingsystem, 1331 days
+Branch outputWidgetUseTermWidget, 1220 days
+Branch pathTestForRemoteBinary, 1186 days
+Branch plugin-ext-open, 1444 days
+Branch process-args, 1447 days
+Branch queryWorkAround, 1450 days
+Branch se/terminal-fonts, 1303 days
+Branch se/xtend-support, 1502 days
+Branch se/xterm-update, 1305 days
+Branch search-in-workspace-react-tree, 1538 days
+Branch simark/process-async, 1406 days
+Branch simark/python-venv, 1453 days
+Branch skip-duplicates, 1425 days
+Branch split-terminal-composition, 1283 days
+Branch splitTerminal, 1290 days
+Branch svenefftinge-patch-1, 1371 days
+Branch theia#2786, 1426 days
+Branch theia#4339, 1258 days
+Branch ui-test-temp-workspace, 1447 days
+Branch useAddressDep, 1118 days
+Branch vdvd, 1337 days
+Branch vplugin-id, 1424 days
+Branch waitfor, 1447 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.6741573033707865 days
+Branch 0.6.1 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch 0.7.1 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch 0.7.2 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch 0.16.1 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch CHE-9990-2 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch CHE-12564_1 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch GH-3450 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch GH-5820 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch JB/GH-3338 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch Liang/addConfig is unsynced with 0 days, 0.6741573033707865 more than average
+Branch Liang/addIdToTaskConfig is unsynced with 0 days, 0.6741573033707865 more than average
+Branch Liang/deprecateTerminalWidgetImpl is unsynced with 0 days, 0.6741573033707865 more than average
+Branch Liang/run_active_task is unsynced with 0 days, 0.6741573033707865 more than average
+Branch Liang/task_config_validation_error is unsynced with 0 days, 0.6741573033707865 more than average
+Branch Liang/taskIdDraft is unsynced with 0 days, 0.6741573033707865 more than average
+Branch Release-milestone-updae is unsynced with 0 days, 0.6741573033707865 more than average
+Branch WebviewException is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ab/backgroundTasks is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ab/theia-tests is unsynced with 0 days, 0.6741573033707865 more than average
+Branch activity is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ak/close_on_explicit_user_delete is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ak/drop_uuid_typings is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ak/fix_vscode_open_selection is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ak/keytar is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ak/project_references is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ak/support_jupyter_notebooks is unsynced with 0 days, 0.6741573033707865 more than average
+Branch akosyakov/cut-copy-paste-keyboard-7542 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch akosyakov/inconsistent-vscode-workspace-6895 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch akosyakov/use-debug-icon-vscoode-6794 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch akosyakov/vscode-window-showquickpick-5764 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch akosyakov/workspaceservice-should-7220 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch asl/dynamic-debug-config-view-draft is unsynced with 0 days, 0.6741573033707865 more than average
+Branch asl/launch_fail_undefined_variable is unsynced with 0 days, 0.6741573033707865 more than average
+Branch at/call-hierarchy is unsynced with 0 days, 0.6741573033707865 more than average
+Branch at/git-status is unsynced with 0 days, 0.6741573033707865 more than average
+Branch at/testing is unsynced with 0 days, 0.6741573033707865 more than average
+Branch at/wip is unsynced with 0 days, 0.6741573033707865 more than average
+Branch at/wip-gh-5743 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch bugfix/diff-editor-open-and-scroll is unsynced with 0 days, 0.6741573033707865 more than average
+Branch bugfix/improve-menu-handling is unsynced with 0 days, 0.6741573033707865 more than average
+Branch by-default-open-html-file-in-preview is unsynced with 0 days, 0.6741573033707865 more than average
+Branch change-content-security-policy is unsynced with 0 days, 0.6741573033707865 more than average
+Branch che-7.0.0 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch codeowner_test is unsynced with 0 days, 0.6741573033707865 more than average
+Branch configStorage is unsynced with 0 days, 0.6741573033707865 more than average
+Branch dave_smith is unsynced with 0 days, 0.6741573033707865 more than average
+Branch eclipse_foundation_submission is unsynced with 0 days, 0.6741573033707865 more than average
+Branch electron-menu is unsynced with 0 days, 0.6741573033707865 more than average
+Branch feature/click-handler-utility is unsynced with 0 days, 0.6741573033707865 more than average
+Branch feature/memory-inspector is unsynced with 0 days, 0.6741573033707865 more than average
+Branch findTextTerminalWidget is unsynced with 0 days, 0.6741573033707865 more than average
+Branch fix-default-monaco-editor-font is unsynced with 0 days, 0.6741573033707865 more than average
+Branch fixWebViewUndefinedException is unsynced with 0 days, 0.6741573033707865 more than average
+Branch gh-pages is unsynced with 0 days, 0.6741573033707865 more than average
+Branch git-diff is unsynced with 0 days, 0.6741573033707865 more than average
+Branch git-navigable-list-widget-react-migration is unsynced with 0 days, 0.6741573033707865 more than average
+Branch git-split is unsynced with 0 days, 0.6741573033707865 more than average
+Branch git-status is unsynced with 0 days, 0.6741573033707865 more than average
+Branch history-css is unsynced with 0 days, 0.6741573033707865 more than average
+Branch jf/terminal is unsynced with 0 days, 0.6741573033707865 more than average
+Branch jk/gh3791 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch jschardet is unsynced with 0 days, 0.6741573033707865 more than average
+Branch jx/nodejs-stock is unsynced with 0 days, 0.6741573033707865 more than average
+Branch linux-menu is unsynced with 0 days, 0.6741573033707865 more than average
+Branch logPath is unsynced with 0 days, 0.6741573033707865 more than average
+Branch master is unsynced with 0 days, 0.6741573033707865 more than average
+Branch modifying-prefs is unsynced with 0 days, 0.6741573033707865 more than average
+Branch modifying-prefs-test is unsynced with 0 days, 0.6741573033707865 more than average
+Branch monkeys/improve-semantic-token-resolution is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/api-def is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/chore-typed-identifiers is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/dup-dep is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/electron-ipc-refact is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/electron-ipc-refact-rebased is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/es6 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/example-hybrid is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/extension-filtering is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/fix-deprecations is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/fix-me-i-am-flaky is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/generator is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/ipc-refactor is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/keytar-rhel7-doc is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/messaging-refact is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/peer-dependencies is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/plugin-provider is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/plugin-rpc-v2 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/refact-connections is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/release is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/runtime-support-policy is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/short-lived-task is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/ts-strict is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/typed-command is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/typedoc-fix is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/upgrade-typescript is unsynced with 0 days, 0.6741573033707865 more than average
+Branch mp/websocket-events is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/backend-electron-ipc is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/debug-select-workaround is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/file-event-cancellation is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/fix-custom-execution is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/panel-contributions is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/quick-pick-extension is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/set-default-icons is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/terminal-throttling is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/title-update is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/typedoc-fix is unsynced with 0 days, 0.6741573033707865 more than average
+Branch msujew/uri-refactoring is unsynced with 0 days, 0.6741573033707865 more than average
+Branch on-did-change-configuration--leak is unsynced with 0 days, 0.6741573033707865 more than average
+Branch outputWidgetUseTermWidget is unsynced with 0 days, 0.6741573033707865 more than average
+Branch pathTestForRemoteBinary is unsynced with 0 days, 0.6741573033707865 more than average
+Branch pingServiceMeasure is unsynced with 0 days, 0.6741573033707865 more than average
+Branch plugin-ext-open is unsynced with 0 days, 0.6741573033707865 more than average
+Branch process-args is unsynced with 0 days, 0.6741573033707865 more than average
+Branch queryWorkAround is unsynced with 0 days, 0.6741573033707865 more than average
+Branch release/1.12.1 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch release/1.17.1 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch release/1.17.2 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch release-1.26.0 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch revert-11112-add-no-parallel-option-to-download-plugins is unsynced with 0 days, 0.6741573033707865 more than average
+Branch save-untitled is unsynced with 0 days, 0.6741573033707865 more than average
+Branch schema-link is unsynced with 0 days, 0.6741573033707865 more than average
+Branch se/increase_fs_watchers is unsynced with 0 days, 0.6741573033707865 more than average
+Branch se/xtend-support is unsynced with 0 days, 0.6741573033707865 more than average
+Branch se/xterm-update is unsynced with 0 days, 0.6741573033707865 more than average
+Branch search-in-workspace-react-tree is unsynced with 0 days, 0.6741573033707865 more than average
+Branch serialize-webview is unsynced with 0 days, 0.6741573033707865 more than average
+Branch simark/process-async is unsynced with 0 days, 0.6741573033707865 more than average
+Branch simark/python-venv is unsynced with 0 days, 0.6741573033707865 more than average
+Branch skip-duplicates is unsynced with 0 days, 0.6741573033707865 more than average
+Branch split-terminal-composition is unsynced with 0 days, 0.6741573033707865 more than average
+Branch splitTerminal is unsynced with 0 days, 0.6741573033707865 more than average
+Branch terminalCopyOnSelection is unsynced with 0 days, 0.6741573033707865 more than average
+Branch theia#2786 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch theia#4339 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch ui-test-temp-workspace is unsynced with 0 days, 0.6741573033707865 more than average
+Branch update/jsonrpc is unsynced with 0 days, 0.6741573033707865 more than average
+Branch useAddressDep is unsynced with 0 days, 0.6741573033707865 more than average
+Branch v1.8.1 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vdvd is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/GH-6936 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/app-shell is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/automate-recommendations is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/browser-context-menu is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/bump-jsdom is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/context-key is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/context-menu-renderer is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/core-import-check is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/debug-console-restoration is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/dts-cleanup is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/editor-manager is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/electron-fix is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/electron-new-window is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/eslint-code-organization is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/file-search-reveal is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/file-search-state is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/fix-electron-import is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/getting-started-href is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/gh-7582 is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/goto-symbol is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/hcLight is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/hex-color-support is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/incompatible-ext is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/kb-save is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/keys-cleanup is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/markdown-tooltip is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/multi-root-decorator is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/multiroot-cleanup is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/new-window is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/ovsx-ms-vscode is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/problems-nav is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/problems-tabbar is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/process-fix is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/quickPickItemButtons is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/recently-open is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/remove-deprecated-context is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/reopen is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/show-hide is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/statusbar-accessibility is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/statusbar-colors is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/submenu-bug is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/symlink-nav is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/test-ws is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/theia-file-icons is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/toggle-full-screen is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/tokenize-update is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/touri is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/typedoc is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/vsx-changelog is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/vsx-error is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/vsx-improvements is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/widget-manager-spec is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/wip-key is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vf/yarn-upgrade is unsynced with 20 days, 20.674157303370787 more than average
+Branch view-categories is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vplugin-id is unsynced with 0 days, 0.6741573033707865 more than average
+Branch vscode-python is unsynced with 0 days, 0.6741573033707865 more than average
+Branch waitfor is unsynced with 0 days, 0.6741573033707865 more than average
+Branch yargs is unsynced with 0 days, 0.6741573033707865 more than average
+MEDIUM SEVERITY
+Branch GH-1244, -1 days
+Branch GH-1352, -1 days
+Branch GH-2733, -1 days
+Branch GH-3071, -1 days
+Branch GH-3197, -1 days
+Branch GH-4644, -1 days
+Branch GH-5578, -1 days
+Branch GH-9685, -1 days
+Branch GH-10751, -1 days
+Branch THEIA-8453, -1 days
+Branch alextugarev/plugin-host-swallows-7084, -1 days
+Branch at/fix-cr, -1 days
+Branch at/fix-git-watcher, -1 days
+Branch at/notification-center, -1 days
+Branch at/revert-pr5619-partially, -1 days
+Branch at/withProgress-fix, -1 days
+Branch bash, -1 days
+Branch change-minibrowser-link-color, -1 days
+Branch fb/update-eslint, -1 days
+Branch fix-declaration, -1 days
+Branch fix-external-plugins, -1 days
+Branch fix-sourcemaps--monaco-editor, -1 days
+Branch fix-terminal-plugin-api-docs, -1 days
+Branch fixTheiaInTheIframeAndStartedWithProtectedConnection2, -1 days
+Branch fs, -1 days
+Branch jf/winElectronEnv, -1 days
+Branch jk/gh6108, -1 days
+Branch mp/electron-update, -1 days
+Branch mp/header-fix, -1 days
+Branch mp/ts-override, -1 days
+Branch msujew/http-proxy, -1 days
+Branch msujew/localization-eslint, -1 days
+Branch msujew/proxy-security-token, -1 days
+Branch msujew/socket-io, -1 days
+Branch operatingsystem, -1 days
+Branch release/1.17.0, -1 days
+Branch release_1_22_0, -1 days
+Branch release/1.22.1, -1 days
+Branch release/1.24.0, -1 days
+Branch release/1.25.0, -1 days
+Branch release/1.26.0, -1 days
+Branch release/1.27.0, -1 days
+Branch release/1.28.0, -1 days
+Branch release/1.29.0, -1 days
+Branch replace-tabs, -1 days
+Branch se/terminal-fonts, -1 days
+Branch svenefftinge-patch-1, -1 days
+Branch tasks, -1 days
+Branch tsmaeder-separate-fixup-commits, -1 days
+Branch unpin-ripgrep, -1 days
+Branch v1.9.0, -1 days
+Branch vf/changelog-1.22, -1 days
+Branch vf/changelog-1.26, -1 days
+Branch vf/fix-quick-commands, -1 days
+Branch vf/runtime-import-check, -1 days
+Branch vf/theia-v1.23.0, -1 days
+Branch vf/1.20.0, -1 days
+HIGH SEVERITY
+Branch GH-2767, -8 days
+Branch GH-3010, -4 days
+Branch TerminalSelectionColor, -3 days
+Branch at/debug-progress, -5 days
+Branch at/registerDeclarationProvider, -2 days
+Branch at/scm-cleanup, -7 days
+Branch fix-api, -2 days
+Branch fix-signature, -5 days
+Branch msujew/copy-webpack-monaco, -67 days
+Branch msujew/localization-cli, -17 days
+Branch msujew/nls-extraction, -2 days
+Branch output-dependencies, -4 days
+Branch tree, -17 days
+Branch vf/yarn-upgrade, 20 days

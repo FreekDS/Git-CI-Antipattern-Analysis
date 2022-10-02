@@ -1,0 +1,34 @@
+Missed Activity
+=========================
+Branch dev has 1351 days of missed activity!
+MEDIUM SEVERITY
+Branch dev, 1351 seconds
+
+Branch Deviation
+=========================
+Average deviation: 355.3888888888889 days
+Branch add-test-environment moved away from main with 514 days, 158.6111111111111 more than average
+Branch checkbox-element moved away from main with 513 days, 157.6111111111111 more than average
+Branch fix-progress-paused moved away from main with 739 days, 383.6111111111111 more than average
+Branch icon-missing moved away from main with 411 days, 55.611111111111086 more than average
+Branch material-cover moved away from main with 668 days, 312.6111111111111 more than average
+Branch multi-audio-control moved away from main with 517 days, 161.6111111111111 more than average
+Branch refactoring moved away from main with 1121 days, 765.6111111111111 more than average
+Branch remove-idle-view-config moved away from main with 411 days, 55.611111111111086 more than average
+Branch russian-translations moved away from main with 401 days, 45.611111111111086 more than average
+Branch speaker-management-toggle moved away from main with 507 days, 151.6111111111111 more than average
+MEDIUM SEVERITY
+Branch add-test-environment, 514 days
+Branch fix-progress-paused, 739 days
+Branch material-cover, 668 days
+Branch multi-audio-control, 517 days
+Branch refactoring, 1121 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 74.05555555555556 days
+Branch dev is unsynced with 1333 days, 1258.9444444444443 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch dev, 1333 days

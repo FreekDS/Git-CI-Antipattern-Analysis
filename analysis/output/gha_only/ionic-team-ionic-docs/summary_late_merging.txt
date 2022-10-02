@@ -1,0 +1,175 @@
+Missed Activity
+=========================
+Branch component-playground has 87 days of missed activity!
+MEDIUM SEVERITY
+Branch component-playground, 87 seconds
+
+Branch Deviation
+=========================
+Average deviation: 481.8979591836735 days
+Branch HighSoftWare96-web-build-versioning moved away from main with 1063 days, 581.1020408163265 more than average
+Branch appflow-tutorial moved away from main with 694 days, 212.1020408163265 more than average
+Branch component-docs-card moved away from main with 1343 days, 861.1020408163265 more than average
+Branch dependabot/add-v2-config-file moved away from main with 505 days, 23.102040816326507 more than average
+Branch doc/badge moved away from main with 1340 days, 858.1020408163265 more than average
+Branch doc/button moved away from main with 1340 days, 858.1020408163265 more than average
+Branch doc/chip moved away from main with 1339 days, 857.1020408163265 more than average
+Branch docs-card-component moved away from main with 1303 days, 821.1020408163265 more than average
+Branch docs-ion-img moved away from main with 1297 days, 815.1020408163265 more than average
+Branch ee-docs-updates moved away from main with 1245 days, 763.1020408163265 more than average
+Branch feat/i18n moved away from main with 1122 days, 640.1020408163265 more than average
+Branch feat/i18n-t9n moved away from main with 1122 days, 640.1020408163265 more than average
+Branch feat/store moved away from main with 920 days, 438.1020408163265 more than average
+Branch fix-stepped-color-generator moved away from main with 768 days, 286.1020408163265 more than average
+Branch guides-revamp moved away from main with 1216 days, 734.1020408163265 more than average
+Branch ionic-ecosystem moved away from main with 1290 days, 808.1020408163265 more than average
+Branch kayneth-patch-1 moved away from main with 1129 days, 647.1020408163265 more than average
+Branch l10n_feat/i18n moved away from main with 1122 days, 640.1020408163265 more than average
+Branch native-cap moved away from main with 1037 days, 555.1020408163265 more than average
+Branch native-deprecate-in moved away from main with 636 days, 154.1020408163265 more than average
+Branch native-install-design moved away from main with 1053 days, 571.1020408163265 more than average
+Branch nav-add-native moved away from main with 1081 days, 599.1020408163265 more than average
+Branch one moved away from main with 1191 days, 709.1020408163265 more than average
+Branch pr/1653 moved away from main with 730 days, 248.1020408163265 more than average
+Branch rdlabo-patch-1 moved away from main with 1187 days, 705.1020408163265 more than average
+Branch rdlabo-patch-2 moved away from main with 1058 days, 576.1020408163265 more than average
+Branch react-docs moved away from main with 1289 days, 807.1020408163265 more than average
+Branch recipes moved away from main with 1191 days, 709.1020408163265 more than average
+Branch search-wip moved away from main with 1281 days, 799.1020408163265 more than average
+Branch theming-dark-mode moved away from main with 1148 days, 666.1020408163265 more than average
+Branch tutorial moved away from main with 708 days, 226.1020408163265 more than average
+Branch update-community-hub moved away from main with 516 days, 34.10204081632651 more than average
+Branch update-readme moved away from main with 721 days, 239.1020408163265 more than average
+Branch v1 moved away from main with 1336 days, 854.1020408163265 more than average
+Branch v4 moved away from main with 577 days, 95.10204081632651 more than average
+MEDIUM SEVERITY
+Branch HighSoftWare96-web-build-versioning, 1063 days
+Branch component-docs-card, 1343 days
+Branch doc/badge, 1340 days
+Branch doc/button, 1340 days
+Branch doc/chip, 1339 days
+Branch docs-card-component, 1303 days
+Branch docs-ion-img, 1297 days
+Branch ee-docs-updates, 1245 days
+Branch feat/i18n, 1122 days
+Branch feat/i18n-t9n, 1122 days
+Branch guides-revamp, 1216 days
+Branch ionic-ecosystem, 1290 days
+Branch kayneth-patch-1, 1129 days
+Branch l10n_feat/i18n, 1122 days
+Branch native-cap, 1037 days
+Branch native-install-design, 1053 days
+Branch nav-add-native, 1081 days
+Branch one, 1191 days
+Branch rdlabo-patch-1, 1187 days
+Branch rdlabo-patch-2, 1058 days
+Branch react-docs, 1289 days
+Branch recipes, 1191 days
+Branch search-wip, 1281 days
+Branch theming-dark-mode, 1148 days
+Branch v1, 1336 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.05102040816326531 days
+Branch 1282-theming is unsynced with 0 days, 0.05102040816326531 more than average
+Branch 1295-complete is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-714 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-744 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1265 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1267 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1269 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1276 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1281-presentation is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1281 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1282 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1284 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch FW-1706 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch HighSoftWare96-web-build-versioning is unsynced with 0 days, 0.05102040816326531 more than average
+Branch appflow-tutorial is unsynced with 0 days, 0.05102040816326531 more than average
+Branch chore/deps-pr is unsynced with 0 days, 0.05102040816326531 more than average
+Branch chore/local-component-playground is unsynced with 0 days, 0.05102040816326531 more than average
+Branch component-docs-card is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/add-v2-config-file is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/ansi-regex-4.1.1 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/async-2.6.4 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/cross-fetch-3.1.5 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/crowdin/cli-3.6.4 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/docusaurus-plugin-sass-0.2.1 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/docusaurus-theme-classic/async-2.6.4 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/docusaurus-theme-classic/follow-redirects-1.14.8 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/docusaurus-theme-classic/minimist-1.2.6 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/docusaurus-theme-classic/nanoid-3.3.4 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/docusaurus-theme-classic/prismjs-1.27.0 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/docusaurus-theme-classic/terser-5.14.2 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/follow-redirects-1.15.1 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/fs-extra-10.0.0 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/ionic/react-5.6.12 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/ionic-internal/ionic-ds-7.1.0 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/minimist-1.2.6 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/nanoid-3.3.4 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/normalize-url-4.5.1 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/path-parse-1.0.7 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/prettier-2.3.2 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/prismjs-1.24.0 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/prismjs-1.28.0 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/remark-html-13.0.2 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/remark-parse-9.0.0 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/sass-1.37.2 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/shelljs-0.8.5 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/terser-5.14.2 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch dependabot/npm_and_yarn/types/react-17.0.15 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch device-frame-fix is unsynced with 0 days, 0.05102040816326531 more than average
+Branch doc/badge is unsynced with 0 days, 0.05102040816326531 more than average
+Branch doc/button is unsynced with 0 days, 0.05102040816326531 more than average
+Branch doc/chip is unsynced with 0 days, 0.05102040816326531 more than average
+Branch docs/nav-playground is unsynced with 0 days, 0.05102040816326531 more than average
+Branch docs-card-component is unsynced with 0 days, 0.05102040816326531 more than average
+Branch docs-ion-img is unsynced with 0 days, 0.05102040816326531 more than average
+Branch docusaurus-awesome-cordova-plugins is unsynced with 0 days, 0.05102040816326531 more than average
+Branch ee-docs-updates is unsynced with 0 days, 0.05102040816326531 more than average
+Branch feat/i18n is unsynced with 0 days, 0.05102040816326531 more than average
+Branch feat/i18n-t9n is unsynced with 0 days, 0.05102040816326531 more than average
+Branch feat/plugin-abstraction is unsynced with 0 days, 0.05102040816326531 more than average
+Branch feat/store is unsynced with 0 days, 0.05102040816326531 more than average
+Branch feat/titan-updates-0531 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch feature-6.3 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch fix-stepped-color-generator is unsynced with 0 days, 0.05102040816326531 more than average
+Branch guides-revamp is unsynced with 0 days, 0.05102040816326531 more than average
+Branch i18n_translations is unsynced with 0 days, 0.05102040816326531 more than average
+Branch ionic-ecosystem is unsynced with 0 days, 0.05102040816326531 more than average
+Branch kayneth-patch-1 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch l10n_feat/i18n is unsynced with 0 days, 0.05102040816326531 more than average
+Branch legacy is unsynced with 0 days, 0.05102040816326531 more than average
+Branch liam-v6-docs is unsynced with 0 days, 0.05102040816326531 more than average
+Branch main is unsynced with 0 days, 0.05102040816326531 more than average
+Branch modal-dismiss-controller is unsynced with 0 days, 0.05102040816326531 more than average
+Branch modal-dismiss-inline is unsynced with 0 days, 0.05102040816326531 more than average
+Branch modal-presenting-controller is unsynced with 0 days, 0.05102040816326531 more than average
+Branch modal-presenting-inline is unsynced with 0 days, 0.05102040816326531 more than average
+Branch native-cap is unsynced with 0 days, 0.05102040816326531 more than average
+Branch native-deprecate-in is unsynced with 0 days, 0.05102040816326531 more than average
+Branch native-install-design is unsynced with 0 days, 0.05102040816326531 more than average
+Branch nav-add-native is unsynced with 0 days, 0.05102040816326531 more than average
+Branch one is unsynced with 0 days, 0.05102040816326531 more than average
+Branch playwright is unsynced with 0 days, 0.05102040816326531 more than average
+Branch pr/1653 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch premier-plugins is unsynced with 0 days, 0.05102040816326531 more than average
+Branch rdlabo-patch-1 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch rdlabo-patch-2 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch react-docs is unsynced with 0 days, 0.05102040816326531 more than average
+Branch recipes is unsynced with 0 days, 0.05102040816326531 more than average
+Branch release-7.0 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch search-wip is unsynced with 0 days, 0.05102040816326531 more than average
+Branch theming-dark-mode is unsynced with 0 days, 0.05102040816326531 more than average
+Branch translation/jp is unsynced with 0 days, 0.05102040816326531 more than average
+Branch tutorial is unsynced with 0 days, 0.05102040816326531 more than average
+Branch update-community-hub is unsynced with 0 days, 0.05102040816326531 more than average
+Branch update-guide is unsynced with 0 days, 0.05102040816326531 more than average
+Branch update-readme is unsynced with 0 days, 0.05102040816326531 more than average
+Branch v1 is unsynced with 0 days, 0.05102040816326531 more than average
+Branch v4 is unsynced with 0 days, 0.05102040816326531 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch component-playground, -5 days

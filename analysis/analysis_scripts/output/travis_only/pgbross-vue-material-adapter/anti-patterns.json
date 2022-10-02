@@ -1,0 +1,65 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "legacy": 0,
+      "main": 0,
+      "snyk-upgrade-4cf46c598df8662229a5b8f0139af085": 0,
+      "v0.18.0-alpha": 0,
+      "v1.0.0-prealpha": 0,
+      "v3.0.0": 0,
+      "v4.0.0": 0,
+      "v5.0.0": 0,
+      "v6.0.0": 0,
+      "v-next": 0
+    },
+    "branch deviation": {
+      "gh-pages": 54,
+      "legacy": 608,
+      "main": 0,
+      "snyk-upgrade-4cf46c598df8662229a5b8f0139af085": 739,
+      "v0.18.0-alpha": 706,
+      "v1.0.0-prealpha": 680,
+      "v3.0.0": 483,
+      "v4.0.0": 316,
+      "v5.0.0": 309,
+      "v6.0.0": 54,
+      "v-next": 608
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "legacy": 0,
+      "main": 0,
+      "snyk-upgrade-4cf46c598df8662229a5b8f0139af085": 0,
+      "v0.18.0-alpha": 0,
+      "v1.0.0-prealpha": 0,
+      "v3.0.0": 0,
+      "v4.0.0": 0,
+      "v5.0.0": 0,
+      "v6.0.0": 0,
+      "v-next": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "snyk-upgrade-4cf46c598df8662229a5b8f0139af085",
+          "v0.18.0-alpha",
+          "v1.0.0-prealpha"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

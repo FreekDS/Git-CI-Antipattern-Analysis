@@ -1,0 +1,248 @@
+{
+  "slow_build": {
+    "Publish": {
+      "data": {
+        "2021-04-08T00:06:09Z": 106375.0,
+        "2021-04-16T00:04:00Z": 387285.71428571426,
+        "2021-04-23T00:04:34Z": 4280875.0,
+        "2021-05-01T00:02:26Z": 102142.85714285714,
+        "2021-05-08T00:13:03Z": 97375.0,
+        "2021-05-16T00:03:53Z": 91375.0,
+        "2021-05-24T00:03:10Z": 89857.14285714286,
+        "2021-05-31T00:16:30Z": 112125.0,
+        "2021-06-08T00:12:35Z": 116750.0,
+        "2021-06-16T00:01:48Z": 87142.85714285714,
+        "2021-06-23T00:02:00Z": 85000.0,
+        "2021-07-01T00:01:46Z": 104285.71428571429
+      },
+      "tool": "Github Actions",
+      "total avg": 471715.77380952385,
+      "quartiles": {
+        "q1": 90995.53571428571,
+        "q3": 113281.25,
+        "iqr": 22285.71428571429
+      },
+      "classification": {
+        "high_severity": {
+          "49": 2041000,
+          "50": 188000,
+          "56": 33470000,
+          "62": 209000,
+          "65": 172000,
+          "96": 187000,
+          "97": 204000,
+          "106": 272000,
+          "126": 186000
+        },
+        "medium_severity": {
+          "41": 118000,
+          "46": 138000,
+          "47": 116000,
+          "57": 117000,
+          "73": 141000,
+          "92": 134000,
+          "104": 138000
+        }
+      }
+    },
+    "CI": {
+      "data": {
+        "2021-04-16T21:51:35Z": 84000.0,
+        "2021-04-24T09:16:20Z": 99392.85714285714,
+        "2021-05-01T20:05:44Z": 82214.28571428571,
+        "2021-05-10T02:40:39Z": 88500.0,
+        "2021-05-29T03:39:46Z": 79384.61538461539,
+        "2021-06-10T02:13:52Z": 74500.0,
+        "2021-07-01T20:03:26Z": 82212.12121212122
+      },
+      "tool": "Github Actions",
+      "total avg": 84314.83992198277,
+      "quartiles": {
+        "q1": 80798.3682983683,
+        "q3": 86250.0,
+        "iqr": 5451.631701631704
+      },
+      "classification": {
+        "high_severity": {
+          "669": 95000,
+          "672": 99000,
+          "674": 119000,
+          "675": 133000,
+          "676": 117000,
+          "677": 149000,
+          "678": 105000,
+          "679": 97000,
+          "680": 122000,
+          "682": 103000,
+          "683": 131000,
+          "684": 104000,
+          "693": 97000,
+          "700": 102000,
+          "709": 96000,
+          "758": 139000,
+          "761": 96000,
+          "777": 120000
+        },
+        "medium_severity": {
+          "665": 87000,
+          "670": 94000,
+          "671": 93000,
+          "673": 87000,
+          "681": 92000,
+          "686": 93000,
+          "687": 89000,
+          "689": 88000,
+          "690": 88000,
+          "692": 92000,
+          "694": 91000,
+          "703": 92000,
+          "705": 87000,
+          "707": 89000,
+          "710": 88000,
+          "712": 90000,
+          "716": 93000,
+          "723": 92000,
+          "725": 87000,
+          "738": 88000,
+          "745": 93000,
+          "749": 87000,
+          "760": 88000,
+          "762": 89000,
+          "775": 89000,
+          "782": 88000,
+          "784": 90000,
+          "786": 90000,
+          "788": 90000
+        }
+      }
+    },
+    "Automatic Merge": {
+      "data": {
+        "2021-04-16T21:51:35Z": 21000.0,
+        "2021-04-24T09:16:20Z": 33266.666666666664,
+        "2021-05-01T20:05:44Z": 21142.85714285714,
+        "2021-05-10T02:40:39Z": 22000.0,
+        "2021-05-29T03:39:46Z": 22750.0,
+        "2021-06-10T02:13:52Z": 22333.333333333332,
+        "2021-07-01T20:03:26Z": 27333.333333333332
+      },
+      "tool": "Github Actions",
+      "total avg": 24260.884353741498,
+      "quartiles": {
+        "q1": 21571.428571428572,
+        "q3": 25041.666666666664,
+        "iqr": 3470.238095238092
+      },
+      "classification": {
+        "high_severity": {
+          "71": 31000,
+          "78": 31000,
+          "79": 50000,
+          "80": 56000,
+          "81": 60000,
+          "128": 33000,
+          "129": 44000
+        },
+        "medium_severity": {
+          "72": 29000,
+          "73": 26000,
+          "74": 30000,
+          "75": 27000,
+          "76": 30000,
+          "77": 29000,
+          "82": 28000,
+          "94": 26000,
+          "98": 27000,
+          "99": 27000,
+          "121": 26000,
+          "125": 28000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/cspell-6.8.1": 0,
+      "dependabot/npm_and_yarn/eslint-plugin-prettier-4.2.1": 0,
+      "dependabot/npm_and_yarn/jest-and-types/jest-28.1.2": 0,
+      "dependabot/npm_and_yarn/npm-8.12.2": 0,
+      "dependabot/npm_and_yarn/rollup/plugin-commonjs-22.0.2": 0,
+      "dependabot/npm_and_yarn/rollup-2.79.0": 0,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": 0,
+      "dependabot/npm_and_yarn/typedoc-0.23.13": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.36.1": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.36.1": 0,
+      "main": 0,
+      "native-fetch": 0,
+      "oop": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/cspell-6.8.1": -74,
+      "dependabot/npm_and_yarn/eslint-plugin-prettier-4.2.1": -12,
+      "dependabot/npm_and_yarn/jest-and-types/jest-28.1.2": -12,
+      "dependabot/npm_and_yarn/npm-8.12.2": 0,
+      "dependabot/npm_and_yarn/rollup/plugin-commonjs-22.0.2": -74,
+      "dependabot/npm_and_yarn/rollup-2.79.0": -74,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": -3,
+      "dependabot/npm_and_yarn/typedoc-0.23.13": -74,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.36.1": -74,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.36.1": -74,
+      "main": 0,
+      "native-fetch": 1,
+      "oop": 77
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/cspell-6.8.1": 0,
+      "dependabot/npm_and_yarn/eslint-plugin-prettier-4.2.1": 0,
+      "dependabot/npm_and_yarn/jest-and-types/jest-28.1.2": 0,
+      "dependabot/npm_and_yarn/npm-8.12.2": 0,
+      "dependabot/npm_and_yarn/rollup/plugin-commonjs-22.0.2": 0,
+      "dependabot/npm_and_yarn/rollup-2.79.0": 0,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": 0,
+      "dependabot/npm_and_yarn/typedoc-0.23.13": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.36.1": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.36.1": 0,
+      "main": 0,
+      "native-fetch": 0,
+      "oop": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/cspell-6.8.1",
+          "dependabot/npm_and_yarn/eslint-plugin-prettier-4.2.1",
+          "dependabot/npm_and_yarn/jest-and-types/jest-28.1.2",
+          "dependabot/npm_and_yarn/rollup/plugin-commonjs-22.0.2",
+          "dependabot/npm_and_yarn/rollup-2.79.0",
+          "dependabot/npm_and_yarn/shell-quote-1.7.3",
+          "dependabot/npm_and_yarn/typedoc-0.23.13",
+          "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.36.1",
+          "dependabot/npm_and_yarn/typescript-eslint/parser-5.36.1",
+          "native-fetch",
+          "oop"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Publish": {
+      "data": [],
+      "release_build_count": 91
+    },
+    "CI": {
+      "data": [],
+      "release_build_count": 54
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,88 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2019-11-07T23:08:24Z": 659500.0,
+        "2019-11-22T15:13:46Z": 148000.0,
+        "2019-12-07T18:22:40Z": 146000.0,
+        "2019-12-16T19:33:59Z": 141000.0,
+        "2019-12-23T21:37:22Z": 130000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 244900.0,
+      "quartiles": {
+        "q1": 141000.0,
+        "q3": 148000.0,
+        "iqr": 7000.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 643000,
+          "2": 676000
+        },
+        "medium_severity": {
+          "3": 149000
+        }
+      }
+    },
+    "test-drive-react": {
+      "data": {
+        "2019-09-28T20:16:21Z": 193000.0,
+        "2019-10-06T12:55:04Z": 186333.33333333334,
+        "2019-11-07T23:08:43Z": 191000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 190111.11111111112,
+      "quartiles": {
+        "q1": 188666.6666666667,
+        "q3": 192000.0,
+        "iqr": 3333.333333333314
+      },
+      "classification": {
+        "high_severity": {
+          "61": 211000
+        },
+        "medium_severity": {
+          "59": 193000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 8
+    },
+    "test-drive-react": {
+      "data": [],
+      "release_build_count": 5
+    }
+  },
+  "skip_failing_tests": {}
+}

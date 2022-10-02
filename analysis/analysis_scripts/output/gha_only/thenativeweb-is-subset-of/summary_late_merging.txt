@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 455.0 days
+Branch dependabot/add-v2-config-file moved away from main with 480 days, 25.0 more than average
+Branch support-functions moved away from main with 885 days, 430.0 more than average
+MEDIUM SEVERITY
+Branch support-functions, 885 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

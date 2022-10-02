@@ -1,0 +1,107 @@
+Missed Activity
+=========================
+Branch config-provider-fix has 413 days of missed activity!
+Branch tokenize-horizontal-scroll-arrow has 206 days of missed activity!
+Branch v4 has 634 days of missed activity!
+MEDIUM SEVERITY
+Branch config-provider-fix, 413 seconds
+Branch tokenize-horizontal-scroll-arrow, 206 seconds
+Branch v4, 634 seconds
+
+Branch Deviation
+=========================
+Average deviation: 284.9795918367347 days
+Branch 2kitConnect moved away from main with 358 days, 73.0204081632653 more than average
+Branch atomic-styles moved away from main with 535 days, 250.0204081632653 more than average
+Branch clear-cov moved away from main with 429 days, 144.0204081632653 more than average
+Branch config-provider-fix moved away from main with 354 days, 69.0204081632653 more than average
+Branch css-chunk moved away from main with 482 days, 197.0204081632653 more than average
+Branch dropdown-fix moved away from main with 360 days, 75.0204081632653 more than average
+Branch feat/adaptivity/is-desktop-flag moved away from main with 477 days, 192.0204081632653 more than average
+Branch feat/config-provider-legacy-classes moved away from main with 483 days, 198.0204081632653 more than average
+Branch feat/fc-panel-header-context moved away from main with 464 days, 179.0204081632653 more than average
+Branch feat/optional-adaptivity-provider moved away from main with 416 days, 131.0204081632653 more than average
+Branch feat/use-event-listener moved away from main with 463 days, 178.0204081632653 more than average
+Branch feature/allow-forcing-panel-transition-direction moved away from main with 527 days, 242.0204081632653 more than average
+Branch feature/modal-on-closed-handler moved away from main with 562 days, 277.0204081632653 more than average
+Branch fix/custom-select moved away from main with 526 days, 241.0204081632653 more than average
+Branch fix/custom-select-option-div-props moved away from main with 602 days, 317.0204081632653 more than average
+Branch fix/panelheadercontext_event moved away from main with 540 days, 255.0204081632653 more than average
+Branch fix/preserve-vkui-class moved away from main with 462 days, 177.0204081632653 more than average
+Branch fix/safe-transition-end moved away from main with 331 days, 46.0204081632653 more than average
+Branch fix/touch-unmount-end moved away from main with 325 days, 40.0204081632653 more than average
+Branch fix-css-imports moved away from main with 400 days, 115.0204081632653 more than average
+Branch flatten-css-imports moved away from main with 351 days, 66.0204081632653 more than average
+Branch focus-trap-concept moved away from main with 347 days, 62.0204081632653 more than average
+Branch frame-context moved away from main with 650 days, 365.0204081632653 more than average
+Branch infra/babel-update moved away from main with 472 days, 187.0204081632653 more than average
+Branch infra/lint-modular-css moved away from main with 471 days, 186.0204081632653 more than average
+Branch issue-466 moved away from main with 528 days, 243.0204081632653 more than average
+Branch lint/no-cycle moved away from main with 357 days, 72.0204081632653 more than average
+Branch local-transition-events moved away from main with 573 days, 288.0204081632653 more than average
+Branch migrate moved away from main with 381 days, 96.0204081632653 more than average
+Branch modular-css moved away from main with 539 days, 254.0204081632653 more than average
+Branch multi-ref moved away from main with 572 days, 287.0204081632653 more than average
+Branch no-hack-fixed-layout moved away from main with 344 days, 59.0204081632653 more than average
+Branch no-selectors moved away from main with 580 days, 295.0204081632653 more than average
+Branch perf moved away from main with 651 days, 366.0204081632653 more than average
+Branch platform-css moved away from main with 402 days, 117.0204081632653 more than average
+Branch polyfill-proposal moved away from main with 296 days, 11.020408163265301 more than average
+Branch refactor/action-sheet-fc moved away from main with 373 days, 88.0204081632653 more than average
+Branch refactor/cleanup-view moved away from main with 364 days, 79.0204081632653 more than average
+Branch refactor/fc-fixed-layout moved away from main with 374 days, 89.0204081632653 more than average
+Branch refactor/fc-tappable moved away from main with 364 days, 79.0204081632653 more than average
+Branch refactor/fc-tooltip moved away from main with 505 days, 220.0204081632653 more than average
+Branch refactor/modal-self-managed moved away from main with 328 days, 43.0204081632653 more than average
+Branch refactor/no-animation-compat moved away from main with 457 days, 172.0204081632653 more than average
+Branch refactor/no-cycle moved away from main with 588 days, 303.0204081632653 more than average
+Branch refactor/popout-wrapper-animation moved away from main with 366 days, 81.0204081632653 more than average
+Branch refactor/useless-chips-css moved away from main with 437 days, 152.0204081632653 more than average
+Branch refactor/view-transition-context moved away from main with 352 days, 67.0204081632653 more than average
+Branch sync-imports-order moved away from main with 352 days, 67.0204081632653 more than average
+Branch test moved away from main with 291 days, 6.0204081632653015 more than average
+Branch tooltip-doc-fixes moved away from main with 416 days, 131.0204081632653 more than average
+Branch update-e2e moved away from main with 427 days, 142.0204081632653 more than average
+Branch v3 moved away from main with 639 days, 354.0204081632653 more than average
+Branch v4 moved away from main with 632 days, 347.0204081632653 more than average
+Branch variable-horizontal-offset moved away from main with 359 days, 74.0204081632653 more than average
+Branch view-scroll moved away from main with 533 days, 248.0204081632653 more than average
+Branch vkui-335 moved away from main with 645 days, 360.0204081632653 more than average
+MEDIUM SEVERITY
+Branch atomic-styles, 535 days
+Branch css-chunk, 482 days
+Branch feat/adaptivity/is-desktop-flag, 477 days
+Branch feat/config-provider-legacy-classes, 483 days
+Branch feat/fc-panel-header-context, 464 days
+Branch feature/allow-forcing-panel-transition-direction, 527 days
+Branch feature/modal-on-closed-handler, 562 days
+Branch fix/custom-select, 526 days
+Branch fix/custom-select-option-div-props, 602 days
+Branch fix/panelheadercontext_event, 540 days
+Branch frame-context, 650 days
+Branch infra/babel-update, 472 days
+Branch infra/lint-modular-css, 471 days
+Branch issue-466, 528 days
+Branch local-transition-events, 573 days
+Branch modular-css, 539 days
+Branch multi-ref, 572 days
+Branch no-selectors, 580 days
+Branch perf, 651 days
+Branch refactor/fc-tooltip, 505 days
+Branch refactor/no-cycle, 588 days
+Branch v3, 639 days
+Branch v4, 632 days
+Branch view-scroll, 533 days
+Branch vkui-335, 645 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.6020408163265306 days
+Branch config-provider-fix is unsynced with 59 days, 58.39795918367347 more than average
+Branch v4 is unsynced with 1 days, 0.3979591836734694 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch config-provider-fix, 59 days
+Branch tokenize-horizontal-scroll-arrow, -1 days
+Branch v4, 1 days

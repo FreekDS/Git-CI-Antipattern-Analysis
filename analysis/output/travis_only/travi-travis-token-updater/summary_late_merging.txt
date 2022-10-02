@@ -1,0 +1,103 @@
+Missed Activity
+=========================
+Branch renovate/master-lock-file-maintenance has 247 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/master-lock-file-maintenance, 247 seconds
+
+Branch Deviation
+=========================
+Average deviation: 842.0694444444445 days
+Branch greenkeeper/husky-4.2.4 moved away from main with 888 days, 45.93055555555554 more than average
+Branch greenkeeper/husky-4.2.5 moved away from main with 888 days, 45.93055555555554 more than average
+Branch greenkeeper/husky-pin-4.2.3 moved away from main with 888 days, 45.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114023927 moved away from main with 974 days, 131.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114024258 moved away from main with 974 days, 131.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114024936 moved away from main with 974 days, 131.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114031943 moved away from main with 974 days, 131.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114032436 moved away from main with 974 days, 131.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114032632 moved away from main with 974 days, 131.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114032734 moved away from main with 973 days, 130.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114032810 moved away from main with 973 days, 130.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114032828 moved away from main with 973 days, 130.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114032845 moved away from main with 973 days, 130.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114032920 moved away from main with 973 days, 130.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114032942 moved away from main with 973 days, 130.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200114033043 moved away from main with 973 days, 130.93055555555554 more than average
+Branch greenkeeper/monorepo.babel7-20200324084100 moved away from main with 904 days, 61.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-16.39.0 moved away from main with 961 days, 118.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-16.40.0 moved away from main with 960 days, 117.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-16.40.1 moved away from main with 960 days, 117.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.0.0 moved away from main with 937 days, 94.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.0.1 moved away from main with 918 days, 75.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.1.0 moved away from main with 917 days, 74.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.1.1 moved away from main with 908 days, 65.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.1.2 moved away from main with 904 days, 61.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.1.3 moved away from main with 903 days, 60.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.1.4 moved away from main with 902 days, 59.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.2.0 moved away from main with 889 days, 46.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.2.1 moved away from main with 885 days, 42.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.3.0 moved away from main with 882 days, 39.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.4.0 moved away from main with 878 days, 35.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.5.0 moved away from main with 877 days, 34.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.5.1 moved away from main with 877 days, 34.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.5.2 moved away from main with 875 days, 32.93055555555554 more than average
+Branch greenkeeper/@octokit/rest-17.6.0 moved away from main with 874 days, 31.930555555555543 more than average
+Branch greenkeeper/@octokit/rest-17.7.0 moved away from main with 862 days, 19.930555555555543 more than average
+Branch greenkeeper/@octokit/rest-17.8.0 moved away from main with 861 days, 18.930555555555543 more than average
+Branch greenkeeper/@octokit/rest-pin-16.38.3 moved away from main with 961 days, 118.93055555555554 more than average
+Branch greenkeeper/remark-preset-lint-travi-1.3.6 moved away from main with 892 days, 49.93055555555554 more than average
+Branch greenkeeper/rollup-2.0.1 moved away from main with 921 days, 78.93055555555554 more than average
+Branch greenkeeper/rollup-2.0.2 moved away from main with 921 days, 78.93055555555554 more than average
+Branch greenkeeper/rollup-2.0.3 moved away from main with 918 days, 75.93055555555554 more than average
+Branch greenkeeper/rollup-2.0.4 moved away from main with 916 days, 73.93055555555554 more than average
+Branch greenkeeper/rollup-2.0.5 moved away from main with 916 days, 73.93055555555554 more than average
+Branch greenkeeper/rollup-2.0.6 moved away from main with 915 days, 72.93055555555554 more than average
+Branch greenkeeper/rollup-2.1.0 moved away from main with 910 days, 67.93055555555554 more than average
+Branch greenkeeper/rollup-2.2.0 moved away from main with 904 days, 61.93055555555554 more than average
+Branch greenkeeper/rollup-2.3.0 moved away from main with 899 days, 56.93055555555554 more than average
+Branch greenkeeper/rollup-2.3.1 moved away from main with 898 days, 55.93055555555554 more than average
+Branch greenkeeper/rollup-2.3.2 moved away from main with 897 days, 54.93055555555554 more than average
+Branch greenkeeper/rollup-2.3.3 moved away from main with 893 days, 50.93055555555554 more than average
+Branch greenkeeper/rollup-2.3.4 moved away from main with 890 days, 47.93055555555554 more than average
+Branch greenkeeper/rollup-2.3.5 moved away from main with 888 days, 45.93055555555554 more than average
+Branch greenkeeper/rollup-2.4.0 moved away from main with 888 days, 45.93055555555554 more than average
+Branch greenkeeper/rollup-2.5.0 moved away from main with 887 days, 44.93055555555554 more than average
+Branch greenkeeper/rollup-2.6.0 moved away from main with 887 days, 44.93055555555554 more than average
+Branch greenkeeper/rollup-2.6.1 moved away from main with 885 days, 42.93055555555554 more than average
+Branch greenkeeper/rollup-2.7.0 moved away from main with 876 days, 33.93055555555554 more than average
+Branch greenkeeper/rollup-2.7.1 moved away from main with 876 days, 33.93055555555554 more than average
+Branch greenkeeper/rollup-2.7.2 moved away from main with 875 days, 32.93055555555554 more than average
+Branch greenkeeper/rollup-2.7.3 moved away from main with 870 days, 27.930555555555543 more than average
+Branch greenkeeper/rollup-2.7.4 moved away from main with 868 days, 25.930555555555543 more than average
+Branch greenkeeper/rollup-2.7.5 moved away from main with 868 days, 25.930555555555543 more than average
+Branch greenkeeper/rollup-2.7.6 moved away from main with 867 days, 24.930555555555543 more than average
+Branch greenkeeper/rollup-2.8.0 moved away from main with 861 days, 18.930555555555543 more than average
+Branch wip moved away from main with 1330 days, 487.93055555555554 more than average
+MEDIUM SEVERITY
+Branch greenkeeper/monorepo.babel7-20200114023927, 974 days
+Branch greenkeeper/monorepo.babel7-20200114024258, 974 days
+Branch greenkeeper/monorepo.babel7-20200114024936, 974 days
+Branch greenkeeper/monorepo.babel7-20200114031943, 974 days
+Branch greenkeeper/monorepo.babel7-20200114032436, 974 days
+Branch greenkeeper/monorepo.babel7-20200114032632, 974 days
+Branch greenkeeper/monorepo.babel7-20200114032734, 973 days
+Branch greenkeeper/monorepo.babel7-20200114032810, 973 days
+Branch greenkeeper/monorepo.babel7-20200114032828, 973 days
+Branch greenkeeper/monorepo.babel7-20200114032845, 973 days
+Branch greenkeeper/monorepo.babel7-20200114032920, 973 days
+Branch greenkeeper/monorepo.babel7-20200114032942, 973 days
+Branch greenkeeper/monorepo.babel7-20200114033043, 973 days
+Branch greenkeeper/@octokit/rest-16.39.0, 961 days
+Branch greenkeeper/@octokit/rest-16.40.0, 960 days
+Branch greenkeeper/@octokit/rest-16.40.1, 960 days
+Branch greenkeeper/@octokit/rest-pin-16.38.3, 961 days
+HIGH SEVERITY
+Branch wip, 1330 days
+
+Unsynced activity
+=========================
+Average unsynced: 3.388888888888889 days
+Branch renovate/master-lock-file-maintenance is unsynced with 244 days, 240.61111111111111 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch renovate/master-lock-file-maintenance, 244 days

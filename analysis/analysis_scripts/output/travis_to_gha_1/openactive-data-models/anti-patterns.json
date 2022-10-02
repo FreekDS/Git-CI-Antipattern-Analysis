@@ -1,0 +1,191 @@
+{
+  "slow_build": {
+    "Publish to npm": {
+      "data": {
+        "2021-01-12T13:55:49Z": 41000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 41000.0,
+      "quartiles": {
+        "q1": 41000.0,
+        "q3": 41000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "10": 54000,
+          "11": 51000,
+          "12": 47000,
+          "13": 58000,
+          "14": 45000,
+          "15": 59000,
+          "16": 56000,
+          "17": 45000,
+          "18": 66000,
+          "20": 64000,
+          "22": 51000,
+          "24": 47000
+        },
+        "medium_severity": {}
+      }
+    },
+    "npm test": {
+      "data": {
+        "2020-12-15T08:46:38Z": 47500.0,
+        "2021-01-12T13:59:15Z": 56571.42857142857
+      },
+      "tool": "Github Actions",
+      "total avg": 52035.71428571429,
+      "quartiles": {
+        "q1": 49767.857142857145,
+        "q3": 54303.57142857143,
+        "iqr": 4535.714285714283
+      },
+      "classification": {
+        "high_severity": {
+          "6": 110000,
+          "9": 111000,
+          "14": 96000
+        },
+        "medium_severity": {}
+      }
+    },
+    "data-models": {
+      "data": {
+        "2020-12-15T08:33:28Z": 47800.0,
+        "2021-01-11T15:18:26Z": 47333.333333333336
+      },
+      "tool": "TravisCI",
+      "total avg": 47566.66666666667,
+      "quartiles": {
+        "q1": 47450.0,
+        "q3": 47683.333333333336,
+        "iqr": 233.33333333333576
+      },
+      "classification": {
+        "high_severity": {
+          "814": 49000,
+          "816": 49000,
+          "817": 51000,
+          "819": 49000
+        },
+        "medium_severity": {
+          "820": 48000,
+          "822": 48000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ansi-regex-5.0.1": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/cross-fetch-3.1.5": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "feature/id-reference-for-feeds-validation": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ansi-regex-5.0.1": -1,
+      "dependabot/npm_and_yarn/async-2.6.4": -1,
+      "dependabot/npm_and_yarn/cross-fetch-3.1.5": -1,
+      "dependabot/npm_and_yarn/lodash-4.17.21": -1,
+      "dependabot/npm_and_yarn/minimist-1.2.6": -1,
+      "feature/id-reference-for-feeds-validation": 38,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ansi-regex-5.0.1": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/cross-fetch-3.1.5": 0,
+      "dependabot/npm_and_yarn/lodash-4.17.21": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "feature/id-reference-for-feeds-validation": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "dependabot/npm_and_yarn/ansi-regex-5.0.1",
+          "dependabot/npm_and_yarn/async-2.6.4",
+          "dependabot/npm_and_yarn/cross-fetch-3.1.5",
+          "dependabot/npm_and_yarn/lodash-4.17.21",
+          "dependabot/npm_and_yarn/minimist-1.2.6",
+          "feature/id-reference-for-feeds-validation"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Publish to npm": {
+      "data": [
+        {
+          "started_at": "2021-01-12T14:02:12Z",
+          "used_tool": "Github Actions",
+          "number": 11
+        },
+        {
+          "started_at": "2021-01-12T14:46:33Z",
+          "used_tool": "Github Actions",
+          "number": 12
+        },
+        {
+          "started_at": "2021-01-12T14:47:58Z",
+          "used_tool": "Github Actions",
+          "number": 13
+        },
+        {
+          "started_at": "2021-01-12T14:48:43Z",
+          "used_tool": "Github Actions",
+          "number": 14
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 16
+    },
+    "npm test": {
+      "data": [],
+      "release_build_count": 3
+    },
+    "data-models": {
+      "data": [
+        {
+          "started_at": "2020-12-15T08:33:28Z",
+          "used_tool": "TravisCI",
+          "number": 814
+        },
+        {
+          "started_at": "2020-12-15T08:46:57Z",
+          "used_tool": "TravisCI",
+          "number": 817
+        },
+        {
+          "started_at": "2020-12-15T14:35:54Z",
+          "used_tool": "TravisCI",
+          "number": 818
+        },
+        {
+          "started_at": "2021-01-11T15:22:46Z",
+          "used_tool": "TravisCI",
+          "number": 820
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 7
+    }
+  },
+  "skip_failing_tests": {}
+}

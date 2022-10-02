@@ -1,0 +1,124 @@
+{
+  "slow_build": {
+    "main": {
+      "data": {
+        "2020-11-29T03:41:19Z": 179000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 179000.0,
+      "quartiles": {
+        "q1": 179000.0,
+        "q3": 179000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "4": 272000,
+          "5": 191000
+        },
+        "medium_severity": {}
+      }
+    },
+    "node-casbin": {
+      "data": {
+        "2020-10-24T14:35:25Z": 641555.5555555555,
+        "2020-11-03T13:39:21Z": 879500.0,
+        "2020-11-14T20:55:09Z": 657800.0,
+        "2020-11-26T02:09:11Z": 422000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 650213.8888888889,
+      "quartiles": {
+        "q1": 586666.6666666666,
+        "q3": 713225.0,
+        "iqr": 126558.33333333337
+      },
+      "classification": {
+        "high_severity": {
+          "443": 905000,
+          "445": 1058000,
+          "446": 911000
+        },
+        "medium_severity": {
+          "441": 827000,
+          "444": 827000,
+          "447": 848000,
+          "450": 798000,
+          "453": 772000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "beta": 0,
+      "master": 0,
+      "monorepo_try": 0
+    },
+    "branch deviation": {
+      "beta": 152,
+      "master": 0,
+      "monorepo_try": 452
+    },
+    "unsynced activity": {
+      "beta": 0,
+      "master": 0,
+      "monorepo_try": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "monorepo_try"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "main": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "node-casbin": {
+      "data": [
+        {
+          "started_at": "2020-10-24T14:35:25Z",
+          "used_tool": "TravisCI",
+          "number": 437
+        },
+        {
+          "started_at": "2020-10-24T14:44:05Z",
+          "used_tool": "TravisCI",
+          "number": 438
+        },
+        {
+          "started_at": "2020-10-25T12:31:57Z",
+          "used_tool": "TravisCI",
+          "number": 442
+        },
+        {
+          "started_at": "2020-11-14T20:55:09Z",
+          "used_tool": "TravisCI",
+          "number": 448
+        },
+        {
+          "started_at": "2020-11-27T15:31:08Z",
+          "used_tool": "TravisCI",
+          "number": 455
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 17
+    }
+  },
+  "skip_failing_tests": {}
+}

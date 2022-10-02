@@ -1,0 +1,61 @@
+Missed Activity
+=========================
+Branch feature/noid/update-dependencies has 38 days of missed activity!
+Branch nickvergessen-patch-1 has 42 days of missed activity!
+Branch stable4 has 374 days of missed activity!
+Branch translations_l10n-messages-pot--master_de_DE has 2 days of missed activity!
+Branch translations_l10n-messages-pot--master_es has 63 days of missed activity!
+Branch translations_l10n-messages-pot--master_pl has 4 days of missed activity!
+MEDIUM SEVERITY
+Branch feature/noid/update-dependencies, 38 seconds
+Branch nickvergessen-patch-1, 42 seconds
+Branch stable4, 374 seconds
+Branch translations_l10n-messages-pot--master_de_DE, 2 seconds
+Branch translations_l10n-messages-pot--master_es, 63 seconds
+Branch translations_l10n-messages-pot--master_pl, 4 seconds
+
+Branch Deviation
+=========================
+Average deviation: 329.3777777777778 days
+Branch bug/appnav-performance moved away from main with 1106 days, 776.6222222222223 more than average
+Branch bugfix/do-not-hide-counter-when-displaying-actions moved away from main with 444 days, 114.6222222222222 more than average
+Branch datepicker-auto-locale moved away from main with 1381 days, 1051.6222222222223 more than average
+Branch design/text-variables-consolidation moved away from main with 856 days, 526.6222222222223 more than average
+Branch enh/sidebar-line-clamp moved away from main with 539 days, 209.6222222222222 more than average
+Branch feature/noid/allow-to-inject-preloaded-user-statuses moved away from main with 563 days, 233.6222222222222 more than average
+Branch feature/noid/avatar-menu-use-actions-component moved away from main with 604 days, 274.6222222222222 more than average
+Branch feature/noid/shared_status_state moved away from main with 751 days, 421.6222222222222 more than average
+Branch fix/actions-stop-popover-click moved away from main with 741 days, 411.6222222222222 more than average
+Branch fix/fullscreen-api moved away from main with 983 days, 653.6222222222223 more than average
+Branch revert-395-enhancement/datepicker/trigger-save-on-month-or-year moved away from main with 1137 days, 807.6222222222223 more than average
+Branch rollup moved away from main with 1303 days, 973.6222222222223 more than average
+Branch stable0-3 moved away from main with 1339 days, 1009.6222222222223 more than average
+Branch stable0-12 moved away from main with 741 days, 411.6222222222222 more than average
+Branch stable0-13 moved away from main with 679 days, 349.6222222222222 more than average
+Branch stable2 moved away from main with 535 days, 205.6222222222222 more than average
+Branch stable3 moved away from main with 364 days, 34.622222222222206 more than average
+MEDIUM SEVERITY
+Branch bug/appnav-performance, 1106 days
+Branch datepicker-auto-locale, 1381 days
+Branch design/text-variables-consolidation, 856 days
+Branch feature/noid/shared_status_state, 751 days
+Branch fix/actions-stop-popover-click, 741 days
+Branch fix/fullscreen-api, 983 days
+Branch revert-395-enhancement/datepicker/trigger-save-on-month-or-year, 1137 days
+Branch rollup, 1303 days
+Branch stable0-3, 1339 days
+Branch stable0-12, 741 days
+Branch stable0-13, 679 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 5.222222222222222 days
+Branch stable4 is unsynced with 169 days, 163.77777777777777 more than average
+Branch translations_l10n-messages-pot--master_es is unsynced with 61 days, 55.77777777777778 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch nickvergessen-patch-1, 3 days
+Branch stable4, 169 days
+Branch translations_l10n-messages-pot--master_es, 61 days
+Branch translations_l10n-messages-pot--master_pl, 2 days

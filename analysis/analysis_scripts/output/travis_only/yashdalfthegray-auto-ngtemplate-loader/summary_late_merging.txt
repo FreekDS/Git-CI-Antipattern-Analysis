@@ -4,11 +4,18 @@ MEDIUM SEVERITY
 
 Branch Deviation
 =========================
-Average deviation: 55.8 days
-Branch stable moved away from main with 260 days, 204.2 more than average
+Average deviation: -9.166666666666666 days
+Branch dependabot/npm_and_yarn/ava-4.3.3 moved away from main with -2 days, 7.166666666666666 more than average
+Branch main moved away from main with 0 days, 9.166666666666666 more than average
+Branch stable moved away from main with 16 days, 25.166666666666664 more than average
 MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/ava-4.3.3, -2 days
+Branch dependabot/npm_and_yarn/babel/core-7.19.1, -23 days
+Branch dependabot/npm_and_yarn/babel/preset-env-7.19.1, -23 days
+Branch dependabot/npm_and_yarn/eslint-8.23.1, -23 days
+Branch main, 0 days
+Branch stable, 16 days
 HIGH SEVERITY
-Branch stable, 260 days
 
 Unsynced activity
 =========================

@@ -1,0 +1,96 @@
+{
+  "slow_build": {
+    "Build": {
+      "data": {
+        "2021-04-08T06:50:18Z": 215250.0,
+        "2021-04-15T07:27:39Z": 140000.0,
+        "2021-04-22T14:18:52Z": 410857.14285714284,
+        "2021-04-29T15:05:48Z": 2641166.6666666665,
+        "2021-05-10T05:14:16Z": 199833.33333333334,
+        "2021-05-17T05:19:06Z": 533800.0,
+        "2021-05-24T05:19:18Z": 152500.0,
+        "2021-06-03T02:01:19Z": 434294.1176470588,
+        "2021-06-11T02:33:34Z": 190142.85714285713,
+        "2021-06-18T07:01:21Z": 176222.22222222222,
+        "2021-06-28T07:01:37Z": 159000.0,
+        "2021-07-06T07:01:28Z": 155222.22222222222
+      },
+      "tool": "Github Actions",
+      "total avg": 450690.7135076252,
+      "quartiles": {
+        "q1": 158055.55555555556,
+        "q3": 416716.38655462186,
+        "iqr": 258660.8309990663
+      },
+      "classification": {
+        "high_severity": {
+          "114": 1859000,
+          "117": 15084000,
+          "127": 1639000,
+          "151": 2733000,
+          "152": 2767000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Publish": {
+      "data": {
+        "2021-04-28T04:25:18Z": 56000.0,
+        "2021-06-22T06:57:46Z": 53000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 54500.0,
+      "quartiles": {
+        "q1": 53750.0,
+        "q3": 55250.0,
+        "iqr": 1500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "2": 56000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Build": {
+      "data": [
+        {
+          "started_at": "2021-06-08T06:06:44Z",
+          "used_tool": "Github Actions",
+          "number": 153
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 36
+    }
+  },
+  "skip_failing_tests": {}
+}

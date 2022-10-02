@@ -1,0 +1,167 @@
+{
+  "slow_build": {
+    "opentok-layout-js": {
+      "data": {
+        "2021-04-12T02:10:56Z": 89000.0,
+        "2021-04-19T02:11:53Z": 58000.0,
+        "2021-04-26T02:12:41Z": 55000.0,
+        "2021-05-03T02:13:26Z": 57800.0,
+        "2021-05-10T02:13:54Z": 54000.0,
+        "2021-05-17T02:14:10Z": 53312.5,
+        "2021-05-24T02:14:19Z": 51333.333333333336,
+        "2021-05-31T02:14:40Z": 51000.0,
+        "2021-06-07T02:15:21Z": 55000.0,
+        "2021-06-14T02:15:56Z": 55000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 57944.58333333333,
+      "quartiles": {
+        "q1": 53484.375,
+        "q3": 57100.0,
+        "iqr": 3615.625
+      },
+      "classification": {
+        "high_severity": {
+          "463": 89000,
+          "476": 112000,
+          "479": 64000
+        },
+        "medium_severity": {
+          "464": 58000,
+          "466": 60000,
+          "467": 58000,
+          "470": 59000,
+          "472": 60000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "flex-box": 0,
+      "gh-pages": 0,
+      "issues/74-typescript-def": 447,
+      "issues/90-margin-padding-fix": 0,
+      "master": 0,
+      "update-dependencies": 0,
+      "v0.2": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/terser-4.8.1": -108,
+      "flex-box": 2397,
+      "gh-pages": 714,
+      "issues/74-typescript-def": 447,
+      "issues/90-margin-padding-fix": 236,
+      "master": 0,
+      "update-dependencies": 237,
+      "v0.2": 2397
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "flex-box": 0,
+      "gh-pages": 0,
+      "issues/74-typescript-def": -1,
+      "issues/90-margin-padding-fix": 0,
+      "master": 0,
+      "update-dependencies": 0,
+      "v0.2": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "issues/74-typescript-def"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "flex-box",
+          "v0.2"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "issues/74-typescript-def"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "opentok-layout-js": {
+      "data": [
+        {
+          "started_at": "2021-04-19T02:11:53Z",
+          "used_tool": "TravisCI",
+          "number": 464
+        },
+        {
+          "started_at": "2021-04-26T02:12:41Z",
+          "used_tool": "TravisCI",
+          "number": 465
+        },
+        {
+          "started_at": "2021-05-03T02:13:26Z",
+          "used_tool": "TravisCI",
+          "number": 466
+        },
+        {
+          "started_at": "2021-05-06T22:50:44Z",
+          "used_tool": "TravisCI",
+          "number": 468
+        },
+        {
+          "started_at": "2021-05-09T14:39:06Z",
+          "used_tool": "TravisCI",
+          "number": 470
+        },
+        {
+          "started_at": "2021-05-10T02:13:54Z",
+          "used_tool": "TravisCI",
+          "number": 471
+        },
+        {
+          "started_at": "2021-05-17T02:14:10Z",
+          "used_tool": "TravisCI",
+          "number": 472
+        },
+        {
+          "started_at": "2021-05-18T02:44:35Z",
+          "used_tool": "TravisCI",
+          "number": 474
+        },
+        {
+          "started_at": "2021-05-18T02:45:17Z",
+          "used_tool": "TravisCI",
+          "number": 475
+        },
+        {
+          "started_at": "2021-05-18T02:50:50Z",
+          "used_tool": "TravisCI",
+          "number": 477
+        },
+        {
+          "started_at": "2021-05-18T02:51:46Z",
+          "used_tool": "TravisCI",
+          "number": 478
+        },
+        {
+          "started_at": "2021-05-18T03:10:31Z",
+          "used_tool": "TravisCI",
+          "number": 482
+        },
+        {
+          "started_at": "2021-05-18T03:20:53Z",
+          "used_tool": "TravisCI",
+          "number": 490
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 22
+    }
+  },
+  "skip_failing_tests": {}
+}

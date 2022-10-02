@@ -1,0 +1,32 @@
+Missed Activity
+=========================
+Branch develop has 2240 days of missed activity!
+MEDIUM SEVERITY
+Branch develop, 2240 seconds
+
+Branch Deviation
+=========================
+Average deviation: 797.7222222222222 days
+Branch donationSumPage moved away from main with 1707 days, 909.2777777777778 more than average
+Branch fix-new-team-name-on-old-profile moved away from main with 1170 days, 372.2777777777778 more than average
+Branch fix-translations-to-zeltschule moved away from main with 1171 days, 373.2777777777778 more than average
+Branch freature/progressbar moved away from main with 1886 days, 1088.2777777777778 more than average
+Branch master moved away from main with 1995 days, 1197.2777777777778 more than average
+Branch postgre moved away from main with 2306 days, 1508.2777777777778 more than average
+Branch random-color-map moved away from main with 1032 days, 234.27777777777783 more than average
+Branch test-new-admin-interface moved away from main with 1625 days, 827.2777777777778 more than average
+MEDIUM SEVERITY
+Branch donationSumPage, 1707 days
+Branch freature/progressbar, 1886 days
+Branch master, 1995 days
+Branch postgre, 2306 days
+Branch test-new-admin-interface, 1625 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 124.44444444444444 days
+Branch develop is unsynced with 2240 days, 2115.5555555555557 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch develop, 2240 days

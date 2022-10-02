@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 93.5 days
+Branch read-preference-distinct moved away from main with 706 days, 612.5 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch read-preference-distinct, 706 days
+Branch snyk-upgrade-3290738c9b45831fcab2dd1555a109fc, 90 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

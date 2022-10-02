@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1479.8333333333333 days
+Branch greenkeeper/remove-node-0.10 moved away from main with 2144 days, 664.1666666666667 more than average
+Branch greenkeeper/update-all moved away from main with 2087 days, 607.1666666666667 more than average
+Branch greenkeeper-aureooms-node-package-7.0.0 moved away from main with 2139 days, 659.1666666666667 more than average
+Branch greenkeeper-update-all moved away from main with 2241 days, 761.1666666666667 more than average
+MEDIUM SEVERITY
+Branch greenkeeper/remove-node-0.10, 2144 days
+Branch greenkeeper-update-all, 2241 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

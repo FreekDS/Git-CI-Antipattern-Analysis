@@ -1,29 +1,36 @@
 Missed Activity
 =========================
-Branch renovate/major-jest-monorepo has 419 days of missed activity!
+Branch renovate/major-jest-monorepo has 797 days of missed activity!
 MEDIUM SEVERITY
-Branch renovate/major-jest-monorepo, 419 seconds
+Branch renovate/major-jest-monorepo, 797 seconds
 
 Branch Deviation
 =========================
-Average deviation: 52.90909090909091 days
-Branch dependabot/npm_and_yarn/jest-26.5.2 moved away from main with 266 days, 213.0909090909091 more than average
-Branch docs moved away from main with 481 days, 428.0909090909091 more than average
-Branch gh-pages moved away from main with 978 days, 925.0909090909091 more than average
+Average deviation: 195.35714285714286 days
+Branch dependabot/npm_and_yarn/jest-26.5.2 moved away from main with 644 days, 448.6428571428571 more than average
+Branch docs moved away from main with 859 days, 663.6428571428571 more than average
+Branch gh-pages moved away from main with 1356 days, 1160.642857142857 more than average
 MEDIUM SEVERITY
-Branch dependabot/npm_and_yarn/jest-26.5.2, 266 days
-Branch docs, 481 days
-Branch renovate/actions-checkout-3.x, -267 days
-Branch renovate/actions-setup-node-3.x, -267 days
-Branch renovate/major-jest-monorepo, -317 days
-Branch renovate/npm-node-sass-vulnerability, -248 days
+Branch master, 0 days
 HIGH SEVERITY
-Branch gh-pages, 978 days
+Branch dependabot/npm_and_yarn/jest-26.5.2, 644 days
+Branch docs, 859 days
+Branch gh-pages, 1356 days
+Branch renovate/actions-checkout-3.x, -1 days
+Branch renovate/actions-setup-node-3.x, -1 days
+Branch renovate/chalk-5.x, -1 days
+Branch renovate/copy-webpack-plugin-8.x, -1 days
+Branch renovate/leven-4.x, -1 days
+Branch renovate/major-jest-monorepo, -56 days
+Branch renovate/node-16.x, -1 days
+Branch renovate/npm-node-sass-vulnerability, -60 days
+Branch renovate/ts-node-10.x, -1 days
+Branch renovate/vue-test-utils-2.x, -1 days
 
 Unsynced activity
 =========================
-Average unsynced: 66.81818181818181 days
-Branch renovate/major-jest-monorepo is unsynced with 735 days, 668.1818181818182 more than average
+Average unsynced: 60.857142857142854 days
+Branch renovate/major-jest-monorepo is unsynced with 852 days, 791.1428571428571 more than average
 MEDIUM SEVERITY
 HIGH SEVERITY
-Branch renovate/major-jest-monorepo, 735 days
+Branch renovate/major-jest-monorepo, 852 days

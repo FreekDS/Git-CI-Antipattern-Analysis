@@ -1,0 +1,56 @@
+{
+  "slow_build": {
+    "ckeditor5-vue2": {
+      "data": {
+        "2021-05-06T16:43:58Z": 96666.66666666667
+      },
+      "tool": "TravisCI",
+      "total avg": 96666.66666666667,
+      "quartiles": {
+        "q1": 96666.66666666667,
+        "q3": 96666.66666666667,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "34": 101000,
+          "36": 100000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "ckeditor5-vue2": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

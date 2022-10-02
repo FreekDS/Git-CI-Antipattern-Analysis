@@ -1,0 +1,71 @@
+{
+  "slow_build": {
+    "Tests": {
+      "data": {
+        "2021-04-27T12:05:00Z": 42750.0,
+        "2021-06-01T08:05:40Z": 52333.333333333336,
+        "2021-06-08T15:07:16Z": 44250.0,
+        "2021-06-15T17:56:32Z": 40333.333333333336,
+        "2021-07-01T08:00:47Z": 44333.333333333336
+      },
+      "tool": "Github Actions",
+      "total avg": 44800.00000000001,
+      "quartiles": {
+        "q1": 42750.0,
+        "q3": 44333.333333333336,
+        "iqr": 1583.3333333333358
+      },
+      "classification": {
+        "high_severity": {
+          "361": 50000,
+          "364": 47000,
+          "366": 95000,
+          "368": 47000,
+          "374": 50000,
+          "382": 48000,
+          "385": 60000,
+          "386": 59000,
+          "390": 49000,
+          "392": 52000
+        },
+        "medium_severity": {
+          "395": 46000,
+          "399": 46000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0
+    },
+    "branch deviation": {
+      "main": 0
+    },
+    "unsynced activity": {
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Tests": {
+      "data": [],
+      "release_build_count": 12
+    }
+  },
+  "skip_failing_tests": {}
+}

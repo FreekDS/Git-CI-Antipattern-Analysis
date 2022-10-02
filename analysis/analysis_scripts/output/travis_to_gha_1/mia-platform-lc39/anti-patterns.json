@@ -1,0 +1,126 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2020-08-03T10:34:25Z": 94500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 94500.0,
+      "quartiles": {
+        "q1": 94500.0,
+        "q3": 94500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 101000
+        },
+        "medium_severity": {}
+      }
+    },
+    "lc39": {
+      "data": {
+        "2020-07-10T10:06:20Z": 155625.0
+      },
+      "tool": "TravisCI",
+      "total avg": 155625.0,
+      "quartiles": {
+        "q1": 155625.0,
+        "q3": 155625.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "168": 158000,
+          "169": 160000,
+          "170": 158000,
+          "177": 156000,
+          "178": 157000,
+          "179": 159000,
+          "181": 158000,
+          "182": 157000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "3.x": 0,
+      "cspell-fix": 124,
+      "dependabot/npm_and_yarn/dotenv-expand-9.0.0": 0,
+      "dependabot/npm_and_yarn/fastify/sensible-5.1.1": 0,
+      "dependabot/npm_and_yarn/fastify/swagger-7.5.1": 0,
+      "dependabot/npm_and_yarn/fastify-4.6.0": 0,
+      "dependabot/npm_and_yarn/fastify-plugin-4.2.1": 0,
+      "dependabot/npm_and_yarn/tsd-0.24.1": 0,
+      "fastify-v4": 0,
+      "fix/docs-directory-lc39": 129,
+      "fix-ts-types": 261,
+      "master": 0
+    },
+    "branch deviation": {
+      "3.x": 482,
+      "cspell-fix": 124,
+      "dependabot/npm_and_yarn/dotenv-expand-9.0.0": -64,
+      "dependabot/npm_and_yarn/fastify/sensible-5.1.1": -62,
+      "dependabot/npm_and_yarn/fastify/swagger-7.5.1": -70,
+      "dependabot/npm_and_yarn/fastify-4.6.0": -79,
+      "dependabot/npm_and_yarn/fastify-plugin-4.2.1": -62,
+      "dependabot/npm_and_yarn/tsd-0.24.1": -80,
+      "fastify-v4": -9,
+      "fix/docs-directory-lc39": 129,
+      "fix-ts-types": 261,
+      "master": 0
+    },
+    "unsynced activity": {
+      "3.x": 0,
+      "cspell-fix": -1,
+      "dependabot/npm_and_yarn/dotenv-expand-9.0.0": 0,
+      "dependabot/npm_and_yarn/fastify/sensible-5.1.1": 0,
+      "dependabot/npm_and_yarn/fastify/swagger-7.5.1": 0,
+      "dependabot/npm_and_yarn/fastify-4.6.0": 0,
+      "dependabot/npm_and_yarn/fastify-plugin-4.2.1": 0,
+      "dependabot/npm_and_yarn/tsd-0.24.1": 0,
+      "fastify-v4": 0,
+      "fix/docs-directory-lc39": -1,
+      "fix-ts-types": -1,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "cspell-fix",
+          "fix/docs-directory-lc39",
+          "fix-ts-types"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "fix/docs-directory-lc39",
+          "fix-ts-types"
+        ],
+        "high_severity": [
+          "3.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "cspell-fix",
+          "fix/docs-directory-lc39",
+          "fix-ts-types"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "lc39": {
+      "data": [],
+      "release_build_count": 9
+    }
+  },
+  "skip_failing_tests": {}
+}

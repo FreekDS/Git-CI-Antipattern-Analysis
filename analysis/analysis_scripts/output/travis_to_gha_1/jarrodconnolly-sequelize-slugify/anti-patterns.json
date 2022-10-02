@@ -1,0 +1,152 @@
+{
+  "slow_build": {
+    "Continuous Integration": {
+      "data": {
+        "2020-11-14T03:50:53Z": 90777.77777777778
+      },
+      "tool": "Github Actions",
+      "total avg": 90777.77777777778,
+      "quartiles": {
+        "q1": 90777.77777777778,
+        "q3": 90777.77777777778,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "29": 100000,
+          "31": 92000,
+          "33": 96000,
+          "35": 93000,
+          "36": 97000
+        },
+        "medium_severity": {}
+      }
+    },
+    "SL Scan": {
+      "data": {
+        "2020-10-17T01:26:03Z": 95500.0,
+        "2020-11-14T04:00:21Z": 123750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 109625.0,
+      "quartiles": {
+        "q1": 102562.5,
+        "q3": 116687.5,
+        "iqr": 14125.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "4": 123000,
+          "5": 123000,
+          "6": 125000,
+          "7": 130000,
+          "9": 125000,
+          "11": 137000
+        }
+      }
+    },
+    "CodeQL": {
+      "data": {
+        "2020-10-17T01:26:07Z": 112000.0,
+        "2020-11-14T04:00:21Z": 121500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 116750.0,
+      "quartiles": {
+        "q1": 114375.0,
+        "q3": 119125.0,
+        "iqr": 4750.0
+      },
+      "classification": {
+        "high_severity": {
+          "8": 129000,
+          "9": 134000
+        },
+        "medium_severity": {
+          "5": 126000
+        }
+      }
+    },
+    "sequelize-slugify": {
+      "data": {
+        "2020-10-17T01:26:24Z": 129000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 129000.0,
+      "quartiles": {
+        "q1": 129000.0,
+        "q3": 129000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "docs": 0,
+      "jest-docker": 546,
+      "main": 0
+    },
+    "branch deviation": {
+      "docs": 118,
+      "jest-docker": 547,
+      "main": 0
+    },
+    "unsynced activity": {
+      "docs": 0,
+      "jest-docker": -1,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "jest-docker"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "jest-docker"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "jest-docker"
+        ]
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "Continuous Integration": {
+      "data": [],
+      "release_build_count": 6
+    },
+    "SL Scan": {
+      "data": [],
+      "release_build_count": 6
+    },
+    "CodeQL": {
+      "data": [],
+      "release_build_count": 6
+    },
+    "sequelize-slugify": {
+      "data": [
+        {
+          "started_at": "2020-10-17T01:26:24Z",
+          "used_tool": "TravisCI",
+          "number": 84
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

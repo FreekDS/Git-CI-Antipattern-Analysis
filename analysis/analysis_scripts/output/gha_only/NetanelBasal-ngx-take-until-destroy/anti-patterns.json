@@ -1,0 +1,68 @@
+{
+  "slow_build": {
+    "@ngneat/until-destroy": {
+      "data": {
+        "2021-05-13T11:22:42Z": 135333.33333333334,
+        "2021-06-07T15:14:54Z": 172000.0,
+        "2021-07-03T20:59:43Z": 219846.15384615384
+      },
+      "tool": "Github Actions",
+      "total avg": 175726.49572649575,
+      "quartiles": {
+        "q1": 153666.6666666667,
+        "q3": 195923.07692307694,
+        "iqr": 42256.41025641025
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "72": 198000,
+          "75": 236000,
+          "76": 220000,
+          "78": 198000,
+          "79": 201000,
+          "80": 229000,
+          "81": 234000,
+          "82": 217000,
+          "83": 255000,
+          "84": 249000,
+          "85": 210000,
+          "86": 245000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "@ngneat/until-destroy": {
+      "data": [],
+      "release_build_count": 8
+    }
+  },
+  "skip_failing_tests": {}
+}

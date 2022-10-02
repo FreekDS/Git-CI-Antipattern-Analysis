@@ -1,0 +1,85 @@
+Missed Activity
+=========================
+Branch bugfix/boolean-conversion has 1540 days of missed activity!
+Branch feature/commonjs-support-for-mathquill has 1133 days of missed activity!
+Branch feature/es2015-modules has 835 days of missed activity!
+Branch feature/gh-actions has 570 days of missed activity!
+Branch feature/nv-2020k has 780 days of missed activity!
+Branch feature/prevent-latex-nesting-attack has 1367 days of missed activity!
+Branch feature/vegan has 835 days of missed activity!
+Branch fix/demo-unicode-issue has 742 days of missed activity!
+Branch fix/expanding has 722 days of missed activity!
+Branch fix/expanding-2 has 721 days of missed activity!
+Branch fix/limit-latex-length-and-nesting-level has 1310 days of missed activity!
+Branch fix/rich-text-editor-screenshot-sync-revert has 1308 days of missed activity!
+Branch fix/screenshot-clipboard-data has 1310 days of missed activity!
+MEDIUM SEVERITY
+Branch bugfix/boolean-conversion, 1540 seconds
+HIGH SEVERITY
+Branch feature/commonjs-support-for-mathquill, 1133 seconds
+HIGH SEVERITY
+Branch feature/prevent-latex-nesting-attack, 1367 seconds
+HIGH SEVERITY
+Branch fix/limit-latex-length-and-nesting-level, 1310 seconds
+HIGH SEVERITY
+Branch fix/rich-text-editor-screenshot-sync-revert, 1308 seconds
+HIGH SEVERITY
+Branch fix/screenshot-clipboard-data, 1310 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1162.3846153846155 days
+Branch asciimath_v1 moved away from main with 2670 days, 1507.6153846153845 more than average
+Branch bugfix/boolean-conversion moved away from main with 1540 days, 377.6153846153845 more than average
+Branch componentize moved away from main with 1987 days, 824.6153846153845 more than average
+Branch feature/prevent-latex-nesting-attack moved away from main with 1367 days, 204.61538461538453 more than average
+Branch fix/limit-latex-length-and-nesting-level moved away from main with 1312 days, 149.61538461538453 more than average
+Branch fix/rich-text-editor-screenshot-sync-revert moved away from main with 1310 days, 147.61538461538453 more than average
+Branch fix/screenshot-clipboard-data moved away from main with 1315 days, 152.61538461538453 more than average
+Branch group-spike moved away from main with 1948 days, 785.6153846153845 more than average
+Branch imagcount moved away from main with 1973 days, 810.6153846153845 more than average
+Branch rel3.0.1 moved away from main with 1863 days, 700.6153846153845 more than average
+Branch tmp/focus-fixes moved away from main with 1172 days, 9.615384615384528 more than average
+Branch toolbar-spike moved away from main with 1984 days, 821.6153846153845 more than average
+MEDIUM SEVERITY
+Branch bugfix/boolean-conversion, 1540 days
+Branch componentize, 1987 days
+Branch group-spike, 1948 days
+Branch imagcount, 1973 days
+Branch rel3.0.1, 1863 days
+Branch toolbar-spike, 1984 days
+HIGH SEVERITY
+Branch asciimath_v1, 2670 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.9230769230769231 days
+Branch asciimath_v1 is unsynced with 0 days, 0.9230769230769231 more than average
+Branch componentize is unsynced with 0 days, 0.9230769230769231 more than average
+Branch feature/allow-multiple-instances is unsynced with 0 days, 0.9230769230769231 more than average
+Branch feature/bertta-improvemements is unsynced with 0 days, 0.9230769230769231 more than average
+Branch feature/options-locale is unsynced with 0 days, 0.9230769230769231 more than average
+Branch feature/remove-50-screenshot-limit is unsynced with 0 days, 0.9230769230769231 more than average
+Branch feature/2020 is unsynced with 0 days, 0.9230769230769231 more than average
+Branch group-spike is unsynced with 0 days, 0.9230769230769231 more than average
+Branch imagcount is unsynced with 0 days, 0.9230769230769231 more than average
+Branch master is unsynced with 0 days, 0.9230769230769231 more than average
+Branch rel3.0.1 is unsynced with 0 days, 0.9230769230769231 more than average
+Branch tmp/focus-fixes is unsynced with 0 days, 0.9230769230769231 more than average
+Branch toolbar-spike is unsynced with 0 days, 0.9230769230769231 more than average
+MEDIUM SEVERITY
+Branch bugfix/boolean-conversion, -1 days
+Branch feature/commonjs-support-for-mathquill, -1 days
+Branch feature/es2015-modules, -1 days
+Branch feature/gh-actions, -1 days
+Branch feature/prevent-latex-nesting-attack, -1 days
+Branch feature/vegan, -1 days
+Branch fix/demo-unicode-issue, -1 days
+Branch fix/expanding, -1 days
+Branch fix/expanding-2, -1 days
+HIGH SEVERITY
+Branch feature/nv-2020k, -5 days
+Branch fix/limit-latex-length-and-nesting-level, -2 days
+Branch fix/rich-text-editor-screenshot-sync-revert, -2 days
+Branch fix/screenshot-clipboard-data, -6 days

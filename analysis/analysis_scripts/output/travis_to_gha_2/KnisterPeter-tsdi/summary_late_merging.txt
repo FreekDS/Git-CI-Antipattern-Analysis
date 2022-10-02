@@ -1,19 +1,30 @@
 Missed Activity
 =========================
+Branch renovate/lock-file-maintenance has 65 days of missed activity!
+Branch renovate/typescript-4.x has 88 days of missed activity!
 MEDIUM SEVERITY
+Branch renovate/lock-file-maintenance, 65 seconds
+Branch renovate/typescript-4.x, 88 seconds
 
 Branch Deviation
 =========================
-Average deviation: 29.0 days
-Branch gh-pages moved away from main with 131 days, 102.0 more than average
-Branch renovate/get-port-6.x moved away from main with 78 days, 49.0 more than average
+Average deviation: 47.416666666666664 days
+Branch gh-pages moved away from main with 79 days, 31.583333333333336 more than average
+Branch renovate/fkill-8.x moved away from main with 113 days, 65.58333333333334 more than average
+Branch renovate/get-port-6.x moved away from main with 190 days, 142.58333333333334 more than average
+Branch renovate/husky-8.x moved away from main with 127 days, 79.58333333333334 more than average
 MEDIUM SEVERITY
+Branch renovate/fkill-8.x, 113 days
+Branch renovate/get-port-6.x, 190 days
+Branch renovate/husky-8.x, 127 days
 HIGH SEVERITY
-Branch gh-pages, 131 days
-Branch renovate/get-port-6.x, 78 days
 
 Unsynced activity
 =========================
-Average unsynced: 0.0 days
+Average unsynced: 12.75 days
+Branch renovate/lock-file-maintenance is unsynced with 65 days, 52.25 more than average
+Branch renovate/typescript-4.x is unsynced with 88 days, 75.25 more than average
 MEDIUM SEVERITY
 HIGH SEVERITY
+Branch renovate/lock-file-maintenance, 65 days
+Branch renovate/typescript-4.x, 88 days

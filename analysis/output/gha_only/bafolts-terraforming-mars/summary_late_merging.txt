@@ -1,0 +1,27 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 427.6875 days
+Branch beta moved away from main with 732 days, 304.3125 more than average
+Branch card-selection-animation moved away from main with 730 days, 302.3125 more than average
+Branch convert-the-base-a moved away from main with 623 days, 195.3125 more than average
+Branch feature/update_shuffle moved away from main with 627 days, 199.3125 more than average
+Branch fix-resource-decrease-interrupts moved away from main with 709 days, 281.3125 more than average
+Branch rollback moved away from main with 732 days, 304.3125 more than average
+Branch smaller-corp-logos moved away from main with 533 days, 105.3125 more than average
+Branch stats moved away from main with 746 days, 318.3125 more than average
+MEDIUM SEVERITY
+Branch beta, 732 days
+Branch card-selection-animation, 730 days
+Branch rollback, 732 days
+Branch stats, 746 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

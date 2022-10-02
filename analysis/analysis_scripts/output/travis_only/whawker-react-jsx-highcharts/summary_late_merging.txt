@@ -1,0 +1,33 @@
+Missed Activity
+=========================
+Branch gh-pages has 1887 days of missed activity!
+MEDIUM SEVERITY
+Branch gh-pages, 1887 seconds
+
+Branch Deviation
+=========================
+Average deviation: 1059.9285714285713 days
+Branch delay-render-unmounted moved away from main with 1190 days, 130.07142857142867 more than average
+Branch docusaurus moved away from main with 1060 days, 0.07142857142866887 more than average
+Branch docusaurus-docs moved away from main with 1060 days, 0.07142857142866887 more than average
+Branch highcharts-gantt-examples moved away from main with 1404 days, 344.07142857142867 more than average
+Branch lerna moved away from main with 1553 days, 493.07142857142867 more than average
+Branch react-jsx-highcharts-gantt moved away from main with 1306 days, 246.07142857142867 more than average
+Branch travis-local-testing moved away from main with 1070 days, 10.071428571428669 more than average
+Branch v1-legacy moved away from main with 1742 days, 682.0714285714287 more than average
+Branch v2-legacy moved away from main with 1643 days, 583.0714285714287 more than average
+Branch with-highcharts-overrides moved away from main with 1552 days, 492.07142857142867 more than average
+MEDIUM SEVERITY
+Branch lerna, 1553 days
+Branch v1-legacy, 1742 days
+Branch v2-legacy, 1643 days
+Branch with-highcharts-overrides, 1552 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 63.857142857142854 days
+Branch gh-pages is unsynced with 894 days, 830.1428571428571 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch gh-pages, 894 days

@@ -1,0 +1,774 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 733.902962206333 days
+Branch 4353 moved away from main with 1066 days, 332.097037793667 more than average
+Branch 4388 moved away from main with 1057 days, 323.097037793667 more than average
+Branch 4418 moved away from main with 1043 days, 309.097037793667 more than average
+Branch 4462 moved away from main with 1004 days, 270.097037793667 more than average
+Branch FSA-3800-spa-comparison-table-2 moved away from main with 1273 days, 539.097037793667 more than average
+Branch FSA-3802-comparison-table-tab-namings moved away from main with 1270 days, 536.097037793667 more than average
+Branch FSA-3938-spa-checkout-broken moved away from main with 1215 days, 481.097037793667 more than average
+Branch NO-TASK/code-coverage-dynamicforms moved away from main with 868 days, 134.09703779366703 more than average
+Branch NO-TASK/contact-agent-form moved away from main with 911 days, 177.09703779366703 more than average
+Branch NO-TASK/failing-tests moved away from main with 875 days, 141.09703779366703 more than average
+Branch NO-TASK/missing-export-change-guard moved away from main with 771 days, 37.09703779366703 more than average
+Branch NO-TASK-failing-comparison-table-tab-test moved away from main with 1071 days, 337.097037793667 more than average
+Branch NOTASK_CurrentAccount_Test_Fix moved away from main with 962 days, 228.09703779366703 more than average
+Branch NOTASK_Seconds_TimeComponent moved away from main with 829 days, 95.09703779366703 more than average
+Branch bug/FSA-4055-fsa-components-not-visible moved away from main with 1176 days, 442.097037793667 more than average
+Branch bugfix/FSA-3368 moved away from main with 1322 days, 588.097037793667 more than average
+Branch bugfix/FSA-3412 moved away from main with 1099 days, 365.097037793667 more than average
+Branch bugfix/FSA-3414 moved away from main with 1071 days, 337.097037793667 more than average
+Branch bugfix/FSA-3494 moved away from main with 1368 days, 634.097037793667 more than average
+Branch bugfix/FSA-3610 moved away from main with 1324 days, 590.097037793667 more than average
+Branch bugfix/FSA-3723 moved away from main with 1273 days, 539.097037793667 more than average
+Branch bugfix/FSA-3746 moved away from main with 1277 days, 543.097037793667 more than average
+Branch bugfix/FSA-3834 moved away from main with 1250 days, 516.097037793667 more than average
+Branch bugfix/FSA-3837 moved away from main with 1253 days, 519.097037793667 more than average
+Branch bugfix/FSA-3839 moved away from main with 1266 days, 532.097037793667 more than average
+Branch bugfix/FSA-3866-spa-remove-modify-plan moved away from main with 1204 days, 470.097037793667 more than average
+Branch bugfix/FSA-3937-spa-header-broken moved away from main with 1211 days, 477.097037793667 more than average
+Branch bugfix/FSA-3949 moved away from main with 1204 days, 470.097037793667 more than average
+Branch bugfix/FSA-3972-new-payment moved away from main with 1036 days, 302.097037793667 more than average
+Branch bugfix/FSA-3972 moved away from main with 1120 days, 386.097037793667 more than average
+Branch bugfix/FSA-3978 moved away from main with 1197 days, 463.097037793667 more than average
+Branch bugfix/FSA-4056 moved away from main with 1171 days, 437.097037793667 more than average
+Branch bugfix/FSA-4057 moved away from main with 1162 days, 428.097037793667 more than average
+Branch bugfix/FSA-4061-checkout-broken-after-upgrade-to-beta moved away from main with 1157 days, 423.097037793667 more than average
+Branch bugfix/FSA-4072 moved away from main with 1123 days, 389.097037793667 more than average
+Branch bugfix/FSA-4225 moved away from main with 758 days, 24.097037793667027 more than average
+Branch bugfix/FSA-4237 moved away from main with 1073 days, 339.097037793667 more than average
+Branch bugfix/FSA-4330 moved away from main with 1074 days, 340.097037793667 more than average
+Branch bugfix/FSA-4368 moved away from main with 1074 days, 340.097037793667 more than average
+Branch bugfix/FSA-4372 moved away from main with 1074 days, 340.097037793667 more than average
+Branch bugfix/FSA-4384 moved away from main with 1065 days, 331.097037793667 more than average
+Branch bugfix/FSA-4407 moved away from main with 1039 days, 305.097037793667 more than average
+Branch bugfix/FSA-4451 moved away from main with 898 days, 164.09703779366703 more than average
+Branch bugfix/FSA-4471 moved away from main with 785 days, 51.09703779366703 more than average
+Branch bugfix/FSA-4488 moved away from main with 1017 days, 283.097037793667 more than average
+Branch bugfix/FSA-4560 moved away from main with 777 days, 43.09703779366703 more than average
+Branch bugfix/FSA-4566 moved away from main with 913 days, 179.09703779366703 more than average
+Branch bugfix/FSA-4596 moved away from main with 1004 days, 270.097037793667 more than average
+Branch bugfix/FSA-4717 moved away from main with 777 days, 43.09703779366703 more than average
+Branch bugfix/FSA-4766 moved away from main with 925 days, 191.09703779366703 more than average
+Branch bugfix/FSA-4771 moved away from main with 896 days, 162.09703779366703 more than average
+Branch bugfix/FSA-4772 moved away from main with 770 days, 36.09703779366703 more than average
+Branch bugfix/FSA-4804 moved away from main with 763 days, 29.097037793667027 more than average
+Branch bugfix/FSA-4805 moved away from main with 766 days, 32.09703779366703 more than average
+Branch bugfix/FSA-4844 moved away from main with 911 days, 177.09703779366703 more than average
+Branch bugfix/FSA-4892 moved away from main with 897 days, 163.09703779366703 more than average
+Branch bugfix/FSA-4914 moved away from main with 896 days, 162.09703779366703 more than average
+Branch bugfix/FSA-4921 moved away from main with 764 days, 30.097037793667027 more than average
+Branch bugfix/FSA-4941 moved away from main with 892 days, 158.09703779366703 more than average
+Branch bugfix/FSA-4948 moved away from main with 763 days, 29.097037793667027 more than average
+Branch bugfix/FSA-4951 moved away from main with 766 days, 32.09703779366703 more than average
+Branch bugfix/FSA-4963 moved away from main with 872 days, 138.09703779366703 more than average
+Branch bugfix/FSA-4998 moved away from main with 785 days, 51.09703779366703 more than average
+Branch bugfix/FSA-5045 moved away from main with 857 days, 123.09703779366703 more than average
+Branch bugfix/FSA-5046 moved away from main with 825 days, 91.09703779366703 more than average
+Branch bugfix/FSA-5070 moved away from main with 776 days, 42.09703779366703 more than average
+Branch bugfix/FSA-5073 moved away from main with 771 days, 37.09703779366703 more than average
+Branch bugfix/FSA-5130 moved away from main with 811 days, 77.09703779366703 more than average
+Branch bugfix/FSA-5131 moved away from main with 793 days, 59.09703779366703 more than average
+Branch bugfix/FSA-5136 moved away from main with 791 days, 57.09703779366703 more than average
+Branch bugfix/FSA-5180 moved away from main with 776 days, 42.09703779366703 more than average
+Branch bugfix/FSA-5185 moved away from main with 773 days, 39.09703779366703 more than average
+Branch bugfix/FSA-5186 moved away from main with 764 days, 30.097037793667027 more than average
+Branch bugfix/FSA-5187 moved away from main with 757 days, 23.097037793667027 more than average
+Branch bugfix/FSA-5188 moved away from main with 773 days, 39.09703779366703 more than average
+Branch bugfix/FSA-5190 moved away from main with 773 days, 39.09703779366703 more than average
+Branch bugfix/FSA-5191 moved away from main with 773 days, 39.09703779366703 more than average
+Branch bugfix/FSA-5192 moved away from main with 794 days, 60.09703779366703 more than average
+Branch bugfix/FSA-5194 moved away from main with 778 days, 44.09703779366703 more than average
+Branch bugfix/FSA-5201 moved away from main with 785 days, 51.09703779366703 more than average
+Branch bugfix/FSA-5206 moved away from main with 773 days, 39.09703779366703 more than average
+Branch bugfix/FSA-5221 moved away from main with 751 days, 17.097037793667027 more than average
+Branch bugfix/FSA-5224 moved away from main with 766 days, 32.09703779366703 more than average
+Branch bugfix/FSA-5241 moved away from main with 771 days, 37.09703779366703 more than average
+Branch bugfix/FSA-5260 moved away from main with 773 days, 39.09703779366703 more than average
+Branch bugfix/FSA-5269 moved away from main with 764 days, 30.097037793667027 more than average
+Branch bugfix/FSA-5280 moved away from main with 748 days, 14.097037793667027 more than average
+Branch bugfix/FSA-5289 moved away from main with 759 days, 25.097037793667027 more than average
+Branch bugfix/FSA-5298 moved away from main with 741 days, 7.0970377936670275 more than average
+Branch bugfix/FSA-5301 moved away from main with 757 days, 23.097037793667027 more than average
+Branch bugfix/FSA-5302 moved away from main with 748 days, 14.097037793667027 more than average
+Branch bugfix/fsa-5099 moved away from main with 752 days, 18.097037793667027 more than average
+Branch feature/FSA-2616-Check-Out-Progress-Bar-Styling moved away from main with 1046 days, 312.097037793667 more than average
+Branch feature/FSA-3334-styling-in-new-repo moved away from main with 1396 days, 662.097037793667 more than average
+Branch feature/FSA-3380 moved away from main with 1396 days, 662.097037793667 more than average
+Branch feature/FSA-3381-remove-claim moved away from main with 1402 days, 668.097037793667 more than average
+Branch feature/FSA-3382-refactor-policy-and-quote moved away from main with 1401 days, 667.097037793667 more than average
+Branch feature/FSA-3395 moved away from main with 1367 days, 633.097037793667 more than average
+Branch feature/FSA-3399 moved away from main with 1388 days, 654.097037793667 more than average
+Branch feature/FSA-3400-header-styling-only moved away from main with 1381 days, 647.097037793667 more than average
+Branch feature/FSA-3400 moved away from main with 1387 days, 653.097037793667 more than average
+Branch feature/FSA-3401 moved away from main with 1387 days, 653.097037793667 more than average
+Branch feature/FSA-3403 moved away from main with 1371 days, 637.097037793667 more than average
+Branch feature/FSA-3404-enriched-banner-in-angular moved away from main with 1373 days, 639.097037793667 more than average
+Branch feature/FSA-3405 moved away from main with 1373 days, 639.097037793667 more than average
+Branch feature/FSA-3411 moved away from main with 1086 days, 352.097037793667 more than average
+Branch feature/FSA-3427 moved away from main with 1361 days, 627.097037793667 more than average
+Branch feature/FSA-3449-spa-premium-calendar moved away from main with 1339 days, 605.097037793667 more than average
+Branch feature/FSA-3484 moved away from main with 1358 days, 624.097037793667 more than average
+Branch feature/FSA-3486 moved away from main with 1358 days, 624.097037793667 more than average
+Branch feature/FSA-3491-spa-category-pages moved away from main with 1339 days, 605.097037793667 more than average
+Branch feature/FSA-3582-spa-handle-date-format-in-angular moved away from main with 1247 days, 513.097037793667 more than average
+Branch feature/FSA-3607 moved away from main with 1290 days, 556.097037793667 more than average
+Branch feature/FSA-3622 moved away from main with 1261 days, 527.097037793667 more than average
+Branch feature/FSA-3642-spa-quote-review-page moved away from main with 1301 days, 567.097037793667 more than average
+Branch feature/FSA-3643-spa-occ-comparison-table moved away from main with 1281 days, 547.097037793667 more than average
+Branch feature/FSA-3645-Add-Options-Page moved away from main with 1310 days, 576.097037793667 more than average
+Branch feature/FSA-3645 moved away from main with 1309 days, 575.097037793667 more than average
+Branch feature/FSA-3650 moved away from main with 1269 days, 535.097037793667 more than average
+Branch feature/FSA-3657-upgrade-dependencies moved away from main with 1316 days, 582.097037793667 more than average
+Branch feature/FSA-3662-spa-inbox-part-2 moved away from main with 1275 days, 541.097037793667 more than average
+Branch feature/FSA-3670 moved away from main with 1302 days, 568.097037793667 more than average
+Branch feature/FSA-3685-ComparisonTable moved away from main with 1295 days, 561.097037793667 more than average
+Branch feature/FSA-3691 moved away from main with 1260 days, 526.097037793667 more than average
+Branch feature/FSA-3692 moved away from main with 1281 days, 547.097037793667 more than average
+Branch feature/FSA-3694 moved away from main with 1283 days, 549.097037793667 more than average
+Branch feature/FSA-3724 moved away from main with 1138 days, 404.097037793667 more than average
+Branch feature/FSA-3730 moved away from main with 1283 days, 549.097037793667 more than average
+Branch feature/FSA-3731 moved away from main with 1281 days, 547.097037793667 more than average
+Branch feature/FSA-3738 moved away from main with 1267 days, 533.097037793667 more than average
+Branch feature/FSA-3801 moved away from main with 1273 days, 539.097037793667 more than average
+Branch feature/FSA-3802 moved away from main with 1269 days, 535.097037793667 more than average
+Branch feature/FSA-3803-comparison-table-styling moved away from main with 1268 days, 534.097037793667 more than average
+Branch feature/FSA-3805-upgrade moved away from main with 1273 days, 539.097037793667 more than average
+Branch feature/FSA-3806 moved away from main with 1268 days, 534.097037793667 more than average
+Branch feature/FSA-3821 moved away from main with 1254 days, 520.097037793667 more than average
+Branch feature/FSA-3828-order-confirmation-page moved away from main with 1241 days, 507.097037793667 more than average
+Branch feature/FSA-3829 moved away from main with 1113 days, 379.097037793667 more than average
+Branch feature/FSA-3830-spa-checkout-progress-bar-styling moved away from main with 1239 days, 505.097037793667 more than average
+Branch feature/FSA-3832-inbox-check-all moved away from main with 1253 days, 519.097037793667 more than average
+Branch feature/FSA-3833-spa-layout-structure moved away from main with 1256 days, 522.097037793667 more than average
+Branch feature/FSA-3838 moved away from main with 1260 days, 526.097037793667 more than average
+Branch feature/FSA-3863-my-account-pages-layout-removal moved away from main with 1254 days, 520.097037793667 more than average
+Branch feature/FSA-3869-quote-review-improvements moved away from main with 1242 days, 508.097037793667 more than average
+Branch feature/FSA-3872 moved away from main with 1247 days, 513.097037793667 more than average
+Branch feature/FSA-3882 moved away from main with 1183 days, 449.097037793667 more than average
+Branch feature/FSA-3889-spa-introduce-localization-support moved away from main with 1217 days, 483.097037793667 more than average
+Branch feature/FSA-3890-upgrade-spa-dependencies-alpha-0.3 moved away from main with 1226 days, 492.097037793667 more than average
+Branch feature/FSA-3896 moved away from main with 1191 days, 457.097037793667 more than average
+Branch feature/FSA-3900 moved away from main with 1077 days, 343.097037793667 more than average
+Branch feature/FSA-3910-unify-accordions-in-spa moved away from main with 1205 days, 471.097037793667 more than average
+Branch feature/FSA-3912 moved away from main with 1206 days, 472.097037793667 more than average
+Branch feature/FSA-3913-remove-BEM-leftovers moved away from main with 1184 days, 450.097037793667 more than average
+Branch feature/FSA-3920 moved away from main with 1152 days, 418.097037793667 more than average
+Branch feature/FSA-3937-spa-header-broken moved away from main with 1217 days, 483.097037793667 more than average
+Branch feature/FSA-3938-spa-checkout-broken moved away from main with 1213 days, 479.097037793667 more than average
+Branch feature/FSA-3944-reconfiguring-svg-usage moved away from main with 1198 days, 464.097037793667 more than average
+Branch feature/FSA-3955 moved away from main with 1183 days, 449.097037793667 more than average
+Branch feature/FSA-3963-preffixes moved away from main with 902 days, 168.09703779366703 more than average
+Branch feature/FSA-3963 moved away from main with 904 days, 170.09703779366703 more than average
+Branch feature/FSA-3991 moved away from main with 1193 days, 459.097037793667 more than average
+Branch feature/FSA-4027-upgrade-dependencies-to-beta-release moved away from main with 1179 days, 445.097037793667 more than average
+Branch feature/FSA-4103-spratacus-1.0.0 moved away from main with 1155 days, 421.097037793667 more than average
+Branch feature/FSA-4105 moved away from main with 1155 days, 421.097037793667 more than average
+Branch feature/FSA-4106 moved away from main with 1149 days, 415.097037793667 more than average
+Branch feature/FSA-4144-lib moved away from main with 1044 days, 310.097037793667 more than average
+Branch feature/FSA-4144 moved away from main with 1049 days, 315.097037793667 more than average
+Branch feature/FSA-4148 moved away from main with 1121 days, 387.097037793667 more than average
+Branch feature/FSA-4151-links-color-fix moved away from main with 1140 days, 406.097037793667 more than average
+Branch feature/FSA-4151 moved away from main with 1143 days, 409.097037793667 more than average
+Branch feature/FSA-4152 moved away from main with 1134 days, 400.097037793667 more than average
+Branch feature/FSA-4154 moved away from main with 1141 days, 407.097037793667 more than average
+Branch feature/FSA-4155-inbox-styling-is-missing moved away from main with 1105 days, 371.097037793667 more than average
+Branch feature/FSA-4157 moved away from main with 1134 days, 400.097037793667 more than average
+Branch feature/FSA-4158-forms moved away from main with 1133 days, 399.097037793667 more than average
+Branch feature/FSA-4158 moved away from main with 1134 days, 400.097037793667 more than average
+Branch feature/FSA-4166 moved away from main with 1135 days, 401.097037793667 more than average
+Branch feature/FSA-4188-claims-page moved away from main with 1120 days, 386.097037793667 more than average
+Branch feature/FSA-4194 moved away from main with 1080 days, 346.097037793667 more than average
+Branch feature/FSA-4207 moved away from main with 1128 days, 394.097037793667 more than average
+Branch feature/FSA-4208 moved away from main with 1067 days, 333.097037793667 more than average
+Branch feature/FSA-4209-first-step moved away from main with 1127 days, 393.097037793667 more than average
+Branch feature/FSA-4210 moved away from main with 1122 days, 388.097037793667 more than average
+Branch feature/FSA-4211 moved away from main with 1128 days, 394.097037793667 more than average
+Branch feature/FSA-4214 moved away from main with 1127 days, 393.097037793667 more than average
+Branch feature/FSA-4219 moved away from main with 1115 days, 381.097037793667 more than average
+Branch feature/FSA-4220 moved away from main with 1109 days, 375.097037793667 more than average
+Branch feature/FSA-4222 moved away from main with 1112 days, 378.097037793667 more than average
+Branch feature/FSA-4230-auto-travel-ng-forms moved away from main with 1094 days, 360.097037793667 more than average
+Branch feature/FSA-4232 moved away from main with 1105 days, 371.097037793667 more than average
+Branch feature/FSA-4235 moved away from main with 1121 days, 387.097037793667 more than average
+Branch feature/FSA-4238 moved away from main with 1101 days, 367.097037793667 more than average
+Branch feature/FSA-4239-mocked-apis moved away from main with 1092 days, 358.097037793667 more than average
+Branch feature/FSA-4239 moved away from main with 1094 days, 360.097037793667 more than average
+Branch feature/FSA-4241 moved away from main with 931 days, 197.09703779366703 more than average
+Branch feature/FSA-4244 moved away from main with 1099 days, 365.097037793667 more than average
+Branch feature/FSA-4321-forms moved away from main with 1109 days, 375.097037793667 more than average
+Branch feature/FSA-4321 moved away from main with 1108 days, 374.097037793667 more than average
+Branch feature/FSA-4322 moved away from main with 1099 days, 365.097037793667 more than average
+Branch feature/FSA-4323 moved away from main with 1092 days, 358.097037793667 more than average
+Branch feature/FSA-4326 moved away from main with 1087 days, 353.097037793667 more than average
+Branch feature/FSA-4333 moved away from main with 1095 days, 361.097037793667 more than average
+Branch feature/FSA-4341 moved away from main with 1078 days, 344.097037793667 more than average
+Branch feature/FSA-4343 moved away from main with 1046 days, 312.097037793667 more than average
+Branch feature/FSA-4344-spike moved away from main with 1050 days, 316.097037793667 more than average
+Branch feature/FSA-4344 moved away from main with 1057 days, 323.097037793667 more than average
+Branch feature/FSA-4350-Inbox-re-implementation moved away from main with 1078 days, 344.097037793667 more than average
+Branch feature/FSA-4351 moved away from main with 1068 days, 334.097037793667 more than average
+Branch feature/FSA-4353 moved away from main with 1057 days, 323.097037793667 more than average
+Branch feature/FSA-4355 moved away from main with 1058 days, 324.097037793667 more than average
+Branch feature/FSA-4356 moved away from main with 1052 days, 318.097037793667 more than average
+Branch feature/FSA-4357-fnol-checkout moved away from main with 1050 days, 316.097037793667 more than average
+Branch feature/FSA-4357 moved away from main with 1050 days, 316.097037793667 more than average
+Branch feature/FSA-4358 moved away from main with 1057 days, 323.097037793667 more than average
+Branch feature/FSA-4359 moved away from main with 1073 days, 339.097037793667 more than average
+Branch feature/FSA-4361 moved away from main with 1049 days, 315.097037793667 more than average
+Branch feature/FSA-4363-summary-step-labels moved away from main with 1022 days, 288.097037793667 more than average
+Branch feature/FSA-4363-update-user-request moved away from main with 1023 days, 289.097037793667 more than average
+Branch feature/FSA-4363 moved away from main with 1031 days, 297.097037793667 more than average
+Branch feature/FSA-4364-summary-step moved away from main with 1037 days, 303.097037793667 more than average
+Branch feature/FSA-4364 moved away from main with 1038 days, 304.097037793667 more than average
+Branch feature/FSA-4369-Inbox-remove-ngrx moved away from main with 1074 days, 340.097037793667 more than average
+Branch feature/FSA-4370-Inbox-show-messages moved away from main with 1052 days, 318.097037793667 more than average
+Branch feature/FSA-4374 moved away from main with 1037 days, 303.097037793667 more than average
+Branch feature/FSA-4378-homepage-new-banner moved away from main with 1056 days, 322.097037793667 more than average
+Branch feature/FSA-4418 moved away from main with 1038 days, 304.097037793667 more than average
+Branch feature/FSA-4419 moved away from main with 1017 days, 283.097037793667 more than average
+Branch feature/FSA-4423 moved away from main with 1035 days, 301.097037793667 more than average
+Branch feature/FSA-4424 moved away from main with 1036 days, 302.097037793667 more than average
+Branch feature/FSA-4428 moved away from main with 1023 days, 289.097037793667 more than average
+Branch feature/FSA-4430 moved away from main with 1037 days, 303.097037793667 more than average
+Branch feature/FSA-4431 moved away from main with 1030 days, 296.097037793667 more than average
+Branch feature/FSA-4432 moved away from main with 1022 days, 288.097037793667 more than average
+Branch feature/FSA-4433 moved away from main with 832 days, 98.09703779366703 more than average
+Branch feature/FSA-4435-styling-category-pages moved away from main with 1031 days, 297.097037793667 more than average
+Branch feature/FSA-4436-spike moved away from main with 1038 days, 304.097037793667 more than average
+Branch feature/FSA-4436 moved away from main with 1030 days, 296.097037793667 more than average
+Branch feature/FSA-4438-fnol-styling moved away from main with 965 days, 231.09703779366703 more than average
+Branch feature/FSA-4438-spinner-logic moved away from main with 966 days, 232.09703779366703 more than average
+Branch feature/FSA-4438-style moved away from main with 968 days, 234.09703779366703 more than average
+Branch feature/FSA-4440 moved away from main with 899 days, 165.09703779366703 more than average
+Branch feature/FSA-4441 moved away from main with 1025 days, 291.097037793667 more than average
+Branch feature/FSA-4448 moved away from main with 1023 days, 289.097037793667 more than average
+Branch feature/FSA-4450 moved away from main with 1014 days, 280.097037793667 more than average
+Branch feature/FSA-4452 moved away from main with 1023 days, 289.097037793667 more than average
+Branch feature/FSA-4457 moved away from main with 1022 days, 288.097037793667 more than average
+Branch feature/FSA-4460 moved away from main with 1021 days, 287.097037793667 more than average
+Branch feature/FSA-4461 moved away from main with 1030 days, 296.097037793667 more than average
+Branch feature/FSA-4462 moved away from main with 1001 days, 267.097037793667 more than average
+Branch feature/FSA-4467 moved away from main with 1008 days, 274.097037793667 more than average
+Branch feature/FSA-4468 moved away from main with 1031 days, 297.097037793667 more than average
+Branch feature/FSA-4477-simple-form-validations moved away from main with 1015 days, 281.097037793667 more than average
+Branch feature/FSA-4479 moved away from main with 836 days, 102.09703779366703 more than average
+Branch feature/FSA-4480 moved away from main with 877 days, 143.09703779366703 more than average
+Branch feature/FSA-4484 moved away from main with 1017 days, 283.097037793667 more than average
+Branch feature/FSA-4489-personal-details moved away from main with 1029 days, 295.097037793667 more than average
+Branch feature/FSA-4489 moved away from main with 1030 days, 296.097037793667 more than average
+Branch feature/FSA-4490-quote-binding moved away from main with 994 days, 260.097037793667 more than average
+Branch feature/FSA-4490 moved away from main with 994 days, 260.097037793667 more than average
+Branch feature/FSA-4503 moved away from main with 1023 days, 289.097037793667 more than average
+Branch feature/FSA-4507-basic-form-controls moved away from main with 889 days, 155.09703779366703 more than average
+Branch feature/FSA-4507 moved away from main with 1018 days, 284.097037793667 more than average
+Branch feature/FSA-4509 moved away from main with 1017 days, 283.097037793667 more than average
+Branch feature/FSA-4510 moved away from main with 1016 days, 282.097037793667 more than average
+Branch feature/FSA-4514 moved away from main with 1004 days, 270.097037793667 more than average
+Branch feature/FSA-4515 moved away from main with 1012 days, 278.097037793667 more than average
+Branch feature/FSA-4516 moved away from main with 997 days, 263.097037793667 more than average
+Branch feature/FSA-4518-styling-login-and-account-pages moved away from main with 1001 days, 267.097037793667 more than average
+Branch feature/FSA-4537 moved away from main with 1000 days, 266.097037793667 more than average
+Branch feature/FSA-4539 moved away from main with 1009 days, 275.097037793667 more than average
+Branch feature/FSA-4540-implement-forms-for-all-products moved away from main with 1008 days, 274.097037793667 more than average
+Branch feature/FSA-4541 moved away from main with 1021 days, 287.097037793667 more than average
+Branch feature/FSA-4542 moved away from main with 853 days, 119.09703779366703 more than average
+Branch feature/FSA-4543 moved away from main with 980 days, 246.09703779366703 more than average
+Branch feature/FSA-4548 moved away from main with 979 days, 245.09703779366703 more than average
+Branch feature/FSA-4549 moved away from main with 960 days, 226.09703779366703 more than average
+Branch feature/FSA-4550 moved away from main with 965 days, 231.09703779366703 more than average
+Branch feature/FSA-4554 moved away from main with 994 days, 260.097037793667 more than average
+Branch feature/FSA-4556-add-options-styling moved away from main with 995 days, 261.097037793667 more than average
+Branch feature/FSA-4557-quote-application-review-styling moved away from main with 976 days, 242.09703779366703 more than average
+Branch feature/FSA-4559 moved away from main with 994 days, 260.097037793667 more than average
+Branch feature/FSA-4561-pdp-spike moved away from main with 864 days, 130.09703779366703 more than average
+Branch feature/FSA-4561 moved away from main with 868 days, 134.09703779366703 more than average
+Branch feature/FSA-4562 moved away from main with 833 days, 99.09703779366703 more than average
+Branch feature/FSA-4567 moved away from main with 1012 days, 278.097037793667 more than average
+Branch feature/FSA-4590 moved away from main with 1010 days, 276.097037793667 more than average
+Branch feature/FSA-4593 moved away from main with 1004 days, 270.097037793667 more than average
+Branch feature/FSA-4594 moved away from main with 979 days, 245.09703779366703 more than average
+Branch feature/FSA-4597-fsa-forms-styling moved away from main with 877 days, 143.09703779366703 more than average
+Branch feature/FSA-4597 moved away from main with 868 days, 134.09703779366703 more than average
+Branch feature/FSA-4598 moved away from main with 1001 days, 267.097037793667 more than average
+Branch feature/FSA-4600-order-confirmation-page moved away from main with 995 days, 261.097037793667 more than average
+Branch feature/FSA-4638 moved away from main with 975 days, 241.09703779366703 more than average
+Branch feature/FSA-4639 moved away from main with 958 days, 224.09703779366703 more than average
+Branch feature/FSA-4640 moved away from main with 862 days, 128.09703779366703 more than average
+Branch feature/FSA-4690-update-claim moved away from main with 917 days, 183.09703779366703 more than average
+Branch feature/FSA-4690 moved away from main with 913 days, 179.09703779366703 more than average
+Branch feature/FSA-4691 moved away from main with 973 days, 239.09703779366703 more than average
+Branch feature/FSA-4692 moved away from main with 932 days, 198.09703779366703 more than average
+Branch feature/FSA-4701 moved away from main with 952 days, 218.09703779366703 more than average
+Branch feature/FSA-4702-Remove-BEM moved away from main with 962 days, 228.09703779366703 more than average
+Branch feature/FSA-4703 moved away from main with 972 days, 238.09703779366703 more than average
+Branch feature/FSA-4704 moved away from main with 967 days, 233.09703779366703 more than average
+Branch feature/FSA-4705 moved away from main with 967 days, 233.09703779366703 more than average
+Branch feature/FSA-4706 moved away from main with 966 days, 232.09703779366703 more than average
+Branch feature/FSA-4707 moved away from main with 945 days, 211.09703779366703 more than average
+Branch feature/FSA-4708 moved away from main with 965 days, 231.09703779366703 more than average
+Branch feature/FSA-4709 moved away from main with 965 days, 231.09703779366703 more than average
+Branch feature/FSA-4710 moved away from main with 947 days, 213.09703779366703 more than average
+Branch feature/FSA-4727 moved away from main with 889 days, 155.09703779366703 more than average
+Branch feature/FSA-4728 moved away from main with 946 days, 212.09703779366703 more than average
+Branch feature/FSA-4738 moved away from main with 954 days, 220.09703779366703 more than average
+Branch feature/FSA-4746-spa moved away from main with 945 days, 211.09703779366703 more than average
+Branch feature/FSA-4746 moved away from main with 948 days, 214.09703779366703 more than average
+Branch feature/FSA-4747 moved away from main with 947 days, 213.09703779366703 more than average
+Branch feature/FSA-4748 moved away from main with 938 days, 204.09703779366703 more than average
+Branch feature/FSA-4750 moved away from main with 944 days, 210.09703779366703 more than average
+Branch feature/FSA-4756 moved away from main with 851 days, 117.09703779366703 more than average
+Branch feature/FSA-4761-contact-an-agent-page moved away from main with 947 days, 213.09703779366703 more than average
+Branch feature/FSA-4764 moved away from main with 938 days, 204.09703779366703 more than average
+Branch feature/FSA-4768 moved away from main with 952 days, 218.09703779366703 more than average
+Branch feature/FSA-4774 moved away from main with 953 days, 219.09703779366703 more than average
+Branch feature/FSA-4775 moved away from main with 948 days, 214.09703779366703 more than average
+Branch feature/FSA-4776 moved away from main with 952 days, 218.09703779366703 more than average
+Branch feature/FSA-4777 moved away from main with 925 days, 191.09703779366703 more than average
+Branch feature/FSA-4780 moved away from main with 947 days, 213.09703779366703 more than average
+Branch feature/FSA-4781 moved away from main with 946 days, 212.09703779366703 more than average
+Branch feature/FSA-4782 moved away from main with 946 days, 212.09703779366703 more than average
+Branch feature/FSA-4784-upgrade moved away from main with 937 days, 203.09703779366703 more than average
+Branch feature/FSA-4784 moved away from main with 945 days, 211.09703779366703 more than average
+Branch feature/FSA-4791 moved away from main with 931 days, 197.09703779366703 more than average
+Branch feature/FSA-4792-product-activation-page moved away from main with 940 days, 206.09703779366703 more than average
+Branch feature/FSA-4793 moved away from main with 931 days, 197.09703779366703 more than average
+Branch feature/FSA-4799 moved away from main with 938 days, 204.09703779366703 more than average
+Branch feature/FSA-4813 moved away from main with 926 days, 192.09703779366703 more than average
+Branch feature/FSA-4814 moved away from main with 904 days, 170.09703779366703 more than average
+Branch feature/FSA-4815 moved away from main with 919 days, 185.09703779366703 more than average
+Branch feature/FSA-4816 moved away from main with 930 days, 196.09703779366703 more than average
+Branch feature/FSA-4817 moved away from main with 920 days, 186.09703779366703 more than average
+Branch feature/FSA-4818 moved away from main with 911 days, 177.09703779366703 more than average
+Branch feature/FSA-4819 moved away from main with 906 days, 172.09703779366703 more than average
+Branch feature/FSA-4823 moved away from main with 938 days, 204.09703779366703 more than average
+Branch feature/FSA-4828-Product-activation-page moved away from main with 932 days, 198.09703779366703 more than average
+Branch feature/FSA-4830-product-assignment moved away from main with 912 days, 178.09703779366703 more than average
+Branch feature/FSA-4831 moved away from main with 911 days, 177.09703779366703 more than average
+Branch feature/FSA-4832 moved away from main with 920 days, 186.09703779366703 more than average
+Branch feature/FSA-4834 moved away from main with 883 days, 149.09703779366703 more than average
+Branch feature/FSA-4836-update-request moved away from main with 906 days, 172.09703779366703 more than average
+Branch feature/FSA-4836 moved away from main with 909 days, 175.09703779366703 more than average
+Branch feature/FSA-4837 moved away from main with 909 days, 175.09703779366703 more than average
+Branch feature/FSA-4839-tooltips-for-coverage moved away from main with 911 days, 177.09703779366703 more than average
+Branch feature/FSA-4846 moved away from main with 911 days, 177.09703779366703 more than average
+Branch feature/FSA-4851 moved away from main with 912 days, 178.09703779366703 more than average
+Branch feature/FSA-4853 moved away from main with 895 days, 161.09703779366703 more than average
+Branch feature/FSA-4854 moved away from main with 898 days, 164.09703779366703 more than average
+Branch feature/FSA-4855-agent-locator-styling moved away from main with 911 days, 177.09703779366703 more than average
+Branch feature/FSA-4856 moved away from main with 874 days, 140.09703779366703 more than average
+Branch feature/FSA-4863-change-process-error-handling moved away from main with 902 days, 168.09703779366703 more than average
+Branch feature/FSA-4864 moved away from main with 904 days, 170.09703779366703 more than average
+Branch feature/FSA-4867 moved away from main with 904 days, 170.09703779366703 more than average
+Branch feature/FSA-4870 moved away from main with 906 days, 172.09703779366703 more than average
+Branch feature/FSA-4874 moved away from main with 895 days, 161.09703779366703 more than average
+Branch feature/FSA-4880 moved away from main with 897 days, 163.09703779366703 more than average
+Branch feature/FSA-4881 moved away from main with 890 days, 156.09703779366703 more than average
+Branch feature/FSA-4884-tests moved away from main with 911 days, 177.09703779366703 more than average
+Branch feature/FSA-4884 moved away from main with 911 days, 177.09703779366703 more than average
+Branch feature/FSA-4889 moved away from main with 896 days, 162.09703779366703 more than average
+Branch feature/FSA-4890 moved away from main with 896 days, 162.09703779366703 more than average
+Branch feature/FSA-4897 moved away from main with 898 days, 164.09703779366703 more than average
+Branch feature/FSA-4900 moved away from main with 833 days, 99.09703779366703 more than average
+Branch feature/FSA-4901 moved away from main with 889 days, 155.09703779366703 more than average
+Branch feature/FSA-4912 moved away from main with 875 days, 141.09703779366703 more than average
+Branch feature/FSA-4917 moved away from main with 863 days, 129.09703779366703 more than average
+Branch feature/FSA-4920 moved away from main with 889 days, 155.09703779366703 more than average
+Branch feature/FSA-4923 moved away from main with 890 days, 156.09703779366703 more than average
+Branch feature/FSA-4930 moved away from main with 874 days, 140.09703779366703 more than average
+Branch feature/FSA-4932-required moved away from main with 889 days, 155.09703779366703 more than average
+Branch feature/FSA-4932 moved away from main with 891 days, 157.09703779366703 more than average
+Branch feature/FSA-4933 moved away from main with 888 days, 154.09703779366703 more than average
+Branch feature/FSA-4934-simple-styling-configuration-for-forms moved away from main with 874 days, 140.09703779366703 more than average
+Branch feature/FSA-4936 moved away from main with 875 days, 141.09703779366703 more than average
+Branch feature/FSA-4944 moved away from main with 834 days, 100.09703779366703 more than average
+Branch feature/FSA-4946 moved away from main with 828 days, 94.09703779366703 more than average
+Branch feature/FSA-4956 moved away from main with 877 days, 143.09703779366703 more than average
+Branch feature/FSA-4964 moved away from main with 875 days, 141.09703779366703 more than average
+Branch feature/FSA-4967 moved away from main with 885 days, 151.09703779366703 more than average
+Branch feature/FSA-4968 moved away from main with 882 days, 148.09703779366703 more than average
+Branch feature/FSA-4970 moved away from main with 870 days, 136.09703779366703 more than average
+Branch feature/FSA-4971 moved away from main with 856 days, 122.09703779366703 more than average
+Branch feature/FSA-4972 moved away from main with 856 days, 122.09703779366703 more than average
+Branch feature/FSA-4973 moved away from main with 865 days, 131.09703779366703 more than average
+Branch feature/FSA-4974 moved away from main with 871 days, 137.09703779366703 more than average
+Branch feature/FSA-4979-spike moved away from main with 870 days, 136.09703779366703 more than average
+Branch feature/FSA-4980 moved away from main with 862 days, 128.09703779366703 more than average
+Branch feature/FSA-4981 moved away from main with 862 days, 128.09703779366703 more than average
+Branch feature/FSA-5002 moved away from main with 849 days, 115.09703779366703 more than average
+Branch feature/FSA-5007 moved away from main with 827 days, 93.09703779366703 more than average
+Branch feature/FSA-5008 moved away from main with 820 days, 86.09703779366703 more than average
+Branch feature/FSA-5013 moved away from main with 862 days, 128.09703779366703 more than average
+Branch feature/FSA-5015-spike moved away from main with 855 days, 121.09703779366703 more than average
+Branch feature/FSA-5018 moved away from main with 836 days, 102.09703779366703 more than average
+Branch feature/FSA-5023 moved away from main with 773 days, 39.09703779366703 more than average
+Branch feature/FSA-5024 moved away from main with 842 days, 108.09703779366703 more than average
+Branch feature/FSA-5030 moved away from main with 847 days, 113.09703779366703 more than average
+Branch feature/FSA-5031-spike moved away from main with 861 days, 127.09703779366703 more than average
+Branch feature/FSA-5031 moved away from main with 854 days, 120.09703779366703 more than average
+Branch feature/FSA-5036 moved away from main with 848 days, 114.09703779366703 more than average
+Branch feature/FSA-5037 moved away from main with 850 days, 116.09703779366703 more than average
+Branch feature/FSA-5043 moved away from main with 833 days, 99.09703779366703 more than average
+Branch feature/FSA-5044 moved away from main with 843 days, 109.09703779366703 more than average
+Branch feature/FSA-5050 moved away from main with 842 days, 108.09703779366703 more than average
+Branch feature/FSA-5052 moved away from main with 854 days, 120.09703779366703 more than average
+Branch feature/FSA-5053 moved away from main with 855 days, 121.09703779366703 more than average
+Branch feature/FSA-5054 moved away from main with 857 days, 123.09703779366703 more than average
+Branch feature/FSA-5055 moved away from main with 853 days, 119.09703779366703 more than average
+Branch feature/FSA-5071 moved away from main with 805 days, 71.09703779366703 more than average
+Branch feature/FSA-5074 moved away from main with 849 days, 115.09703779366703 more than average
+Branch feature/FSA-5079-solution-2 moved away from main with 822 days, 88.09703779366703 more than average
+Branch feature/FSA-5079-solution-3 moved away from main with 800 days, 66.09703779366703 more than average
+Branch feature/FSA-5079 moved away from main with 808 days, 74.09703779366703 more than average
+Branch feature/FSA-5085 moved away from main with 827 days, 93.09703779366703 more than average
+Branch feature/FSA-5088 moved away from main with 784 days, 50.09703779366703 more than average
+Branch feature/FSA-5093-upgrade moved away from main with 812 days, 78.09703779366703 more than average
+Branch feature/FSA-5093 moved away from main with 821 days, 87.09703779366703 more than average
+Branch feature/FSA-5096 moved away from main with 833 days, 99.09703779366703 more than average
+Branch feature/FSA-5110 moved away from main with 806 days, 72.09703779366703 more than average
+Branch feature/FSA-5112 moved away from main with 827 days, 93.09703779366703 more than average
+Branch feature/FSA-5116 moved away from main with 826 days, 92.09703779366703 more than average
+Branch feature/FSA-5118 moved away from main with 764 days, 30.097037793667027 more than average
+Branch feature/FSA-5122 moved away from main with 825 days, 91.09703779366703 more than average
+Branch feature/FSA-5126 moved away from main with 805 days, 71.09703779366703 more than average
+Branch feature/FSA-5127 moved away from main with 763 days, 29.097037793667027 more than average
+Branch feature/FSA-5128 moved away from main with 815 days, 81.09703779366703 more than average
+Branch feature/FSA-5132 moved away from main with 765 days, 31.097037793667027 more than average
+Branch feature/FSA-5134 moved away from main with 764 days, 30.097037793667027 more than average
+Branch feature/FSA-5135 moved away from main with 800 days, 66.09703779366703 more than average
+Branch feature/FSA-5137 moved away from main with 807 days, 73.09703779366703 more than average
+Branch feature/FSA-5139 moved away from main with 820 days, 86.09703779366703 more than average
+Branch feature/FSA-5143 moved away from main with 813 days, 79.09703779366703 more than average
+Branch feature/FSA-5146 moved away from main with 780 days, 46.09703779366703 more than average
+Branch feature/FSA-5147 moved away from main with 780 days, 46.09703779366703 more than average
+Branch feature/FSA-5189 moved away from main with 757 days, 23.097037793667027 more than average
+Branch feature/FSA-5205 moved away from main with 765 days, 31.097037793667027 more than average
+Branch feature/FSA-5210 moved away from main with 797 days, 63.09703779366703 more than average
+Branch feature/FSA-5211 moved away from main with 791 days, 57.09703779366703 more than average
+Branch feature/FSA-5214 moved away from main with 778 days, 44.09703779366703 more than average
+Branch feature/FSA-5218 moved away from main with 763 days, 29.097037793667027 more than average
+Branch feature/FSA-5234 moved away from main with 763 days, 29.097037793667027 more than average
+Branch feature/FSA-5235 moved away from main with 758 days, 24.097037793667027 more than average
+Branch feature/FSA-5252 moved away from main with 771 days, 37.09703779366703 more than average
+Branch feature/FSA-5254-v2 moved away from main with 769 days, 35.09703779366703 more than average
+Branch feature/FSA-5254 moved away from main with 770 days, 36.09703779366703 more than average
+Branch feature/FSA-5255-add-entry moved away from main with 766 days, 32.09703779366703 more than average
+Branch feature/FSA-5255 moved away from main with 767 days, 33.09703779366703 more than average
+Branch feature/FSA-5257 moved away from main with 766 days, 32.09703779366703 more than average
+Branch feature/FSA-5258 moved away from main with 770 days, 36.09703779366703 more than average
+Branch feature/FSA-5259 moved away from main with 750 days, 16.097037793667027 more than average
+Branch feature/FSA-5267 moved away from main with 772 days, 38.09703779366703 more than average
+Branch feature/FSA-5271 moved away from main with 741 days, 7.0970377936670275 more than average
+Branch feature/FSA-5275 moved away from main with 741 days, 7.0970377936670275 more than average
+Branch feature/FSA-5281 moved away from main with 742 days, 8.097037793667027 more than average
+Branch feature/FSA-5283 moved away from main with 736 days, 2.0970377936670275 more than average
+Branch feature/FSA-5321 moved away from main with 743 days, 9.097037793667027 more than average
+Branch feature/FSA-5322 moved away from main with 735 days, 1.0970377936670275 more than average
+Branch feature/FSA-5324 moved away from main with 742 days, 8.097037793667027 more than average
+Branch feature/FSA-5339 moved away from main with 735 days, 1.0970377936670275 more than average
+Branch feature/FSA-47779 moved away from main with 945 days, 211.09703779366703 more than average
+Branch feature/FSA-future-beta-release moved away from main with 1157 days, 423.097037793667 more than average
+Branch feature/FSA-test moved away from main with 1196 days, 462.097037793667 more than average
+Branch feature/FSA-test-pipeline moved away from main with 1182 days, 448.097037793667 more than average
+Branch feature/NO-TASK-add-prettier-configuration moved away from main with 1081 days, 347.097037793667 more than average
+Branch feature/NO-TASK-broken-checkout-cypress-tests-fix moved away from main with 994 days, 260.097037793667 more than average
+Branch feature/NO-TASK-broken-path moved away from main with 1079 days, 345.097037793667 more than average
+Branch feature/NO-TASK-claims-component moved away from main with 891 days, 157.09703779366703 more than average
+Branch feature/NO-TASK-code-coverage moved away from main with 958 days, 224.09703779366703 more than average
+Branch feature/NO-TASK-cypress-fixes-06.01.20 moved away from main with 983 days, 249.09703779366703 more than average
+Branch feature/NO-TASK-error-notice-test moved away from main with 874 days, 140.09703779366703 more than average
+Branch feature/NO-TASK-fixes-false-adapters moved away from main with 930 days, 196.09703779366703 more than average
+Branch feature/NO-TASK-missing-unit-tests moved away from main with 983 days, 249.09703779366703 more than average
+Branch feature/NO-TASK-removed-container-class moved away from main with 1077 days, 343.097037793667 more than average
+Branch feature/NO-TASK-travis-ci moved away from main with 947 days, 213.09703779366703 more than average
+Branch feature/NO-TASK-travis-sonar moved away from main with 944 days, 210.09703779366703 more than average
+Branch feature/NO-TASK-upgrade-1.3 moved away from main with 1045 days, 311.097037793667 more than average
+Branch feature/NOTASK-fix-failing-tests moved away from main with 805 days, 71.09703779366703 more than average
+Branch feature/NOTASK-travel-slower-test moved away from main with 1035 days, 301.097037793667 more than average
+Branch feature/ach-libs moved away from main with 765 days, 31.097037793667027 more than average
+Branch feature/agent-portal moved away from main with 822 days, 88.09703779366703 more than average
+Branch feature/broken-ui-tests moved away from main with 1021 days, 287.097037793667 more than average
+Branch feature/cart-refactoring moved away from main with 764 days, 30.097037793667027 more than average
+Branch feature/cypress-my-account moved away from main with 1066 days, 332.097037793667 more than average
+Branch feature/cypress-policy-details moved away from main with 1066 days, 332.097037793667 more than average
+Branch feature/cypress-premium-calendar moved away from main with 1065 days, 331.097037793667 more than average
+Branch feature/docker-ci-test moved away from main with 1065 days, 331.097037793667 more than average
+Branch feature/enriched-responsive-banner moved away from main with 1397 days, 663.097037793667 more than average
+Branch feature/fix-travel-checkout-test moved away from main with 1010 days, 276.097037793667 more than average
+Branch feature/form-validations-spike moved away from main with 891 days, 157.09703779366703 more than average
+Branch feature/fsa-4371-inbox-sync-and-sorting moved away from main with 1021 days, 287.097037793667 more than average
+Branch feature/fsa-4949 moved away from main with 871 days, 137.09703779366703 more than average
+Branch feature/lint-issues-28-06-19 moved away from main with 1176 days, 442.097037793667 more than average
+Branch feature/missing-unit-tests moved away from main with 1074 days, 340.097037793667 more than average
+Branch feature/remove-wtf-branch moved away from main with 1126 days, 392.097037793667 more than average
+Branch feature/retrieve-quote moved away from main with 1049 days, 315.097037793667 more than average
+Branch feature/styles-lib-issue moved away from main with 785 days, 51.09703779366703 more than average
+Branch feature/test-bamboo-merge moved away from main with 1085 days, 351.097037793667 more than average
+Branch feature/test-form-definition moved away from main with 1079 days, 345.097037793667 more than average
+Branch feature/upgrade-spartacus-28.02-2019 moved away from main with 1295 days, 561.097037793667 more than average
+Branch feature/view-quotes-policies moved away from main with 1382 days, 648.097037793667 more than average
+Branch feature/yforms moved away from main with 1147 days, 413.097037793667 more than average
+Branch feature/4322-banking-checkout moved away from main with 1094 days, 360.097037793667 more than average
+Branch feature/5219 moved away from main with 771 days, 37.09703779366703 more than average
+Branch feautre/remove-spartacus-code moved away from main with 1379 days, 645.097037793667 more than average
+Branch fsa-4371-inbox-sync-and-sorting moved away from main with 1045 days, 311.097037793667 more than average
+Branch policyHolder_bug moved away from main with 763 days, 29.097037793667027 more than average
+Branch policyHolder_integrations moved away from main with 799 days, 65.09703779366703 more than average
+MEDIUM SEVERITY
+Branch 4353, 1066 days
+Branch 4388, 1057 days
+Branch 4418, 1043 days
+Branch 4462, 1004 days
+Branch FSA-3800-spa-comparison-table-2, 1273 days
+Branch FSA-3802-comparison-table-tab-namings, 1270 days
+Branch FSA-3938-spa-checkout-broken, 1215 days
+Branch NO-TASK-failing-comparison-table-tab-test, 1071 days
+Branch bug/FSA-4055-fsa-components-not-visible, 1176 days
+Branch bugfix/FSA-3368, 1322 days
+Branch bugfix/FSA-3412, 1099 days
+Branch bugfix/FSA-3414, 1071 days
+Branch bugfix/FSA-3494, 1368 days
+Branch bugfix/FSA-3610, 1324 days
+Branch bugfix/FSA-3723, 1273 days
+Branch bugfix/FSA-3746, 1277 days
+Branch bugfix/FSA-3834, 1250 days
+Branch bugfix/FSA-3837, 1253 days
+Branch bugfix/FSA-3839, 1266 days
+Branch bugfix/FSA-3866-spa-remove-modify-plan, 1204 days
+Branch bugfix/FSA-3937-spa-header-broken, 1211 days
+Branch bugfix/FSA-3949, 1204 days
+Branch bugfix/FSA-3972-new-payment, 1036 days
+Branch bugfix/FSA-3972, 1120 days
+Branch bugfix/FSA-3978, 1197 days
+Branch bugfix/FSA-4056, 1171 days
+Branch bugfix/FSA-4057, 1162 days
+Branch bugfix/FSA-4061-checkout-broken-after-upgrade-to-beta, 1157 days
+Branch bugfix/FSA-4072, 1123 days
+Branch bugfix/FSA-4237, 1073 days
+Branch bugfix/FSA-4330, 1074 days
+Branch bugfix/FSA-4368, 1074 days
+Branch bugfix/FSA-4372, 1074 days
+Branch bugfix/FSA-4384, 1065 days
+Branch bugfix/FSA-4407, 1039 days
+Branch bugfix/FSA-4488, 1017 days
+Branch bugfix/FSA-4596, 1004 days
+Branch feature/FSA-2616-Check-Out-Progress-Bar-Styling, 1046 days
+Branch feature/FSA-3334-styling-in-new-repo, 1396 days
+Branch feature/FSA-3380, 1396 days
+Branch feature/FSA-3381-remove-claim, 1402 days
+Branch feature/FSA-3382-refactor-policy-and-quote, 1401 days
+Branch feature/FSA-3395, 1367 days
+Branch feature/FSA-3399, 1388 days
+Branch feature/FSA-3400-header-styling-only, 1381 days
+Branch feature/FSA-3400, 1387 days
+Branch feature/FSA-3401, 1387 days
+Branch feature/FSA-3403, 1371 days
+Branch feature/FSA-3404-enriched-banner-in-angular, 1373 days
+Branch feature/FSA-3405, 1373 days
+Branch feature/FSA-3411, 1086 days
+Branch feature/FSA-3427, 1361 days
+Branch feature/FSA-3449-spa-premium-calendar, 1339 days
+Branch feature/FSA-3484, 1358 days
+Branch feature/FSA-3486, 1358 days
+Branch feature/FSA-3491-spa-category-pages, 1339 days
+Branch feature/FSA-3582-spa-handle-date-format-in-angular, 1247 days
+Branch feature/FSA-3607, 1290 days
+Branch feature/FSA-3622, 1261 days
+Branch feature/FSA-3642-spa-quote-review-page, 1301 days
+Branch feature/FSA-3643-spa-occ-comparison-table, 1281 days
+Branch feature/FSA-3645-Add-Options-Page, 1310 days
+Branch feature/FSA-3645, 1309 days
+Branch feature/FSA-3650, 1269 days
+Branch feature/FSA-3657-upgrade-dependencies, 1316 days
+Branch feature/FSA-3662-spa-inbox-part-2, 1275 days
+Branch feature/FSA-3670, 1302 days
+Branch feature/FSA-3685-ComparisonTable, 1295 days
+Branch feature/FSA-3691, 1260 days
+Branch feature/FSA-3692, 1281 days
+Branch feature/FSA-3694, 1283 days
+Branch feature/FSA-3724, 1138 days
+Branch feature/FSA-3730, 1283 days
+Branch feature/FSA-3731, 1281 days
+Branch feature/FSA-3738, 1267 days
+Branch feature/FSA-3801, 1273 days
+Branch feature/FSA-3802, 1269 days
+Branch feature/FSA-3803-comparison-table-styling, 1268 days
+Branch feature/FSA-3805-upgrade, 1273 days
+Branch feature/FSA-3806, 1268 days
+Branch feature/FSA-3821, 1254 days
+Branch feature/FSA-3828-order-confirmation-page, 1241 days
+Branch feature/FSA-3829, 1113 days
+Branch feature/FSA-3830-spa-checkout-progress-bar-styling, 1239 days
+Branch feature/FSA-3832-inbox-check-all, 1253 days
+Branch feature/FSA-3833-spa-layout-structure, 1256 days
+Branch feature/FSA-3838, 1260 days
+Branch feature/FSA-3863-my-account-pages-layout-removal, 1254 days
+Branch feature/FSA-3869-quote-review-improvements, 1242 days
+Branch feature/FSA-3872, 1247 days
+Branch feature/FSA-3882, 1183 days
+Branch feature/FSA-3889-spa-introduce-localization-support, 1217 days
+Branch feature/FSA-3890-upgrade-spa-dependencies-alpha-0.3, 1226 days
+Branch feature/FSA-3896, 1191 days
+Branch feature/FSA-3900, 1077 days
+Branch feature/FSA-3910-unify-accordions-in-spa, 1205 days
+Branch feature/FSA-3912, 1206 days
+Branch feature/FSA-3913-remove-BEM-leftovers, 1184 days
+Branch feature/FSA-3920, 1152 days
+Branch feature/FSA-3937-spa-header-broken, 1217 days
+Branch feature/FSA-3938-spa-checkout-broken, 1213 days
+Branch feature/FSA-3944-reconfiguring-svg-usage, 1198 days
+Branch feature/FSA-3955, 1183 days
+Branch feature/FSA-3991, 1193 days
+Branch feature/FSA-4027-upgrade-dependencies-to-beta-release, 1179 days
+Branch feature/FSA-4103-spratacus-1.0.0, 1155 days
+Branch feature/FSA-4105, 1155 days
+Branch feature/FSA-4106, 1149 days
+Branch feature/FSA-4144-lib, 1044 days
+Branch feature/FSA-4144, 1049 days
+Branch feature/FSA-4148, 1121 days
+Branch feature/FSA-4151-links-color-fix, 1140 days
+Branch feature/FSA-4151, 1143 days
+Branch feature/FSA-4152, 1134 days
+Branch feature/FSA-4154, 1141 days
+Branch feature/FSA-4155-inbox-styling-is-missing, 1105 days
+Branch feature/FSA-4157, 1134 days
+Branch feature/FSA-4158-forms, 1133 days
+Branch feature/FSA-4158, 1134 days
+Branch feature/FSA-4166, 1135 days
+Branch feature/FSA-4188-claims-page, 1120 days
+Branch feature/FSA-4194, 1080 days
+Branch feature/FSA-4207, 1128 days
+Branch feature/FSA-4208, 1067 days
+Branch feature/FSA-4209-first-step, 1127 days
+Branch feature/FSA-4210, 1122 days
+Branch feature/FSA-4211, 1128 days
+Branch feature/FSA-4214, 1127 days
+Branch feature/FSA-4219, 1115 days
+Branch feature/FSA-4220, 1109 days
+Branch feature/FSA-4222, 1112 days
+Branch feature/FSA-4230-auto-travel-ng-forms, 1094 days
+Branch feature/FSA-4232, 1105 days
+Branch feature/FSA-4235, 1121 days
+Branch feature/FSA-4238, 1101 days
+Branch feature/FSA-4239-mocked-apis, 1092 days
+Branch feature/FSA-4239, 1094 days
+Branch feature/FSA-4244, 1099 days
+Branch feature/FSA-4321-forms, 1109 days
+Branch feature/FSA-4321, 1108 days
+Branch feature/FSA-4322, 1099 days
+Branch feature/FSA-4323, 1092 days
+Branch feature/FSA-4326, 1087 days
+Branch feature/FSA-4333, 1095 days
+Branch feature/FSA-4341, 1078 days
+Branch feature/FSA-4343, 1046 days
+Branch feature/FSA-4344-spike, 1050 days
+Branch feature/FSA-4344, 1057 days
+Branch feature/FSA-4350-Inbox-re-implementation, 1078 days
+Branch feature/FSA-4351, 1068 days
+Branch feature/FSA-4353, 1057 days
+Branch feature/FSA-4355, 1058 days
+Branch feature/FSA-4356, 1052 days
+Branch feature/FSA-4357-fnol-checkout, 1050 days
+Branch feature/FSA-4357, 1050 days
+Branch feature/FSA-4358, 1057 days
+Branch feature/FSA-4359, 1073 days
+Branch feature/FSA-4361, 1049 days
+Branch feature/FSA-4363-summary-step-labels, 1022 days
+Branch feature/FSA-4363-update-user-request, 1023 days
+Branch feature/FSA-4363, 1031 days
+Branch feature/FSA-4364-summary-step, 1037 days
+Branch feature/FSA-4364, 1038 days
+Branch feature/FSA-4369-Inbox-remove-ngrx, 1074 days
+Branch feature/FSA-4370-Inbox-show-messages, 1052 days
+Branch feature/FSA-4374, 1037 days
+Branch feature/FSA-4378-homepage-new-banner, 1056 days
+Branch feature/FSA-4418, 1038 days
+Branch feature/FSA-4419, 1017 days
+Branch feature/FSA-4423, 1035 days
+Branch feature/FSA-4424, 1036 days
+Branch feature/FSA-4428, 1023 days
+Branch feature/FSA-4430, 1037 days
+Branch feature/FSA-4431, 1030 days
+Branch feature/FSA-4432, 1022 days
+Branch feature/FSA-4435-styling-category-pages, 1031 days
+Branch feature/FSA-4436-spike, 1038 days
+Branch feature/FSA-4436, 1030 days
+Branch feature/FSA-4441, 1025 days
+Branch feature/FSA-4448, 1023 days
+Branch feature/FSA-4450, 1014 days
+Branch feature/FSA-4452, 1023 days
+Branch feature/FSA-4457, 1022 days
+Branch feature/FSA-4460, 1021 days
+Branch feature/FSA-4461, 1030 days
+Branch feature/FSA-4462, 1001 days
+Branch feature/FSA-4467, 1008 days
+Branch feature/FSA-4468, 1031 days
+Branch feature/FSA-4477-simple-form-validations, 1015 days
+Branch feature/FSA-4484, 1017 days
+Branch feature/FSA-4489-personal-details, 1029 days
+Branch feature/FSA-4489, 1030 days
+Branch feature/FSA-4490-quote-binding, 994 days
+Branch feature/FSA-4490, 994 days
+Branch feature/FSA-4503, 1023 days
+Branch feature/FSA-4507, 1018 days
+Branch feature/FSA-4509, 1017 days
+Branch feature/FSA-4510, 1016 days
+Branch feature/FSA-4514, 1004 days
+Branch feature/FSA-4515, 1012 days
+Branch feature/FSA-4516, 997 days
+Branch feature/FSA-4518-styling-login-and-account-pages, 1001 days
+Branch feature/FSA-4537, 1000 days
+Branch feature/FSA-4539, 1009 days
+Branch feature/FSA-4540-implement-forms-for-all-products, 1008 days
+Branch feature/FSA-4541, 1021 days
+Branch feature/FSA-4554, 994 days
+Branch feature/FSA-4556-add-options-styling, 995 days
+Branch feature/FSA-4559, 994 days
+Branch feature/FSA-4567, 1012 days
+Branch feature/FSA-4590, 1010 days
+Branch feature/FSA-4593, 1004 days
+Branch feature/FSA-4598, 1001 days
+Branch feature/FSA-4600-order-confirmation-page, 995 days
+Branch feature/FSA-future-beta-release, 1157 days
+Branch feature/FSA-test, 1196 days
+Branch feature/FSA-test-pipeline, 1182 days
+Branch feature/NO-TASK-add-prettier-configuration, 1081 days
+Branch feature/NO-TASK-broken-checkout-cypress-tests-fix, 994 days
+Branch feature/NO-TASK-broken-path, 1079 days
+Branch feature/NO-TASK-cypress-fixes-06.01.20, 983 days
+Branch feature/NO-TASK-missing-unit-tests, 983 days
+Branch feature/NO-TASK-removed-container-class, 1077 days
+Branch feature/NO-TASK-upgrade-1.3, 1045 days
+Branch feature/NOTASK-travel-slower-test, 1035 days
+Branch feature/broken-ui-tests, 1021 days
+Branch feature/cypress-my-account, 1066 days
+Branch feature/cypress-policy-details, 1066 days
+Branch feature/cypress-premium-calendar, 1065 days
+Branch feature/docker-ci-test, 1065 days
+Branch feature/enriched-responsive-banner, 1397 days
+Branch feature/fix-travel-checkout-test, 1010 days
+Branch feature/fsa-4371-inbox-sync-and-sorting, 1021 days
+Branch feature/lint-issues-28-06-19, 1176 days
+Branch feature/missing-unit-tests, 1074 days
+Branch feature/remove-wtf-branch, 1126 days
+Branch feature/retrieve-quote, 1049 days
+Branch feature/test-bamboo-merge, 1085 days
+Branch feature/test-form-definition, 1079 days
+Branch feature/upgrade-spartacus-28.02-2019, 1295 days
+Branch feature/view-quotes-policies, 1382 days
+Branch feature/yforms, 1147 days
+Branch feature/4322-banking-checkout, 1094 days
+Branch feautre/remove-spartacus-code, 1379 days
+Branch fsa-4371-inbox-sync-and-sorting, 1045 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,26 @@
+Missed Activity
+=========================
+Branch dependabot/add-v2-config-file has 466 days of missed activity!
+MEDIUM SEVERITY
+Branch dependabot/add-v2-config-file, 466 seconds
+
+Branch Deviation
+=========================
+Average deviation: 586.8333333333334 days
+Branch orientation moved away from main with 2456 days, 1869.1666666666665 more than average
+MEDIUM SEVERITY
+Branch dependabot/add-v2-config-file, 502 days
+HIGH SEVERITY
+Branch orientation, 2456 days
+
+Unsynced activity
+=========================
+Average unsynced: -6.166666666666667 days
+Branch dependabot/npm_and_yarn/nanoid-4.0.0 is unsynced with 0 days, 6.166666666666667 more than average
+Branch dependabot/npm_and_yarn/stylelint-14.11.0 is unsynced with 0 days, 6.166666666666667 more than average
+Branch gh-pages is unsynced with 0 days, 6.166666666666667 more than average
+Branch master is unsynced with 0 days, 6.166666666666667 more than average
+Branch orientation is unsynced with 0 days, 6.166666666666667 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch dependabot/add-v2-config-file, -37 days

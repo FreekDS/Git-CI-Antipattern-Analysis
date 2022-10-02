@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch renovate/jest-monorepo has 105 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/jest-monorepo, 105 seconds
+
+Branch Deviation
+=========================
+Average deviation: 168.0 days
+Branch 4.x moved away from main with 259 days, 91.0 more than average
+Branch loaded-dto-typing moved away from main with 305 days, 137.0 more than average
+Branch ref-update moved away from main with 567 days, 399.0 more than average
+MEDIUM SEVERITY
+Branch loaded-dto-typing, 305 days
+Branch ref-update, 567 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 13.125 days
+Branch renovate/jest-monorepo is unsynced with 105 days, 91.875 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch renovate/jest-monorepo, 105 days

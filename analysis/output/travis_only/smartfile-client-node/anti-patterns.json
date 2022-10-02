@@ -1,0 +1,93 @@
+{
+  "slow_build": {
+    "client-node": {
+      "data": {
+        "2021-05-11T06:16:20Z": 38933.333333333336,
+        "2021-06-11T07:35:47Z": 37000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 37966.66666666667,
+      "quartiles": {
+        "q1": 37483.333333333336,
+        "q3": 38450.0,
+        "iqr": 966.6666666666642
+      },
+      "classification": {
+        "high_severity": {
+          "464": 41000,
+          "466": 40000,
+          "475": 40000,
+          "476": 49000
+        },
+        "medium_severity": {
+          "463": 39000,
+          "465": 39000,
+          "467": 39000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.35": 0,
+      "master": 0,
+      "v3info": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ajv-6.12.6": -1,
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": -1,
+      "dependabot/npm_and_yarn/async-2.6.4": -1,
+      "dependabot/npm_and_yarn/minimist-1.2.6": -1,
+      "dependabot/npm_and_yarn/moment-2.29.4": -1,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.35": -1,
+      "master": 0,
+      "v3info": 631
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/ansi-regex-3.0.1": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.35": 0,
+      "master": 0,
+      "v3info": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/npm_and_yarn/ajv-6.12.6",
+          "dependabot/npm_and_yarn/ansi-regex-3.0.1",
+          "dependabot/npm_and_yarn/async-2.6.4",
+          "dependabot/npm_and_yarn/minimist-1.2.6",
+          "dependabot/npm_and_yarn/moment-2.29.4",
+          "dependabot/npm_and_yarn/moment-timezone-0.5.35",
+          "master",
+          "v3info"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "client-node": {
+      "data": [],
+      "release_build_count": 10
+    }
+  },
+  "skip_failing_tests": {}
+}

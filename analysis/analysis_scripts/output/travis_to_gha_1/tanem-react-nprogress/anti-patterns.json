@@ -1,0 +1,327 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2020-12-03T20:21:00Z": 110750.0
+      },
+      "tool": "Github Actions",
+      "total avg": 110750.0,
+      "quartiles": {
+        "q1": 110750.0,
+        "q3": 110750.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 113000,
+          "2": 121000,
+          "3": 113000,
+          "4": 113000,
+          "6": 118000,
+          "7": 192000
+        },
+        "medium_severity": {}
+      }
+    },
+    "react-nprogress": {
+      "data": {
+        "2020-10-19T21:27:18Z": 147500.0,
+        "2020-10-27T02:39:05Z": 125125.0,
+        "2020-11-05T07:41:30Z": 114272.72727272728,
+        "2020-11-12T20:47:01Z": 97916.66666666667,
+        "2020-11-20T14:39:37Z": 96050.0,
+        "2020-11-27T18:55:11Z": 95800.0
+      },
+      "tool": "TravisCI",
+      "total avg": 112777.39898989901,
+      "quartiles": {
+        "q1": 96516.66666666667,
+        "q3": 122411.93181818182,
+        "iqr": 25895.265151515152
+      },
+      "classification": {
+        "high_severity": {
+          "3142": 478000
+        },
+        "medium_severity": {
+          "3139": 124000,
+          "3140": 128000,
+          "3146": 139000,
+          "3147": 129000,
+          "3148": 125000,
+          "3149": 127000,
+          "3150": 125000,
+          "3152": 126000,
+          "3153": 128000,
+          "3154": 124000,
+          "3157": 125000,
+          "3158": 123000,
+          "3160": 124000,
+          "3162": 125000,
+          "3165": 123000,
+          "3166": 129000,
+          "3170": 126000,
+          "3171": 128000,
+          "3178": 124000,
+          "3179": 127000,
+          "3184": 125000,
+          "3185": 128000,
+          "3190": 123000,
+          "3192": 128000,
+          "3193": 123000,
+          "3194": 126000,
+          "3200": 126000,
+          "3201": 131000,
+          "3207": 124000,
+          "3210": 123000,
+          "3215": 130000,
+          "3218": 123000,
+          "3229": 144000,
+          "3243": 128000,
+          "3250": 132000,
+          "3260": 126000,
+          "3264": 125000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0,
+      "renovate/eslint-plugin-react-7.x": 17,
+      "renovate/lock-file-maintenance": 306,
+      "renovate/major-jest-monorepo": 100
+    },
+    "branch deviation": {
+      "master": 0,
+      "renovate/eslint-plugin-react-7.x": -1,
+      "renovate/lock-file-maintenance": 4,
+      "renovate/major-jest-monorepo": -1
+    },
+    "unsynced activity": {
+      "master": 0,
+      "renovate/eslint-plugin-react-7.x": 17,
+      "renovate/lock-file-maintenance": 302,
+      "renovate/major-jest-monorepo": 100
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "renovate/lock-file-maintenance"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "renovate/lock-file-maintenance"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "renovate/lock-file-maintenance"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "react-nprogress": {
+      "data": [
+        {
+          "started_at": "2020-11-10T17:13:36Z",
+          "used_tool": "TravisCI",
+          "number": 3163
+        },
+        {
+          "started_at": "2020-11-13T17:49:58Z",
+          "used_tool": "TravisCI",
+          "number": 3167
+        },
+        {
+          "started_at": "2020-11-13T17:52:32Z",
+          "used_tool": "TravisCI",
+          "number": 3168
+        },
+        {
+          "started_at": "2020-11-15T17:13:26Z",
+          "used_tool": "TravisCI",
+          "number": 3174
+        },
+        {
+          "started_at": "2020-11-15T17:13:56Z",
+          "used_tool": "TravisCI",
+          "number": 3175
+        },
+        {
+          "started_at": "2020-11-17T17:13:55Z",
+          "used_tool": "TravisCI",
+          "number": 3180
+        },
+        {
+          "started_at": "2020-11-17T17:45:14Z",
+          "used_tool": "TravisCI",
+          "number": 3181
+        },
+        {
+          "started_at": "2020-11-18T18:03:39Z",
+          "used_tool": "TravisCI",
+          "number": 3186
+        },
+        {
+          "started_at": "2020-11-19T17:37:04Z",
+          "used_tool": "TravisCI",
+          "number": 3188
+        },
+        {
+          "started_at": "2020-11-22T17:29:43Z",
+          "used_tool": "TravisCI",
+          "number": 3197
+        },
+        {
+          "started_at": "2020-11-22T17:31:53Z",
+          "used_tool": "TravisCI",
+          "number": 3198
+        },
+        {
+          "started_at": "2020-11-23T01:15:54Z",
+          "used_tool": "TravisCI",
+          "number": 3202
+        },
+        {
+          "started_at": "2020-11-23T02:32:31Z",
+          "used_tool": "TravisCI",
+          "number": 3203
+        },
+        {
+          "started_at": "2020-11-23T05:36:29Z",
+          "used_tool": "TravisCI",
+          "number": 3204
+        },
+        {
+          "started_at": "2020-11-23T16:57:58Z",
+          "used_tool": "TravisCI",
+          "number": 3205
+        },
+        {
+          "started_at": "2020-11-23T16:58:56Z",
+          "used_tool": "TravisCI",
+          "number": 3206
+        },
+        {
+          "started_at": "2020-11-24T01:28:16Z",
+          "used_tool": "TravisCI",
+          "number": 3213
+        },
+        {
+          "started_at": "2020-11-24T01:29:27Z",
+          "used_tool": "TravisCI",
+          "number": 3214
+        },
+        {
+          "started_at": "2020-11-24T02:19:47Z",
+          "used_tool": "TravisCI",
+          "number": 3216
+        },
+        {
+          "started_at": "2020-11-24T02:20:43Z",
+          "used_tool": "TravisCI",
+          "number": 3217
+        },
+        {
+          "started_at": "2020-11-24T05:53:10Z",
+          "used_tool": "TravisCI",
+          "number": 3221
+        },
+        {
+          "started_at": "2020-11-24T05:54:32Z",
+          "used_tool": "TravisCI",
+          "number": 3222
+        },
+        {
+          "started_at": "2020-11-24T07:17:03Z",
+          "used_tool": "TravisCI",
+          "number": 3225
+        },
+        {
+          "started_at": "2020-11-24T07:17:53Z",
+          "used_tool": "TravisCI",
+          "number": 3226
+        },
+        {
+          "started_at": "2020-11-24T17:14:37Z",
+          "used_tool": "TravisCI",
+          "number": 3231
+        },
+        {
+          "started_at": "2020-11-24T18:37:06Z",
+          "used_tool": "TravisCI",
+          "number": 3233
+        },
+        {
+          "started_at": "2020-11-26T08:38:54Z",
+          "used_tool": "TravisCI",
+          "number": 3237
+        },
+        {
+          "started_at": "2020-11-26T17:21:37Z",
+          "used_tool": "TravisCI",
+          "number": 3238
+        },
+        {
+          "started_at": "2020-11-26T17:29:57Z",
+          "used_tool": "TravisCI",
+          "number": 3242
+        },
+        {
+          "started_at": "2020-11-26T20:33:43Z",
+          "used_tool": "TravisCI",
+          "number": 3246
+        },
+        {
+          "started_at": "2020-11-26T21:14:00Z",
+          "used_tool": "TravisCI",
+          "number": 3249
+        },
+        {
+          "started_at": "2020-11-27T19:44:04Z",
+          "used_tool": "TravisCI",
+          "number": 3254
+        },
+        {
+          "started_at": "2020-11-27T22:30:05Z",
+          "used_tool": "TravisCI",
+          "number": 3255
+        },
+        {
+          "started_at": "2020-11-28T07:41:21Z",
+          "used_tool": "TravisCI",
+          "number": 3257
+        },
+        {
+          "started_at": "2020-11-30T22:46:05Z",
+          "used_tool": "TravisCI",
+          "number": 3259
+        },
+        {
+          "started_at": "2020-12-01T02:54:37Z",
+          "used_tool": "TravisCI",
+          "number": 3261
+        },
+        {
+          "started_at": "2020-12-02T09:01:57Z",
+          "used_tool": "TravisCI",
+          "number": 3263
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 132
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,22 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 329.46153846153845 days
+Branch compat moved away from main with 339 days, 9.538461538461547 more than average
+Branch dynamic-route-example moved away from main with 348 days, 18.538461538461547 more than average
+Branch v1 moved away from main with 2460 days, 2130.5384615384614 more than average
+Branch v3 moved away from main with 927 days, 597.5384615384615 more than average
+MEDIUM SEVERITY
+Branch dynamic-route-example, 348 days
+HIGH SEVERITY
+Branch v1, 2460 days
+Branch v3, 927 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

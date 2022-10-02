@@ -1,0 +1,201 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2020-11-10T18:16:30Z": 120000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 120000.0,
+      "quartiles": {
+        "q1": 120000.0,
+        "q3": 120000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "logadapter": {
+      "data": {
+        "2020-11-07T15:59:16Z": 84500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 84500.0,
+      "quartiles": {
+        "q1": 84500.0,
+        "q3": 84500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "238": 92000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/babel/core-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/node-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/preset-env-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/register-7.18.9": 0,
+      "dependabot/npm_and_yarn/babel/runtime-7.19.0": 0,
+      "dependabot/npm_and_yarn/babel-jest-29.0.3": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/globby-13.1.2": 0,
+      "dependabot/npm_and_yarn/semantic-release-19.0.5": 0,
+      "greenkeeper/cz-conventional-changelog-3.1.1": 0,
+      "greenkeeper/cz-conventional-changelog-3.2.0": 0,
+      "greenkeeper/eslint-config-prettier-6.11.0": 0,
+      "greenkeeper/globby-11.0.1": 0,
+      "greenkeeper/mkdirp-1.0.4": 0,
+      "greenkeeper/monorepo.babel7-20200407210918": 0,
+      "greenkeeper/monorepo.babel7-20200429184705": 0,
+      "greenkeeper/monorepo.babel7-20200526215451": 0,
+      "greenkeeper/monorepo.babel7-20200527223108": 0,
+      "greenkeeper/monorepo.babel7-20200530201120": 0,
+      "greenkeeper/monorepo.babel7-20200530201133": 0,
+      "greenkeeper/monorepo.babel7-20200530201154": 0,
+      "greenkeeper/prettier-2.0.3": 0,
+      "greenkeeper/prettier-2.0.4": 0,
+      "greenkeeper/prettier-2.0.5": 0,
+      "greenkeeper/semantic-release-17.0.5": 0,
+      "greenkeeper/semantic-release-17.0.6": 0,
+      "greenkeeper/semantic-release-17.0.7": 0,
+      "greenkeeper/semantic-release-17.0.8": 0,
+      "master": 0,
+      "npm-template-sync/arlac77/template-bitdiver": 502,
+      "snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f": 538,
+      "snyk-upgrade-9fbbd4218902a73cff64c5105499ba8b": 0,
+      "snyk-upgrade-614dca4558f4b67cb7b5f1186555f81e": 0,
+      "snyk-upgrade-852b934a2defa920941ef5acfe33aca5": 562,
+      "snyk-upgrade-892a913b9537fb1177c54095f47e5fde": 0,
+      "snyk-upgrade-edd7001eb805d2c09302a3cdd68e9a58": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/babel/core-7.19.1": -115,
+      "dependabot/npm_and_yarn/babel/node-7.19.1": -115,
+      "dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1": -115,
+      "dependabot/npm_and_yarn/babel/preset-env-7.19.1": -115,
+      "dependabot/npm_and_yarn/babel/register-7.18.9": -57,
+      "dependabot/npm_and_yarn/babel/runtime-7.19.0": -106,
+      "dependabot/npm_and_yarn/babel-jest-29.0.3": -112,
+      "dependabot/npm_and_yarn/eslint-8.23.1": -113,
+      "dependabot/npm_and_yarn/globby-13.1.2": -21,
+      "dependabot/npm_and_yarn/semantic-release-19.0.5": -93,
+      "greenkeeper/cz-conventional-changelog-3.1.1": 749,
+      "greenkeeper/cz-conventional-changelog-3.2.0": 748,
+      "greenkeeper/eslint-config-prettier-6.11.0": 762,
+      "greenkeeper/globby-11.0.1": 720,
+      "greenkeeper/mkdirp-1.0.4": 780,
+      "greenkeeper/monorepo.babel7-20200407210918": 775,
+      "greenkeeper/monorepo.babel7-20200429184705": 754,
+      "greenkeeper/monorepo.babel7-20200526215451": 726,
+      "greenkeeper/monorepo.babel7-20200527223108": 725,
+      "greenkeeper/monorepo.babel7-20200530201120": 723,
+      "greenkeeper/monorepo.babel7-20200530201133": 722,
+      "greenkeeper/monorepo.babel7-20200530201154": 722,
+      "greenkeeper/prettier-2.0.3": 777,
+      "greenkeeper/prettier-2.0.4": 777,
+      "greenkeeper/prettier-2.0.5": 762,
+      "greenkeeper/semantic-release-17.0.5": 766,
+      "greenkeeper/semantic-release-17.0.6": 766,
+      "greenkeeper/semantic-release-17.0.7": 761,
+      "greenkeeper/semantic-release-17.0.8": 729,
+      "master": 0,
+      "npm-template-sync/arlac77/template-bitdiver": 502,
+      "snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f": 538,
+      "snyk-upgrade-9fbbd4218902a73cff64c5105499ba8b": 14,
+      "snyk-upgrade-614dca4558f4b67cb7b5f1186555f81e": 452,
+      "snyk-upgrade-852b934a2defa920941ef5acfe33aca5": 732,
+      "snyk-upgrade-892a913b9537fb1177c54095f47e5fde": 757,
+      "snyk-upgrade-edd7001eb805d2c09302a3cdd68e9a58": 730
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/babel/core-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/node-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/preset-env-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/register-7.18.9": 0,
+      "dependabot/npm_and_yarn/babel/runtime-7.19.0": 0,
+      "dependabot/npm_and_yarn/babel-jest-29.0.3": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/globby-13.1.2": 0,
+      "dependabot/npm_and_yarn/semantic-release-19.0.5": 0,
+      "greenkeeper/cz-conventional-changelog-3.1.1": 0,
+      "greenkeeper/cz-conventional-changelog-3.2.0": 0,
+      "greenkeeper/eslint-config-prettier-6.11.0": 0,
+      "greenkeeper/globby-11.0.1": 0,
+      "greenkeeper/mkdirp-1.0.4": 0,
+      "greenkeeper/monorepo.babel7-20200407210918": 0,
+      "greenkeeper/monorepo.babel7-20200429184705": 0,
+      "greenkeeper/monorepo.babel7-20200526215451": 0,
+      "greenkeeper/monorepo.babel7-20200527223108": 0,
+      "greenkeeper/monorepo.babel7-20200530201120": 0,
+      "greenkeeper/monorepo.babel7-20200530201133": 0,
+      "greenkeeper/monorepo.babel7-20200530201154": 0,
+      "greenkeeper/prettier-2.0.3": 0,
+      "greenkeeper/prettier-2.0.4": 0,
+      "greenkeeper/prettier-2.0.5": 0,
+      "greenkeeper/semantic-release-17.0.5": 0,
+      "greenkeeper/semantic-release-17.0.6": 0,
+      "greenkeeper/semantic-release-17.0.7": 0,
+      "greenkeeper/semantic-release-17.0.8": 0,
+      "master": 0,
+      "npm-template-sync/arlac77/template-bitdiver": -1,
+      "snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f": -1,
+      "snyk-upgrade-9fbbd4218902a73cff64c5105499ba8b": 0,
+      "snyk-upgrade-614dca4558f4b67cb7b5f1186555f81e": 0,
+      "snyk-upgrade-852b934a2defa920941ef5acfe33aca5": -171,
+      "snyk-upgrade-892a913b9537fb1177c54095f47e5fde": 0,
+      "snyk-upgrade-edd7001eb805d2c09302a3cdd68e9a58": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "npm-template-sync/arlac77/template-bitdiver",
+          "snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f",
+          "snyk-upgrade-852b934a2defa920941ef5acfe33aca5"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "greenkeeper/eslint-config-prettier-6.11.0",
+          "greenkeeper/mkdirp-1.0.4",
+          "greenkeeper/monorepo.babel7-20200407210918",
+          "greenkeeper/prettier-2.0.3",
+          "greenkeeper/prettier-2.0.4",
+          "greenkeeper/prettier-2.0.5",
+          "greenkeeper/semantic-release-17.0.5",
+          "greenkeeper/semantic-release-17.0.6",
+          "greenkeeper/semantic-release-17.0.7"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "npm-template-sync/arlac77/template-bitdiver",
+          "snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f",
+          "snyk-upgrade-852b934a2defa920941ef5acfe33aca5"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "logadapter": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

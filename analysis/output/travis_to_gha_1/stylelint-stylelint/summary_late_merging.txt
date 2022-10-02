@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 285.61538461538464 days
+Branch browser-bundle moved away from main with 679 days, 393.38461538461536 more than average
+Branch browser-bundle-wip moved away from main with 861 days, 575.3846153846154 more than average
+Branch bundle moved away from main with 870 days, 584.3846153846154 more than average
+Branch core-entrypoint moved away from main with 464 days, 178.38461538461536 more than average
+Branch refactor-to-esm moved away from main with 364 days, 78.38461538461536 more than average
+MEDIUM SEVERITY
+Branch browser-bundle, 679 days
+Branch browser-bundle-wip, 861 days
+Branch bundle, 870 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

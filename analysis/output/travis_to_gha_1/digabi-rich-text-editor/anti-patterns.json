@@ -1,0 +1,350 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2021-01-11T08:27:50Z": 21627000.0,
+        "2021-02-19T10:33:56Z": 11691000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 16659000.0,
+      "quartiles": {
+        "q1": 14175000.0,
+        "q3": 19143000.0,
+        "iqr": 4968000.0
+      },
+      "classification": {
+        "high_severity": {
+          "7": 59496000
+        },
+        "medium_severity": {
+          "2": 21627000,
+          "5": 21630000
+        }
+      }
+    },
+    "rich-text-editor": {
+      "data": {
+        "2021-01-11T00:05:23Z": 92666.66666666667,
+        "2021-01-18T00:09:33Z": 91562.5,
+        "2021-01-26T14:32:46Z": 90176.4705882353,
+        "2021-02-03T00:18:46Z": 92590.90909090909,
+        "2021-02-10T00:19:10Z": 89105.26315789473,
+        "2021-02-19T00:19:31Z": 89571.42857142857
+      },
+      "tool": "TravisCI",
+      "total avg": 90945.53967918905,
+      "quartiles": {
+        "q1": 89722.68907563025,
+        "q3": 92333.80681818182,
+        "iqr": 2611.117742551578
+      },
+      "classification": {
+        "high_severity": {
+          "910": 101000,
+          "919": 99000,
+          "920": 100000,
+          "924": 98000,
+          "930": 98000,
+          "929": 98000,
+          "934": 105000,
+          "942": 97000,
+          "947": 103000,
+          "954": 101000,
+          "970": 110000,
+          "971": 111000,
+          "976": 100000,
+          "987": 97000,
+          "1010": 97000,
+          "1012": 97000,
+          "1020": 99000,
+          "1021": 99000,
+          "1030": 99000,
+          "1031": 100000
+        },
+        "medium_severity": {
+          "911": 94000,
+          "926": 96000,
+          "927": 96000,
+          "928": 94000,
+          "931": 93000,
+          "933": 95000,
+          "941": 95000,
+          "948": 96000,
+          "952": 94000,
+          "955": 95000,
+          "960": 95000,
+          "961": 96000,
+          "965": 95000,
+          "975": 95000,
+          "978": 93000,
+          "977": 94000,
+          "981": 93000,
+          "982": 96000,
+          "988": 93000,
+          "1004": 94000,
+          "1005": 95000,
+          "1009": 95000,
+          "1011": 93000,
+          "1022": 94000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "asciimath_v1": 0,
+      "bugfix/boolean-conversion": 1540,
+      "componentize": 0,
+      "feature/allow-multiple-instances": 0,
+      "feature/bertta-improvemements": 0,
+      "feature/commonjs-support-for-mathquill": 1133,
+      "feature/es2015-modules": 835,
+      "feature/gh-actions": 570,
+      "feature/nv-2020k": 780,
+      "feature/options-locale": 0,
+      "feature/prevent-latex-nesting-attack": 1367,
+      "feature/remove-50-screenshot-limit": 0,
+      "feature/vegan": 835,
+      "feature/2020": 0,
+      "fix/demo-unicode-issue": 742,
+      "fix/expanding": 722,
+      "fix/expanding-2": 721,
+      "fix/limit-latex-length-and-nesting-level": 1310,
+      "fix/rich-text-editor-screenshot-sync-revert": 1308,
+      "fix/screenshot-clipboard-data": 1310,
+      "group-spike": 0,
+      "imagcount": 0,
+      "master": 0,
+      "rel3.0.1": 0,
+      "tmp/focus-fixes": 0,
+      "toolbar-spike": 0
+    },
+    "branch deviation": {
+      "asciimath_v1": 2670,
+      "bugfix/boolean-conversion": 1540,
+      "componentize": 1987,
+      "feature/allow-multiple-instances": 273,
+      "feature/bertta-improvemements": 209,
+      "feature/commonjs-support-for-mathquill": 1133,
+      "feature/es2015-modules": 836,
+      "feature/gh-actions": 570,
+      "feature/nv-2020k": 784,
+      "feature/options-locale": 1149,
+      "feature/prevent-latex-nesting-attack": 1367,
+      "feature/remove-50-screenshot-limit": 806,
+      "feature/vegan": 835,
+      "feature/2020": 1000,
+      "fix/demo-unicode-issue": 743,
+      "fix/expanding": 722,
+      "fix/expanding-2": 721,
+      "fix/limit-latex-length-and-nesting-level": 1312,
+      "fix/rich-text-editor-screenshot-sync-revert": 1310,
+      "fix/screenshot-clipboard-data": 1315,
+      "group-spike": 1948,
+      "imagcount": 1973,
+      "master": 0,
+      "rel3.0.1": 1863,
+      "tmp/focus-fixes": 1172,
+      "toolbar-spike": 1984
+    },
+    "unsynced activity": {
+      "asciimath_v1": 0,
+      "bugfix/boolean-conversion": -1,
+      "componentize": 0,
+      "feature/allow-multiple-instances": 0,
+      "feature/bertta-improvemements": 0,
+      "feature/commonjs-support-for-mathquill": -1,
+      "feature/es2015-modules": -1,
+      "feature/gh-actions": -1,
+      "feature/nv-2020k": -5,
+      "feature/options-locale": 0,
+      "feature/prevent-latex-nesting-attack": -1,
+      "feature/remove-50-screenshot-limit": 0,
+      "feature/vegan": -1,
+      "feature/2020": 0,
+      "fix/demo-unicode-issue": -1,
+      "fix/expanding": -1,
+      "fix/expanding-2": -1,
+      "fix/limit-latex-length-and-nesting-level": -2,
+      "fix/rich-text-editor-screenshot-sync-revert": -2,
+      "fix/screenshot-clipboard-data": -6,
+      "group-spike": 0,
+      "imagcount": 0,
+      "master": 0,
+      "rel3.0.1": 0,
+      "tmp/focus-fixes": 0,
+      "toolbar-spike": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "bugfix/boolean-conversion",
+          "feature/commonjs-support-for-mathquill",
+          "feature/prevent-latex-nesting-attack",
+          "fix/limit-latex-length-and-nesting-level",
+          "fix/rich-text-editor-screenshot-sync-revert",
+          "fix/screenshot-clipboard-data"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "bugfix/boolean-conversion",
+          "componentize",
+          "group-spike",
+          "imagcount",
+          "rel3.0.1",
+          "toolbar-spike"
+        ],
+        "high_severity": [
+          "asciimath_v1"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "bugfix/boolean-conversion",
+          "feature/commonjs-support-for-mathquill",
+          "feature/es2015-modules",
+          "feature/gh-actions",
+          "feature/prevent-latex-nesting-attack",
+          "feature/vegan",
+          "fix/demo-unicode-issue",
+          "fix/expanding",
+          "fix/expanding-2"
+        ],
+        "high_severity": [
+          "feature/nv-2020k",
+          "fix/limit-latex-length-and-nesting-level",
+          "fix/rich-text-editor-screenshot-sync-revert",
+          "fix/screenshot-clipboard-data"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [
+        {
+          "started_at": "2021-02-22T21:57:46Z",
+          "used_tool": "Github Actions",
+          "number": 7
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 1
+    },
+    "rich-text-editor": {
+      "data": [
+        {
+          "started_at": "2021-01-11T00:05:26Z",
+          "used_tool": "TravisCI",
+          "number": 911
+        },
+        {
+          "started_at": "2021-01-11T08:14:35Z",
+          "used_tool": "TravisCI",
+          "number": 920
+        },
+        {
+          "started_at": "2021-01-11T08:22:35Z",
+          "used_tool": "TravisCI",
+          "number": 926
+        },
+        {
+          "started_at": "2021-01-11T08:26:00Z",
+          "used_tool": "TravisCI",
+          "number": 928
+        },
+        {
+          "started_at": "2021-01-12T00:04:16Z",
+          "used_tool": "TravisCI",
+          "number": 930
+        },
+        {
+          "started_at": "2021-01-14T00:03:15Z",
+          "used_tool": "TravisCI",
+          "number": 934
+        },
+        {
+          "started_at": "2021-01-18T00:10:42Z",
+          "used_tool": "TravisCI",
+          "number": 942
+        },
+        {
+          "started_at": "2021-01-20T00:02:50Z",
+          "used_tool": "TravisCI",
+          "number": 948
+        },
+        {
+          "started_at": "2021-01-25T00:06:59Z",
+          "used_tool": "TravisCI",
+          "number": 952
+        },
+        {
+          "started_at": "2021-01-27T00:06:58Z",
+          "used_tool": "TravisCI",
+          "number": 955
+        },
+        {
+          "started_at": "2021-02-01T00:10:02Z",
+          "used_tool": "TravisCI",
+          "number": 961
+        },
+        {
+          "started_at": "2021-02-03T00:18:49Z",
+          "used_tool": "TravisCI",
+          "number": 971
+        },
+        {
+          "started_at": "2021-02-03T00:24:08Z",
+          "used_tool": "TravisCI",
+          "number": 976
+        },
+        {
+          "started_at": "2021-02-04T00:19:28Z",
+          "used_tool": "TravisCI",
+          "number": 978
+        },
+        {
+          "started_at": "2021-02-05T00:20:00Z",
+          "used_tool": "TravisCI",
+          "number": 982
+        },
+        {
+          "started_at": "2021-02-08T00:37:45Z",
+          "used_tool": "TravisCI",
+          "number": 988
+        },
+        {
+          "started_at": "2021-02-12T00:25:49Z",
+          "used_tool": "TravisCI",
+          "number": 1005
+        },
+        {
+          "started_at": "2021-02-16T00:16:24Z",
+          "used_tool": "TravisCI",
+          "number": 1010
+        },
+        {
+          "started_at": "2021-02-19T00:19:42Z",
+          "used_tool": "TravisCI",
+          "number": 1012
+        },
+        {
+          "started_at": "2021-02-22T21:42:11Z",
+          "used_tool": "TravisCI",
+          "number": 1021
+        },
+        {
+          "started_at": "2021-02-22T21:49:13Z",
+          "used_tool": "TravisCI",
+          "number": 1031
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 75
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,93 @@
+Missed Activity
+=========================
+Branch npm-template-sync/arlac77/template-bitdiver has 502 days of missed activity!
+Branch snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f has 538 days of missed activity!
+Branch snyk-upgrade-852b934a2defa920941ef5acfe33aca5 has 562 days of missed activity!
+MEDIUM SEVERITY
+Branch npm-template-sync/arlac77/template-bitdiver, 502 seconds
+Branch snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f, 538 seconds
+Branch snyk-upgrade-852b934a2defa920941ef5acfe33aca5, 562 seconds
+
+Branch Deviation
+=========================
+Average deviation: 459.64864864864865 days
+Branch greenkeeper/cz-conventional-changelog-3.1.1 moved away from main with 749 days, 289.35135135135135 more than average
+Branch greenkeeper/cz-conventional-changelog-3.2.0 moved away from main with 748 days, 288.35135135135135 more than average
+Branch greenkeeper/eslint-config-prettier-6.11.0 moved away from main with 762 days, 302.35135135135135 more than average
+Branch greenkeeper/globby-11.0.1 moved away from main with 720 days, 260.35135135135135 more than average
+Branch greenkeeper/mkdirp-1.0.4 moved away from main with 780 days, 320.35135135135135 more than average
+Branch greenkeeper/monorepo.babel7-20200407210918 moved away from main with 775 days, 315.35135135135135 more than average
+Branch greenkeeper/monorepo.babel7-20200429184705 moved away from main with 754 days, 294.35135135135135 more than average
+Branch greenkeeper/monorepo.babel7-20200526215451 moved away from main with 726 days, 266.35135135135135 more than average
+Branch greenkeeper/monorepo.babel7-20200527223108 moved away from main with 725 days, 265.35135135135135 more than average
+Branch greenkeeper/monorepo.babel7-20200530201120 moved away from main with 723 days, 263.35135135135135 more than average
+Branch greenkeeper/monorepo.babel7-20200530201133 moved away from main with 722 days, 262.35135135135135 more than average
+Branch greenkeeper/monorepo.babel7-20200530201154 moved away from main with 722 days, 262.35135135135135 more than average
+Branch greenkeeper/prettier-2.0.3 moved away from main with 777 days, 317.35135135135135 more than average
+Branch greenkeeper/prettier-2.0.4 moved away from main with 777 days, 317.35135135135135 more than average
+Branch greenkeeper/prettier-2.0.5 moved away from main with 762 days, 302.35135135135135 more than average
+Branch greenkeeper/semantic-release-17.0.5 moved away from main with 766 days, 306.35135135135135 more than average
+Branch greenkeeper/semantic-release-17.0.6 moved away from main with 766 days, 306.35135135135135 more than average
+Branch greenkeeper/semantic-release-17.0.7 moved away from main with 761 days, 301.35135135135135 more than average
+Branch greenkeeper/semantic-release-17.0.8 moved away from main with 729 days, 269.35135135135135 more than average
+Branch npm-template-sync/arlac77/template-bitdiver moved away from main with 502 days, 42.351351351351354 more than average
+Branch snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f moved away from main with 538 days, 78.35135135135135 more than average
+Branch snyk-upgrade-852b934a2defa920941ef5acfe33aca5 moved away from main with 732 days, 272.35135135135135 more than average
+Branch snyk-upgrade-892a913b9537fb1177c54095f47e5fde moved away from main with 757 days, 297.35135135135135 more than average
+Branch snyk-upgrade-edd7001eb805d2c09302a3cdd68e9a58 moved away from main with 730 days, 270.35135135135135 more than average
+MEDIUM SEVERITY
+Branch greenkeeper/eslint-config-prettier-6.11.0, 762 days
+Branch greenkeeper/mkdirp-1.0.4, 780 days
+Branch greenkeeper/monorepo.babel7-20200407210918, 775 days
+Branch greenkeeper/prettier-2.0.3, 777 days
+Branch greenkeeper/prettier-2.0.4, 777 days
+Branch greenkeeper/prettier-2.0.5, 762 days
+Branch greenkeeper/semantic-release-17.0.5, 766 days
+Branch greenkeeper/semantic-release-17.0.6, 766 days
+Branch greenkeeper/semantic-release-17.0.7, 761 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -4.675675675675675 days
+Branch dependabot/npm_and_yarn/babel/core-7.19.1 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/babel/node-7.19.1 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/babel/preset-env-7.19.1 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/babel/register-7.18.9 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/babel/runtime-7.19.0 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/babel-jest-29.0.3 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/eslint-8.23.1 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/globby-13.1.2 is unsynced with 0 days, 4.675675675675675 more than average
+Branch dependabot/npm_and_yarn/semantic-release-19.0.5 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/cz-conventional-changelog-3.1.1 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/cz-conventional-changelog-3.2.0 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/eslint-config-prettier-6.11.0 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/globby-11.0.1 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/mkdirp-1.0.4 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/monorepo.babel7-20200407210918 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/monorepo.babel7-20200429184705 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/monorepo.babel7-20200526215451 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/monorepo.babel7-20200527223108 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/monorepo.babel7-20200530201120 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/monorepo.babel7-20200530201133 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/monorepo.babel7-20200530201154 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/prettier-2.0.3 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/prettier-2.0.4 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/prettier-2.0.5 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/semantic-release-17.0.5 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/semantic-release-17.0.6 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/semantic-release-17.0.7 is unsynced with 0 days, 4.675675675675675 more than average
+Branch greenkeeper/semantic-release-17.0.8 is unsynced with 0 days, 4.675675675675675 more than average
+Branch master is unsynced with 0 days, 4.675675675675675 more than average
+Branch npm-template-sync/arlac77/template-bitdiver is unsynced with -1 days, 3.6756756756756754 more than average
+Branch snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f is unsynced with -1 days, 3.6756756756756754 more than average
+Branch snyk-upgrade-9fbbd4218902a73cff64c5105499ba8b is unsynced with 0 days, 4.675675675675675 more than average
+Branch snyk-upgrade-614dca4558f4b67cb7b5f1186555f81e is unsynced with 0 days, 4.675675675675675 more than average
+Branch snyk-upgrade-892a913b9537fb1177c54095f47e5fde is unsynced with 0 days, 4.675675675675675 more than average
+Branch snyk-upgrade-edd7001eb805d2c09302a3cdd68e9a58 is unsynced with 0 days, 4.675675675675675 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch npm-template-sync/arlac77/template-bitdiver, -1 days
+Branch snyk-upgrade-0fe80e7586c72b974c4f82f6252ef50f, -1 days
+Branch snyk-upgrade-852b934a2defa920941ef5acfe33aca5, -171 days

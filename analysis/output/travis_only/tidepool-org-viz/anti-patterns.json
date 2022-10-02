@@ -1,0 +1,193 @@
+{
+  "slow_build": {
+    "viz": {
+      "data": {
+        "2021-04-08T16:52:18Z": 993642.8571428572,
+        "2021-05-04T14:33:40Z": 981142.8571428572,
+        "2021-05-13T20:35:01Z": 975648.1481481482,
+        "2021-05-26T13:28:28Z": 959160.0,
+        "2021-06-02T19:22:35Z": 930233.3333333334
+      },
+      "tool": "TravisCI",
+      "total avg": 967965.4391534391,
+      "quartiles": {
+        "q1": 959160.0,
+        "q3": 981142.8571428572,
+        "iqr": 21982.85714285716
+      },
+      "classification": {
+        "high_severity": {
+          "3364": 1050000,
+          "3369": 1030000,
+          "3368": 1090000,
+          "3371": 1066000,
+          "3384": 1038000,
+          "3385": 1015000,
+          "3386": 1067000,
+          "3392": 1061000,
+          "3405": 1034000,
+          "3413": 1018000,
+          "3416": 1028000,
+          "3418": 1052000,
+          "3426": 1057000,
+          "3433": 1030000,
+          "3437": 1157000,
+          "3440": 1061000,
+          "3442": 1357000,
+          "3488": 1015000,
+          "3490": 1054000,
+          "3565": 1025000
+        },
+        "medium_severity": {
+          "3362": 1009000,
+          "3363": 1002000,
+          "3365": 997000,
+          "3366": 999000,
+          "3367": 1003000,
+          "3370": 994000,
+          "3372": 996000,
+          "3374": 1008000,
+          "3375": 982000,
+          "3376": 1011000,
+          "3377": 991000,
+          "3381": 986000,
+          "3387": 1001000,
+          "3388": 1014000,
+          "3389": 998000,
+          "3390": 987000,
+          "3391": 1006000,
+          "3397": 1004000,
+          "3400": 1008000,
+          "3401": 1009000,
+          "3402": 985000,
+          "3411": 1012000,
+          "3415": 1013000,
+          "3417": 998000,
+          "3422": 991000,
+          "3424": 999000,
+          "3427": 985000,
+          "3432": 988000,
+          "3444": 991000,
+          "3445": 1011000,
+          "3446": 1002000,
+          "3459": 996000,
+          "3467": 986000,
+          "3473": 994000,
+          "3478": 995000,
+          "3485": 991000,
+          "3487": 1005000,
+          "3502": 989000,
+          "3519": 991000,
+          "3539": 998000,
+          "3547": 993000,
+          "3571": 985000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "WEB-162-device-filter-alt": 0,
+      "WEB-1157-trends-navigation-fix": 0,
+      "WEB-1179-devices-count-fix": 0,
+      "dependabot/npm_and_yarn/gsap-3.6.0": 0,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.35": 0,
+      "dependabot/npm_and_yarn/postcss-8.2.13": 0,
+      "develop": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "reject-duplicate-wizards-upload-id": 0,
+      "release-1.24.0": 214,
+      "release-1.30.0": 0,
+      "save/stacked-daily-view": 0,
+      "snyk-upgrade-3bd7d827be812d556a76af61fd5c79c4": 0,
+      "snyk-upgrade-8b09b2bb231543bd4b193d752092dc74": 0,
+      "snyk-upgrade-9dd9795888d051ccce4f7fd0e21f1b4e": 0,
+      "snyk-upgrade-9810b500b513ecfb20f97ca2aa74efa5": 0,
+      "snyk-upgrade-43999d151b886455c15e5256f3ed560f": 0,
+      "snyk-upgrade-db732696c28dd31a1e5620bde888f945": 0,
+      "update-reductio": 0,
+      "web-749-copy-text-empty-calibration": 0,
+      "wip-storybook-data-contexts": 0
+    },
+    "branch deviation": {
+      "WEB-162-device-filter-alt": 733,
+      "WEB-1157-trends-navigation-fix": 515,
+      "WEB-1179-devices-count-fix": 473,
+      "dependabot/npm_and_yarn/gsap-3.6.0": -1,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.35": -1,
+      "dependabot/npm_and_yarn/postcss-8.2.13": -1,
+      "develop": 0,
+      "gh-pages": 1935,
+      "master": 4,
+      "reject-duplicate-wizards-upload-id": 537,
+      "release-1.24.0": 214,
+      "release-1.30.0": -1,
+      "save/stacked-daily-view": 1524,
+      "snyk-upgrade-3bd7d827be812d556a76af61fd5c79c4": 716,
+      "snyk-upgrade-8b09b2bb231543bd4b193d752092dc74": 716,
+      "snyk-upgrade-9dd9795888d051ccce4f7fd0e21f1b4e": 716,
+      "snyk-upgrade-9810b500b513ecfb20f97ca2aa74efa5": 716,
+      "snyk-upgrade-43999d151b886455c15e5256f3ed560f": 716,
+      "snyk-upgrade-db732696c28dd31a1e5620bde888f945": 716,
+      "update-reductio": 766,
+      "web-749-copy-text-empty-calibration": 705,
+      "wip-storybook-data-contexts": 1004
+    },
+    "unsynced activity": {
+      "WEB-162-device-filter-alt": 0,
+      "WEB-1157-trends-navigation-fix": 0,
+      "WEB-1179-devices-count-fix": 0,
+      "dependabot/npm_and_yarn/gsap-3.6.0": 0,
+      "dependabot/npm_and_yarn/moment-timezone-0.5.35": 0,
+      "dependabot/npm_and_yarn/postcss-8.2.13": 0,
+      "develop": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "reject-duplicate-wizards-upload-id": 0,
+      "release-1.24.0": 0,
+      "release-1.30.0": 0,
+      "save/stacked-daily-view": 0,
+      "snyk-upgrade-3bd7d827be812d556a76af61fd5c79c4": 0,
+      "snyk-upgrade-8b09b2bb231543bd4b193d752092dc74": 0,
+      "snyk-upgrade-9dd9795888d051ccce4f7fd0e21f1b4e": 0,
+      "snyk-upgrade-9810b500b513ecfb20f97ca2aa74efa5": 0,
+      "snyk-upgrade-43999d151b886455c15e5256f3ed560f": 0,
+      "snyk-upgrade-db732696c28dd31a1e5620bde888f945": 0,
+      "update-reductio": 0,
+      "web-749-copy-text-empty-calibration": 0,
+      "wip-storybook-data-contexts": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "release-1.24.0"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "WEB-162-device-filter-alt",
+          "save/stacked-daily-view",
+          "update-reductio",
+          "wip-storybook-data-contexts"
+        ],
+        "high_severity": [
+          "gh-pages"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "viz": {
+      "data": [],
+      "release_build_count": 88
+    }
+  },
+  "skip_failing_tests": {}
+}

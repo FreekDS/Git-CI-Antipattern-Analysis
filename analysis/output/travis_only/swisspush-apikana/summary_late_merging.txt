@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+Branch develop has 45 days of missed activity!
+MEDIUM SEVERITY
+Branch develop, 45 seconds
+
+Branch Deviation
+=========================
+Average deviation: 348.2857142857143 days
+Branch Type-name-conflict-should-be-prevented moved away from main with 837 days, 488.7142857142857 more than average
+Branch gh-pages moved away from main with 1258 days, 909.7142857142858 more than average
+MEDIUM SEVERITY
+Branch Type-name-conflict-should-be-prevented, 837 days
+HIGH SEVERITY
+Branch gh-pages, 1258 days
+
+Unsynced activity
+=========================
+Average unsynced: 6.428571428571429 days
+Branch develop is unsynced with 45 days, 38.57142857142857 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch develop, 45 days

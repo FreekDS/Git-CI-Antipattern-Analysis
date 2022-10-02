@@ -1,0 +1,86 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2020-05-08T14:11:33Z": 46181.818181818184
+      },
+      "tool": "Github Actions",
+      "total avg": 46181.818181818184,
+      "quartiles": {
+        "q1": 46181.818181818184,
+        "q3": 46181.818181818184,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "6": 54000,
+          "9": 64000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/nodejs.yml": {
+      "data": {
+        "2020-05-10T09:37:50Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0,
+      "support/update-deps": 0,
+      "version-0.17.0": 0,
+      "version-1.0.0": 0
+    },
+    "branch deviation": {
+      "main": 0,
+      "support/update-deps": 0,
+      "version-0.17.0": 0,
+      "version-1.0.0": 99
+    },
+    "unsynced activity": {
+      "main": 0,
+      "support/update-deps": -1,
+      "version-0.17.0": -1,
+      "version-1.0.0": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "version-1.0.0"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "support/update-deps",
+          "version-0.17.0"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

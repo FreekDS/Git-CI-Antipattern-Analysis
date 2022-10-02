@@ -1,0 +1,590 @@
+{
+  "slow_build": {
+    "Node.js Package": {
+      "data": {
+        "2020-05-29T09:45:53Z": 40250.0
+      },
+      "tool": "Github Actions",
+      "total avg": 40250.0,
+      "quartiles": {
+        "q1": 40250.0,
+        "q3": 40250.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "12": 43000,
+          "13": 48000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node.js CI": {
+      "data": {
+        "2020-05-29T09:18:20Z": 55000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 55000.0,
+      "quartiles": {
+        "q1": 55000.0,
+        "q3": 55000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "12": 60000,
+          "15": 60000,
+          "8": 67000,
+          "17": 60000,
+          "18": 57000,
+          "9": 58000,
+          "19": 60000,
+          "20": 68000,
+          "25": 62000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Node.js CI (Release)": {
+      "data": {
+        "2020-05-29T09:24:50Z": 76000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 76000.0,
+      "quartiles": {
+        "q1": 76000.0,
+        "q3": 76000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Node.js CI (Test)": {
+      "data": {
+        "2020-05-29T08:53:42Z": 57583.333333333336
+      },
+      "tool": "Github Actions",
+      "total avg": 57583.333333333336,
+      "quartiles": {
+        "q1": 57583.333333333336,
+        "q3": 57583.333333333336,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 58000,
+          "2": 58000,
+          "3": 61000,
+          "5": 67000,
+          "6": 59000,
+          "8": 62000,
+          "9": 60000,
+          "11": 59000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/release.node.js.yml": {
+      "data": {
+        "2020-05-29T08:53:42Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Sagiri": {
+      "data": {
+        "2020-04-17T06:03:25Z": 59151.51515151515,
+        "2020-04-26T05:56:06Z": 59926.829268292684,
+        "2020-05-03T07:01:14Z": 64311.11111111111,
+        "2020-05-10T17:35:34Z": 61285.71428571428,
+        "2020-05-17T17:35:50Z": 61253.01204819277,
+        "2020-05-24T17:36:38Z": 67269.23076923077
+      },
+      "tool": "TravisCI",
+      "total avg": 62199.56877234279,
+      "quartiles": {
+        "q1": 60258.374963267706,
+        "q3": 63554.7619047619,
+        "iqr": 3296.3869414941946
+      },
+      "classification": {
+        "high_severity": {
+          "1432": 74000,
+          "1476": 83000,
+          "1478": 72000,
+          "1477": 90000,
+          "1480": 76000,
+          "1481": 76000,
+          "1482": 76000,
+          "1483": 89000,
+          "1484": 75000,
+          "1485": 70000,
+          "1486": 91000,
+          "1489": 86000,
+          "1500": 75000,
+          "1503": 71000,
+          "1508": 91000,
+          "1525": 90000,
+          "1526": 70000,
+          "1553": 69000,
+          "1603": 72000,
+          "1644": 192000,
+          "1648": 73000,
+          "1653": 94000,
+          "1655": 73000
+        },
+        "medium_severity": {
+          "1403": 65000,
+          "1416": 65000,
+          "1429": 66000,
+          "1433": 65000,
+          "1441": 65000,
+          "1446": 68000,
+          "1447": 65000,
+          "1452": 65000,
+          "1468": 64000,
+          "1479": 65000,
+          "1487": 66000,
+          "1488": 65000,
+          "1490": 65000,
+          "1492": 66000,
+          "1493": 64000,
+          "1501": 65000,
+          "1502": 68000,
+          "1504": 68000,
+          "1507": 66000,
+          "1509": 67000,
+          "1517": 65000,
+          "1518": 65000,
+          "1519": 67000,
+          "1520": 66000,
+          "1521": 65000,
+          "1522": 68000,
+          "1554": 67000,
+          "1557": 66000,
+          "1559": 65000,
+          "1575": 64000,
+          "1574": 67000,
+          "1578": 64000,
+          "1580": 67000,
+          "1581": 65000,
+          "1583": 65000,
+          "1585": 65000,
+          "1588": 64000,
+          "1596": 64000,
+          "1599": 68000,
+          "1601": 66000,
+          "1602": 67000,
+          "1606": 65000,
+          "1607": 67000,
+          "1608": 67000,
+          "1610": 64000,
+          "1612": 65000,
+          "1621": 65000,
+          "1623": 66000,
+          "1624": 64000,
+          "1625": 68000,
+          "1630": 66000,
+          "1631": 64000,
+          "1633": 65000,
+          "1634": 67000,
+          "1641": 66000,
+          "1642": 68000,
+          "1643": 68000,
+          "1652": 65000,
+          "1654": 66000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "decouple-lint": 672,
+      "dependabot/github_actions/actions/checkout-3": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/ts-jest-29.0.1": 0,
+      "dependabot/npm_and_yarn/types/node-18.7.18": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "decouple-lint": 672,
+      "dependabot/github_actions/actions/checkout-3": -35,
+      "dependabot/npm_and_yarn/eslint-8.23.1": -40,
+      "dependabot/npm_and_yarn/ts-jest-29.0.1": -42,
+      "dependabot/npm_and_yarn/types/node-18.7.18": -42,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0": -41,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0": -41,
+      "master": 0
+    },
+    "unsynced activity": {
+      "decouple-lint": -1,
+      "dependabot/github_actions/actions/checkout-3": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/ts-jest-29.0.1": 0,
+      "dependabot/npm_and_yarn/types/node-18.7.18": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0": 0,
+      "dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "decouple-lint"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "decouple-lint",
+          "dependabot/github_actions/actions/checkout-3",
+          "dependabot/npm_and_yarn/eslint-8.23.1",
+          "dependabot/npm_and_yarn/ts-jest-29.0.1",
+          "dependabot/npm_and_yarn/types/node-18.7.18",
+          "dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0",
+          "dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0",
+          "master"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "decouple-lint"
+        ]
+      }
+    },
+    "build_count": 6
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [
+        {
+          "started_at": "2020-05-29T09:55:00Z",
+          "used_tool": "Github Actions",
+          "number": 23
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 8
+    },
+    "Node.js CI (Test)": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "Sagiri": {
+      "data": [
+        {
+          "started_at": "2020-04-29T08:16:54Z",
+          "used_tool": "TravisCI",
+          "number": 1433
+        },
+        {
+          "started_at": "2020-04-29T09:54:34Z",
+          "used_tool": "TravisCI",
+          "number": 1438
+        },
+        {
+          "started_at": "2020-04-29T09:58:06Z",
+          "used_tool": "TravisCI",
+          "number": 1439
+        },
+        {
+          "started_at": "2020-04-29T11:06:08Z",
+          "used_tool": "TravisCI",
+          "number": 1441
+        },
+        {
+          "started_at": "2020-04-29T22:01:57Z",
+          "used_tool": "TravisCI",
+          "number": 1443
+        },
+        {
+          "started_at": "2020-04-30T04:05:38Z",
+          "used_tool": "TravisCI",
+          "number": 1445
+        },
+        {
+          "started_at": "2020-04-30T22:35:23Z",
+          "used_tool": "TravisCI",
+          "number": 1447
+        },
+        {
+          "started_at": "2020-05-01T16:24:55Z",
+          "used_tool": "TravisCI",
+          "number": 1449
+        },
+        {
+          "started_at": "2020-05-02T08:20:37Z",
+          "used_tool": "TravisCI",
+          "number": 1451
+        },
+        {
+          "started_at": "2020-05-03T05:15:01Z",
+          "used_tool": "TravisCI",
+          "number": 1453
+        },
+        {
+          "started_at": "2020-05-03T07:01:18Z",
+          "used_tool": "TravisCI",
+          "number": 1455
+        },
+        {
+          "started_at": "2020-05-03T17:35:04Z",
+          "used_tool": "TravisCI",
+          "number": 1456
+        },
+        {
+          "started_at": "2020-05-03T23:35:47Z",
+          "used_tool": "TravisCI",
+          "number": 1457
+        },
+        {
+          "started_at": "2020-05-03T23:36:13Z",
+          "used_tool": "TravisCI",
+          "number": 1459
+        },
+        {
+          "started_at": "2020-05-03T23:36:27Z",
+          "used_tool": "TravisCI",
+          "number": 1461
+        },
+        {
+          "started_at": "2020-05-03T23:37:29Z",
+          "used_tool": "TravisCI",
+          "number": 1463
+        },
+        {
+          "started_at": "2020-05-04T02:36:07Z",
+          "used_tool": "TravisCI",
+          "number": 1464
+        },
+        {
+          "started_at": "2020-05-04T02:36:37Z",
+          "used_tool": "TravisCI",
+          "number": 1466
+        },
+        {
+          "started_at": "2020-05-04T02:36:52Z",
+          "used_tool": "TravisCI",
+          "number": 1468
+        },
+        {
+          "started_at": "2020-05-04T10:35:38Z",
+          "used_tool": "TravisCI",
+          "number": 1469
+        },
+        {
+          "started_at": "2020-05-04T10:35:41Z",
+          "used_tool": "TravisCI",
+          "number": 1471
+        },
+        {
+          "started_at": "2020-05-04T10:35:46Z",
+          "used_tool": "TravisCI",
+          "number": 1472
+        },
+        {
+          "started_at": "2020-05-08T19:52:54Z",
+          "used_tool": "TravisCI",
+          "number": 1493
+        },
+        {
+          "started_at": "2020-05-09T09:26:35Z",
+          "used_tool": "TravisCI",
+          "number": 1498
+        },
+        {
+          "started_at": "2020-05-11T20:17:28Z",
+          "used_tool": "TravisCI",
+          "number": 1504
+        },
+        {
+          "started_at": "2020-05-12T03:04:55Z",
+          "used_tool": "TravisCI",
+          "number": 1510
+        },
+        {
+          "started_at": "2020-05-12T03:05:12Z",
+          "used_tool": "TravisCI",
+          "number": 1512
+        },
+        {
+          "started_at": "2020-05-12T16:56:40Z",
+          "used_tool": "TravisCI",
+          "number": 1514
+        },
+        {
+          "started_at": "2020-05-12T22:48:34Z",
+          "used_tool": "TravisCI",
+          "number": 1516
+        },
+        {
+          "started_at": "2020-05-12T22:48:59Z",
+          "used_tool": "TravisCI",
+          "number": 1518
+        },
+        {
+          "started_at": "2020-05-12T22:49:56Z",
+          "used_tool": "TravisCI",
+          "number": 1520
+        },
+        {
+          "started_at": "2020-05-13T03:28:39Z",
+          "used_tool": "TravisCI",
+          "number": 1522
+        },
+        {
+          "started_at": "2020-05-13T16:53:56Z",
+          "used_tool": "TravisCI",
+          "number": 1524
+        },
+        {
+          "started_at": "2020-05-13T19:41:11Z",
+          "used_tool": "TravisCI",
+          "number": 1526
+        },
+        {
+          "started_at": "2020-05-15T02:22:03Z",
+          "used_tool": "TravisCI",
+          "number": 1527
+        },
+        {
+          "started_at": "2020-05-15T02:23:50Z",
+          "used_tool": "TravisCI",
+          "number": 1529
+        },
+        {
+          "started_at": "2020-05-15T02:23:51Z",
+          "used_tool": "TravisCI",
+          "number": 1531
+        },
+        {
+          "started_at": "2020-05-15T02:24:55Z",
+          "used_tool": "TravisCI",
+          "number": 1533
+        },
+        {
+          "started_at": "2020-05-15T02:25:04Z",
+          "used_tool": "TravisCI",
+          "number": 1535
+        },
+        {
+          "started_at": "2020-05-15T02:25:08Z",
+          "used_tool": "TravisCI",
+          "number": 1537
+        },
+        {
+          "started_at": "2020-05-15T02:26:17Z",
+          "used_tool": "TravisCI",
+          "number": 1539
+        },
+        {
+          "started_at": "2020-05-15T02:30:03Z",
+          "used_tool": "TravisCI",
+          "number": 1540
+        },
+        {
+          "started_at": "2020-05-15T02:30:31Z",
+          "used_tool": "TravisCI",
+          "number": 1542
+        },
+        {
+          "started_at": "2020-05-15T02:30:41Z",
+          "used_tool": "TravisCI",
+          "number": 1544
+        },
+        {
+          "started_at": "2020-05-15T02:31:39Z",
+          "used_tool": "TravisCI",
+          "number": 1546
+        },
+        {
+          "started_at": "2020-05-15T02:31:54Z",
+          "used_tool": "TravisCI",
+          "number": 1548
+        },
+        {
+          "started_at": "2020-05-15T02:32:29Z",
+          "used_tool": "TravisCI",
+          "number": 1550
+        },
+        {
+          "started_at": "2020-05-15T02:32:58Z",
+          "used_tool": "TravisCI",
+          "number": 1552
+        },
+        {
+          "started_at": "2020-05-15T21:08:04Z",
+          "used_tool": "TravisCI",
+          "number": 1554
+        },
+        {
+          "started_at": "2020-05-17T17:35:50Z",
+          "used_tool": "TravisCI",
+          "number": 1555
+        },
+        {
+          "started_at": "2020-05-18T17:22:36Z",
+          "used_tool": "TravisCI",
+          "number": 1557
+        },
+        {
+          "started_at": "2020-05-18T20:22:41Z",
+          "used_tool": "TravisCI",
+          "number": 1559
+        },
+        {
+          "started_at": "2020-05-21T19:00:35Z",
+          "used_tool": "TravisCI",
+          "number": 1632
+        },
+        {
+          "started_at": "2020-05-23T02:59:02Z",
+          "used_tool": "TravisCI",
+          "number": 1637
+        },
+        {
+          "started_at": "2020-05-25T18:40:28Z",
+          "used_tool": "TravisCI",
+          "number": 1640
+        },
+        {
+          "started_at": "2020-05-26T18:38:01Z",
+          "used_tool": "TravisCI",
+          "number": 1645
+        },
+        {
+          "started_at": "2020-05-27T03:44:51Z",
+          "used_tool": "TravisCI",
+          "number": 1650
+        },
+        {
+          "started_at": "2020-05-27T17:28:23Z",
+          "used_tool": "TravisCI",
+          "number": 1652
+        },
+        {
+          "started_at": "2020-05-28T18:18:27Z",
+          "used_tool": "TravisCI",
+          "number": 1657
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 167
+    }
+  },
+  "skip_failing_tests": {}
+}

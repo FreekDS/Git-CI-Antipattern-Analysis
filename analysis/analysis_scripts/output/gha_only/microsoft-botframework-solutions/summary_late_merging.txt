@@ -1,0 +1,95 @@
+Missed Activity
+=========================
+Branch lauren-mills-patch-1 has 500 days of missed activity!
+Branch next has 685 days of missed activity!
+Branch peterinnesmsft/DefaultAdapterScopeFix has 614 days of missed activity!
+Branch tedlee/fix-proactive-middleware has 614 days of missed activity!
+MEDIUM SEVERITY
+Branch lauren-mills-patch-1, 500 seconds
+Branch next, 685 seconds
+Branch peterinnesmsft/DefaultAdapterScopeFix, 614 seconds
+Branch tedlee/fix-proactive-middleware, 614 seconds
+
+Branch Deviation
+=========================
+Average deviation: 790.7127659574468 days
+Branch 0.6 moved away from main with 952 days, 161.28723404255322 more than average
+Branch esva moved away from main with 886 days, 95.28723404255322 more than average
+Branch feich/ApplyLGEngine moved away from main with 1155 days, 364.2872340425532 more than average
+Branch findmeetingroom moved away from main with 907 days, 116.28723404255322 more than average
+Branch future moved away from main with 810 days, 19.287234042553223 more than average
+Branch hualxie/rename_class moved away from main with 854 days, 63.28723404255322 more than average
+Branch huanx/findmeetingroom moved away from main with 907 days, 116.28723404255322 more than average
+Branch huanx/hackathon moved away from main with 1009 days, 218.28723404255322 more than average
+Branch huanx/placeapi moved away from main with 931 days, 140.28723404255322 more than average
+Branch huanx/qnatesttool moved away from main with 987 days, 196.28723404255322 more than average
+Branch huanx/spellcheck moved away from main with 915 days, 124.28723404255322 more than average
+Branch huanx/summary-dialog-prototype moved away from main with 1006 days, 215.28723404255322 more than average
+Branch huanx/turnnnlp moved away from main with 998 days, 207.28723404255322 more than average
+Branch lamil/next_adaptive_assistant moved away from main with 915 days, 124.28723404255322 more than average
+Branch next_LG moved away from main with 872 days, 81.28723404255322 more than average
+Branch origin/huanx/hackathon moved away from main with 1007 days, 216.28723404255322 more than average
+Branch pavolum/food_order_skill moved away from main with 822 days, 31.287234042553223 more than average
+Branch qiowu/EmailProactiveScenario moved away from main with 1133 days, 342.2872340425532 more than average
+Branch qiowu/build_demo moved away from main with 1111 days, 320.2872340425532 more than average
+Branch qiowu/fallbackRule moved away from main with 1020 days, 229.28723404255322 more than average
+Branch qiowu/tryemaillg moved away from main with 1154 days, 363.2872340425532 more than average
+Branch remotes/origin/huanx/abc moved away from main with 1006 days, 215.28723404255322 more than average
+Branch shzhen/feedback moved away from main with 978 days, 187.28723404255322 more than average
+Branch shzhen/previousQuestion moved away from main with 966 days, 175.28723404255322 more than average
+Branch shzhen/res_lg moved away from main with 797 days, 6.287234042553223 more than average
+Branch shzhen/who_refac2 moved away from main with 811 days, 20.287234042553223 more than average
+Branch skills/lg_migration moved away from main with 797 days, 6.287234042553223 more than average
+Branch skills-preview moved away from main with 1012 days, 221.28723404255322 more than average
+Branch tedlee/add-deprecation-message moved away from main with 816 days, 25.287234042553223 more than average
+Branch tedlee/add-service-adapter moved away from main with 1117 days, 326.2872340425532 more than average
+Branch tedlee/channel-adapter moved away from main with 1134 days, 343.2872340425532 more than average
+Branch tedlee/custom moved away from main with 1001 days, 210.28723404255322 more than average
+Branch tedlee/di moved away from main with 1152 days, 361.2872340425532 more than average
+Branch tedlee/fix-wrong-dialogresult moved away from main with 1049 days, 258.2872340425532 more than average
+Branch tedlee/lge-prototype moved away from main with 1065 days, 274.2872340425532 more than average
+Branch tedlee/merger-master moved away from main with 1129 days, 338.2872340425532 more than average
+Branch tedlee/refactor-lib moved away from main with 949 days, 158.28723404255322 more than average
+Branch tedlee/refactor-va-adapter moved away from main with 964 days, 173.28723404255322 more than average
+Branch tedlee/support-action moved away from main with 1006 days, 215.28723404255322 more than average
+Branch tmpsummary moved away from main with 953 days, 162.28723404255322 more than average
+Branch yuesu/fix_calendar_intent_switch_condition moved away from main with 809 days, 18.287234042553223 more than average
+Branch yuesu/news_add_action_manifest moved away from main with 792 days, 1.287234042553223 more than average
+MEDIUM SEVERITY
+Branch feich/ApplyLGEngine, 1155 days
+Branch huanx/hackathon, 1009 days
+Branch huanx/qnatesttool, 987 days
+Branch huanx/summary-dialog-prototype, 1006 days
+Branch huanx/turnnnlp, 998 days
+Branch origin/huanx/hackathon, 1007 days
+Branch qiowu/EmailProactiveScenario, 1133 days
+Branch qiowu/build_demo, 1111 days
+Branch qiowu/fallbackRule, 1020 days
+Branch qiowu/tryemaillg, 1154 days
+Branch remotes/origin/huanx/abc, 1006 days
+Branch shzhen/feedback, 978 days
+Branch shzhen/previousQuestion, 966 days
+Branch skills-preview, 1012 days
+Branch tedlee/add-service-adapter, 1117 days
+Branch tedlee/channel-adapter, 1134 days
+Branch tedlee/custom, 1001 days
+Branch tedlee/di, 1152 days
+Branch tedlee/fix-wrong-dialogresult, 1049 days
+Branch tedlee/lge-prototype, 1065 days
+Branch tedlee/merger-master, 1129 days
+Branch tedlee/refactor-va-adapter, 964 days
+Branch tedlee/support-action, 1006 days
+Branch tmpsummary, 953 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 8.25531914893617 days
+Branch lauren-mills-patch-1 is unsynced with 419 days, 410.74468085106383 more than average
+Branch next is unsynced with 359 days, 350.74468085106383 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch lauren-mills-patch-1, 419 days
+Branch next, 359 days
+Branch peterinnesmsft/DefaultAdapterScopeFix, -1 days
+Branch tedlee/fix-proactive-middleware, -1 days

@@ -1,0 +1,256 @@
+{
+  "slow_build": {
+    "test": {
+      "data": {
+        "2020-11-25T19:32:35Z": 126266.66666666667,
+        "2020-12-05T20:46:04Z": 147437.5,
+        "2020-12-17T01:17:04Z": 203151.51515151514,
+        "2020-12-28T07:38:06Z": 265526.3157894737,
+        "2021-01-05T03:22:36Z": 274818.1818181818
+      },
+      "tool": "Github Actions",
+      "total avg": 203440.03588516748,
+      "quartiles": {
+        "q1": 147437.5,
+        "q3": 265526.3157894737,
+        "iqr": 118088.81578947371
+      },
+      "classification": {
+        "high_severity": {
+          "21": 582000
+        },
+        "medium_severity": {
+          "40": 267000,
+          "59": 306000,
+          "62": 286000,
+          "64": 278000,
+          "68": 290000,
+          "70": 279000,
+          "73": 298000,
+          "74": 268000,
+          "75": 280000,
+          "76": 374000,
+          "77": 310000,
+          "79": 279000,
+          "80": 322000,
+          "81": 289000,
+          "83": 285000,
+          "87": 282000,
+          "88": 272000,
+          "89": 278000,
+          "90": 276000,
+          "91": 295000,
+          "92": 274000,
+          "95": 274000,
+          "96": 268000,
+          "97": 267000,
+          "100": 283000,
+          "102": 284000,
+          "103": 307000,
+          "106": 323000,
+          "107": 302000,
+          "108": 289000
+        }
+      }
+    },
+    "website": {
+      "data": {
+        "2020-11-25T21:16:47Z": 26000.0,
+        "2020-12-17T04:50:18Z": 282200.0,
+        "2020-12-29T23:58:53Z": 281000.0,
+        "2021-01-07T18:33:25Z": 395000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 246050.0,
+      "quartiles": {
+        "q1": 217250.0,
+        "q3": 310400.0,
+        "iqr": 93150.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "11": 395000
+        }
+      }
+    },
+    "react-map-gl": {
+      "data": {
+        "2020-10-17T13:22:09Z": 126000.0,
+        "2020-11-03T20:18:23Z": 129571.42857142857,
+        "2020-11-15T20:30:44Z": 126666.66666666667,
+        "2020-11-24T23:07:16Z": 125500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 126934.52380952382,
+      "quartiles": {
+        "q1": 125875.0,
+        "q3": 127392.85714285714,
+        "iqr": 1517.857142857145
+      },
+      "classification": {
+        "high_severity": {
+          "2546": 158000,
+          "2547": 145000,
+          "2549": 152000,
+          "2541": 148000,
+          "2550": 149000,
+          "2551": 155000,
+          "2552": 149000,
+          "2553": 146000,
+          "2555": 141000,
+          "2557": 139000,
+          "2558": 147000
+        },
+        "medium_severity": {
+          "2559": 128000,
+          "2563": 128000,
+          "2564": 128000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.0-release": 0,
+      "2.0-release": 0,
+      "3.0-release": 0,
+      "3.1-release": 0,
+      "3.2-release": 0,
+      "3.3-release": 0,
+      "4.0-release": 0,
+      "4.1-release": 0,
+      "5.0-release": 0,
+      "5.1-release": 0,
+      "5.2-release": 0,
+      "5.3-release": 0,
+      "6.0-release": 0,
+      "6.1-release": 0,
+      "7.0-release": 0,
+      "dependabot/npm_and_yarn/website/moment-2.29.4": 0,
+      "doc-fixes": 1382,
+      "gh-pages": 0,
+      "master": 0,
+      "prototype": 0
+    },
+    "branch deviation": {
+      "1.0-release": 1842,
+      "2.0-release": 1815,
+      "3.0-release": 1779,
+      "3.1-release": 1712,
+      "3.2-release": 1521,
+      "3.3-release": 1372,
+      "4.0-release": 1254,
+      "4.1-release": 1045,
+      "5.0-release": 1045,
+      "5.1-release": 958,
+      "5.2-release": 588,
+      "5.3-release": 204,
+      "6.0-release": 588,
+      "6.1-release": 204,
+      "7.0-release": -1,
+      "dependabot/npm_and_yarn/website/moment-2.29.4": 4,
+      "doc-fixes": 1315,
+      "gh-pages": -1,
+      "master": 0,
+      "prototype": 232
+    },
+    "unsynced activity": {
+      "1.0-release": 0,
+      "2.0-release": 0,
+      "3.0-release": 0,
+      "3.1-release": 0,
+      "3.2-release": 0,
+      "3.3-release": 0,
+      "4.0-release": 0,
+      "4.1-release": 0,
+      "5.0-release": 0,
+      "5.1-release": 0,
+      "5.2-release": 0,
+      "5.3-release": 0,
+      "6.0-release": 0,
+      "6.1-release": 0,
+      "7.0-release": 0,
+      "dependabot/npm_and_yarn/website/moment-2.29.4": 0,
+      "doc-fixes": 66,
+      "gh-pages": 0,
+      "master": 0,
+      "prototype": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "doc-fixes"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "1.0-release",
+          "2.0-release",
+          "3.0-release",
+          "3.1-release",
+          "3.2-release"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "doc-fixes"
+        ]
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "test": {
+      "data": [
+        {
+          "started_at": "2020-12-05T21:28:14Z",
+          "used_tool": "Github Actions",
+          "number": 19
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 31
+    },
+    "react-map-gl": {
+      "data": [
+        {
+          "started_at": "2020-11-03T20:18:23Z",
+          "used_tool": "TravisCI",
+          "number": 2538
+        },
+        {
+          "started_at": "2020-11-03T20:33:48Z",
+          "used_tool": "TravisCI",
+          "number": 2539
+        },
+        {
+          "started_at": "2020-11-04T07:47:56Z",
+          "used_tool": "TravisCI",
+          "number": 2540
+        },
+        {
+          "started_at": "2020-11-04T18:23:20Z",
+          "used_tool": "TravisCI",
+          "number": 2543
+        },
+        {
+          "started_at": "2020-11-04T18:42:52Z",
+          "used_tool": "TravisCI",
+          "number": 2545
+        },
+        {
+          "started_at": "2020-11-04T18:58:08Z",
+          "used_tool": "TravisCI",
+          "number": 2548
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 19
+    }
+  },
+  "skip_failing_tests": {}
+}

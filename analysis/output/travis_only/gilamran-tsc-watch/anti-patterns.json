@@ -1,0 +1,77 @@
+{
+  "slow_build": {
+    "tsc-watch": {
+      "data": {
+        "2021-05-10T06:30:20Z": 91333.33333333333,
+        "2021-05-26T10:33:31Z": 86000.0,
+        "2021-06-11T15:55:32Z": 94000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 90444.44444444444,
+      "quartiles": {
+        "q1": 88666.66666666666,
+        "q3": 92666.66666666666,
+        "iqr": 4000.0
+      },
+      "classification": {
+        "high_severity": {
+          "129": 99000
+        },
+        "medium_severity": {
+          "123": 93000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "4.2.0-rc1": 0,
+      "feat-emitted-files": 0,
+      "master": 0,
+      "test-kill": 0,
+      "v6": 0,
+      "version_1": 0
+    },
+    "branch deviation": {
+      "4.2.0-rc1": 771,
+      "feat-emitted-files": 26,
+      "master": 0,
+      "test-kill": 513,
+      "v6": -159,
+      "version_1": 1148
+    },
+    "unsynced activity": {
+      "4.2.0-rc1": 0,
+      "feat-emitted-files": 0,
+      "master": 0,
+      "test-kill": 0,
+      "v6": 0,
+      "version_1": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "4.2.0-rc1",
+          "version_1"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "tsc-watch": {
+      "data": [],
+      "release_build_count": 7
+    }
+  },
+  "skip_failing_tests": {}
+}

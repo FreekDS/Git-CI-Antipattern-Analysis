@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 525.6666666666666 days
+Branch master-backup-20200327 moved away from main with 914 days, 388.33333333333337 more than average
+Branch release moved away from main with 663 days, 137.33333333333337 more than average
+MEDIUM SEVERITY
+Branch master-backup-20200327, 914 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

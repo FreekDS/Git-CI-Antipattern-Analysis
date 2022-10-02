@@ -1,0 +1,107 @@
+{
+  "slow_build": {
+    "Test": {
+      "data": {
+        "2021-05-06T18:31:43Z": 38833.333333333336,
+        "2021-05-28T21:46:58Z": 33500.0,
+        "2021-06-11T22:04:59Z": 32000.0,
+        "2021-07-05T18:07:54Z": 29000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 33333.333333333336,
+      "quartiles": {
+        "q1": 31250.0,
+        "q3": 34833.333333333336,
+        "iqr": 3583.3333333333358
+      },
+      "classification": {
+        "high_severity": {
+          "6": 41000,
+          "8": 48000
+        },
+        "medium_severity": {
+          "5": 37000,
+          "9": 39000,
+          "10": 36000,
+          "11": 35000
+        }
+      }
+    },
+    "Release": {
+      "data": {
+        "2021-05-06T21:35:59Z": 48666.666666666664,
+        "2021-05-28T22:31:20Z": 45000.0,
+        "2021-06-11T22:42:38Z": 52000.0,
+        "2021-07-05T18:07:54Z": 40500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 46541.666666666664,
+      "quartiles": {
+        "q1": 43875.0,
+        "q3": 49500.0,
+        "iqr": 5625.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "26": 52000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "beta": 0,
+      "fix-cache": 1448,
+      "master": 0,
+      "renovate/lowercase-keys-3.x": 0,
+      "update-readme": 1448
+    },
+    "branch deviation": {
+      "beta": 284,
+      "fix-cache": 1448,
+      "master": 0,
+      "renovate/lowercase-keys-3.x": 0,
+      "update-readme": 1456
+    },
+    "unsynced activity": {
+      "beta": 0,
+      "fix-cache": -1,
+      "master": 0,
+      "renovate/lowercase-keys-3.x": 0,
+      "update-readme": -8
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "update-readme"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "fix-cache"
+        ],
+        "high_severity": [
+          "update-readme"
+        ]
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Test": {
+      "data": [],
+      "release_build_count": 7
+    },
+    "Release": {
+      "data": [],
+      "release_build_count": 7
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,22 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 457.5 days
+Branch abstract-collect moved away from main with 1419 days, 961.5 more than average
+Branch feature/app_icons moved away from main with 1345 days, 887.5 more than average
+Branch master moved away from main with 731 days, 273.5 more than average
+Branch tutorial_mode_bg_tweak moved away from main with 820 days, 362.5 more than average
+MEDIUM SEVERITY
+Branch abstract-collect, 1419 days
+Branch feature/app_icons, 1345 days
+Branch tutorial_mode_bg_tweak, 820 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

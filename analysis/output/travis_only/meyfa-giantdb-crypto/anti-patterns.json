@@ -1,0 +1,53 @@
+{
+  "slow_build": {
+    "giantdb-crypto": {
+      "data": {
+        "2021-04-28T13:03:39Z": 175000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 175000.0,
+      "quartiles": {
+        "q1": 175000.0,
+        "q3": 175000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0
+    },
+    "branch deviation": {
+      "main": 0
+    },
+    "unsynced activity": {
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "giantdb-crypto": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

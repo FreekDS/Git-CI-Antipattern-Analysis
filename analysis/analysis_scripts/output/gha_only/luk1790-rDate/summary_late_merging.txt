@@ -1,0 +1,22 @@
+Missed Activity
+=========================
+Branch createChangelog has 363 days of missed activity!
+MEDIUM SEVERITY
+Branch createChangelog, 363 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 492.6666666666667 days
+Branch partProject moved away from main with 1118 days, 625.3333333333333 more than average
+MEDIUM SEVERITY
+Branch partProject, 1118 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.6666666666666666 days
+Branch createChangelog is unsynced with 2 days, 1.3333333333333335 more than average
+MEDIUM SEVERITY
+Branch createChangelog, 2 days
+HIGH SEVERITY

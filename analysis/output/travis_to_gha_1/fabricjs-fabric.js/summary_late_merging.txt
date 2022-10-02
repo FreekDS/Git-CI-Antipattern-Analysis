@@ -1,0 +1,179 @@
+Missed Activity
+=========================
+Branch fix-erasing-trace has 97 days of missed activity!
+Branch gco has 3 days of missed activity!
+Branch lint_Math.hypot has 3 days of missed activity!
+Branch node-18-and-prettier-check has 4 days of missed activity!
+Branch prettify has 3 days of missed activity!
+Branch textbox-fix-resizing has 97 days of missed activity!
+Branch ts-pattern has 4 days of missed activity!
+Branch v5.1.0 has 212 days of missed activity!
+MEDIUM SEVERITY
+Branch fix-erasing-trace, 97 seconds
+Branch gco, 3 seconds
+Branch lint_Math.hypot, 3 seconds
+Branch node-18-and-prettier-check, 4 seconds
+Branch prettify, 3 seconds
+Branch textbox-fix-resizing, 97 seconds
+Branch ts-pattern, 4 seconds
+Branch v5.1.0, 212 seconds
+
+Branch Deviation
+=========================
+Average deviation: 203.19230769230768 days
+Branch 1.x moved away from main with 1260 days, 1056.8076923076924 more than average
+Branch ISSUE-5996-pattern-svg-output moved away from main with 1020 days, 816.8076923076924 more than average
+Branch additional-selection-props moved away from main with 584 days, 380.8076923076923 more than average
+Branch animation-test moved away from main with 770 days, 566.8076923076924 more than average
+Branch canvas-rotation moved away from main with 1702 days, 1498.8076923076924 more than average
+Branch clip-path-opacity moved away from main with 1012 days, 808.8076923076924 more than average
+Branch controls-on-upper moved away from main with 1195 days, 991.8076923076924 more than average
+Branch create-better-export moved away from main with 1355 days, 1151.8076923076924 more than average
+Branch dont-stop-at-single-event moved away from main with 347 days, 143.80769230769232 more than average
+Branch filter-changes moved away from main with 623 days, 419.8076923076923 more than average
+Branch filters-objects moved away from main with 629 days, 425.8076923076923 more than average
+Branch gradient_stroke moved away from main with 1913 days, 1709.8076923076924 more than average
+Branch migrate-coords moved away from main with 206 days, 2.807692307692321 more than average
+Branch svg-mask-parser moved away from main with 522 days, 318.8076923076923 more than average
+Branch testing-sharper-clipPath moved away from main with 438 days, 234.80769230769232 more than average
+Branch v3.x moved away from main with 753 days, 549.8076923076924 more than average
+Branch v4.0.x moved away from main with 770 days, 566.8076923076924 more than average
+Branch v5.1.0 moved away from main with 212 days, 8.80769230769232 more than average
+MEDIUM SEVERITY
+Branch abc, 170 days
+Branch chore-path, 170 days
+Branch draggable-text-w-clipboard, 165 days
+Branch migrate-coords, 206 days
+Branch v5.1.0, 212 days
+Branch v6!-build, 190 days
+Branch v6!-fix-padding, 191 days
+Branch v6-group-patch5, 164 days
+Branch v6-nested-selection-alt, 150 days
+Branch v6!, 159 days
+HIGH SEVERITY
+Branch 1.x, 1260 days
+Branch ISSUE-5996-pattern-svg-output, 1020 days
+Branch additional-selection-props, 584 days
+Branch animation-test, 770 days
+Branch canvas-rotation, 1702 days
+Branch clip-path-opacity, 1012 days
+Branch controls-on-upper, 1195 days
+Branch create-better-export, 1355 days
+Branch dont-stop-at-single-event, 347 days
+Branch filter-changes, 623 days
+Branch filters-objects, 629 days
+Branch gradient_stroke, 1913 days
+Branch svg-mask-parser, 522 days
+Branch testing-sharper-clipPath, 438 days
+Branch v3.x, 753 days
+Branch v4.0.x, 770 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.14423076923076922 days
+Branch 1.x is unsynced with 0 days, 0.14423076923076922 more than average
+Branch 5.x is unsynced with 0 days, 0.14423076923076922 more than average
+Branch 8083-build is unsynced with 0 days, 0.14423076923076922 more than average
+Branch 8083-es6 is unsynced with 0 days, 0.14423076923076922 more than average
+Branch 8083-tests is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ISSUE-5996-pattern-svg-output is unsynced with 0 days, 0.14423076923076922 more than average
+Branch abc is unsynced with 0 days, 0.14423076923076922 more than average
+Branch abort-concurrent-render is unsynced with 0 days, 0.14423076923076922 more than average
+Branch add-to-group-safeguard is unsynced with 0 days, 0.14423076923076922 more than average
+Branch additional-selection-props is unsynced with 0 days, 0.14423076923076922 more than average
+Branch aligninig-guideline-clear-context-patch is unsynced with 0 days, 0.14423076923076922 more than average
+Branch animation-test is unsynced with 0 days, 0.14423076923076922 more than average
+Branch canvas-rotation is unsynced with 0 days, 0.14423076923076922 more than average
+Branch chore-path is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ci-build-lock is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ci-coverage-report-action is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ci-fix-golden-generation is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ci-pr#8210-visuals-chrome is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ci-pr#8210-visuals-firefox is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ci-update-bug-report-version is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ci-visual-test-action is unsynced with 0 days, 0.14423076923076922 more than average
+Branch class-inheritance-testing is unsynced with 0 days, 0.14423076923076922 more than average
+Branch clip-path-opacity is unsynced with 0 days, 0.14423076923076922 more than average
+Branch clipboard-events is unsynced with 0 days, 0.14423076923076922 more than average
+Branch controls-on-upper is unsynced with 0 days, 0.14423076923076922 more than average
+Branch create-better-export is unsynced with 0 days, 0.14423076923076922 more than average
+Branch dep-default-values is unsynced with 0 days, 0.14423076923076922 more than average
+Branch deprecate-itext-keycode is unsynced with 0 days, 0.14423076923076922 more than average
+Branch dont-stop-at-single-event is unsynced with 0 days, 0.14423076923076922 more than average
+Branch draggable-text-patch is unsynced with 0 days, 0.14423076923076922 more than average
+Branch draggable-text-w-clipboard is unsynced with 0 days, 0.14423076923076922 more than average
+Branch erasing-tests is unsynced with 0 days, 0.14423076923076922 more than average
+Branch extend-circular-ref is unsynced with 0 days, 0.14423076923076922 more than average
+Branch fill-parent is unsynced with 0 days, 0.14423076923076922 more than average
+Branch filter-changes is unsynced with 0 days, 0.14423076923076922 more than average
+Branch filters-objects is unsynced with 0 days, 0.14423076923076922 more than average
+Branch fix-clip-path-rendering-logic is unsynced with 0 days, 0.14423076923076922 more than average
+Branch fix-extra-param is unsynced with 0 days, 0.14423076923076922 more than average
+Branch fix-minor-import is unsynced with 0 days, 0.14423076923076922 more than average
+Branch fix-stateful-circular-ref-checks is unsynced with 0 days, 0.14423076923076922 more than average
+Branch fixing-test-display is unsynced with 0 days, 0.14423076923076922 more than average
+Branch get-pointer-recalc is unsynced with 0 days, 0.14423076923076922 more than average
+Branch gradient_stroke is unsynced with 0 days, 0.14423076923076922 more than average
+Branch gradient-transform is unsynced with 0 days, 0.14423076923076922 more than average
+Branch import-benchmarks is unsynced with 0 days, 0.14423076923076922 more than average
+Branch import-benchmarks2 is unsynced with 0 days, 0.14423076923076922 more than average
+Branch io-registry is unsynced with 0 days, 0.14423076923076922 more than average
+Branch is-shadow-on-screen is unsynced with 0 days, 0.14423076923076922 more than average
+Branch kitchensink is unsynced with 0 days, 0.14423076923076922 more than average
+Branch linear-algebra is unsynced with 0 days, 0.14423076923076922 more than average
+Branch local-build is unsynced with 0 days, 0.14423076923076922 more than average
+Branch master is unsynced with 0 days, 0.14423076923076922 more than average
+Branch migrate-coords is unsynced with 0 days, 0.14423076923076922 more than average
+Branch minor-point is unsynced with 0 days, 0.14423076923076922 more than average
+Branch negate-manually-restore is unsynced with 0 days, 0.14423076923076922 more than average
+Branch node-dump-diffs is unsynced with 0 days, 0.14423076923076922 more than average
+Branch object-stacking-to-collection is unsynced with 0 days, 0.14423076923076922 more than average
+Branch path-bbox-stroke-projection is unsynced with 0 days, 0.14423076923076922 more than average
+Branch prettier is unsynced with 0 days, 0.14423076923076922 more than average
+Branch readme is unsynced with 0 days, 0.14423076923076922 more than average
+Branch refactor-controls is unsynced with 0 days, 0.14423076923076922 more than average
+Branch refactor-default-values is unsynced with 0 days, 0.14423076923076922 more than average
+Branch remove-stateful is unsynced with 0 days, 0.14423076923076922 more than average
+Branch removeDefaultValues is unsynced with 0 days, 0.14423076923076922 more than average
+Branch rename-textarea-data-attr is unsynced with 0 days, 0.14423076923076922 more than average
+Branch rollup-plugin-class-defaults is unsynced with 0 days, 0.14423076923076922 more than average
+Branch rtl-7674 is unsynced with 0 days, 0.14423076923076922 more than average
+Branch rtl-selection is unsynced with 0 days, 0.14423076923076922 more than average
+Branch sandbox-ci is unsynced with 0 days, 0.14423076923076922 more than average
+Branch selection-vpt-change-edge-case is unsynced with 0 days, 0.14423076923076922 more than average
+Branch spray-brush-perf is unsynced with 0 days, 0.14423076923076922 more than average
+Branch svg-mask-parser is unsynced with 0 days, 0.14423076923076922 more than average
+Branch test-pr-transform is unsynced with 0 days, 0.14423076923076922 more than average
+Branch testing-sharper-clipPath is unsynced with 0 days, 0.14423076923076922 more than average
+Branch textbox-fix-resizing is unsynced with 0 days, 0.14423076923076922 more than average
+Branch textbox-max-width is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ts-no-class is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ts-observable2 is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ts-patch0 is unsynced with 0 days, 0.14423076923076922 more than average
+Branch ts-rect-2 is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v3.x is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v4.0.x is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-alpha is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-brush-layering is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6!-build is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6!-fix-padding is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-group-patch5 is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-group-patch7 is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-interactive-clip-path is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-layer is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-layer-perf is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-layer-tests is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-nested-selection is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-nested-selection-alt is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6-nested-selection-fix-export is unsynced with 0 days, 0.14423076923076922 more than average
+Branch v6! is unsynced with 0 days, 0.14423076923076922 more than average
+Branch vscode-settings is unsynced with 0 days, 0.14423076923076922 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch fix-erasing-trace, -5 days
+Branch gco, -1 days
+Branch lint_Math.hypot, -1 days
+Branch node-18-and-prettier-check, -1 days
+Branch prettify, -1 days
+Branch ts-pattern, -5 days
+Branch v5.1.0, -1 days

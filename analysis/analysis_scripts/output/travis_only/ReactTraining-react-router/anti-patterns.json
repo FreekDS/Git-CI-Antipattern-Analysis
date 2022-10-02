@@ -1,0 +1,143 @@
+{
+  "slow_build": {
+    "react-router": {
+      "data": {
+        "2021-04-09T00:00:20Z": 98428.57142857143,
+        "2021-04-16T00:03:09Z": 207789.47368421053,
+        "2021-04-23T00:08:25Z": 186300.0,
+        "2021-04-30T00:11:33Z": 103727.27272727272,
+        "2021-05-07T00:15:55Z": 97428.57142857143,
+        "2021-05-14T00:21:03Z": 120500.0,
+        "2021-05-21T00:24:01Z": 156875.0,
+        "2021-05-28T00:27:13Z": 111300.0,
+        "2021-06-04T00:30:49Z": 168500.0,
+        "2021-06-11T00:34:57Z": 104100.0,
+        "2021-06-18T00:39:08Z": 105888.88888888889,
+        "2021-06-25T00:42:54Z": 108277.77777777778,
+        "2021-07-02T00:47:38Z": 97333.33333333333
+      },
+      "tool": "TravisCI",
+      "total avg": 128188.37609758663,
+      "quartiles": {
+        "q1": 103727.27272727272,
+        "q3": 156875.0,
+        "iqr": 53147.72727272728
+      },
+      "classification": {
+        "high_severity": {
+          "7330": 334000,
+          "7334": 419000,
+          "7335": 279000,
+          "7336": 252000,
+          "7337": 252000,
+          "7339": 333000,
+          "7340": 246000,
+          "7341": 245000,
+          "7342": 342000,
+          "7343": 339000,
+          "7351": 332000,
+          "7355": 347000,
+          "7356": 245000,
+          "7357": 345000,
+          "7382": 253000,
+          "7390": 538000,
+          "7404": 256000,
+          "7405": 251000,
+          "7406": 243000,
+          "7409": 245000,
+          "7412": 256000,
+          "7413": 244000
+        },
+        "medium_severity": {
+          "7437": 161000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "brophdawg11/consistent-partial-splat-handling": 0,
+      "brophdawg11/initial-entries-state": 0,
+      "brophdawg11/optional-params": 0,
+      "compat": 0,
+      "dev": 0,
+      "dynamic-route-example": 0,
+      "feat/remixing-router": 0,
+      "main": 0,
+      "release-6.4.0": 0,
+      "v1": 0,
+      "v3": 0,
+      "v5-website": 0,
+      "v5": 0
+    },
+    "branch deviation": {
+      "brophdawg11/consistent-partial-splat-handling": 4,
+      "brophdawg11/initial-entries-state": 0,
+      "brophdawg11/optional-params": 4,
+      "compat": 339,
+      "dev": 0,
+      "dynamic-route-example": 348,
+      "feat/remixing-router": 121,
+      "main": 0,
+      "release-6.4.0": 4,
+      "v1": 2460,
+      "v3": 927,
+      "v5-website": 36,
+      "v5": 40
+    },
+    "unsynced activity": {
+      "brophdawg11/consistent-partial-splat-handling": 0,
+      "brophdawg11/initial-entries-state": 0,
+      "brophdawg11/optional-params": 0,
+      "compat": 0,
+      "dev": 0,
+      "dynamic-route-example": 0,
+      "feat/remixing-router": 0,
+      "main": 0,
+      "release-6.4.0": 0,
+      "v1": 0,
+      "v3": 0,
+      "v5-website": 0,
+      "v5": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dynamic-route-example"
+        ],
+        "high_severity": [
+          "v1",
+          "v3"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "react-router": {
+      "data": [
+        {
+          "started_at": "2021-06-05T14:34:26Z",
+          "used_tool": "TravisCI",
+          "number": 7404
+        },
+        {
+          "started_at": "2021-06-05T14:46:23Z",
+          "used_tool": "TravisCI",
+          "number": 7406
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 20
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,29 +1,5 @@
 {
-  "slow_build": {
-    "Labeler": {
-      "data": {
-        "2019-10-08T17:04:51Z": 22500.0,
-        "2019-10-18T13:06:42Z": 39750.0,
-        "2019-11-04T20:05:28Z": 17000.0
-      },
-      "tool": "Github Actions",
-      "total avg": 26416.666666666668,
-      "quartiles": {
-        "q1": 19750.0,
-        "q3": 31125.0,
-        "iqr": 11375.0
-      },
-      "classification": {
-        "high_severity": {
-          "9": 56000,
-          "10": 62000
-        },
-        "medium_severity": {
-          "1": 37000
-        }
-      }
-    }
-  },
+  "slow_build": {},
   "late_merging": {
     "missed activity": {
       "10.6.x-maintenance": 0,
@@ -80,40 +56,8 @@
         "high_severity": []
       }
     },
-    "build_count": 1
+    "build_count": 0
   },
-  "broken_release": {
-    "Labeler": {
-      "data": [
-        {
-          "started_at": "2019-10-18T13:06:42Z",
-          "used_tool": "Github Actions",
-          "number": 7
-        },
-        {
-          "started_at": "2019-10-21T09:56:21Z",
-          "used_tool": "Github Actions",
-          "number": 9
-        },
-        {
-          "started_at": "2019-11-04T20:05:28Z",
-          "used_tool": "Github Actions",
-          "number": 1
-        },
-        {
-          "started_at": "2019-11-04T20:06:37Z",
-          "used_tool": "Github Actions",
-          "number": 2
-        },
-        {
-          "started_at": "2019-11-08T09:31:36Z",
-          "used_tool": "Github Actions",
-          "number": 4
-        }
-      ],
-      "tool": "Github Actions",
-      "release_build_count": 5
-    }
-  },
+  "broken_release": {},
   "skip_failing_tests": {}
 }

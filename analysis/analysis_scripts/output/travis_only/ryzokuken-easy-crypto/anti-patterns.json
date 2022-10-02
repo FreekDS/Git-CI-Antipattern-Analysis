@@ -1,0 +1,133 @@
+{
+  "slow_build": {
+    "easy-crypto": {
+      "data": {
+        "2021-04-17T13:20:32Z": 97000.0,
+        "2021-05-07T00:41:58Z": 81333.33333333333
+      },
+      "tool": "TravisCI",
+      "total avg": 89166.66666666666,
+      "quartiles": {
+        "q1": 85250.0,
+        "q3": 93083.33333333333,
+        "iqr": 7833.3333333333285
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "53": 97000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "docs": 0,
+      "docs-1": 1181,
+      "gh-pages": 0,
+      "hash": 1187,
+      "keys": 0,
+      "master": 0,
+      "password": 1181,
+      "sign": 1187,
+      "test": 1198
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ajv-6.12.6": 76,
+      "docs": 1207,
+      "docs-1": 1181,
+      "gh-pages": 1181,
+      "hash": 1187,
+      "keys": 1163,
+      "master": 0,
+      "password": 1181,
+      "sign": 1187,
+      "test": 1198
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ajv-6.12.6": 0,
+      "docs": 0,
+      "docs-1": -1,
+      "gh-pages": 0,
+      "hash": -1,
+      "keys": 0,
+      "master": 0,
+      "password": -1,
+      "sign": -1,
+      "test": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "hash",
+          "sign",
+          "test"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "docs",
+          "test"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "docs-1",
+          "hash",
+          "password",
+          "sign",
+          "test"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "easy-crypto": {
+      "data": [
+        {
+          "started_at": "2021-04-17T13:20:32Z",
+          "used_tool": "TravisCI",
+          "number": 53
+        },
+        {
+          "started_at": "2021-05-07T00:41:58Z",
+          "used_tool": "TravisCI",
+          "number": 55
+        },
+        {
+          "started_at": "2021-05-07T09:07:20Z",
+          "used_tool": "TravisCI",
+          "number": 56
+        },
+        {
+          "started_at": "2021-05-07T09:16:27Z",
+          "used_tool": "TravisCI",
+          "number": 58
+        },
+        {
+          "started_at": "2021-05-07T14:18:29Z",
+          "used_tool": "TravisCI",
+          "number": 59
+        },
+        {
+          "started_at": "2021-05-09T21:46:35Z",
+          "used_tool": "TravisCI",
+          "number": 61
+        },
+        {
+          "started_at": "2021-05-10T03:48:46Z",
+          "used_tool": "TravisCI",
+          "number": 62
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 7
+    }
+  },
+  "skip_failing_tests": {}
+}

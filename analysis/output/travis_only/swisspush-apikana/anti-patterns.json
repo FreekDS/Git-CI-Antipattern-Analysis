@@ -1,0 +1,99 @@
+{
+  "slow_build": {
+    "apikana": {
+      "data": {
+        "2021-05-21T13:35:06Z": 89000.0,
+        "2021-06-17T07:33:06Z": 81500.0,
+        "2021-07-07T07:58:59Z": 86666.66666666667
+      },
+      "tool": "TravisCI",
+      "total avg": 85722.22222222223,
+      "quartiles": {
+        "q1": 84083.33333333334,
+        "q3": 87833.33333333334,
+        "iqr": 3750.0
+      },
+      "classification": {
+        "high_severity": {
+          "620": 95000,
+          "623": 96000
+        },
+        "medium_severity": {
+          "611": 89000,
+          "612": 90000,
+          "614": 91000,
+          "615": 93000,
+          "616": 88000,
+          "617": 91000,
+          "621": 89000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "Type-name-conflict-should-be-prevented": 0,
+      "develop": 45,
+      "draft07-conversion-fix-id": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "support/swisspost-migration": 0,
+      "v0.9.28": 0
+    },
+    "branch deviation": {
+      "Type-name-conflict-should-be-prevented": 837,
+      "develop": 0,
+      "draft07-conversion-fix-id": 188,
+      "gh-pages": 1258,
+      "master": 45,
+      "support/swisspost-migration": -2,
+      "v0.9.28": 112
+    },
+    "unsynced activity": {
+      "Type-name-conflict-should-be-prevented": 0,
+      "develop": 45,
+      "draft07-conversion-fix-id": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "support/swisspost-migration": 0,
+      "v0.9.28": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "Type-name-conflict-should-be-prevented"
+        ],
+        "high_severity": [
+          "gh-pages"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "develop"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "apikana": {
+      "data": [
+        {
+          "started_at": "2021-06-17T07:39:36Z",
+          "used_tool": "TravisCI",
+          "number": 619
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 13
+    }
+  },
+  "skip_failing_tests": {}
+}

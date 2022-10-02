@@ -1,0 +1,67 @@
+{
+  "slow_build": {
+    "kokopu": {
+      "data": {
+        "2021-04-18T07:59:29Z": 114000.0,
+        "2021-04-25T10:32:46Z": 115000.0,
+        "2021-05-07T07:53:52Z": 117000.0,
+        "2021-05-17T14:35:18Z": 115666.66666666667,
+        "2021-05-27T02:08:20Z": 116909.09090909091
+      },
+      "tool": "TravisCI",
+      "total avg": 115715.15151515152,
+      "quartiles": {
+        "q1": 115000.0,
+        "q3": 116909.09090909091,
+        "iqr": 1909.0909090909117
+      },
+      "classification": {
+        "high_severity": {
+          "115": 120000,
+          "117": 120000,
+          "118": 122000
+        },
+        "medium_severity": {
+          "104": 117000,
+          "106": 118000,
+          "109": 117000,
+          "113": 117000,
+          "114": 119000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "kokopu": {
+      "data": [],
+      "release_build_count": 14
+    }
+  },
+  "skip_failing_tests": {}
+}

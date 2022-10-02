@@ -1,0 +1,34 @@
+Missed Activity
+=========================
+Branch automation/yarn-upgrade has 13 days of missed activity!
+MEDIUM SEVERITY
+Branch automation/yarn-upgrade, 13 seconds
+
+Branch Deviation
+=========================
+Average deviation: 203.8095238095238 days
+Branch conroy/disclaimers moved away from main with 269 days, 65.1904761904762 more than average
+Branch conroy/extract-fix moved away from main with 258 days, 54.190476190476204 more than average
+Branch conroy/generate-examples moved away from main with 320 days, 116.1904761904762 more than average
+Branch epolon/tsconfig-and-manifest-overrides moved away from main with 403 days, 199.1904761904762 more than average
+Branch huijbers/two-enums moved away from main with 290 days, 86.1904761904762 more than average
+Branch njlynch/codeowners moved away from main with 306 days, 102.1904761904762 more than average
+Branch otaviom/skip-non-exported moved away from main with 298 days, 94.1904761904762 more than average
+Branch rmuller/python-interfaces moved away from main with 216 days, 12.190476190476204 more than average
+Branch rmuller/typescript-4 moved away from main with 725 days, 521.1904761904761 more than average
+Branch rmuller/v2/memory-management moved away from main with 584 days, 380.1904761904762 more than average
+MEDIUM SEVERITY
+Branch conroy/generate-examples, 320 days
+Branch epolon/tsconfig-and-manifest-overrides, 403 days
+Branch njlynch/codeowners, 306 days
+Branch rmuller/typescript-4, 725 days
+Branch rmuller/v2/memory-management, 584 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.7142857142857143 days
+Branch automation/yarn-upgrade is unsynced with 15 days, 14.285714285714286 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch automation/yarn-upgrade, 15 days

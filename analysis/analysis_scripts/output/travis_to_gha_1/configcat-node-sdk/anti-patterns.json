@@ -1,0 +1,95 @@
+{
+  "slow_build": {
+    "Node CI": {
+      "data": {
+        "2021-03-11T21:38:35Z": 61000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 61000.0,
+      "quartiles": {
+        "q1": 61000.0,
+        "q3": 61000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 79000,
+          "4": 75000
+        },
+        "medium_severity": {}
+      }
+    },
+    "node-sdk": {
+      "data": {
+        "2021-01-25T22:44:08Z": 53400.0,
+        "2021-02-01T22:47:58Z": 54833.333333333336,
+        "2021-02-08T22:53:57Z": 53400.0,
+        "2021-02-16T22:57:07Z": 55200.0,
+        "2021-02-23T23:00:39Z": 57400.0,
+        "2021-03-02T23:04:22Z": 55400.0,
+        "2021-03-10T23:07:37Z": 52000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 54519.047619047626,
+      "quartiles": {
+        "q1": 53400.0,
+        "q3": 55300.0,
+        "iqr": 1900.0
+      },
+      "classification": {
+        "high_severity": {
+          "650": 71000
+        },
+        "medium_severity": {
+          "628": 56000,
+          "633": 58000,
+          "636": 57000,
+          "638": 57000,
+          "645": 57000,
+          "646": 56000,
+          "647": 56000,
+          "649": 58000,
+          "654": 56000,
+          "658": 57000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Node CI": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "node-sdk": {
+      "data": [],
+      "release_build_count": 32
+    }
+  },
+  "skip_failing_tests": {}
+}

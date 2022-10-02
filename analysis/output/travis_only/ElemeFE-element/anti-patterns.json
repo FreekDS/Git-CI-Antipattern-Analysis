@@ -1,0 +1,127 @@
+{
+  "slow_build": {
+    "element": {
+      "data": {
+        "2021-04-10T03:58:26Z": 192818.18181818182,
+        "2021-04-19T01:43:15Z": 181727.27272727274,
+        "2021-04-28T09:05:22Z": 172800.0,
+        "2021-05-10T02:53:47Z": 193666.66666666666,
+        "2021-05-17T11:57:01Z": 143333.33333333334,
+        "2021-05-26T14:42:39Z": 224866.66666666666,
+        "2021-06-03T05:50:57Z": 235416.66666666666,
+        "2021-06-29T11:33:04Z": 235750.0
+      },
+      "tool": "TravisCI",
+      "total avg": 197547.3484848485,
+      "quartiles": {
+        "q1": 179495.45454545456,
+        "q3": 227504.16666666666,
+        "iqr": 48008.7121212121
+      },
+      "classification": {
+        "high_severity": {
+          "10904": 301000,
+          "10911": 306000,
+          "10930": 310000,
+          "10932": 301000,
+          "10949": 309000,
+          "10955": 306000
+        },
+        "medium_severity": {
+          "10900": 287000,
+          "10933": 297000,
+          "10931": 293000,
+          "10938": 291000,
+          "10942": 287000,
+          "10944": 296000,
+          "10946": 292000,
+          "10948": 295000,
+          "10951": 292000,
+          "10954": 299000,
+          "10956": 295000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "1.x": 0,
+      "Vue-3.0": 0,
+      "dev": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "next": 0,
+      "revert-21019-dev": 0
+    },
+    "branch deviation": {
+      "1.x": 1644,
+      "Vue-3.0": 617,
+      "dev": 0,
+      "gh-pages": 153,
+      "master": 0,
+      "next": 1266,
+      "revert-21019-dev": 155
+    },
+    "unsynced activity": {
+      "1.x": 0,
+      "Vue-3.0": 0,
+      "dev": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "next": 0,
+      "revert-21019-dev": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "1.x",
+          "next"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "element": {
+      "data": [
+        {
+          "started_at": "2021-04-14T09:32:15Z",
+          "used_tool": "TravisCI",
+          "number": 10897
+        },
+        {
+          "started_at": "2021-04-14T09:38:17Z",
+          "used_tool": "TravisCI",
+          "number": 10898
+        },
+        {
+          "started_at": "2021-04-23T07:37:13Z",
+          "used_tool": "TravisCI",
+          "number": 10913
+        },
+        {
+          "started_at": "2021-04-23T07:55:50Z",
+          "used_tool": "TravisCI",
+          "number": 10914
+        },
+        {
+          "started_at": "2021-05-23T10:37:38Z",
+          "used_tool": "TravisCI",
+          "number": 10927
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 63
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,88 @@
+Missed Activity
+=========================
+Branch development has -1 days of missed activity!
+MEDIUM SEVERITY
+Branch development, -1 seconds
+
+Branch Deviation
+=========================
+Average deviation: 453.9189189189189 days
+Branch feat/access-lists moved away from main with 482 days, 28.081081081081095 more than average
+Branch feat/add-new-safemath-downcast-error-code moved away from main with 596 days, 142.0810810810811 more than average
+Branch feat/add-sign_typedData_v4-to-metamask-subprovider moved away from main with 569 days, 115.0810810810811 more than average
+Branch feat/configurable-doc-gen moved away from main with 658 days, 204.0810810810811 more than average
+Branch feat/dev-utils/chainId-1337 moved away from main with 569 days, 115.0810810810811 more than average
+Branch feat/faster-json-schema moved away from main with 517 days, 63.081081081081095 more than average
+Branch feat/monorepo-scripts/prerelease-publish moved away from main with 533 days, 79.0810810810811 more than average
+Branch feat/sol-compiler/persist-ast moved away from main with 587 days, 133.0810810810811 more than average
+Branch feat/sol-compiler/shouldCompileIndependently-option moved away from main with 624 days, 170.0810810810811 more than average
+Branch feat/utils-remove-revert-error-defs moved away from main with 658 days, 204.0810810810811 more than average
+Branch feat/web3-wrapper/eth_signTypedData_v4 moved away from main with 617 days, 163.0810810810811 more than average
+Branch fix/contracts-gen-sol-extension moved away from main with 580 days, 126.0810810810811 more than average
+Branch fix/encoding-rules-export moved away from main with 478 days, 24.081081081081095 more than average
+Branch fix/ethereumjs-vm-dep moved away from main with 567 days, 113.0810810810811 more than average
+Branch fix/json-schemas/swallow-schema-already-exists-errors moved away from main with 498 days, 44.081081081081095 more than average
+Branch fix/lattice-linter moved away from main with 649 days, 195.0810810810811 more than average
+Branch fix/solc-releases-link moved away from main with 656 days, 202.0810810810811 more than average
+Branch fix/subproviders/allow-lowercased-rpc-addresses moved away from main with 607 days, 153.0810810810811 more than average
+Branch fix/utils/address-utils moved away from main with 478 days, 24.081081081081095 more than average
+Branch fix/utils-restore-revert-errors moved away from main with 658 days, 204.0810810810811 more than average
+Branch fix/web3-wrapper/handle-missing-rpc-method-on-geth-defaults-web3-provider-engine moved away from main with 568 days, 114.0810810810811 more than average
+Branch lodash/remove-web3-wrapper moved away from main with 489 days, 35.081081081081095 more than average
+Branch perf/abi-encoder/max-uint-value moved away from main with 502 days, 48.081081081081095 more than average
+Branch poop moved away from main with 664 days, 210.0810810810811 more than average
+Branch v4_rfq_schema moved away from main with 589 days, 135.0810810810811 more than average
+MEDIUM SEVERITY
+Branch feat/configurable-doc-gen, 658 days
+Branch feat/sol-compiler/shouldCompileIndependently-option, 624 days
+Branch feat/utils-remove-revert-error-defs, 658 days
+Branch feat/web3-wrapper/eth_signTypedData_v4, 617 days
+Branch fix/lattice-linter, 649 days
+Branch fix/solc-releases-link, 656 days
+Branch fix/subproviders/allow-lowercased-rpc-addresses, 607 days
+Branch fix/utils-restore-revert-errors, 658 days
+Branch poop, 664 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.02702702702702703 days
+Branch david/peerdep is unsynced with 0 days, 0.02702702702702703 more than average
+Branch david/unpin-patricia is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/abi-encoder-nested-structs is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/abi-gen-function-selector is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/access-lists is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/add-new-safemath-downcast-error-code is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/add-sign_typedData_v4-to-metamask-subprovider is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/configurable-doc-gen is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/dev-utils/chainId-1337 is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/eip-1559-support is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/faster-json-schema is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/monorepo-scripts/prerelease-publish is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/sol-compiler/persist-ast is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/sol-compiler/shouldCompileIndependently-option is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/upgrade-bignumber is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/utils-remove-revert-error-defs is unsynced with 0 days, 0.02702702702702703 more than average
+Branch feat/web3-wrapper/eth_signTypedData_v4 is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/abi-gen/selector is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/contracts-gen-sol-extension is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/encoding-rules-export is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/ethereum-types-linkReferences is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/ethereumjs-vm-dep is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/json-schemas/swallow-schema-already-exists-errors is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/lattice-linter is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/solc-compiler-0.8-support is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/solc-releases-link is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/subproviders/allow-lowercased-rpc-addresses is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/utils/address-utils is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/utils-restore-revert-errors is unsynced with 0 days, 0.02702702702702703 more than average
+Branch fix/web3-wrapper/handle-missing-rpc-method-on-geth-defaults-web3-provider-engine is unsynced with 0 days, 0.02702702702702703 more than average
+Branch lodash/remove-web3-wrapper is unsynced with 0 days, 0.02702702702702703 more than average
+Branch main is unsynced with 0 days, 0.02702702702702703 more than average
+Branch perf/abi-encoder/max-uint-value is unsynced with 0 days, 0.02702702702702703 more than average
+Branch phil/add-otc-order is unsynced with 0 days, 0.02702702702702703 more than average
+Branch poop is unsynced with 0 days, 0.02702702702702703 more than average
+Branch v4_rfq_schema is unsynced with 0 days, 0.02702702702702703 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch development, -1 days

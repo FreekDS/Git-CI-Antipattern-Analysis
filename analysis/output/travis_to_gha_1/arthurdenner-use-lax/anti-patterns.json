@@ -1,0 +1,102 @@
+{
+  "slow_build": {
+    "Run checks": {
+      "data": {
+        "2021-01-28T21:48:36Z": 70666.66666666667
+      },
+      "tool": "Github Actions",
+      "total avg": 70666.66666666667,
+      "quartiles": {
+        "q1": 70666.66666666667,
+        "q3": 70666.66666666667,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 75000
+        },
+        "medium_severity": {}
+      }
+    },
+    "use-lax": {
+      "data": {
+        "2020-12-21T04:59:28Z": 148333.33333333334,
+        "2020-12-30T17:03:44Z": 268000.0,
+        "2021-01-11T05:00:37Z": 53111.11111111111,
+        "2021-01-18T05:08:17Z": 47500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 129236.11111111112,
+      "quartiles": {
+        "q1": 51708.33333333333,
+        "q3": 178250.0,
+        "iqr": 126541.66666666667
+      },
+      "classification": {
+        "high_severity": {
+          "855": 1785000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/add-v2-config-file": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "dependabot/add-v2-config-file": 489,
+      "main": 0
+    },
+    "unsynced activity": {
+      "dependabot/add-v2-config-file": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/add-v2-config-file"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Run checks": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "use-lax": {
+      "data": [
+        {
+          "started_at": "2020-12-21T04:59:29Z",
+          "used_tool": "TravisCI",
+          "number": 793
+        },
+        {
+          "started_at": "2020-12-21T05:01:36Z",
+          "used_tool": "TravisCI",
+          "number": 795
+        },
+        {
+          "started_at": "2020-12-21T05:03:22Z",
+          "used_tool": "TravisCI",
+          "number": 797
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 20
+    }
+  },
+  "skip_failing_tests": {}
+}

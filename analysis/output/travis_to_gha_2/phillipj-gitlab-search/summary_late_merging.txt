@@ -1,0 +1,17 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 367.5 days
+Branch add-protocol-config moved away from main with 735 days, 367.5 more than average
+MEDIUM SEVERITY
+Branch add-protocol-config, 735 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

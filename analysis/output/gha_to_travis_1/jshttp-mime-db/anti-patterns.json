@@ -1,25 +1,5 @@
 {
-  "slow_build": {
-    "ci": {
-      "data": {
-        "2021-05-12T16:05:17Z": 167214.2857142857
-      },
-      "tool": "Github Actions",
-      "total avg": 167214.2857142857,
-      "quartiles": {
-        "q1": 167214.2857142857,
-        "q3": 167214.2857142857,
-        "iqr": 0.0
-      },
-      "classification": {
-        "high_severity": {
-          "52": 344000,
-          "53": 693000
-        },
-        "medium_severity": {}
-      }
-    }
-  },
+  "slow_build": {},
   "late_merging": {
     "missed activity": {
       "doug_encoding_wip": 0,
@@ -62,13 +42,8 @@
         "high_severity": []
       }
     },
-    "build_count": 1
+    "build_count": 0
   },
-  "broken_release": {
-    "ci": {
-      "data": [],
-      "release_build_count": 11
-    }
-  },
+  "broken_release": {},
   "skip_failing_tests": {}
 }

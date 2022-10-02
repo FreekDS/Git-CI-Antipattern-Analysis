@@ -1,0 +1,20 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 179.22222222222223 days
+Branch create-poc-cli moved away from main with 253 days, 73.77777777777777 more than average
+Branch experimental-remove-footguns-for-project-refs moved away from main with 699 days, 519.7777777777778 more than average
+Branch feat/ts-import-type moved away from main with 568 days, 388.77777777777777 more than average
+MEDIUM SEVERITY
+Branch feat/ts-import-type, 568 days
+HIGH SEVERITY
+Branch experimental-remove-footguns-for-project-refs, 699 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

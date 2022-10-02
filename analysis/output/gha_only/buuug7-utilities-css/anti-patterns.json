@@ -1,0 +1,79 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2021-04-22T19:45:46Z": 22000.0,
+        "2021-04-29T20:00:18Z": 24000.0,
+        "2021-05-07T17:35:30Z": 20714.285714285714,
+        "2021-05-21T21:00:26Z": 19333.333333333332,
+        "2021-06-03T21:00:24Z": 19000.0,
+        "2021-06-11T00:14:03Z": 25333.333333333332,
+        "2021-06-28T21:00:26Z": 21000.0,
+        "2021-07-05T23:46:47Z": 17333.333333333332
+      },
+      "tool": "Github Actions",
+      "total avg": 21089.285714285714,
+      "quartiles": {
+        "q1": 19250.0,
+        "q3": 22500.0,
+        "iqr": 3250.0
+      },
+      "classification": {
+        "high_severity": {
+          "61": 32000
+        },
+        "medium_severity": {
+          "44": 24000,
+          "45": 24000,
+          "49": 24000,
+          "59": 25000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/add-v2-config-file": 448,
+      "dependabot/npm_and_yarn/sass-1.54.9": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/add-v2-config-file": 462,
+      "dependabot/npm_and_yarn/sass-1.54.9": -35,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/add-v2-config-file": -14,
+      "dependabot/npm_and_yarn/sass-1.54.9": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "dependabot/add-v2-config-file"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/add-v2-config-file"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/add-v2-config-file"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,77 @@
+{
+  "slow_build": {
+    "grunt-togeojson": {
+      "data": {
+        "2021-05-07T09:30:46Z": 147500.0,
+        "2021-05-15T04:34:57Z": 149666.66666666666,
+        "2021-05-23T12:18:10Z": 161500.0,
+        "2021-06-09T15:13:47Z": 155714.2857142857,
+        "2021-06-24T22:20:47Z": 40000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 130876.19047619046,
+      "quartiles": {
+        "q1": 147500.0,
+        "q3": 155714.2857142857,
+        "iqr": 8214.28571428571
+      },
+      "classification": {
+        "high_severity": {
+          "254": 169000,
+          "255": 173000
+        },
+        "medium_severity": {
+          "245": 158000,
+          "251": 156000,
+          "256": 161000,
+          "257": 165000,
+          "259": 162000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0,
+      "renovate/eslint-5.x": 1164
+    },
+    "branch deviation": {
+      "master": 0,
+      "renovate/eslint-5.x": 1165
+    },
+    "unsynced activity": {
+      "master": 0,
+      "renovate/eslint-5.x": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "renovate/eslint-5.x"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "renovate/eslint-5.x"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "master"
+        ],
+        "high_severity": [
+          "renovate/eslint-5.x"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "grunt-togeojson": {
+      "data": [],
+      "release_build_count": 14
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,218 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 856.8913043478261 days
+Branch 1.4/release moved away from main with 1516 days, 659.1086956521739 more than average
+Branch 1.5/decuments moved away from main with 1543 days, 686.1086956521739 more than average
+Branch 1.5/develop moved away from main with 1591 days, 734.1086956521739 more than average
+Branch 1.5/feature/currency moved away from main with 1498 days, 641.1086956521739 more than average
+Branch 1.5/feature/datalistRefuct moved away from main with 1486 days, 629.1086956521739 more than average
+Branch 1.5/feature/presentingService moved away from main with 1483 days, 626.1086956521739 more than average
+Branch 1.5/iconsEditor moved away from main with 1544 days, 687.1086956521739 more than average
+Branch 1.5/layoutDesignerComponent moved away from main with 1567 days, 710.1086956521739 more than average
+Branch 1.5/mariUp moved away from main with 1573 days, 716.1086956521739 more than average
+Branch 1.5/members moved away from main with 1544 days, 687.1086956521739 more than average
+Branch 1.5/openUIDemo moved away from main with 1564 days, 707.1086956521739 more than average
+Branch 1.5/release moved away from main with 1482 days, 625.1086956521739 more than average
+Branch 1.6/models moved away from main with 1513 days, 656.1086956521739 more than average
+Branch 1.6/release moved away from main with 1501 days, 644.1086956521739 more than average
+Branch 1.9/gridOptimizations moved away from main with 1398 days, 541.1086956521739 more than average
+Branch 1.9.4/release moved away from main with 1361 days, 504.1086956521739 more than average
+Branch 1.11/listsFilters moved away from main with 1418 days, 561.1086956521739 more than average
+Branch 1.12/release moved away from main with 1385 days, 528.1086956521739 more than average
+Branch 1.12/release2 moved away from main with 1284 days, 427.1086956521739 more than average
+Branch 1.13/FieldsStyle moved away from main with 1317 days, 460.1086956521739 more than average
+Branch 1.13/avatar moved away from main with 1140 days, 283.1086956521739 more than average
+Branch 1.13/memberSplitSelectedApplyFix moved away from main with 927 days, 70.10869565217388 more than average
+Branch 1.13/messageTypeValuesFields'Style moved away from main with 1318 days, 461.1086956521739 more than average
+Branch 1.13/setPopupsHeader moved away from main with 1328 days, 471.1086956521739 more than average
+Branch 1.13/tabsOverflowIfNeeded moved away from main with 965 days, 108.10869565217388 more than average
+Branch 1.13/toolbarAddRenderedCheck moved away from main with 1056 days, 199.10869565217388 more than average
+Branch 1.13/toolbarCherryPick moved away from main with 1055 days, 198.10869565217388 more than average
+Branch 1.13/toolbarFix moved away from main with 1144 days, 287.1086956521739 more than average
+Branch 1.14/release moved away from main with 1257 days, 400.1086956521739 more than average
+Branch 2.0/CodemirrorViewInComplexEditorFailed moved away from main with 1011 days, 154.10869565217388 more than average
+Branch 2.0/IEServiceAddCssVariables moved away from main with 1084 days, 227.10869565217388 more than average
+Branch 2.0/addInserAdjacentPolifillsForSVG moved away from main with 1000 days, 143.10869565217388 more than average
+Branch 2.0/backup moved away from main with 1025 days, 168.10869565217388 more than average
+Branch 2.0/bindControllerSetLoading moved away from main with 1060 days, 203.10869565217388 more than average
+Branch 2.0/bug/buttonDescriptionFallback moved away from main with 881 days, 24.10869565217388 more than average
+Branch 2.0/bug/drigRowDraggableOnChecked moved away from main with 864 days, 7.108695652173878 more than average
+Branch 2.0/bugfixFilterLogic moved away from main with 895 days, 38.10869565217388 more than average
+Branch 2.0/calculatedCirclesV2 moved away from main with 1134 days, 277.1086956521739 more than average
+Branch 2.0/cleanUpRoutingService moved away from main with 1034 days, 177.10869565217388 more than average
+Branch 2.0/collectionCTRLAfix moved away from main with 1027 days, 170.10869565217388 more than average
+Branch 2.0/compactSearch moved away from main with 951 days, 94.10869565217388 more than average
+Branch 2.0/compactSearchBtn moved away from main with 927 days, 70.10869565217388 more than average
+Branch 2.0/compactThemeToolbar moved away from main with 993 days, 136.10869565217388 more than average
+Branch 2.0/complexEditorFixLocs moved away from main with 1067 days, 210.10869565217388 more than average
+Branch 2.0/custom moved away from main with 999 days, 142.10869565217388 more than average
+Branch 2.0/datalistBlurFixes moved away from main with 904 days, 47.10869565217388 more than average
+Branch 2.0/datalistBubblesRemoveIconFix moved away from main with 996 days, 139.10869565217388 more than average
+Branch 2.0/datalistFixes moved away from main with 908 days, 51.10869565217388 more than average
+Branch 2.0/datalistLayoutFixes moved away from main with 966 days, 109.10869565217388 more than average
+Branch 2.0/datalistReverseSelectDependsOpen moved away from main with 1026 days, 169.10869565217388 more than average
+Branch 2.0/datalistReverseSelectedInDropdown moved away from main with 1042 days, 185.10869565217388 more than average
+Branch 2.0/develop moved away from main with 1638 days, 781.1086956521739 more than average
+Branch 2.0/docInCollection moved away from main with 1052 days, 195.10869565217388 more than average
+Branch 2.0/documentColumnTextWidth moved away from main with 962 days, 105.10869565217388 more than average
+Branch 2.0/documentDownloadButton moved away from main with 1017 days, 160.10869565217388 more than average
+Branch 2.0/documentTitleFix moved away from main with 1010 days, 153.10869565217388 more than average
+Branch 2.0/dropdownSetWidthOnAttach moved away from main with 1011 days, 154.10869565217388 more than average
+Branch 2.0/duratonHoursPerDay moved away from main with 872 days, 15.108695652173878 more than average
+Branch 2.0/exampleForAnton moved away from main with 1028 days, 171.10869565217388 more than average
+Branch 2.0/filter moved away from main with 1036 days, 179.10869565217388 more than average
+Branch 2.0/filterLogic moved away from main with 908 days, 51.10869565217388 more than average
+Branch 2.0/filterRadio moved away from main with 1001 days, 144.10869565217388 more than average
+Branch 2.0/fixDropdownAnchor moved away from main with 1004 days, 147.10869565217388 more than average
+Branch 2.0/fixHiddenColumnForGrid moved away from main with 1074 days, 217.10869565217388 more than average
+Branch 2.0/fixVSCodeWorkspaces moved away from main with 1040 days, 183.10869565217388 more than average
+Branch 2.0/fixedShowErrorLogicForEditors moved away from main with 998 days, 141.10869565217388 more than average
+Branch 2.0/focusColumnOnPanelOpening moved away from main with 989 days, 132.10869565217388 more than average
+Branch 2.0/gridAddReplaceColumns moved away from main with 1054 days, 197.10869565217388 more than average
+Branch 2.0/gridAutocomplete moved away from main with 1018 days, 161.10869565217388 more than average
+Branch 2.0/gridFullscreenScrollPopupRemoveElPopup moved away from main with 1054 days, 197.10869565217388 more than average
+Branch 2.0/gridSafari moved away from main with 1111 days, 254.10869565217388 more than average
+Branch 2.0/groupExpandBug moved away from main with 1078 days, 221.10869565217388 more than average
+Branch 2.0/groupsEditor moved away from main with 1151 days, 294.1086956521739 more than average
+Branch 2.0/iconEditorFix moved away from main with 1069 days, 212.10869565217388 more than average
+Branch 2.0/mobileService moved away from main with 1109 days, 252.10869565217388 more than average
+Branch 2.0/plugThemeCssLogicUpdate moved away from main with 1027 days, 170.10869565217388 more than average
+Branch 2.0/pointersGridHeaderV2 moved away from main with 1055 days, 198.10869565217388 more than average
+Branch 2.0/preventUserNameWrap moved away from main with 1015 days, 158.10869565217388 more than average
+Branch 2.0/requiredValidatorAddContext moved away from main with 1004 days, 147.10869565217388 more than average
+Branch 2.0/resizable moved away from main with 1059 days, 202.10869565217388 more than average
+Branch 2.0/searchBarSmallFix moved away from main with 927 days, 70.10869565217388 more than average
+Branch 2.0/splitModuleRoutingBug moved away from main with 1059 days, 202.10869565217388 more than average
+Branch 2.0/splitViewFixes moved away from main with 1055 days, 198.10869565217388 more than average
+Branch 2.0/splitViewNoWrap moved away from main with 1012 days, 155.10869565217388 more than average
+Branch 2.0/sprintW40fixes moved away from main with 1028 days, 171.10869565217388 more than average
+Branch 2.0/toolbarAddRenderedCheck moved away from main with 1056 days, 199.10869565217388 more than average
+Branch 2.0/toolbarBtnIE moved away from main with 998 days, 141.10869565217388 more than average
+Branch 2.0/toolbarCherryPick moved away from main with 1067 days, 210.10869565217388 more than average
+Branch 2.0/toolbarFixes moved away from main with 1061 days, 204.10869565217388 more than average
+Branch 2.0/treeEditorButtonApplyFix moved away from main with 1039 days, 182.10869565217388 more than average
+Branch 2.0/typescriptUpdate moved away from main with 1001 days, 144.10869565217388 more than average
+Branch 2.0/updatePackages moved away from main with 900 days, 43.10869565217388 more than average
+Branch 2.0/462891 moved away from main with 956 days, 99.10869565217388 more than average
+Branch 2.0/462941 moved away from main with 1000 days, 143.10869565217388 more than average
+Branch 2.0/463377 moved away from main with 958 days, 101.10869565217388 more than average
+Branch 2.0/463888 moved away from main with 999 days, 142.10869565217388 more than average
+Branch 2.0/464072 moved away from main with 998 days, 141.10869565217388 more than average
+Branch 2.0/464958 moved away from main with 964 days, 107.10869565217388 more than average
+Branch 2.0/466222 moved away from main with 993 days, 136.10869565217388 more than average
+Branch 2.0/471360 moved away from main with 956 days, 99.10869565217388 more than average
+Branch 2.1/addIEOncePolyfill moved away from main with 941 days, 84.10869565217388 more than average
+Branch 2.1/addNumberIsNanIEPolyfill moved away from main with 879 days, 22.10869565217388 more than average
+Branch 2.1/addRoleTypeToAttributes moved away from main with 887 days, 30.10869565217388 more than average
+Branch 2.1/addedGenerateChangeLogTask moved away from main with 888 days, 31.10869565217388 more than average
+Branch 2.1/ajax moved away from main with 1255 days, 398.1086956521739 more than average
+Branch 2.1/bug/FixIconsOnDaughterlyCells moved away from main with 962 days, 105.10869565217388 more than average
+Branch 2.1/bug/buttonDescriptionFallback moved away from main with 881 days, 24.10869565217388 more than average
+Branch 2.1/bug/fixNavigateToLink moved away from main with 859 days, 2.1086956521738784 more than average
+Branch 2.1/bugfixFilterLogic moved away from main with 895 days, 38.10869565217388 more than average
+Branch 2.1/changelogAutomatization moved away from main with 906 days, 49.10869565217388 more than average
+Branch 2.1/clearIconColorAndSize moved away from main with 919 days, 62.10869565217388 more than average
+Branch 2.1/compactSearch moved away from main with 935 days, 78.10869565217388 more than average
+Branch 2.1/comppactSearch moved away from main with 922 days, 65.10869565217388 more than average
+Branch 2.1/datalistBlurFixes moved away from main with 903 days, 46.10869565217388 more than average
+Branch 2.1/datalistFetchResursiveData moved away from main with 908 days, 51.10869565217388 more than average
+Branch 2.1/datalistFixes moved away from main with 935 days, 78.10869565217388 more than average
+Branch 2.1/datalistLayoutFixes moved away from main with 966 days, 109.10869565217388 more than average
+Branch 2.1/datalistSelectedPassToCollection moved away from main with 923 days, 66.10869565217388 more than average
+Branch 2.1/datalistUserTemplate moved away from main with 893 days, 36.10869565217388 more than average
+Branch 2.1/dateTimeOffsetKludgeRemove moved away from main with 928 days, 71.10869565217388 more than average
+Branch 2.1/documentColumnTextWidth moved away from main with 962 days, 105.10869565217388 more than average
+Branch 2.1/durationHoursPerDay moved away from main with 873 days, 16.10869565217388 more than average
+Branch 2.1/filterLogic moved away from main with 907 days, 50.10869565217388 more than average
+Branch 2.1/fixInsertAdjacentHTMLPolyfill moved away from main with 874 days, 17.10869565217388 more than average
+Branch 2.1/fixThemeError moved away from main with 920 days, 63.10869565217388 more than average
+Branch 2.1/gridBorders moved away from main with 962 days, 105.10869565217388 more than average
+Branch 2.1/gridFixHiddenCells moved away from main with 931 days, 74.10869565217388 more than average
+Branch 2.1/gridHeaderSelectionCellHoverFix moved away from main with 935 days, 78.10869565217388 more than average
+Branch 2.1/gridRowDraggableOnChecked moved away from main with 864 days, 7.108695652173878 more than average
+Branch 2.1/gridRowHiddenApply moved away from main with 933 days, 76.10869565217388 more than average
+Branch 2.1/gridSearchDisplaying moved away from main with 922 days, 65.10869565217388 more than average
+Branch 2.1/gridValidationFix moved away from main with 867 days, 10.108695652173878 more than average
+Branch 2.1/historyStyles moved away from main with 959 days, 102.10869565217388 more than average
+Branch 2.1/ieDependencies moved away from main with 893 days, 36.10869565217388 more than average
+Branch 2.1/reactBranch moved away from main with 886 days, 29.10869565217388 more than average
+Branch 2.1/removeHistoryPanelCompactTheme moved away from main with 938 days, 81.10869565217388 more than average
+Branch 2.1/smallMagorFixes moved away from main with 923 days, 66.10869565217388 more than average
+Branch 2.1/updateDemoNPMPackages moved away from main with 895 days, 38.10869565217388 more than average
+Branch 2.1/updatePackages moved away from main with 898 days, 41.10869565217388 more than average
+Branch 2.1/userActivityReviewFixes moved away from main with 976 days, 119.10869565217388 more than average
+Branch 2.1/463377 moved away from main with 958 days, 101.10869565217388 more than average
+Branch 2.1/464958 moved away from main with 964 days, 107.10869565217388 more than average
+Branch 2.1/471360 moved away from main with 956 days, 99.10869565217388 more than average
+Branch master moved away from main with 1077 days, 220.10869565217388 more than average
+Branch popupsMobileVersions moved away from main with 1223 days, 366.1086956521739 more than average
+MEDIUM SEVERITY
+Branch 1.5/feature/currency, 1498 days
+Branch 1.5/feature/datalistRefuct, 1486 days
+Branch 1.5/feature/presentingService, 1483 days
+Branch 1.5/release, 1482 days
+Branch 1.6/release, 1501 days
+Branch 1.9/gridOptimizations, 1398 days
+Branch 1.9.4/release, 1361 days
+Branch 1.11/listsFilters, 1418 days
+Branch 1.12/release, 1385 days
+Branch 1.12/release2, 1284 days
+Branch 1.13/FieldsStyle, 1317 days
+Branch 1.13/avatar, 1140 days
+Branch 1.13/messageTypeValuesFields'Style, 1318 days
+Branch 1.13/setPopupsHeader, 1328 days
+Branch 1.13/toolbarAddRenderedCheck, 1056 days
+Branch 1.13/toolbarCherryPick, 1055 days
+Branch 1.13/toolbarFix, 1144 days
+Branch 1.14/release, 1257 days
+Branch 2.0/IEServiceAddCssVariables, 1084 days
+Branch 2.0/bindControllerSetLoading, 1060 days
+Branch 2.0/calculatedCirclesV2, 1134 days
+Branch 2.0/cleanUpRoutingService, 1034 days
+Branch 2.0/complexEditorFixLocs, 1067 days
+Branch 2.0/datalistReverseSelectedInDropdown, 1042 days
+Branch 2.0/docInCollection, 1052 days
+Branch 2.0/exampleForAnton, 1028 days
+Branch 2.0/filter, 1036 days
+Branch 2.0/fixHiddenColumnForGrid, 1074 days
+Branch 2.0/fixVSCodeWorkspaces, 1040 days
+Branch 2.0/gridAddReplaceColumns, 1054 days
+Branch 2.0/gridFullscreenScrollPopupRemoveElPopup, 1054 days
+Branch 2.0/gridSafari, 1111 days
+Branch 2.0/groupExpandBug, 1078 days
+Branch 2.0/groupsEditor, 1151 days
+Branch 2.0/iconEditorFix, 1069 days
+Branch 2.0/mobileService, 1109 days
+Branch 2.0/pointersGridHeaderV2, 1055 days
+Branch 2.0/resizable, 1059 days
+Branch 2.0/splitModuleRoutingBug, 1059 days
+Branch 2.0/splitViewFixes, 1055 days
+Branch 2.0/sprintW40fixes, 1028 days
+Branch 2.0/toolbarAddRenderedCheck, 1056 days
+Branch 2.0/toolbarCherryPick, 1067 days
+Branch 2.0/toolbarFixes, 1061 days
+Branch 2.0/treeEditorButtonApplyFix, 1039 days
+Branch 2.1/ajax, 1255 days
+Branch master, 1077 days
+Branch popupsMobileVersions, 1223 days
+HIGH SEVERITY
+Branch 1.4/release, 1516 days
+Branch 1.5/decuments, 1543 days
+Branch 1.5/develop, 1591 days
+Branch 1.5/iconsEditor, 1544 days
+Branch 1.5/layoutDesignerComponent, 1567 days
+Branch 1.5/mariUp, 1573 days
+Branch 1.5/members, 1544 days
+Branch 1.5/openUIDemo, 1564 days
+Branch 1.6/models, 1513 days
+Branch 2.0/develop, 1638 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+Branch add-license-1 has 916 days of missed activity!
+MEDIUM SEVERITY
+Branch add-license-1, 916 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 305.0 days
+Branch add-license-1 moved away from main with 916 days, 611.0 more than average
+MEDIUM SEVERITY
+Branch add-license-1, 916 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.3333333333333333 days
+Branch gh-pages is unsynced with 0 days, 0.3333333333333333 more than average
+Branch master is unsynced with 0 days, 0.3333333333333333 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch add-license-1, -1 days

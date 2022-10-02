@@ -1,0 +1,392 @@
+{
+  "slow_build": {
+    "moxb": {
+      "data": {
+        "2021-04-19T18:07:35Z": 339000.0,
+        "2021-04-30T15:17:17Z": 311363.63636363635,
+        "2021-05-07T22:49:26Z": 324000.0,
+        "2021-05-18T00:45:15Z": 328000.0,
+        "2021-05-26T18:52:43Z": 339190.4761904762
+      },
+      "tool": "TravisCI",
+      "total avg": 328310.8225108225,
+      "quartiles": {
+        "q1": 324000.0,
+        "q3": 339000.0,
+        "iqr": 15000.0
+      },
+      "classification": {
+        "high_severity": {
+          "488": 377000,
+          "521": 364000,
+          "524": 367000,
+          "526": 365000
+        },
+        "medium_severity": {
+          "484": 348000,
+          "486": 348000,
+          "489": 355000,
+          "492": 345000,
+          "494": 341000,
+          "497": 348000,
+          "503": 359000,
+          "505": 342000,
+          "504": 348000,
+          "506": 354000,
+          "507": 342000,
+          "508": 350000,
+          "515": 358000,
+          "513": 343000,
+          "514": 344000,
+          "511": 352000,
+          "509": 349000,
+          "518": 342000,
+          "517": 352000,
+          "516": 348000,
+          "520": 340000,
+          "522": 347000,
+          "523": 342000,
+          "525": 344000,
+          "529": 350000,
+          "531": 361000,
+          "534": 346000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "csillag/extend-navcontrol": 0,
+      "csillag/kitchen-sink-1": 0,
+      "csillag/login-debug": 0,
+      "csillag/navigation-updates": 141,
+      "csillag/remove-semantic-ui": 128,
+      "csillag/rename-html-to-react-html": 128,
+      "csillag/update-react-mobx": 0,
+      "csillag/update-react-mobx-no-decorators": 0,
+      "csillag/update-to-react-18": 127,
+      "daterange-improvements": 315,
+      "dependabot/npm_and_yarn/examples/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/examples/browserslist-4.20.3": 0,
+      "dependabot/npm_and_yarn/examples/dot-prop-4.2.1": 0,
+      "dependabot/npm_and_yarn/examples/elliptic-6.5.4": 0,
+      "dependabot/npm_and_yarn/examples/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/examples/safer-eval-1.3.6": 0,
+      "dependabot/npm_and_yarn/examples/tar-4.4.19": 0,
+      "dependabot/npm_and_yarn/examples/ws-5.2.3": 0,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "dependabot/npm_and_yarn/jsdom-16.5.0": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/node-notifier-8.0.2": 0,
+      "dependabot/npm_and_yarn/packages/moxb/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/packages/semui/acorn-6.4.1": 0,
+      "dependabot/npm_and_yarn/packages/semui/marked-4.0.10": 0,
+      "dependabot/npm_and_yarn/packages/stellar-router-core/urijs-1.19.11": 0,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 0,
+      "dependabot/npm_and_yarn/urijs-1.19.11": 0,
+      "dependabot/npm_and_yarn/ws-7.5.8": 0,
+      "dependabot/npm_and_yarn/y18n-4.0.3": 0,
+      "fix-multiple-file-upload": 329,
+      "manyof-vertical-display": 696,
+      "master": 0,
+      "scharf/add-trigger-submenu-action-poperty": 457,
+      "ujvari/lerna-future": 0
+    },
+    "branch deviation": {
+      "csillag/extend-navcontrol": 1178,
+      "csillag/kitchen-sink-1": 569,
+      "csillag/login-debug": 745,
+      "csillag/navigation-updates": 141,
+      "csillag/remove-semantic-ui": 128,
+      "csillag/rename-html-to-react-html": 128,
+      "csillag/update-react-mobx": 140,
+      "csillag/update-react-mobx-no-decorators": 140,
+      "csillag/update-to-react-18": 127,
+      "daterange-improvements": 315,
+      "dependabot/npm_and_yarn/examples/ajv-6.12.6": 67,
+      "dependabot/npm_and_yarn/examples/browserslist-4.20.3": 128,
+      "dependabot/npm_and_yarn/examples/dot-prop-4.2.1": 672,
+      "dependabot/npm_and_yarn/examples/elliptic-6.5.4": 70,
+      "dependabot/npm_and_yarn/examples/moment-2.29.4": 59,
+      "dependabot/npm_and_yarn/examples/safer-eval-1.3.6": 722,
+      "dependabot/npm_and_yarn/examples/tar-4.4.19": 67,
+      "dependabot/npm_and_yarn/examples/ws-5.2.3": 59,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 72,
+      "dependabot/npm_and_yarn/jsdom-16.5.0": 67,
+      "dependabot/npm_and_yarn/moment-2.29.4": 59,
+      "dependabot/npm_and_yarn/node-notifier-8.0.2": 72,
+      "dependabot/npm_and_yarn/packages/moxb/moment-2.29.4": 59,
+      "dependabot/npm_and_yarn/packages/semui/acorn-6.4.1": 773,
+      "dependabot/npm_and_yarn/packages/semui/marked-4.0.10": 128,
+      "dependabot/npm_and_yarn/packages/stellar-router-core/urijs-1.19.11": 67,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": -8,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 67,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 72,
+      "dependabot/npm_and_yarn/urijs-1.19.11": 67,
+      "dependabot/npm_and_yarn/ws-7.5.8": 59,
+      "dependabot/npm_and_yarn/y18n-4.0.3": 72,
+      "fix-multiple-file-upload": 331,
+      "manyof-vertical-display": 695,
+      "master": 0,
+      "scharf/add-trigger-submenu-action-poperty": 457,
+      "ujvari/lerna-future": 84
+    },
+    "unsynced activity": {
+      "csillag/extend-navcontrol": 0,
+      "csillag/kitchen-sink-1": 0,
+      "csillag/login-debug": 0,
+      "csillag/navigation-updates": -1,
+      "csillag/remove-semantic-ui": -1,
+      "csillag/rename-html-to-react-html": -1,
+      "csillag/update-react-mobx": 0,
+      "csillag/update-react-mobx-no-decorators": 0,
+      "csillag/update-to-react-18": -1,
+      "daterange-improvements": -1,
+      "dependabot/npm_and_yarn/examples/ajv-6.12.6": 0,
+      "dependabot/npm_and_yarn/examples/browserslist-4.20.3": 0,
+      "dependabot/npm_and_yarn/examples/dot-prop-4.2.1": 0,
+      "dependabot/npm_and_yarn/examples/elliptic-6.5.4": 0,
+      "dependabot/npm_and_yarn/examples/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/examples/safer-eval-1.3.6": 0,
+      "dependabot/npm_and_yarn/examples/tar-4.4.19": 0,
+      "dependabot/npm_and_yarn/examples/ws-5.2.3": 0,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "dependabot/npm_and_yarn/jsdom-16.5.0": 0,
+      "dependabot/npm_and_yarn/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/node-notifier-8.0.2": 0,
+      "dependabot/npm_and_yarn/packages/moxb/moment-2.29.4": 0,
+      "dependabot/npm_and_yarn/packages/semui/acorn-6.4.1": 0,
+      "dependabot/npm_and_yarn/packages/semui/marked-4.0.10": 0,
+      "dependabot/npm_and_yarn/packages/stellar-router-core/urijs-1.19.11": 0,
+      "dependabot/npm_and_yarn/parse-url-6.0.5": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/tmpl-1.0.5": 0,
+      "dependabot/npm_and_yarn/urijs-1.19.11": 0,
+      "dependabot/npm_and_yarn/ws-7.5.8": 0,
+      "dependabot/npm_and_yarn/y18n-4.0.3": 0,
+      "fix-multiple-file-upload": -2,
+      "manyof-vertical-display": 0,
+      "master": 0,
+      "scharf/add-trigger-submenu-action-poperty": 0,
+      "ujvari/lerna-future": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "csillag/navigation-updates",
+          "csillag/remove-semantic-ui",
+          "csillag/rename-html-to-react-html",
+          "csillag/update-to-react-18",
+          "daterange-improvements",
+          "fix-multiple-file-upload",
+          "manyof-vertical-display",
+          "scharf/add-trigger-submenu-action-poperty"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "csillag/kitchen-sink-1",
+          "dependabot/npm_and_yarn/examples/dot-prop-4.2.1",
+          "fix-multiple-file-upload",
+          "scharf/add-trigger-submenu-action-poperty"
+        ],
+        "high_severity": [
+          "csillag/extend-navcontrol",
+          "csillag/login-debug",
+          "dependabot/npm_and_yarn/examples/safer-eval-1.3.6",
+          "dependabot/npm_and_yarn/packages/semui/acorn-6.4.1",
+          "manyof-vertical-display"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "csillag/navigation-updates",
+          "csillag/remove-semantic-ui",
+          "csillag/rename-html-to-react-html",
+          "csillag/update-to-react-18",
+          "daterange-improvements",
+          "fix-multiple-file-upload"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "moxb": {
+      "data": [
+        {
+          "started_at": "2021-04-19T18:07:35Z",
+          "used_tool": "TravisCI",
+          "number": 483
+        },
+        {
+          "started_at": "2021-04-30T17:32:05Z",
+          "used_tool": "TravisCI",
+          "number": 485
+        },
+        {
+          "started_at": "2021-05-06T21:09:12Z",
+          "used_tool": "TravisCI",
+          "number": 491
+        },
+        {
+          "started_at": "2021-05-07T13:05:49Z",
+          "used_tool": "TravisCI",
+          "number": 494
+        },
+        {
+          "started_at": "2021-05-09T15:27:12Z",
+          "used_tool": "TravisCI",
+          "number": 496
+        },
+        {
+          "started_at": "2021-05-26T18:53:05Z",
+          "used_tool": "TravisCI",
+          "number": 503
+        },
+        {
+          "started_at": "2021-05-26T18:53:11Z",
+          "used_tool": "TravisCI",
+          "number": 505
+        },
+        {
+          "started_at": "2021-05-26T18:53:11Z",
+          "used_tool": "TravisCI",
+          "number": 504
+        },
+        {
+          "started_at": "2021-05-26T18:53:15Z",
+          "used_tool": "TravisCI",
+          "number": 506
+        },
+        {
+          "started_at": "2021-05-26T18:53:31Z",
+          "used_tool": "TravisCI",
+          "number": 507
+        },
+        {
+          "started_at": "2021-05-26T19:09:20Z",
+          "used_tool": "TravisCI",
+          "number": 508
+        },
+        {
+          "started_at": "2021-05-26T19:09:51Z",
+          "used_tool": "TravisCI",
+          "number": 510
+        },
+        {
+          "started_at": "2021-05-26T19:09:52Z",
+          "used_tool": "TravisCI",
+          "number": 515
+        },
+        {
+          "started_at": "2021-05-26T19:09:52Z",
+          "used_tool": "TravisCI",
+          "number": 513
+        },
+        {
+          "started_at": "2021-05-26T19:09:52Z",
+          "used_tool": "TravisCI",
+          "number": 512
+        },
+        {
+          "started_at": "2021-05-26T19:09:53Z",
+          "used_tool": "TravisCI",
+          "number": 514
+        },
+        {
+          "started_at": "2021-05-26T19:09:53Z",
+          "used_tool": "TravisCI",
+          "number": 511
+        },
+        {
+          "started_at": "2021-05-26T19:09:53Z",
+          "used_tool": "TravisCI",
+          "number": 509
+        },
+        {
+          "started_at": "2021-05-26T19:09:57Z",
+          "used_tool": "TravisCI",
+          "number": 518
+        },
+        {
+          "started_at": "2021-05-26T19:09:57Z",
+          "used_tool": "TravisCI",
+          "number": 517
+        },
+        {
+          "started_at": "2021-05-26T19:09:58Z",
+          "used_tool": "TravisCI",
+          "number": 516
+        },
+        {
+          "started_at": "2021-05-26T19:10:04Z",
+          "used_tool": "TravisCI",
+          "number": 519
+        },
+        {
+          "started_at": "2021-05-26T19:10:12Z",
+          "used_tool": "TravisCI",
+          "number": 520
+        },
+        {
+          "started_at": "2021-05-26T19:10:19Z",
+          "used_tool": "TravisCI",
+          "number": 521
+        },
+        {
+          "started_at": "2021-05-26T19:14:57Z",
+          "used_tool": "TravisCI",
+          "number": 522
+        },
+        {
+          "started_at": "2021-05-26T19:21:33Z",
+          "used_tool": "TravisCI",
+          "number": 523
+        },
+        {
+          "started_at": "2021-05-26T20:59:22Z",
+          "used_tool": "TravisCI",
+          "number": 525
+        },
+        {
+          "started_at": "2021-05-26T20:59:22Z",
+          "used_tool": "TravisCI",
+          "number": 524
+        },
+        {
+          "started_at": "2021-05-27T06:41:54Z",
+          "used_tool": "TravisCI",
+          "number": 526
+        },
+        {
+          "started_at": "2021-05-27T07:45:17Z",
+          "used_tool": "TravisCI",
+          "number": 529
+        },
+        {
+          "started_at": "2021-05-27T14:25:32Z",
+          "used_tool": "TravisCI",
+          "number": 530
+        },
+        {
+          "started_at": "2021-05-28T13:38:01Z",
+          "used_tool": "TravisCI",
+          "number": 531
+        },
+        {
+          "started_at": "2021-05-28T20:21:22Z",
+          "used_tool": "TravisCI",
+          "number": 533
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 59
+    }
+  },
+  "skip_failing_tests": {}
+}

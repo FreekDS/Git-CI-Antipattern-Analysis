@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+Branch dependabot/npm_and_yarn/ember-source-4.4.0 has 134 days of missed activity!
+MEDIUM SEVERITY
+Branch dependabot/npm_and_yarn/ember-source-4.4.0, 134 seconds
+
+Branch Deviation
+=========================
+Average deviation: 337.0 days
+Branch bump-deps moved away from main with 981 days, 644.0 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch bump-deps, 981 days
+
+Unsynced activity
+=========================
+Average unsynced: -0.25 days
+Branch bump-deps is unsynced with 0 days, 0.25 more than average
+Branch gh-pages is unsynced with 0 days, 0.25 more than average
+Branch main is unsynced with 0 days, 0.25 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch dependabot/npm_and_yarn/ember-source-4.4.0, -1 days

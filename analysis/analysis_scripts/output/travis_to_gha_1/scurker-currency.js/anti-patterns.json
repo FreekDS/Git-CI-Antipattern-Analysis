@@ -1,0 +1,363 @@
+{
+  "slow_build": {
+    "Lint": {
+      "data": {
+        "2021-05-19T00:31:16Z": 48723.40425531915
+      },
+      "tool": "Github Actions",
+      "total avg": 48723.40425531915,
+      "quartiles": {
+        "q1": 48723.40425531915,
+        "q3": 48723.40425531915,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 55000,
+          "3": 64000,
+          "5": 49000,
+          "12": 49000,
+          "15": 52000,
+          "18": 49000,
+          "22": 53000,
+          "23": 52000,
+          "24": 53000,
+          "26": 62000,
+          "27": 50000,
+          "28": 60000,
+          "29": 53000,
+          "30": 51000,
+          "31": 52000,
+          "33": 58000,
+          "34": 50000,
+          "35": 52000,
+          "36": 51000,
+          "40": 52000,
+          "41": 49000,
+          "43": 79000,
+          "45": 51000,
+          "47": 51000
+        },
+        "medium_severity": {}
+      }
+    },
+    "gzip size": {
+      "data": {
+        "2021-04-05T02:21:16Z": 94000.0,
+        "2021-04-18T23:53:23Z": 99666.66666666667,
+        "2021-04-29T12:51:25Z": 81000.0,
+        "2021-05-06T17:37:18Z": 95571.42857142857,
+        "2021-05-19T00:31:16Z": 99791.66666666667
+      },
+      "tool": "Github Actions",
+      "total avg": 94005.9523809524,
+      "quartiles": {
+        "q1": 94000.0,
+        "q3": 99666.66666666667,
+        "iqr": 5666.6666666666715
+      },
+      "classification": {
+        "high_severity": {
+          "169": 121000,
+          "176": 112000,
+          "198": 112000,
+          "207": 109000,
+          "208": 115000,
+          "210": 151000,
+          "211": 111000,
+          "214": 113000,
+          "217": 120000,
+          "220": 109000,
+          "223": 110000
+        },
+        "medium_severity": {
+          "158": 100000,
+          "159": 101000,
+          "162": 100000,
+          "163": 107000,
+          "164": 108000,
+          "168": 107000,
+          "180": 101000,
+          "185": 104000,
+          "191": 102000,
+          "193": 100000,
+          "194": 101000,
+          "195": 102000,
+          "200": 104000,
+          "205": 104000,
+          "213": 101000,
+          "216": 105000,
+          "219": 105000,
+          "221": 101000,
+          "224": 105000,
+          "225": 104000,
+          "226": 100000,
+          "228": 108000,
+          "229": 106000,
+          "230": 102000
+        }
+      }
+    },
+    "ci": {
+      "data": {
+        "2021-05-19T02:18:31Z": 122051.72413793103
+      },
+      "tool": "Github Actions",
+      "total avg": 122051.72413793103,
+      "quartiles": {
+        "q1": 122051.72413793103,
+        "q3": 122051.72413793103,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "8": 134000,
+          "9": 138000,
+          "10": 130000,
+          "11": 133000,
+          "12": 129000,
+          "14": 140000,
+          "15": 136000,
+          "16": 139000,
+          "17": 144000,
+          "18": 191000,
+          "19": 150000,
+          "20": 151000,
+          "21": 155000,
+          "22": 138000,
+          "23": 136000,
+          "24": 144000,
+          "25": 145000,
+          "26": 156000,
+          "27": 160000,
+          "29": 151000,
+          "31": 144000,
+          "32": 159000,
+          "33": 150000,
+          "34": 162000,
+          "35": 160000,
+          "36": 152000,
+          "37": 144000,
+          "39": 160000,
+          "41": 142000,
+          "43": 136000,
+          "45": 174000,
+          "46": 154000,
+          "47": 148000,
+          "49": 156000,
+          "52": 145000,
+          "54": 159000,
+          "55": 149000,
+          "56": 175000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/ci.yml": {
+      "data": {
+        "2021-05-19T02:30:22Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Build & Test": {
+      "data": {
+        "2021-05-19T02:11:08Z": 1000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1000.0,
+      "quartiles": {
+        "q1": 1000.0,
+        "q3": 1000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Coverage": {
+      "data": {
+        "2021-05-19T00:32:14Z": 77000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 77000.0,
+      "quartiles": {
+        "q1": 77000.0,
+        "q3": 77000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "5": 85000,
+          "6": 80000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Test": {
+      "data": {
+        "2021-05-19T00:22:18Z": 71500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 71500.0,
+      "quartiles": {
+        "q1": 71500.0,
+        "q3": 71500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 74000,
+          "2": 85000,
+          "3": 75000,
+          "4": 75000
+        },
+        "medium_severity": {}
+      }
+    },
+    "currency.js": {
+      "data": {
+        "2021-04-05T02:21:35Z": 190500.0,
+        "2021-04-18T23:53:44Z": 217608.69565217392
+      },
+      "tool": "TravisCI",
+      "total avg": 204054.34782608697,
+      "quartiles": {
+        "q1": 197277.1739130435,
+        "q3": 210831.52173913043,
+        "iqr": 13554.347826086945
+      },
+      "classification": {
+        "high_severity": {
+          "1203": 246000
+        },
+        "medium_severity": {
+          "1196": 223000,
+          "1195": 218000,
+          "1198": 228000,
+          "1197": 215000,
+          "1199": 220000,
+          "1200": 228000,
+          "1201": 212000,
+          "1202": 222000,
+          "1205": 228000,
+          "1208": 211000,
+          "1209": 224000,
+          "1210": 226000,
+          "1211": 230000,
+          "1213": 217000,
+          "1212": 211000,
+          "1214": 212000,
+          "1215": 227000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "intl": 0,
+      "main": 0,
+      "next": 0,
+      "renovate/ava-4.x": 0,
+      "renovate/flow-bin-0.x": 14,
+      "renovate/npm-got-vulnerability": 0,
+      "renovate/npm-trim-newlines-vulnerability": 0,
+      "renovate/npm-yargs-parser-vulnerability": 0
+    },
+    "branch deviation": {
+      "gh-pages": 476,
+      "intl": 1052,
+      "main": 0,
+      "next": 739,
+      "renovate/ava-4.x": -1,
+      "renovate/flow-bin-0.x": -56,
+      "renovate/npm-got-vulnerability": -51,
+      "renovate/npm-trim-newlines-vulnerability": -1,
+      "renovate/npm-yargs-parser-vulnerability": -1
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "intl": 0,
+      "main": 0,
+      "next": 0,
+      "renovate/ava-4.x": 0,
+      "renovate/flow-bin-0.x": 69,
+      "renovate/npm-got-vulnerability": 0,
+      "renovate/npm-trim-newlines-vulnerability": 0,
+      "renovate/npm-yargs-parser-vulnerability": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/flow-bin-0.x"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "intl",
+          "next"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "renovate/flow-bin-0.x"
+        ]
+      }
+    },
+    "build_count": 8
+  },
+  "broken_release": {
+    "ci": {
+      "data": [
+        {
+          "started_at": "2021-05-19T16:36:26Z",
+          "used_tool": "Github Actions",
+          "number": 55
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 11
+    },
+    "currency.js": {
+      "data": [
+        {
+          "started_at": "2021-04-05T02:21:37Z",
+          "used_tool": "TravisCI",
+          "number": 1192
+        },
+        {
+          "started_at": "2021-04-06T22:22:04Z",
+          "used_tool": "TravisCI",
+          "number": 1194
+        },
+        {
+          "started_at": "2021-04-19T14:08:54Z",
+          "used_tool": "TravisCI",
+          "number": 1207
+        },
+        {
+          "started_at": "2021-04-19T14:13:41Z",
+          "used_tool": "TravisCI",
+          "number": 1217
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 13
+    }
+  },
+  "skip_failing_tests": {}
+}

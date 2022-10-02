@@ -1,0 +1,43 @@
+{
+  "slow_build": {},
+  "late_merging": {
+    "missed activity": {
+      "docs": 0,
+      "jest-docker": 546,
+      "main": 0
+    },
+    "branch deviation": {
+      "docs": 118,
+      "jest-docker": 547,
+      "main": 0
+    },
+    "unsynced activity": {
+      "docs": 0,
+      "jest-docker": -1,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "jest-docker"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "jest-docker"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "jest-docker"
+        ]
+      }
+    },
+    "build_count": 0
+  },
+  "broken_release": {},
+  "skip_failing_tests": {}
+}

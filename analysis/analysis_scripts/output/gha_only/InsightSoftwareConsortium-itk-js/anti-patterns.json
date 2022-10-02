@@ -1,0 +1,215 @@
+{
+  "slow_build": {
+    "Build, test": {
+      "data": {
+        "2021-04-26T14:29:36Z": 10218625.0,
+        "2021-05-06T20:56:22Z": 8035714.285714285,
+        "2021-05-13T21:20:52Z": 10472259.25925926,
+        "2021-05-24T22:29:06Z": 9951000.0,
+        "2021-06-04T19:45:01Z": 17676125.0,
+        "2021-06-14T17:56:47Z": 8797500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 10858537.257495591,
+      "quartiles": {
+        "q1": 9085875.0,
+        "q3": 10408850.694444444,
+        "iqr": 1322975.694444444
+      },
+      "classification": {
+        "high_severity": {
+          "14": 22972000,
+          "36": 34385000,
+          "60": 77278000
+        },
+        "medium_severity": {
+          "18": 10417000,
+          "25": 10417000,
+          "47": 11367000,
+          "61": 10886000
+        }
+      }
+    },
+    "Release Notes": {
+      "data": {
+        "2021-05-20T13:36:51Z": 33000.0,
+        "2021-06-15T13:31:56Z": 37000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 35000.0,
+      "quartiles": {
+        "q1": 34000.0,
+        "q3": 36000.0,
+        "iqr": 2000.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "24": 37000
+        }
+      }
+    },
+    ".github/workflows/build-test.yml": {
+      "data": {
+        "2021-05-15T22:33:16Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "Build, test, package": {
+      "data": {
+        "2021-04-19T19:39:35Z": 10754285.714285715
+      },
+      "tool": "Github Actions",
+      "total avg": 10754285.714285715,
+      "quartiles": {
+        "q1": 10754285.714285715,
+        "q3": 10754285.714285715,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "3": 63920000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/build-test-package.yml": {
+      "data": {
+        "2021-04-20T20:26:26Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dicom-parsing": 0,
+      "gh-pages": 0,
+      "ipfs-upload": 0,
+      "master": 0,
+      "python-wrapping": 0,
+      "release": 0,
+      "update-deps": 0
+    },
+    "branch deviation": {
+      "dicom-parsing": 876,
+      "gh-pages": 189,
+      "ipfs-upload": 316,
+      "master": 0,
+      "python-wrapping": 164,
+      "release": 174,
+      "update-deps": 876
+    },
+    "unsynced activity": {
+      "dicom-parsing": 0,
+      "gh-pages": 0,
+      "ipfs-upload": 0,
+      "master": 0,
+      "python-wrapping": 0,
+      "release": 0,
+      "update-deps": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dicom-parsing",
+          "update-deps"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 5
+  },
+  "broken_release": {
+    "Build, test": {
+      "data": [
+        {
+          "started_at": "2021-04-26T14:31:09Z",
+          "used_tool": "Github Actions",
+          "number": 8
+        },
+        {
+          "started_at": "2021-04-26T20:19:15Z",
+          "used_tool": "Github Actions",
+          "number": 9
+        },
+        {
+          "started_at": "2021-04-28T21:48:40Z",
+          "used_tool": "Github Actions",
+          "number": 14
+        },
+        {
+          "started_at": "2021-05-12T21:46:48Z",
+          "used_tool": "Github Actions",
+          "number": 19
+        },
+        {
+          "started_at": "2021-05-12T21:47:43Z",
+          "used_tool": "Github Actions",
+          "number": 20
+        },
+        {
+          "started_at": "2021-05-12T21:48:01Z",
+          "used_tool": "Github Actions",
+          "number": 21
+        },
+        {
+          "started_at": "2021-05-13T21:20:52Z",
+          "used_tool": "Github Actions",
+          "number": 22
+        },
+        {
+          "started_at": "2021-05-14T00:52:37Z",
+          "used_tool": "Github Actions",
+          "number": 23
+        },
+        {
+          "started_at": "2021-06-10T19:11:18Z",
+          "used_tool": "Github Actions",
+          "number": 60
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 23
+    },
+    "Build, test, package": {
+      "data": [
+        {
+          "started_at": "2021-04-26T14:19:31Z",
+          "used_tool": "Github Actions",
+          "number": 5
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+Branch jest-docker has 546 days of missed activity!
+MEDIUM SEVERITY
+Branch jest-docker, 546 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 221.66666666666666 days
+Branch jest-docker moved away from main with 547 days, 325.33333333333337 more than average
+MEDIUM SEVERITY
+Branch jest-docker, 547 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.3333333333333333 days
+Branch docs is unsynced with 0 days, 0.3333333333333333 more than average
+Branch main is unsynced with 0 days, 0.3333333333333333 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch jest-docker, -1 days

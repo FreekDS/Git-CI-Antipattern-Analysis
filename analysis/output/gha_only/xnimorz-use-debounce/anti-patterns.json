@@ -1,0 +1,98 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2021-04-10T23:09:45Z": 47500.0,
+        "2021-04-20T00:12:24Z": 61000.0,
+        "2021-05-01T21:08:53Z": 59500.0,
+        "2021-05-09T23:28:28Z": 59000.0,
+        "2021-05-25T00:02:26Z": 60500.0,
+        "2021-06-04T20:43:13Z": 63000.0,
+        "2021-06-15T16:17:25Z": 887285.7142857143
+      },
+      "tool": "Github Actions",
+      "total avg": 176826.5306122449,
+      "quartiles": {
+        "q1": 59250.0,
+        "q3": 62000.0,
+        "iqr": 2750.0
+      },
+      "classification": {
+        "high_severity": {
+          "126": 70000,
+          "132": 77000,
+          "134": 5865000
+        },
+        "medium_severity": {
+          "119": 63000,
+          "129": 64000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "callPending": 1281,
+      "debounced-callback": 1302,
+      "experimental-v6": 0,
+      "master": 0,
+      "size-limit": 0,
+      "throttled-callback": 638,
+      "tmp": 0,
+      "v6": 552
+    },
+    "branch deviation": {
+      "callPending": 1281,
+      "debounced-callback": 1302,
+      "experimental-v6": 675,
+      "master": 0,
+      "size-limit": 1252,
+      "throttled-callback": 638,
+      "tmp": 653,
+      "v6": 552
+    },
+    "unsynced activity": {
+      "callPending": -1,
+      "debounced-callback": -1,
+      "experimental-v6": 0,
+      "master": 0,
+      "size-limit": 0,
+      "throttled-callback": -1,
+      "tmp": 0,
+      "v6": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "callPending",
+          "debounced-callback"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "callPending",
+          "debounced-callback"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "callPending",
+          "debounced-callback",
+          "throttled-callback",
+          "v6"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

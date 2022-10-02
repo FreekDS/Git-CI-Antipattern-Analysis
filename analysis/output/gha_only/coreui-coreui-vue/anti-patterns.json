@@ -1,0 +1,132 @@
+{
+  "slow_build": {
+    "Daily project check": {
+      "data": {
+        "2021-04-08T06:04:03Z": 193800.0,
+        "2021-04-15T06:04:08Z": 5741600.0,
+        "2021-04-22T06:04:18Z": 170500.0,
+        "2021-04-30T06:03:15Z": 165000.0,
+        "2021-05-07T06:15:54Z": 218666.66666666666,
+        "2021-05-17T06:03:08Z": 179600.0,
+        "2021-05-24T06:04:09Z": 169600.0,
+        "2021-05-31T06:34:50Z": 257000.0,
+        "2021-06-07T06:38:13Z": 165333.33333333334,
+        "2021-06-15T06:03:04Z": 160800.0,
+        "2021-06-22T06:03:19Z": 175833.33333333334,
+        "2021-06-30T06:03:00Z": 257200.0,
+        "2021-07-07T06:03:07Z": 199000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 619533.3333333333,
+      "quartiles": {
+        "q1": 169600.0,
+        "q3": 218666.66666666666,
+        "iqr": 49066.66666666666
+      },
+      "classification": {
+        "high_severity": {
+          "395": 28010000,
+          "410": 494000,
+          "424": 463000,
+          "445": 502000
+        },
+        "medium_severity": {
+          "388": 234000,
+          "413": 231000,
+          "423": 238000,
+          "427": 245000,
+          "439": 265000,
+          "448": 272000
+        }
+      }
+    },
+    "Project check": {
+      "data": {
+        "2021-04-17T10:09:59Z": 167000.0,
+        "2021-05-19T01:44:11Z": 20528000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 10347500.0,
+      "quartiles": {
+        "q1": 5257250.0,
+        "q3": 15437750.0,
+        "iqr": 10180500.0
+      },
+      "classification": {
+        "high_severity": {
+          "177": 40882000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dev": 0,
+      "dev-v3": 0,
+      "main": 0,
+      "v2": 0,
+      "v3": 0,
+      "v4-dev-lerna": 0,
+      "v4-dev-lukasz": 0,
+      "v4-dev-widgets": 0
+    },
+    "branch deviation": {
+      "dev": 92,
+      "dev-v3": 433,
+      "main": 0,
+      "v2": 1041,
+      "v3": 261,
+      "v4-dev-lerna": 276,
+      "v4-dev-lukasz": 353,
+      "v4-dev-widgets": 353
+    },
+    "unsynced activity": {
+      "dev": 0,
+      "dev-v3": 0,
+      "main": 0,
+      "v2": 0,
+      "v3": 0,
+      "v4-dev-lerna": 0,
+      "v4-dev-lukasz": 0,
+      "v4-dev-widgets": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dev-v3"
+        ],
+        "high_severity": [
+          "v2"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Daily project check": {
+      "data": [
+        {
+          "started_at": "2021-05-10T06:15:43Z",
+          "used_tool": "Github Actions",
+          "number": 408
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 65
+    },
+    "Project check": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

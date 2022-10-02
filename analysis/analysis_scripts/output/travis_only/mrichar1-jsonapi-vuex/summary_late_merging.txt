@@ -1,0 +1,19 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 432.2 days
+Branch depthLimit moved away from main with 861 days, 428.8 more than average
+Branch vue2 moved away from main with 434 days, 1.8000000000000114 more than average
+Branch vue3 moved away from main with 434 days, 1.8000000000000114 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch depthLimit, 861 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

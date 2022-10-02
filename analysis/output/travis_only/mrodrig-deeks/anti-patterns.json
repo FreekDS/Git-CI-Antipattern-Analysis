@@ -1,0 +1,76 @@
+{
+  "slow_build": {
+    "deeks": {
+      "data": {
+        "2021-05-08T01:55:05Z": 158400.0,
+        "2021-05-26T02:53:18Z": 152250.0,
+        "2021-06-11T07:15:20Z": 152500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 154383.33333333334,
+      "quartiles": {
+        "q1": 152375.0,
+        "q3": 155450.0,
+        "iqr": 3075.0
+      },
+      "classification": {
+        "high_severity": {
+          "72": 161000
+        },
+        "medium_severity": {
+          "71": 159000,
+          "73": 156000,
+          "74": 158000,
+          "75": 158000,
+          "76": 160000,
+          "78": 158000,
+          "88": 156000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "2.4.0": 0,
+      "add-ignore-empty-arrays-option": 0,
+      "fix-j2c-184": 0,
+      "stable": 0
+    },
+    "branch deviation": {
+      "2.4.0": 322,
+      "add-ignore-empty-arrays-option": 316,
+      "fix-j2c-184": 323,
+      "stable": 0
+    },
+    "unsynced activity": {
+      "2.4.0": 0,
+      "add-ignore-empty-arrays-option": 0,
+      "fix-j2c-184": 0,
+      "stable": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "fix-j2c-184"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "deeks": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

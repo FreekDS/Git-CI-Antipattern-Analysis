@@ -1,0 +1,189 @@
+{
+  "slow_build": {
+    "publish": {
+      "data": {
+        "2021-04-26T03:40:15Z": 220600.0,
+        "2021-06-28T09:16:47Z": 265000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 242800.0,
+      "quartiles": {
+        "q1": 231700.0,
+        "q3": 253900.0,
+        "iqr": 22200.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "70": 275000,
+          "71": 269000,
+          "72": 281000,
+          "74": 259000,
+          "75": 265000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "david/peerdep": 0,
+      "david/unpin-patricia": 0,
+      "development": -1,
+      "feat/abi-encoder-nested-structs": 0,
+      "feat/abi-gen-function-selector": 0,
+      "feat/access-lists": 0,
+      "feat/add-new-safemath-downcast-error-code": 0,
+      "feat/add-sign_typedData_v4-to-metamask-subprovider": 0,
+      "feat/configurable-doc-gen": 0,
+      "feat/dev-utils/chainId-1337": 0,
+      "feat/eip-1559-support": 0,
+      "feat/faster-json-schema": 0,
+      "feat/monorepo-scripts/prerelease-publish": 0,
+      "feat/sol-compiler/persist-ast": 0,
+      "feat/sol-compiler/shouldCompileIndependently-option": 0,
+      "feat/upgrade-bignumber": 0,
+      "feat/utils-remove-revert-error-defs": 0,
+      "feat/web3-wrapper/eth_signTypedData_v4": 0,
+      "fix/abi-gen/selector": 0,
+      "fix/contracts-gen-sol-extension": 0,
+      "fix/encoding-rules-export": 0,
+      "fix/ethereum-types-linkReferences": 0,
+      "fix/ethereumjs-vm-dep": 0,
+      "fix/json-schemas/swallow-schema-already-exists-errors": 0,
+      "fix/lattice-linter": 0,
+      "fix/solc-compiler-0.8-support": 0,
+      "fix/solc-releases-link": 0,
+      "fix/subproviders/allow-lowercased-rpc-addresses": 0,
+      "fix/utils/address-utils": 0,
+      "fix/utils-restore-revert-errors": 0,
+      "fix/web3-wrapper/handle-missing-rpc-method-on-geth-defaults-web3-provider-engine": 0,
+      "lodash/remove-web3-wrapper": 0,
+      "main": 0,
+      "perf/abi-encoder/max-uint-value": 0,
+      "phil/add-otc-order": 0,
+      "poop": 0,
+      "v4_rfq_schema": 0
+    },
+    "branch deviation": {
+      "david/peerdep": 364,
+      "david/unpin-patricia": 127,
+      "development": 0,
+      "feat/abi-encoder-nested-structs": 211,
+      "feat/abi-gen-function-selector": 317,
+      "feat/access-lists": 482,
+      "feat/add-new-safemath-downcast-error-code": 596,
+      "feat/add-sign_typedData_v4-to-metamask-subprovider": 569,
+      "feat/configurable-doc-gen": 658,
+      "feat/dev-utils/chainId-1337": 569,
+      "feat/eip-1559-support": 363,
+      "feat/faster-json-schema": 517,
+      "feat/monorepo-scripts/prerelease-publish": 533,
+      "feat/sol-compiler/persist-ast": 587,
+      "feat/sol-compiler/shouldCompileIndependently-option": 624,
+      "feat/upgrade-bignumber": 172,
+      "feat/utils-remove-revert-error-defs": 658,
+      "feat/web3-wrapper/eth_signTypedData_v4": 617,
+      "fix/abi-gen/selector": 210,
+      "fix/contracts-gen-sol-extension": 580,
+      "fix/encoding-rules-export": 478,
+      "fix/ethereum-types-linkReferences": 154,
+      "fix/ethereumjs-vm-dep": 567,
+      "fix/json-schemas/swallow-schema-already-exists-errors": 498,
+      "fix/lattice-linter": 649,
+      "fix/solc-compiler-0.8-support": 155,
+      "fix/solc-releases-link": 656,
+      "fix/subproviders/allow-lowercased-rpc-addresses": 607,
+      "fix/utils/address-utils": 478,
+      "fix/utils-restore-revert-errors": 658,
+      "fix/web3-wrapper/handle-missing-rpc-method-on-geth-defaults-web3-provider-engine": 568,
+      "lodash/remove-web3-wrapper": 489,
+      "main": 0,
+      "perf/abi-encoder/max-uint-value": 502,
+      "phil/add-otc-order": 329,
+      "poop": 664,
+      "v4_rfq_schema": 589
+    },
+    "unsynced activity": {
+      "david/peerdep": 0,
+      "david/unpin-patricia": 0,
+      "development": -1,
+      "feat/abi-encoder-nested-structs": 0,
+      "feat/abi-gen-function-selector": 0,
+      "feat/access-lists": 0,
+      "feat/add-new-safemath-downcast-error-code": 0,
+      "feat/add-sign_typedData_v4-to-metamask-subprovider": 0,
+      "feat/configurable-doc-gen": 0,
+      "feat/dev-utils/chainId-1337": 0,
+      "feat/eip-1559-support": 0,
+      "feat/faster-json-schema": 0,
+      "feat/monorepo-scripts/prerelease-publish": 0,
+      "feat/sol-compiler/persist-ast": 0,
+      "feat/sol-compiler/shouldCompileIndependently-option": 0,
+      "feat/upgrade-bignumber": 0,
+      "feat/utils-remove-revert-error-defs": 0,
+      "feat/web3-wrapper/eth_signTypedData_v4": 0,
+      "fix/abi-gen/selector": 0,
+      "fix/contracts-gen-sol-extension": 0,
+      "fix/encoding-rules-export": 0,
+      "fix/ethereum-types-linkReferences": 0,
+      "fix/ethereumjs-vm-dep": 0,
+      "fix/json-schemas/swallow-schema-already-exists-errors": 0,
+      "fix/lattice-linter": 0,
+      "fix/solc-compiler-0.8-support": 0,
+      "fix/solc-releases-link": 0,
+      "fix/subproviders/allow-lowercased-rpc-addresses": 0,
+      "fix/utils/address-utils": 0,
+      "fix/utils-restore-revert-errors": 0,
+      "fix/web3-wrapper/handle-missing-rpc-method-on-geth-defaults-web3-provider-engine": 0,
+      "lodash/remove-web3-wrapper": 0,
+      "main": 0,
+      "perf/abi-encoder/max-uint-value": 0,
+      "phil/add-otc-order": 0,
+      "poop": 0,
+      "v4_rfq_schema": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "development"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feat/configurable-doc-gen",
+          "feat/sol-compiler/shouldCompileIndependently-option",
+          "feat/utils-remove-revert-error-defs",
+          "feat/web3-wrapper/eth_signTypedData_v4",
+          "fix/lattice-linter",
+          "fix/solc-releases-link",
+          "fix/subproviders/allow-lowercased-rpc-addresses",
+          "fix/utils-restore-revert-errors",
+          "poop"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "development"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "publish": {
+      "data": [
+        {
+          "started_at": "2021-04-28T04:19:33Z",
+          "used_tool": "Github Actions",
+          "number": 73
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 6
+    }
+  },
+  "skip_failing_tests": {}
+}

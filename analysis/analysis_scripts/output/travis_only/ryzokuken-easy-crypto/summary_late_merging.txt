@@ -1,0 +1,46 @@
+Missed Activity
+=========================
+Branch docs-1 has 1181 days of missed activity!
+Branch hash has 1187 days of missed activity!
+Branch password has 1181 days of missed activity!
+Branch sign has 1187 days of missed activity!
+Branch test has 1198 days of missed activity!
+MEDIUM SEVERITY
+Branch hash, 1187 seconds
+HIGH SEVERITY
+Branch sign, 1187 seconds
+HIGH SEVERITY
+Branch test, 1198 seconds
+HIGH SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 956.1 days
+Branch docs moved away from main with 1207 days, 250.89999999999998 more than average
+Branch docs-1 moved away from main with 1181 days, 224.89999999999998 more than average
+Branch gh-pages moved away from main with 1181 days, 224.89999999999998 more than average
+Branch hash moved away from main with 1187 days, 230.89999999999998 more than average
+Branch keys moved away from main with 1163 days, 206.89999999999998 more than average
+Branch password moved away from main with 1181 days, 224.89999999999998 more than average
+Branch sign moved away from main with 1187 days, 230.89999999999998 more than average
+Branch test moved away from main with 1198 days, 241.89999999999998 more than average
+MEDIUM SEVERITY
+Branch docs, 1207 days
+Branch test, 1198 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: -0.5 days
+Branch dependabot/npm_and_yarn/ajv-6.12.6 is unsynced with 0 days, 0.5 more than average
+Branch docs is unsynced with 0 days, 0.5 more than average
+Branch gh-pages is unsynced with 0 days, 0.5 more than average
+Branch keys is unsynced with 0 days, 0.5 more than average
+Branch master is unsynced with 0 days, 0.5 more than average
+MEDIUM SEVERITY
+Branch docs-1, -1 days
+Branch hash, -1 days
+Branch password, -1 days
+Branch sign, -1 days
+Branch test, -1 days
+HIGH SEVERITY

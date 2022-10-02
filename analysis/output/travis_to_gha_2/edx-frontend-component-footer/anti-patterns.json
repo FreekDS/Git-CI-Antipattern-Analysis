@@ -1,0 +1,282 @@
+{
+  "slow_build": {
+    "Default CI": {
+      "data": {
+        "2020-11-30T18:55:20Z": 78187.5,
+        "2020-12-11T09:58:11Z": 63766.666666666664,
+        "2021-01-06T22:24:03Z": 62030.769230769234
+      },
+      "tool": "Github Actions",
+      "total avg": 67994.97863247863,
+      "quartiles": {
+        "q1": 62898.71794871795,
+        "q3": 70977.08333333333,
+        "iqr": 8078.365384615376
+      },
+      "classification": {
+        "high_severity": {
+          "8": 84000,
+          "30": 458000,
+          "72": 85000,
+          "111": 85000
+        },
+        "medium_severity": {
+          "11": 71000,
+          "15": 82000,
+          "18": 71000,
+          "23": 73000,
+          "33": 71000,
+          "40": 71000,
+          "46": 73000,
+          "47": 73000,
+          "48": 72000,
+          "62": 72000,
+          "89": 73000,
+          "92": 72000,
+          "101": 72000
+        }
+      }
+    },
+    "Release CI": {
+      "data": {
+        "2020-11-30T18:56:31Z": 92000.0,
+        "2020-12-11T09:58:11Z": 95000.0,
+        "2021-01-07T14:33:25Z": 113000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 100000.0,
+      "quartiles": {
+        "q1": 93500.0,
+        "q3": 104000.0,
+        "iqr": 10500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "2": 115000,
+          "3": 112000,
+          "5": 113000
+        }
+      }
+    },
+    "node_js CI": {
+      "data": {
+        "2020-11-30T18:43:37Z": 64500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 64500.0,
+      "quartiles": {
+        "q1": 64500.0,
+        "q3": 64500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 65000
+        },
+        "medium_severity": {}
+      }
+    },
+    "frontend-component-footer": {
+      "data": {
+        "2020-10-29T03:55:02Z": 105857.14285714286,
+        "2020-11-20T12:12:53Z": 90846.15384615384,
+        "2020-11-28T10:56:39Z": 100100.0
+      },
+      "tool": "TravisCI",
+      "total avg": 98934.43223443224,
+      "quartiles": {
+        "q1": 95473.07692307692,
+        "q3": 102978.57142857142,
+        "iqr": 7505.494505494498
+      },
+      "classification": {
+        "high_severity": {
+          "989": 120000
+        },
+        "medium_severity": {
+          "964": 109000,
+          "965": 105000,
+          "966": 104000,
+          "968": 109000,
+          "969": 104000,
+          "970": 107000,
+          "971": 108000,
+          "972": 105000,
+          "973": 104000,
+          "974": 105000,
+          "975": 109000,
+          "976": 107000,
+          "977": 105000,
+          "978": 112000,
+          "990": 114000,
+          "991": 107000,
+          "993": 104000,
+          "994": 107000,
+          "996": 104000,
+          "997": 106000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "abdullahwaheed/renovate-bot-edx-packages-auto-update": 0,
+      "abdullahwaheed/transifex-languages-list-update": 0,
+      "abutterworth/shrink-props-api": 0,
+      "abutterworth/unique-ids": 0,
+      "bilalqamar95/frontend-build-upgrade": 0,
+      "ciduarte/AA-465": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/node-forge-1.3.0": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "djoy/modernization": 0,
+      "djoy/re-add_hyperlink": 0,
+      "feat--update-to-React-17": 0,
+      "leangseu-edx/paragon-peer-dependency": 0,
+      "master": 0,
+      "renovate/actions-checkout-3.x": 0,
+      "renovate/actions-setup-node-3.x": 0,
+      "renovate/edx-frontend-build-12.x": 0,
+      "renovate/major-react-router-monorepo": 0,
+      "renovate/npm-ejs-vulnerability": 0,
+      "renovate/npm-marked-vulnerability": 0,
+      "renovate/npm-minimist-vulnerability": 0,
+      "renovate/npm-node-forge-vulnerability": 0,
+      "renovate/npm-npm-vulnerability": 0,
+      "renovate/npm-semantic-release-vulnerability": 0
+    },
+    "branch deviation": {
+      "abdullahwaheed/renovate-bot-edx-packages-auto-update": 23,
+      "abdullahwaheed/transifex-languages-list-update": 7,
+      "abutterworth/shrink-props-api": 1082,
+      "abutterworth/unique-ids": 1285,
+      "bilalqamar95/frontend-build-upgrade": 2,
+      "ciduarte/AA-465": 615,
+      "dependabot/npm_and_yarn/async-2.6.4": 148,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 165,
+      "dependabot/npm_and_yarn/node-forge-1.3.0": 172,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 310,
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": 90,
+      "dependabot/npm_and_yarn/terser-4.8.1": 55,
+      "djoy/modernization": 1168,
+      "djoy/re-add_hyperlink": 1166,
+      "feat--update-to-React-17": 30,
+      "leangseu-edx/paragon-peer-dependency": 56,
+      "master": 0,
+      "renovate/actions-checkout-3.x": -1,
+      "renovate/actions-setup-node-3.x": -1,
+      "renovate/edx-frontend-build-12.x": -1,
+      "renovate/major-react-router-monorepo": -1,
+      "renovate/npm-ejs-vulnerability": -1,
+      "renovate/npm-marked-vulnerability": -2,
+      "renovate/npm-minimist-vulnerability": 289,
+      "renovate/npm-node-forge-vulnerability": 194,
+      "renovate/npm-npm-vulnerability": -2,
+      "renovate/npm-semantic-release-vulnerability": -1
+    },
+    "unsynced activity": {
+      "abdullahwaheed/renovate-bot-edx-packages-auto-update": 0,
+      "abdullahwaheed/transifex-languages-list-update": 0,
+      "abutterworth/shrink-props-api": 0,
+      "abutterworth/unique-ids": 0,
+      "bilalqamar95/frontend-build-upgrade": 0,
+      "ciduarte/AA-465": 0,
+      "dependabot/npm_and_yarn/async-2.6.4": 0,
+      "dependabot/npm_and_yarn/minimist-1.2.6": 0,
+      "dependabot/npm_and_yarn/node-forge-1.3.0": 0,
+      "dependabot/npm_and_yarn/path-parse-1.0.7": 0,
+      "dependabot/npm_and_yarn/semantic-release-19.0.3": 0,
+      "dependabot/npm_and_yarn/terser-4.8.1": 0,
+      "djoy/modernization": 0,
+      "djoy/re-add_hyperlink": 0,
+      "feat--update-to-React-17": 0,
+      "leangseu-edx/paragon-peer-dependency": 0,
+      "master": 0,
+      "renovate/actions-checkout-3.x": 0,
+      "renovate/actions-setup-node-3.x": 0,
+      "renovate/edx-frontend-build-12.x": 0,
+      "renovate/major-react-router-monorepo": 0,
+      "renovate/npm-ejs-vulnerability": 0,
+      "renovate/npm-marked-vulnerability": 0,
+      "renovate/npm-minimist-vulnerability": 0,
+      "renovate/npm-node-forge-vulnerability": 0,
+      "renovate/npm-npm-vulnerability": 0,
+      "renovate/npm-semantic-release-vulnerability": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/path-parse-1.0.7",
+          "renovate/npm-minimist-vulnerability"
+        ],
+        "high_severity": [
+          "abutterworth/shrink-props-api",
+          "abutterworth/unique-ids",
+          "ciduarte/AA-465",
+          "djoy/modernization",
+          "djoy/re-add_hyperlink"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "Default CI": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "Release CI": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "frontend-component-footer": {
+      "data": [
+        {
+          "started_at": "2020-11-23T22:12:51Z",
+          "used_tool": "TravisCI",
+          "number": 980
+        },
+        {
+          "started_at": "2020-11-23T22:16:21Z",
+          "used_tool": "TravisCI",
+          "number": 982
+        },
+        {
+          "started_at": "2020-11-23T22:17:24Z",
+          "used_tool": "TravisCI",
+          "number": 984
+        },
+        {
+          "started_at": "2020-11-24T19:13:49Z",
+          "used_tool": "TravisCI",
+          "number": 986
+        },
+        {
+          "started_at": "2020-11-24T19:15:50Z",
+          "used_tool": "TravisCI",
+          "number": 988
+        },
+        {
+          "started_at": "2020-11-28T11:03:47Z",
+          "used_tool": "TravisCI",
+          "number": 1000
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 19
+    }
+  },
+  "skip_failing_tests": {}
+}

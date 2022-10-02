@@ -1,0 +1,21 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 329.55555555555554 days
+Branch ci/npmci moved away from main with 922 days, 592.4444444444445 more than average
+Branch dependabot/npm_and_yarn/mongodb-4.0.1 moved away from main with 420 days, 90.44444444444446 more than average
+Branch dependabot/npm_and_yarn/processenv-3.0.8 moved away from main with 464 days, 134.44444444444446 more than average
+Branch watch moved away from main with 862 days, 532.4444444444445 more than average
+MEDIUM SEVERITY
+Branch ci/npmci, 922 days
+Branch watch, 862 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

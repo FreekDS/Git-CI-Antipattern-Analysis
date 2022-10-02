@@ -1,0 +1,61 @@
+{
+  "slow_build": {
+    "Test": {
+      "data": {
+        "2021-03-31T17:09:13Z": 85000.0,
+        "2021-04-08T13:09:30Z": 89500.0,
+        "2021-04-16T19:33:49Z": 88000.0,
+        "2021-04-26T10:49:35Z": 93000.0,
+        "2021-05-07T11:27:32Z": 78000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 86700.0,
+      "quartiles": {
+        "q1": 85000.0,
+        "q3": 89500.0,
+        "iqr": 4500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "16": 93000,
+          "18": 93000,
+          "19": 92000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "master": 0
+    },
+    "branch deviation": {
+      "master": 0
+    },
+    "unsynced activity": {
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Test": {
+      "data": [],
+      "release_build_count": 9
+    }
+  },
+  "skip_failing_tests": {}
+}

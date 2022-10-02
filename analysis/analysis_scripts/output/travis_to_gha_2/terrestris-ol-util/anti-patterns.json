@@ -1,0 +1,193 @@
+{
+  "slow_build": {
+    "Run coveralls": {
+      "data": {
+        "2021-01-25T15:03:56Z": 113333.33333333333,
+        "2021-02-03T05:37:43Z": 112166.66666666667,
+        "2021-02-12T05:03:22Z": 111555.55555555556,
+        "2021-02-22T04:53:45Z": 110500.0,
+        "2021-03-01T05:16:10Z": 118800.0,
+        "2021-03-09T04:53:28Z": 113333.33333333333
+      },
+      "tool": "Github Actions",
+      "total avg": 113281.48148148147,
+      "quartiles": {
+        "q1": 111708.33333333334,
+        "q3": 113333.33333333333,
+        "iqr": 1624.9999999999854
+      },
+      "classification": {
+        "high_severity": {
+          "3": 124000,
+          "6": 125000,
+          "8": 124000,
+          "9": 122000,
+          "12": 127000,
+          "14": 127000,
+          "15": 119000,
+          "19": 119000,
+          "20": 118000,
+          "22": 118000,
+          "26": 135000,
+          "28": 123000,
+          "29": 116000,
+          "30": 124000,
+          "31": 116000,
+          "32": 116000,
+          "33": 130000,
+          "38": 126000,
+          "39": 124000
+        },
+        "medium_severity": {
+          "13": 115000,
+          "18": 114000,
+          "40": 114000
+        }
+      }
+    },
+    "Test successful build of ol-util": {
+      "data": {
+        "2021-01-26T04:59:33Z": 96000.0,
+        "2021-02-03T05:35:27Z": 123142.85714285714,
+        "2021-02-12T05:00:34Z": 115333.33333333333,
+        "2021-02-22T04:51:45Z": 113714.28571428571,
+        "2021-03-01T05:12:56Z": 123000.0,
+        "2021-03-09T04:50:38Z": 120571.42857142857
+      },
+      "tool": "Github Actions",
+      "total avg": 115293.65079365078,
+      "quartiles": {
+        "q1": 114119.04761904762,
+        "q3": 122392.85714285714,
+        "iqr": 8273.809523809527
+      },
+      "classification": {
+        "high_severity": {
+          "6": 158000,
+          "9": 153000,
+          "17": 135000,
+          "36": 176000,
+          "42": 137000,
+          "43": 138000
+        },
+        "medium_severity": {
+          "10": 128000,
+          "25": 123000,
+          "26": 124000,
+          "30": 130000,
+          "37": 125000
+        }
+      }
+    },
+    "ol-util": {
+      "data": {
+        "2020-12-16T05:14:00Z": 271727.2727272727,
+        "2020-12-28T05:03:06Z": 292454.54545454547,
+        "2021-01-04T05:08:53Z": 298000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 287393.9393939394,
+      "quartiles": {
+        "q1": 282090.90909090906,
+        "q3": 295227.2727272727,
+        "iqr": 13136.363636363647
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "1202": 297000,
+          "1203": 298000,
+          "1206": 297000,
+          "1215": 298000,
+          "1218": 298000,
+          "1221": 298000,
+          "1222": 301000,
+          "1223": 299000,
+          "1224": 314000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/ol-6.15.1": 0,
+      "enable-strict": 170,
+      "foldertoggle": 524,
+      "gh-pages": 0,
+      "greenkeeper/babel-eslint-pin-10.0.3": 0,
+      "master": 0,
+      "ol4": 0,
+      "permalink": 552
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/ol-6.15.1": -1,
+      "enable-strict": 170,
+      "foldertoggle": 524,
+      "gh-pages": 36,
+      "greenkeeper/babel-eslint-pin-10.0.3": 929,
+      "master": 0,
+      "ol4": 1388,
+      "permalink": 552
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/ol-6.15.1": 0,
+      "enable-strict": -1,
+      "foldertoggle": -1,
+      "gh-pages": 0,
+      "greenkeeper/babel-eslint-pin-10.0.3": 0,
+      "master": 0,
+      "ol4": 0,
+      "permalink": -1
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "foldertoggle",
+          "permalink"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "greenkeeper/babel-eslint-pin-10.0.3",
+          "ol4"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [
+          "enable-strict",
+          "foldertoggle",
+          "permalink"
+        ],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Run coveralls": {
+      "data": [
+        {
+          "started_at": "2021-01-25T15:03:56Z",
+          "used_tool": "Github Actions",
+          "number": 1
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 40
+    },
+    "ol-util": {
+      "data": [
+        {
+          "started_at": "2020-12-17T14:17:20Z",
+          "used_tool": "TravisCI",
+          "number": 1205
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 17
+    }
+  },
+  "skip_failing_tests": {}
+}

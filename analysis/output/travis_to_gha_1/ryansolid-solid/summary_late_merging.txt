@@ -1,0 +1,18 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 207.75 days
+Branch 0.x moved away from main with 470 days, 262.25 more than average
+Branch new-reactivity moved away from main with 341 days, 133.25 more than average
+MEDIUM SEVERITY
+Branch 0.x, 470 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

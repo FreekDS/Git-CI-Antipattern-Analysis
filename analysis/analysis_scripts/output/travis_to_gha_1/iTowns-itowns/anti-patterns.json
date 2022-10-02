@@ -1,0 +1,324 @@
+{
+  "slow_build": {
+    "integration": {
+      "data": {
+        "2020-12-16T14:48:53Z": 476882.35294117645,
+        "2021-01-06T10:23:12Z": 6697658.536585365
+      },
+      "tool": "Github Actions",
+      "total avg": 3587270.444763271,
+      "quartiles": {
+        "q1": 2032076.3988522235,
+        "q3": 5142464.490674319,
+        "iqr": 3110388.091822095
+      },
+      "classification": {
+        "high_severity": {
+          "18": 20617000,
+          "27": 65243000,
+          "38": 78080000,
+          "45": 76583000
+        },
+        "medium_severity": {
+          "51": 5230000
+        }
+      }
+    },
+    "Delete old artifacts": {
+      "data": {
+        "2020-12-16T15:22:38Z": 40000.0,
+        "2020-12-23T15:28:15Z": 24246.913580246914,
+        "2020-12-30T16:47:41Z": 34070.06369426752,
+        "2021-01-06T16:52:24Z": 49102.5641025641
+      },
+      "tool": "Github Actions",
+      "total avg": 36854.885344269635,
+      "quartiles": {
+        "q1": 31614.276165762367,
+        "q3": 42275.64102564102,
+        "iqr": 10661.364859878657
+      },
+      "classification": {
+        "high_severity": {
+          "1": 102000,
+          "2": 132000,
+          "3": 414000,
+          "9": 132000,
+          "18": 74000,
+          "20": 131000,
+          "21": 111000,
+          "26": 114000,
+          "37": 68000,
+          "43": 91000,
+          "48": 298000,
+          "49": 80000,
+          "76": 109000,
+          "77": 61000,
+          "89": 89000,
+          "107": 62000,
+          "109": 102000,
+          "110": 300000,
+          "112": 106000,
+          "114": 118000,
+          "116": 205000,
+          "121": 146000,
+          "123": 82000,
+          "124": 166000,
+          "137": 133000,
+          "139": 86000,
+          "153": 118000,
+          "155": 59000,
+          "163": 61000,
+          "214": 95000,
+          "254": 64000,
+          "257": 234000,
+          "267": 141000,
+          "279": 68000,
+          "286": 66000,
+          "288": 62000,
+          "303": 188000,
+          "326": 203000,
+          "332": 67000,
+          "364": 103000,
+          "395": 193000,
+          "398": 199000,
+          "410": 85000,
+          "416": 108000,
+          "424": 67000,
+          "432": 62000,
+          "435": 100000,
+          "436": 337000,
+          "452": 202000,
+          "453": 83000,
+          "456": 103000,
+          "458": 85000,
+          "459": 359000,
+          "460": 229000,
+          "462": 149000,
+          "463": 101000,
+          "481": 173000,
+          "484": 65000,
+          "502": 283000,
+          "506": 168000,
+          "509": 324000,
+          "512": 77000,
+          "514": 62000,
+          "516": 131000
+        },
+        "medium_severity": {
+          "25": 49000,
+          "41": 45000,
+          "71": 55000,
+          "95": 46000,
+          "100": 56000,
+          "118": 53000,
+          "132": 47000,
+          "140": 51000,
+          "168": 55000,
+          "172": 58000,
+          "200": 54000,
+          "215": 48000,
+          "232": 53000,
+          "280": 43000,
+          "355": 45000,
+          "417": 55000,
+          "461": 43000,
+          "477": 48000,
+          "501": 56000
+        }
+      }
+    },
+    "itowns": {
+      "data": {
+        "2020-11-30T15:03:49Z": 826967.7419354839,
+        "2020-12-08T12:14:28Z": 820090.9090909091
+      },
+      "tool": "TravisCI",
+      "total avg": 823529.3255131964,
+      "quartiles": {
+        "q1": 821810.1173020528,
+        "q3": 825248.5337243401,
+        "iqr": 3438.4164222873515
+      },
+      "classification": {
+        "high_severity": {
+          "2039": 880000,
+          "2040": 947000,
+          "2041": 957000,
+          "2042": 931000,
+          "2046": 958000,
+          "2045": 932000,
+          "2048": 892000,
+          "2047": 942000,
+          "2049": 916000,
+          "2051": 917000,
+          "2050": 927000,
+          "2052": 885000,
+          "2054": 927000,
+          "2053": 867000,
+          "2055": 891000,
+          "2056": 841000,
+          "2057": 1169000,
+          "2058": 866000,
+          "2059": 875000,
+          "2060": 877000,
+          "2061": 922000,
+          "2062": 864000,
+          "2063": 863000,
+          "2064": 891000,
+          "2065": 899000,
+          "2067": 884000,
+          "2068": 884000,
+          "2069": 841000,
+          "2070": 902000,
+          "2071": 900000,
+          "2072": 899000,
+          "2074": 886000,
+          "2075": 870000,
+          "2076": 877000,
+          "2078": 910000,
+          "2077": 936000,
+          "2079": 879000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "chore/unminified-build": 0,
+      "con": 0,
+      "feat/binary-batch-table": 0,
+      "feat/elevation-measure": 0,
+      "feature_process": 0,
+      "fix/dispose": 0,
+      "fix/3dtiles-support-2": 0,
+      "format_registry_3dtiles": 0,
+      "get_cap_1": 0,
+      "master": 0,
+      "poc/xr": 0,
+      "points_material_bug": 0,
+      "points_material": 0,
+      "points_shader_refacto": 0,
+      "potree_custom_material": 1559,
+      "potree_material_copy": 0,
+      "rework_texture_update": 0,
+      "update_only_texture": 0,
+      "updateRaster": 0,
+      "view_on": 0,
+      "webgl_WORKER_2_texture_3.0": 0,
+      "webxr": 0
+    },
+    "branch deviation": {
+      "chore/unminified-build": -2,
+      "con": 517,
+      "feat/binary-batch-table": 0,
+      "feat/elevation-measure": 35,
+      "feature_process": 193,
+      "fix/dispose": 0,
+      "fix/3dtiles-support-2": 0,
+      "format_registry_3dtiles": 1611,
+      "get_cap_1": 1523,
+      "master": 0,
+      "poc/xr": 53,
+      "points_material_bug": 1575,
+      "points_material": 1553,
+      "points_shader_refacto": 1547,
+      "potree_custom_material": 1559,
+      "potree_material_copy": 1554,
+      "rework_texture_update": 1511,
+      "update_only_texture": 568,
+      "updateRaster": 578,
+      "view_on": 1628,
+      "webgl_WORKER_2_texture_3.0": 496,
+      "webxr": 67
+    },
+    "unsynced activity": {
+      "chore/unminified-build": 0,
+      "con": 0,
+      "feat/binary-batch-table": 0,
+      "feat/elevation-measure": 0,
+      "feature_process": 0,
+      "fix/dispose": 0,
+      "fix/3dtiles-support-2": 0,
+      "format_registry_3dtiles": 0,
+      "get_cap_1": 0,
+      "master": 0,
+      "poc/xr": 0,
+      "points_material_bug": 0,
+      "points_material": 0,
+      "points_shader_refacto": 0,
+      "potree_custom_material": 0,
+      "potree_material_copy": 0,
+      "rework_texture_update": 0,
+      "update_only_texture": 0,
+      "updateRaster": 0,
+      "view_on": 0,
+      "webgl_WORKER_2_texture_3.0": 0,
+      "webxr": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "potree_custom_material"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "format_registry_3dtiles",
+          "points_material_bug",
+          "points_material",
+          "potree_custom_material",
+          "potree_material_copy",
+          "view_on"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "integration": {
+      "data": [
+        {
+          "started_at": "2020-12-16T15:05:11Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 15
+    },
+    "Delete old artifacts": {
+      "data": [],
+      "release_build_count": 519
+    },
+    "itowns": {
+      "data": [
+        {
+          "started_at": "2020-12-03T16:06:40Z",
+          "used_tool": "TravisCI",
+          "number": 2057
+        },
+        {
+          "started_at": "2020-12-04T16:15:30Z",
+          "used_tool": "TravisCI",
+          "number": 2066
+        },
+        {
+          "started_at": "2020-12-08T16:45:28Z",
+          "used_tool": "TravisCI",
+          "number": 2073
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 35
+    }
+  },
+  "skip_failing_tests": {}
+}

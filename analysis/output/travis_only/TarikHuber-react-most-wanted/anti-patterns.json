@@ -30,37 +30,49 @@
   },
   "late_merging": {
     "missed activity": {
-      "dev": 556,
+      "dependabot/npm_and_yarn/packages/rmw-shell/cra-template-rmw/template/firebase/functions/jose-2.0.6": 0,
+      "dev": 698,
       "master": 0,
-      "weisk-patch-1": 712
+      "snyk-upgrade-89ff401f8c83208a58b8b4e374d91480": 0,
+      "snyk-upgrade-d96a61055674b8dcf91f2d6984dd2920": 0,
+      "snyk-upgrade-e0d769e5321faf54beee81cb43c03033": 0,
+      "weisk-patch-1": 854
     },
     "branch deviation": {
-      "dev": 556,
+      "dependabot/npm_and_yarn/packages/rmw-shell/cra-template-rmw/template/firebase/functions/jose-2.0.6": -11,
+      "dev": 698,
       "master": 0,
-      "weisk-patch-1": 712
+      "snyk-upgrade-89ff401f8c83208a58b8b4e374d91480": 2,
+      "snyk-upgrade-d96a61055674b8dcf91f2d6984dd2920": 2,
+      "snyk-upgrade-e0d769e5321faf54beee81cb43c03033": 2,
+      "weisk-patch-1": 854
     },
     "unsynced activity": {
+      "dependabot/npm_and_yarn/packages/rmw-shell/cra-template-rmw/template/firebase/functions/jose-2.0.6": 0,
       "dev": -1,
       "master": 0,
+      "snyk-upgrade-89ff401f8c83208a58b8b4e374d91480": 0,
+      "snyk-upgrade-d96a61055674b8dcf91f2d6984dd2920": 0,
+      "snyk-upgrade-e0d769e5321faf54beee81cb43c03033": 0,
       "weisk-patch-1": -1
     },
     "classification": {
       "missed activity": {
         "medium_severity": [
+          "dev",
           "weisk-patch-1"
         ],
         "high_severity": []
       },
       "branch deviation": {
         "medium_severity": [
+          "dev",
           "weisk-patch-1"
         ],
         "high_severity": []
       },
       "unsynced activity": {
-        "medium_severity": [
-          "master"
-        ],
+        "medium_severity": [],
         "high_severity": [
           "dev",
           "weisk-patch-1"

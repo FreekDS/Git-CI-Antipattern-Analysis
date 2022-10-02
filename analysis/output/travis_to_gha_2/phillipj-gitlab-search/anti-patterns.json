@@ -1,0 +1,84 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2020-06-06T22:13:34Z": 27500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 27500.0,
+      "quartiles": {
+        "q1": 27500.0,
+        "q3": 27500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 33000
+        },
+        "medium_severity": {}
+      }
+    },
+    "gitlab-search": {
+      "data": {
+        "2020-04-30T20:16:45Z": 39500.0,
+        "2020-06-06T22:13:48Z": 38000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 38750.0,
+      "quartiles": {
+        "q1": 38375.0,
+        "q3": 39125.0,
+        "iqr": 750.0
+      },
+      "classification": {
+        "high_severity": {
+          "47": 42000,
+          "48": 42000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-protocol-config": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "add-protocol-config": 735,
+      "master": 0
+    },
+    "unsynced activity": {
+      "add-protocol-config": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-protocol-config"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "gitlab-search": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

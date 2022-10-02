@@ -1,0 +1,128 @@
+{
+  "slow_build": {
+    "Mark stale issues and pull requests": {
+      "data": {
+        "2021-05-18T02:37:12Z": 20000.0,
+        "2021-05-25T02:47:50Z": 18142.85714285714,
+        "2021-06-01T05:01:31Z": 16750.0,
+        "2021-06-09T02:39:16Z": 18000.0,
+        "2021-06-17T02:16:12Z": 16375.0,
+        "2021-06-25T02:14:30Z": 18000.0,
+        "2021-07-03T02:04:17Z": 16600.0
+      },
+      "tool": "Github Actions",
+      "total avg": 17695.408163265307,
+      "quartiles": {
+        "q1": 16675.0,
+        "q3": 18071.428571428572,
+        "iqr": 1396.4285714285725
+      },
+      "classification": {
+        "high_severity": {
+          "1": 31000,
+          "8": 22000,
+          "23": 22000,
+          "45": 28000
+        },
+        "medium_severity": {
+          "3": 20000,
+          "4": 19000,
+          "7": 19000,
+          "10": 19000,
+          "11": 19000,
+          "14": 19000,
+          "24": 19000,
+          "31": 20000
+        }
+      }
+    },
+    "CI": {
+      "data": {
+        "2021-04-09T08:01:17Z": 3370250.0,
+        "2021-04-20T01:59:54Z": 14315333.333333334,
+        "2021-05-09T19:43:42Z": 1167500.0,
+        "2021-05-17T07:59:28Z": 1227000.0,
+        "2021-05-28T11:56:36Z": 1961000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 4408216.666666667,
+      "quartiles": {
+        "q1": 1227000.0,
+        "q3": 3370250.0,
+        "iqr": 2143250.0
+      },
+      "classification": {
+        "high_severity": {
+          "130": 20127000,
+          "139": 81049000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Website Deployment": {
+      "data": {
+        "2021-04-12T15:44:34Z": 67000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 67000.0,
+      "quartiles": {
+        "q1": 67000.0,
+        "q3": 67000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "gh-pages": 0,
+      "master": 0,
+      "v2": 0
+    },
+    "branch deviation": {
+      "gh-pages": 28,
+      "master": 0,
+      "v2": 887
+    },
+    "unsynced activity": {
+      "gh-pages": 0,
+      "master": 0,
+      "v2": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "v2"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "Mark stale issues and pull requests": {
+      "data": [],
+      "release_build_count": 51
+    },
+    "CI": {
+      "data": [],
+      "release_build_count": 5
+    },
+    "Website Deployment": {
+      "data": [],
+      "release_build_count": 1
+    }
+  },
+  "skip_failing_tests": {}
+}

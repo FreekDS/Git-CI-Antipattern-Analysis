@@ -1,0 +1,111 @@
+{
+  "slow_build": {
+    "Continuous Integration": {
+      "data": {
+        "2019-08-15T17:05:59Z": 1013500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1013500.0,
+      "quartiles": {
+        "q1": 1013500.0,
+        "q3": 1013500.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "1": 1295000
+        },
+        "medium_severity": {}
+      }
+    },
+    "node-oidc-provider": {
+      "data": {
+        "2019-07-01T20:02:12Z": 680090.9090909091,
+        "2019-07-08T20:05:28Z": 918727.2727272727,
+        "2019-07-15T20:08:14Z": 800285.7142857143,
+        "2019-07-22T20:12:25Z": 842000.0,
+        "2019-07-30T20:15:18Z": 1021222.2222222222,
+        "2019-08-07T14:52:48Z": 1062769.2307692308,
+        "2019-08-14T20:21:05Z": 1162500.0
+      },
+      "tool": "TravisCI",
+      "total avg": 926799.3355850499,
+      "quartiles": {
+        "q1": 821142.8571428572,
+        "q3": 1041995.7264957265,
+        "iqr": 220852.86935286934
+      },
+      "classification": {
+        "high_severity": {
+          "660": 1438000,
+          "671": 1468000,
+          "677": 1565000,
+          "674": 1592000,
+          "686": 1402000,
+          "690": 1440000,
+          "694": 1496000,
+          "699": 1620000,
+          "700": 1736000,
+          "703": 1803000,
+          "706": 1693000,
+          "712": 1596000,
+          "714": 1497000,
+          "716": 1571000,
+          "718": 1598000,
+          "720": 1552000
+        },
+        "medium_severity": {
+          "666": 1256000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "logout-only-redirect-uri": 0,
+      "main": 0,
+      "v6.x": 0,
+      "v7.x": 0
+    },
+    "branch deviation": {
+      "logout-only-redirect-uri": 0,
+      "main": 0,
+      "v6.x": 518,
+      "v7.x": 0
+    },
+    "unsynced activity": {
+      "logout-only-redirect-uri": 0,
+      "main": 0,
+      "v6.x": 0,
+      "v7.x": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "v6.x"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Continuous Integration": {
+      "data": [],
+      "release_build_count": 2
+    },
+    "node-oidc-provider": {
+      "data": [],
+      "release_build_count": 45
+    }
+  },
+  "skip_failing_tests": {}
+}

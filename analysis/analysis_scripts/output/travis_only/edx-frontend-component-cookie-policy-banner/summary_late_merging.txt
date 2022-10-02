@@ -1,0 +1,477 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 1169.8507992895204 days
+Branch alasdair/npm-packages-version-updates moved away from main with 1170 days, 0.14920071047959027 more than average
+Branch alasdair/update-to-paragon-6.0.1 moved away from main with 1170 days, 0.14920071047959027 more than average
+Branch greenkeeper/@commitlint/cli-7.0.0 moved away from main with 1564 days, 394.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.1.0 moved away from main with 1477 days, 307.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.1.1 moved away from main with 1477 days, 307.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.1.2 moved away from main with 1470 days, 300.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.2.0 moved away from main with 1440 days, 270.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.2.1 moved away from main with 1433 days, 263.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.3.1 moved away from main with 1341 days, 171.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.3.2 moved away from main with 1338 days, 168.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.5.1 moved away from main with 1313 days, 143.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.5.2 moved away from main with 1310 days, 140.1492007104796 more than average
+Branch greenkeeper/@commitlint/cli-7.6.0 moved away from main with 1226 days, 56.14920071047959 more than average
+Branch greenkeeper/@commitlint/cli-7.6.1 moved away from main with 1224 days, 54.14920071047959 more than average
+Branch greenkeeper/@commitlint/cli-8.0.0 moved away from main with 1202 days, 32.14920071047959 more than average
+Branch greenkeeper/@commitlint/config-angular-7.0.0 moved away from main with 1564 days, 394.1492007104796 more than average
+Branch greenkeeper/@commitlint/config-angular-7.0.1 moved away from main with 1564 days, 394.1492007104796 more than average
+Branch greenkeeper/@commitlint/config-angular-7.1.1 moved away from main with 1477 days, 307.1492007104796 more than average
+Branch greenkeeper/@commitlint/config-angular-7.1.2 moved away from main with 1470 days, 300.1492007104796 more than average
+Branch greenkeeper/@commitlint/config-angular-7.3.1 moved away from main with 1341 days, 171.1492007104796 more than average
+Branch greenkeeper/@commitlint/config-angular-7.6.0 moved away from main with 1226 days, 56.14920071047959 more than average
+Branch greenkeeper/@commitlint/config-angular-8.0.0 moved away from main with 1202 days, 32.14920071047959 more than average
+Branch greenkeeper/@commitlint/prompt-7.0.0 moved away from main with 1564 days, 394.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-7.1.1 moved away from main with 1477 days, 307.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-7.1.2 moved away from main with 1470 days, 300.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-7.2.0 moved away from main with 1440 days, 270.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-7.2.1 moved away from main with 1433 days, 263.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-7.3.1 moved away from main with 1341 days, 171.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-7.6.0 moved away from main with 1226 days, 56.14920071047959 more than average
+Branch greenkeeper/@commitlint/prompt-7.6.1 moved away from main with 1224 days, 54.14920071047959 more than average
+Branch greenkeeper/@commitlint/prompt-8.0.0 moved away from main with 1202 days, 32.14920071047959 more than average
+Branch greenkeeper/@commitlint/prompt-cli-7.0.0 moved away from main with 1564 days, 394.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-cli-7.1.1 moved away from main with 1477 days, 307.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-cli-7.1.2 moved away from main with 1470 days, 300.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-cli-7.2.0 moved away from main with 1440 days, 270.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-cli-7.2.1 moved away from main with 1433 days, 263.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-cli-7.3.1 moved away from main with 1341 days, 171.1492007104796 more than average
+Branch greenkeeper/@commitlint/prompt-cli-7.6.0 moved away from main with 1226 days, 56.14920071047959 more than average
+Branch greenkeeper/@commitlint/prompt-cli-7.6.1 moved away from main with 1224 days, 54.14920071047959 more than average
+Branch greenkeeper/@commitlint/prompt-cli-8.0.0 moved away from main with 1202 days, 32.14920071047959 more than average
+Branch greenkeeper/@edx/edx-bootstrap-2.0.0 moved away from main with 1250 days, 80.14920071047959 more than average
+Branch greenkeeper/@edx/edx-bootstrap-2.0.1 moved away from main with 1245 days, 75.14920071047959 more than average
+Branch greenkeeper/@edx/edx-bootstrap-2.1.0 moved away from main with 1232 days, 62.14920071047959 more than average
+Branch greenkeeper/@edx/edx-bootstrap-2.2.0 moved away from main with 1218 days, 48.14920071047959 more than average
+Branch greenkeeper/@edx/edx-bootstrap-2.2.1 moved away from main with 1217 days, 47.14920071047959 more than average
+Branch greenkeeper/@edx/edx-bootstrap-2.2.2 moved away from main with 1199 days, 29.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-3.4.10 moved away from main with 1447 days, 277.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.5.0 moved away from main with 1434 days, 264.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.5.1 moved away from main with 1433 days, 263.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.5.2 moved away from main with 1429 days, 259.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.6.0 moved away from main with 1415 days, 245.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.7.0 moved away from main with 1411 days, 241.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.7.1 moved away from main with 1399 days, 229.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.7.2 moved away from main with 1387 days, 217.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.7.3 moved away from main with 1383 days, 213.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.7.4 moved away from main with 1379 days, 209.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.8.0 moved away from main with 1372 days, 202.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.8.1 moved away from main with 1342 days, 172.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.8.2 moved away from main with 1341 days, 171.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.8.3 moved away from main with 1337 days, 167.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.9.0 moved away from main with 1315 days, 145.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.9.1 moved away from main with 1299 days, 129.1492007104796 more than average
+Branch greenkeeper/@edx/paragon-3.9.2 moved away from main with 1288 days, 118.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-3.9.3 moved away from main with 1287 days, 117.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-3.9.4 moved away from main with 1285 days, 115.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-3.10.0 moved away from main with 1271 days, 101.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-3.10.1 moved away from main with 1271 days, 101.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.0.0 moved away from main with 1271 days, 101.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.0.1 moved away from main with 1267 days, 97.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.0.2 moved away from main with 1264 days, 94.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.0.3 moved away from main with 1261 days, 91.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.0.4 moved away from main with 1261 days, 91.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.0.5 moved away from main with 1260 days, 90.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.1.0 moved away from main with 1257 days, 87.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.1.2 moved away from main with 1253 days, 83.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.1.3 moved away from main with 1252 days, 82.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.1.4 moved away from main with 1243 days, 73.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.2.0 moved away from main with 1233 days, 63.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.2.1 moved away from main with 1230 days, 60.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.2.2 moved away from main with 1229 days, 59.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.2.3 moved away from main with 1217 days, 47.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.2.4 moved away from main with 1217 days, 47.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.2.5 moved away from main with 1210 days, 40.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.2.6 moved away from main with 1208 days, 38.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.2.7 moved away from main with 1195 days, 25.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.3.0 moved away from main with 1181 days, 11.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.3.1 moved away from main with 1181 days, 11.14920071047959 more than average
+Branch greenkeeper/@edx/paragon-4.4.0 moved away from main with 1173 days, 3.1492007104795903 more than average
+Branch greenkeeper/@edx/paragon-5.0.0 moved away from main with 1173 days, 3.1492007104795903 more than average
+Branch greenkeeper/@edx/paragon-6.0.1 moved away from main with 1171 days, 1.1492007104795903 more than average
+Branch greenkeeper/@edx/paragon-pin-3.4.9 moved away from main with 1447 days, 277.1492007104796 more than average
+Branch greenkeeper/es-check-3.0.0 moved away from main with 1464 days, 294.1492007104796 more than average
+Branch greenkeeper/es-check-4.0.0 moved away from main with 1462 days, 292.1492007104796 more than average
+Branch greenkeeper/es-check-5.0.0 moved away from main with 1393 days, 223.1492007104796 more than average
+Branch greenkeeper/eslint-5.0.0 moved away from main with 1544 days, 374.1492007104796 more than average
+Branch greenkeeper/eslint-5.0.1 moved away from main with 1541 days, 371.1492007104796 more than average
+Branch greenkeeper/eslint-5.14.0 moved away from main with 1306 days, 136.1492007104796 more than average
+Branch greenkeeper/eslint-5.14.1 moved away from main with 1303 days, 133.1492007104796 more than average
+Branch greenkeeper/eslint-5.15.0 moved away from main with 1292 days, 122.14920071047959 more than average
+Branch greenkeeper/eslint-5.15.1 moved away from main with 1289 days, 119.14920071047959 more than average
+Branch greenkeeper/eslint-5.15.2 moved away from main with 1278 days, 108.14920071047959 more than average
+Branch greenkeeper/eslint-5.15.3 moved away from main with 1275 days, 105.14920071047959 more than average
+Branch greenkeeper/eslint-5.16.0 moved away from main with 1263 days, 93.14920071047959 more than average
+Branch greenkeeper/eslint-6.0.0 moved away from main with 1180 days, 10.14920071047959 more than average
+Branch greenkeeper/eslint-6.0.1 moved away from main with 1177 days, 7.14920071047959 more than average
+Branch greenkeeper/husky-1.0.0 moved away from main with 1449 days, 279.1492007104796 more than average
+Branch greenkeeper/husky-1.0.1 moved away from main with 1448 days, 278.1492007104796 more than average
+Branch greenkeeper/husky-1.1.0 moved away from main with 1443 days, 273.1492007104796 more than average
+Branch greenkeeper/husky-1.1.1 moved away from main with 1440 days, 270.1492007104796 more than average
+Branch greenkeeper/husky-1.1.2 moved away from main with 1434 days, 264.1492007104796 more than average
+Branch greenkeeper/husky-1.1.3 moved away from main with 1412 days, 242.1492007104796 more than average
+Branch greenkeeper/husky-1.1.4 moved away from main with 1401 days, 231.1492007104796 more than average
+Branch greenkeeper/husky-1.2.0 moved away from main with 1393 days, 223.1492007104796 more than average
+Branch greenkeeper/husky-1.2.1 moved away from main with 1370 days, 200.1492007104796 more than average
+Branch greenkeeper/husky-1.3.0 moved away from main with 1365 days, 195.1492007104796 more than average
+Branch greenkeeper/husky-1.3.1 moved away from main with 1356 days, 186.1492007104796 more than average
+Branch greenkeeper/husky-2.0.0 moved away from main with 1238 days, 68.14920071047959 more than average
+Branch greenkeeper/husky-2.1.0 moved away from main with 1238 days, 68.14920071047959 more than average
+Branch greenkeeper/husky-2.2.0 moved away from main with 1231 days, 61.14920071047959 more than average
+Branch greenkeeper/husky-2.3.0 moved away from main with 1218 days, 48.14920071047959 more than average
+Branch greenkeeper/husky-2.4.0 moved away from main with 1196 days, 26.14920071047959 more than average
+Branch greenkeeper/husky-2.4.1 moved away from main with 1190 days, 20.14920071047959 more than average
+Branch greenkeeper/husky-2.5.0 moved away from main with 1178 days, 8.14920071047959 more than average
+Branch greenkeeper/husky-2.6.0 moved away from main with 1176 days, 6.14920071047959 more than average
+Branch greenkeeper/husky-2.7.0 moved away from main with 1174 days, 4.14920071047959 more than average
+Branch greenkeeper/husky-3.0.0 moved away from main with 1170 days, 0.14920071047959027 more than average
+Branch greenkeeper/monorepo.enzyme-1.1.0 moved away from main with 1481 days, 311.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.1.1 moved away from main with 1476 days, 306.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.3.0 moved away from main with 1481 days, 311.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.3.1 moved away from main with 1475 days, 305.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.4.0 moved away from main with 1471 days, 301.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.5.0 moved away from main with 1469 days, 299.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.6.0 moved away from main with 1481 days, 311.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.6.1 moved away from main with 1476 days, 306.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.7.0 moved away from main with 1470 days, 300.1492007104796 more than average
+Branch greenkeeper/monorepo.enzyme-1.8.0 moved away from main with 1469 days, 299.1492007104796 more than average
+Branch greenkeeper/monorepo.jest2-20190205153100 moved away from main with 1316 days, 146.1492007104796 more than average
+Branch greenkeeper/monorepo.jest2-20190205155838 moved away from main with 1316 days, 146.1492007104796 more than average
+Branch greenkeeper/monorepo.jest2-20190303134404 moved away from main with 1291 days, 121.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190305113025 moved away from main with 1289 days, 119.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190307131557 moved away from main with 1287 days, 117.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190307232106 moved away from main with 1286 days, 116.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190311171754 moved away from main with 1282 days, 112.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190312230445 moved away from main with 1281 days, 111.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190401223700 moved away from main with 1261 days, 91.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190403040550 moved away from main with 1260 days, 90.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190404012846 moved away from main with 1259 days, 89.14920071047959 more than average
+Branch greenkeeper/monorepo.jest2-20190505021050 moved away from main with 1228 days, 58.14920071047959 more than average
+Branch greenkeeper/monorepo.react-20181220030303 moved away from main with 1364 days, 194.1492007104796 more than average
+Branch greenkeeper/monorepo.react-20190206094457 moved away from main with 1316 days, 146.1492007104796 more than average
+Branch greenkeeper/monorepo.react-20190206220311 moved away from main with 1315 days, 145.1492007104796 more than average
+Branch greenkeeper/monorepo.react-20190214210357 moved away from main with 1307 days, 137.1492007104796 more than average
+Branch greenkeeper/monorepo.react-20190221195030 moved away from main with 1300 days, 130.1492007104796 more than average
+Branch greenkeeper/monorepo.react-20190306021138 moved away from main with 1288 days, 118.14920071047959 more than average
+Branch greenkeeper/monorepo.react-20190322183932 moved away from main with 1271 days, 101.14920071047959 more than average
+Branch greenkeeper/monorepo.react-20190329221150 moved away from main with 1264 days, 94.14920071047959 more than average
+Branch greenkeeper/monorepo.react-16.5.1 moved away from main with 1461 days, 291.1492007104796 more than average
+Branch greenkeeper/monorepo.react-16.5.2 moved away from main with 1456 days, 286.1492007104796 more than average
+Branch greenkeeper/monorepo.react-16.6.0 moved away from main with 1421 days, 251.1492007104796 more than average
+Branch greenkeeper/monorepo.react-16.6.1 moved away from main with 1407 days, 237.1492007104796 more than average
+Branch greenkeeper/monorepo.react-16.6.2 moved away from main with 1401 days, 231.1492007104796 more than average
+Branch greenkeeper/monorepo.react-16.6.3 moved away from main with 1401 days, 231.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20181212191737 moved away from main with 1371 days, 201.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20181213013432 moved away from main with 1371 days, 201.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20181225211606 moved away from main with 1358 days, 188.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20190109072236 moved away from main with 1344 days, 174.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20190109081616 moved away from main with 1344 days, 174.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20190117142015 moved away from main with 1336 days, 166.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20190218100337 moved away from main with 1304 days, 134.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20190221080520 moved away from main with 1301 days, 131.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-20190305083811 moved away from main with 1289 days, 119.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190308155427 moved away from main with 1285 days, 115.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190308171124 moved away from main with 1285 days, 115.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190317051629 moved away from main with 1277 days, 107.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190318112701 moved away from main with 1276 days, 106.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190319141634 moved away from main with 1275 days, 105.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190324074016 moved away from main with 1270 days, 100.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190324082905 moved away from main with 1270 days, 100.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190324231528 moved away from main with 1269 days, 99.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190401045623 moved away from main with 1262 days, 92.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190414021659 moved away from main with 1249 days, 79.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190415072725 moved away from main with 1248 days, 78.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190415080728 moved away from main with 1248 days, 78.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190417001249 moved away from main with 1246 days, 76.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190418061803 moved away from main with 1245 days, 75.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190428032333 moved away from main with 1235 days, 65.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190605083046 moved away from main with 1197 days, 27.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190605084546 moved away from main with 1197 days, 27.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190606214151 moved away from main with 1195 days, 25.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190613073454 moved away from main with 1189 days, 19.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190613073505 moved away from main with 1189 days, 19.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190613222058 moved away from main with 1188 days, 18.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190613234149 moved away from main with 1188 days, 18.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190613234211 moved away from main with 1188 days, 18.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190613234705 moved away from main with 1188 days, 18.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190613235354 moved away from main with 1188 days, 18.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190614023640 moved away from main with 1188 days, 18.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190614124240 moved away from main with 1188 days, 18.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-20190620004509 moved away from main with 1182 days, 12.14920071047959 more than average
+Branch greenkeeper/monorepo.storybook-4.0.0-alpha.11 moved away from main with 1534 days, 364.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.0 moved away from main with 1416 days, 246.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.3 moved away from main with 1408 days, 238.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.4 moved away from main with 1408 days, 238.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.6 moved away from main with 1401 days, 231.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.7 moved away from main with 1399 days, 229.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.8 moved away from main with 1393 days, 223.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.9 moved away from main with 1388 days, 218.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.10 moved away from main with 1382 days, 212.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.11 moved away from main with 1381 days, 211.1492007104796 more than average
+Branch greenkeeper/monorepo.storybook-4.0.12 moved away from main with 1378 days, 208.1492007104796 more than average
+Branch greenkeeper/react-dev-utils-6.0.3 moved away from main with 1443 days, 273.1492007104796 more than average
+Branch greenkeeper/react-dev-utils-6.0.4 moved away from main with 1441 days, 271.1492007104796 more than average
+Branch greenkeeper/react-dev-utils-6.0.5 moved away from main with 1430 days, 260.1492007104796 more than average
+Branch greenkeeper/react-dev-utils-6.1.0 moved away from main with 1415 days, 245.1492007104796 more than average
+Branch greenkeeper/react-dev-utils-6.1.1 moved away from main with 1413 days, 243.1492007104796 more than average
+Branch greenkeeper/react-dev-utils-7.0.0 moved away from main with 1360 days, 190.1492007104796 more than average
+Branch greenkeeper/react-dev-utils-7.0.3 moved away from main with 1310 days, 140.1492007104796 more than average
+Branch greenkeeper/react-dev-utils-7.0.4 moved away from main with 1287 days, 117.14920071047959 more than average
+Branch greenkeeper/react-dev-utils-7.0.5 moved away from main with 1287 days, 117.14920071047959 more than average
+Branch greenkeeper/react-dev-utils-8.0.0 moved away from main with 1287 days, 117.14920071047959 more than average
+Branch greenkeeper/react-dev-utils-9.0.0 moved away from main with 1240 days, 70.14920071047959 more than average
+Branch greenkeeper/react-dev-utils-9.0.1 moved away from main with 1224 days, 54.14920071047959 more than average
+Branch greenkeeper/react-pin-16.5.0 moved away from main with 1461 days, 291.1492007104796 more than average
+Branch greenkeeper/semantic-release-15.12.4 moved away from main with 1380 days, 210.1492007104796 more than average
+Branch greenkeeper/semantic-release-15.12.5 moved away from main with 1372 days, 202.1492007104796 more than average
+Branch greenkeeper/semantic-release-15.13.0 moved away from main with 1369 days, 199.1492007104796 more than average
+Branch greenkeeper/semantic-release-15.13.1 moved away from main with 1367 days, 197.1492007104796 more than average
+Branch greenkeeper/semantic-release-15.13.2 moved away from main with 1356 days, 186.1492007104796 more than average
+Branch greenkeeper/semantic-release-15.13.3 moved away from main with 1342 days, 172.1492007104796 more than average
+Branch greenkeeper/semantic-release-15.13.12 moved away from main with 1224 days, 54.14920071047959 more than average
+Branch greenkeeper/semantic-release-15.13.16 moved away from main with 1189 days, 19.14920071047959 more than average
+Branch greenkeeper/semantic-release-15.13.17 moved away from main with 1176 days, 6.14920071047959 more than average
+Branch greenkeeper/semantic-release-15.13.18 moved away from main with 1175 days, 5.14920071047959 more than average
+Branch greenkeeper/semantic-release-pin-15.12.3 moved away from main with 1380 days, 210.1492007104796 more than average
+Branch greenkeeper/@storybook/storybook-deployer-2.4.0 moved away from main with 1381 days, 211.1492007104796 more than average
+Branch greenkeeper/@storybook/storybook-deployer-2.5.0 moved away from main with 1381 days, 211.1492007104796 more than average
+Branch greenkeeper/@storybook/storybook-deployer-2.5.1 moved away from main with 1381 days, 211.1492007104796 more than average
+Branch greenkeeper/@storybook/storybook-deployer-2.5.2 moved away from main with 1381 days, 211.1492007104796 more than average
+Branch greenkeeper/@storybook/storybook-deployer-2.7.0 moved away from main with 1380 days, 210.1492007104796 more than average
+Branch greenkeeper/@storybook/storybook-deployer-2.8.0 moved away from main with 1380 days, 210.1492007104796 more than average
+Branch greenkeeper/@storybook/storybook-deployer-2.8.1 moved away from main with 1380 days, 210.1492007104796 more than average
+Branch greenkeeper/@storybook/storybook-deployer-pin-2.3.0 moved away from main with 1381 days, 211.1492007104796 more than average
+Branch greenkeeper/style-loader-0.22.0 moved away from main with 1499 days, 329.1492007104796 more than average
+Branch greenkeeper/style-loader-0.22.1 moved away from main with 1497 days, 327.1492007104796 more than average
+Branch greenkeeper/style-loader-0.23.0 moved away from main with 1478 days, 308.1492007104796 more than average
+Branch greenkeeper/style-loader-0.23.1 moved away from main with 1437 days, 267.1492007104796 more than average
+Branch greenkeeper/travis-deploy-once-5.0.9 moved away from main with 1447 days, 277.1492007104796 more than average
+Branch greenkeeper/universal-cookie-3.0.0 moved away from main with 1489 days, 319.1492007104796 more than average
+Branch greenkeeper/universal-cookie-3.0.1 moved away from main with 1487 days, 317.1492007104796 more than average
+Branch greenkeeper/universal-cookie-3.0.3 moved away from main with 1486 days, 316.1492007104796 more than average
+Branch greenkeeper/universal-cookie-3.0.4 moved away from main with 1483 days, 313.1492007104796 more than average
+Branch greenkeeper/universal-cookie-3.0.6 moved away from main with 1387 days, 217.1492007104796 more than average
+Branch greenkeeper/universal-cookie-3.0.7 moved away from main with 1385 days, 215.1492007104796 more than average
+Branch greenkeeper/universal-cookie-3.1.0 moved away from main with 1242 days, 72.14920071047959 more than average
+Branch greenkeeper/universal-cookie-4.0.0 moved away from main with 1225 days, 55.14920071047959 more than average
+Branch greenkeeper/webpack-4.17.3 moved away from main with 1465 days, 295.1492007104796 more than average
+Branch greenkeeper/webpack-4.18.0 moved away from main with 1464 days, 294.1492007104796 more than average
+Branch greenkeeper/webpack-4.18.1 moved away from main with 1462 days, 292.1492007104796 more than average
+Branch greenkeeper/webpack-4.19.0 moved away from main with 1461 days, 291.1492007104796 more than average
+Branch greenkeeper/webpack-4.19.1 moved away from main with 1457 days, 287.1492007104796 more than average
+Branch greenkeeper/webpack-4.20.0 moved away from main with 1450 days, 280.1492007104796 more than average
+Branch greenkeeper/webpack-4.20.1 moved away from main with 1450 days, 280.1492007104796 more than average
+Branch greenkeeper/webpack-4.20.2 moved away from main with 1449 days, 279.1492007104796 more than average
+Branch greenkeeper/webpack-4.21.0 moved away from main with 1427 days, 257.1492007104796 more than average
+Branch greenkeeper/webpack-4.22.0 moved away from main with 1424 days, 254.1492007104796 more than average
+Branch greenkeeper/webpack-4.23.0 moved away from main with 1420 days, 250.1492007104796 more than average
+Branch greenkeeper/webpack-4.23.1 moved away from main with 1420 days, 250.1492007104796 more than average
+Branch greenkeeper/webpack-4.25.0 moved away from main with 1409 days, 239.1492007104796 more than average
+Branch greenkeeper/webpack-4.25.1 moved away from main with 1408 days, 238.1492007104796 more than average
+Branch greenkeeper/webpack-4.26.0 moved away from main with 1395 days, 225.1492007104796 more than average
+Branch greenkeeper/webpack-4.26.1 moved away from main with 1388 days, 218.1492007104796 more than average
+Branch greenkeeper/webpack-4.27.0 moved away from main with 1380 days, 210.1492007104796 more than average
+Branch greenkeeper/webpack-4.27.1 moved away from main with 1378 days, 208.1492007104796 more than average
+Branch greenkeeper/webpack-4.28.0 moved away from main with 1365 days, 195.1492007104796 more than average
+Branch greenkeeper/webpack-4.28.1 moved away from main with 1363 days, 193.1492007104796 more than average
+Branch greenkeeper/webpack-4.28.2 moved away from main with 1362 days, 192.1492007104796 more than average
+Branch greenkeeper/webpack-4.28.3 moved away from main with 1355 days, 185.1492007104796 more than average
+Branch greenkeeper/webpack-4.28.4 moved away from main with 1342 days, 172.1492007104796 more than average
+Branch greenkeeper/webpack-4.29.1 moved away from main with 1317 days, 147.1492007104796 more than average
+Branch greenkeeper/webpack-4.29.2 moved away from main with 1316 days, 146.1492007104796 more than average
+Branch greenkeeper/webpack-4.29.3 moved away from main with 1315 days, 145.1492007104796 more than average
+Branch greenkeeper/webpack-4.29.4 moved away from main with 1306 days, 136.1492007104796 more than average
+Branch greenkeeper/webpack-4.29.5 moved away from main with 1304 days, 134.1492007104796 more than average
+Branch greenkeeper/webpack-4.29.6 moved away from main with 1294 days, 124.14920071047959 more than average
+Branch greenkeeper/webpack-4.30.0 moved away from main with 1250 days, 80.14920071047959 more than average
+Branch greenkeeper/webpack-4.31.0 moved away from main with 1224 days, 54.14920071047959 more than average
+Branch greenkeeper/webpack-4.32.0 moved away from main with 1213 days, 43.14920071047959 more than average
+Branch greenkeeper/webpack-4.32.1 moved away from main with 1211 days, 41.14920071047959 more than average
+Branch greenkeeper/webpack-4.32.2 moved away from main with 1210 days, 40.14920071047959 more than average
+Branch greenkeeper/webpack-4.33.0 moved away from main with 1197 days, 27.14920071047959 more than average
+Branch greenkeeper/webpack-4.34.0 moved away from main with 1189 days, 19.14920071047959 more than average
+Branch greenkeeper/webpack-4.35.0 moved away from main with 1182 days, 12.14920071047959 more than average
+Branch greenkeeper/webpack-4.35.1 moved away from main with 1171 days, 1.1492007104795903 more than average
+Branch greenkeeper/webpack-4.35.2 moved away from main with 1171 days, 1.1492007104795903 more than average
+Branch greenkeeper/webpack-build-notifier-1.0.0 moved away from main with 1246 days, 76.14920071047959 more than average
+Branch greenkeeper/webpack-build-notifier-1.0.1 moved away from main with 1246 days, 76.14920071047959 more than average
+Branch greenkeeper/webpack-build-notifier-1.0.2 moved away from main with 1229 days, 59.14920071047959 more than average
+Branch greenkeeper/webpack-build-notifier-1.0.3 moved away from main with 1197 days, 27.14920071047959 more than average
+Branch greenkeeper/webpack-cli-3.0.0 moved away from main with 1565 days, 395.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.0.1 moved away from main with 1564 days, 394.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.0.2 moved away from main with 1562 days, 392.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.0.3 moved away from main with 1560 days, 390.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.0.4 moved away from main with 1555 days, 385.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.0.5 moved away from main with 1553 days, 383.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.0.6 moved away from main with 1553 days, 383.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.0.7 moved away from main with 1552 days, 382.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.0.8 moved away from main with 1551 days, 381.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.1.0 moved away from main with 1519 days, 349.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.1.1 moved away from main with 1452 days, 282.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.1.2 moved away from main with 1445 days, 275.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.2.0 moved away from main with 1350 days, 180.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.2.2 moved away from main with 1317 days, 147.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.2.3 moved away from main with 1317 days, 147.1492007104796 more than average
+Branch greenkeeper/webpack-cli-3.3.0 moved away from main with 1278 days, 108.14920071047959 more than average
+Branch greenkeeper/webpack-cli-3.3.1 moved away from main with 1241 days, 71.14920071047959 more than average
+Branch greenkeeper/webpack-cli-3.3.2 moved away from main with 1228 days, 58.14920071047959 more than average
+Branch greenkeeper/webpack-cli-3.3.3 moved away from main with 1195 days, 25.14920071047959 more than average
+Branch greenkeeper/webpack-cli-3.3.4 moved away from main with 1191 days, 21.14920071047959 more than average
+Branch greenkeeper/webpack-cli-3.3.5 moved away from main with 1179 days, 9.14920071047959 more than average
+Branch greenkeeper/webpack-pin-4.17.2 moved away from main with 1464 days, 294.1492007104796 more than average
+Branch turn-on-semantic-release moved away from main with 1581 days, 411.1492007104796 more than average
+MEDIUM SEVERITY
+Branch greenkeeper/@commitlint/cli-7.0.0, 1564 days
+Branch greenkeeper/@commitlint/cli-7.1.0, 1477 days
+Branch greenkeeper/@commitlint/cli-7.1.1, 1477 days
+Branch greenkeeper/@commitlint/cli-7.1.2, 1470 days
+Branch greenkeeper/@commitlint/cli-7.2.0, 1440 days
+Branch greenkeeper/@commitlint/cli-7.2.1, 1433 days
+Branch greenkeeper/@commitlint/config-angular-7.0.0, 1564 days
+Branch greenkeeper/@commitlint/config-angular-7.0.1, 1564 days
+Branch greenkeeper/@commitlint/config-angular-7.1.1, 1477 days
+Branch greenkeeper/@commitlint/config-angular-7.1.2, 1470 days
+Branch greenkeeper/@commitlint/prompt-7.0.0, 1564 days
+Branch greenkeeper/@commitlint/prompt-7.1.1, 1477 days
+Branch greenkeeper/@commitlint/prompt-7.1.2, 1470 days
+Branch greenkeeper/@commitlint/prompt-7.2.0, 1440 days
+Branch greenkeeper/@commitlint/prompt-7.2.1, 1433 days
+Branch greenkeeper/@commitlint/prompt-cli-7.0.0, 1564 days
+Branch greenkeeper/@commitlint/prompt-cli-7.1.1, 1477 days
+Branch greenkeeper/@commitlint/prompt-cli-7.1.2, 1470 days
+Branch greenkeeper/@commitlint/prompt-cli-7.2.0, 1440 days
+Branch greenkeeper/@commitlint/prompt-cli-7.2.1, 1433 days
+Branch greenkeeper/@edx/paragon-3.4.10, 1447 days
+Branch greenkeeper/@edx/paragon-3.5.0, 1434 days
+Branch greenkeeper/@edx/paragon-3.5.1, 1433 days
+Branch greenkeeper/@edx/paragon-3.5.2, 1429 days
+Branch greenkeeper/@edx/paragon-3.6.0, 1415 days
+Branch greenkeeper/@edx/paragon-3.7.0, 1411 days
+Branch greenkeeper/@edx/paragon-3.7.1, 1399 days
+Branch greenkeeper/@edx/paragon-3.7.2, 1387 days
+Branch greenkeeper/@edx/paragon-3.7.3, 1383 days
+Branch greenkeeper/@edx/paragon-3.7.4, 1379 days
+Branch greenkeeper/@edx/paragon-3.8.0, 1372 days
+Branch greenkeeper/@edx/paragon-pin-3.4.9, 1447 days
+Branch greenkeeper/es-check-3.0.0, 1464 days
+Branch greenkeeper/es-check-4.0.0, 1462 days
+Branch greenkeeper/es-check-5.0.0, 1393 days
+Branch greenkeeper/eslint-5.0.0, 1544 days
+Branch greenkeeper/eslint-5.0.1, 1541 days
+Branch greenkeeper/husky-1.0.0, 1449 days
+Branch greenkeeper/husky-1.0.1, 1448 days
+Branch greenkeeper/husky-1.1.0, 1443 days
+Branch greenkeeper/husky-1.1.1, 1440 days
+Branch greenkeeper/husky-1.1.2, 1434 days
+Branch greenkeeper/husky-1.1.3, 1412 days
+Branch greenkeeper/husky-1.1.4, 1401 days
+Branch greenkeeper/husky-1.2.0, 1393 days
+Branch greenkeeper/husky-1.2.1, 1370 days
+Branch greenkeeper/husky-1.3.0, 1365 days
+Branch greenkeeper/monorepo.enzyme-1.1.0, 1481 days
+Branch greenkeeper/monorepo.enzyme-1.1.1, 1476 days
+Branch greenkeeper/monorepo.enzyme-1.3.0, 1481 days
+Branch greenkeeper/monorepo.enzyme-1.3.1, 1475 days
+Branch greenkeeper/monorepo.enzyme-1.4.0, 1471 days
+Branch greenkeeper/monorepo.enzyme-1.5.0, 1469 days
+Branch greenkeeper/monorepo.enzyme-1.6.0, 1481 days
+Branch greenkeeper/monorepo.enzyme-1.6.1, 1476 days
+Branch greenkeeper/monorepo.enzyme-1.7.0, 1470 days
+Branch greenkeeper/monorepo.enzyme-1.8.0, 1469 days
+Branch greenkeeper/monorepo.react-20181220030303, 1364 days
+Branch greenkeeper/monorepo.react-16.5.1, 1461 days
+Branch greenkeeper/monorepo.react-16.5.2, 1456 days
+Branch greenkeeper/monorepo.react-16.6.0, 1421 days
+Branch greenkeeper/monorepo.react-16.6.1, 1407 days
+Branch greenkeeper/monorepo.react-16.6.2, 1401 days
+Branch greenkeeper/monorepo.react-16.6.3, 1401 days
+Branch greenkeeper/monorepo.storybook-20181212191737, 1371 days
+Branch greenkeeper/monorepo.storybook-20181213013432, 1371 days
+Branch greenkeeper/monorepo.storybook-4.0.0-alpha.11, 1534 days
+Branch greenkeeper/monorepo.storybook-4.0.0, 1416 days
+Branch greenkeeper/monorepo.storybook-4.0.3, 1408 days
+Branch greenkeeper/monorepo.storybook-4.0.4, 1408 days
+Branch greenkeeper/monorepo.storybook-4.0.6, 1401 days
+Branch greenkeeper/monorepo.storybook-4.0.7, 1399 days
+Branch greenkeeper/monorepo.storybook-4.0.8, 1393 days
+Branch greenkeeper/monorepo.storybook-4.0.9, 1388 days
+Branch greenkeeper/monorepo.storybook-4.0.10, 1382 days
+Branch greenkeeper/monorepo.storybook-4.0.11, 1381 days
+Branch greenkeeper/monorepo.storybook-4.0.12, 1378 days
+Branch greenkeeper/react-dev-utils-6.0.3, 1443 days
+Branch greenkeeper/react-dev-utils-6.0.4, 1441 days
+Branch greenkeeper/react-dev-utils-6.0.5, 1430 days
+Branch greenkeeper/react-dev-utils-6.1.0, 1415 days
+Branch greenkeeper/react-dev-utils-6.1.1, 1413 days
+Branch greenkeeper/react-pin-16.5.0, 1461 days
+Branch greenkeeper/semantic-release-15.12.4, 1380 days
+Branch greenkeeper/semantic-release-15.12.5, 1372 days
+Branch greenkeeper/semantic-release-15.13.0, 1369 days
+Branch greenkeeper/semantic-release-15.13.1, 1367 days
+Branch greenkeeper/semantic-release-pin-15.12.3, 1380 days
+Branch greenkeeper/@storybook/storybook-deployer-2.4.0, 1381 days
+Branch greenkeeper/@storybook/storybook-deployer-2.5.0, 1381 days
+Branch greenkeeper/@storybook/storybook-deployer-2.5.1, 1381 days
+Branch greenkeeper/@storybook/storybook-deployer-2.5.2, 1381 days
+Branch greenkeeper/@storybook/storybook-deployer-2.7.0, 1380 days
+Branch greenkeeper/@storybook/storybook-deployer-2.8.0, 1380 days
+Branch greenkeeper/@storybook/storybook-deployer-2.8.1, 1380 days
+Branch greenkeeper/@storybook/storybook-deployer-pin-2.3.0, 1381 days
+Branch greenkeeper/style-loader-0.22.0, 1499 days
+Branch greenkeeper/style-loader-0.22.1, 1497 days
+Branch greenkeeper/style-loader-0.23.0, 1478 days
+Branch greenkeeper/style-loader-0.23.1, 1437 days
+Branch greenkeeper/travis-deploy-once-5.0.9, 1447 days
+Branch greenkeeper/universal-cookie-3.0.0, 1489 days
+Branch greenkeeper/universal-cookie-3.0.1, 1487 days
+Branch greenkeeper/universal-cookie-3.0.3, 1486 days
+Branch greenkeeper/universal-cookie-3.0.4, 1483 days
+Branch greenkeeper/universal-cookie-3.0.6, 1387 days
+Branch greenkeeper/universal-cookie-3.0.7, 1385 days
+Branch greenkeeper/webpack-4.17.3, 1465 days
+Branch greenkeeper/webpack-4.18.0, 1464 days
+Branch greenkeeper/webpack-4.18.1, 1462 days
+Branch greenkeeper/webpack-4.19.0, 1461 days
+Branch greenkeeper/webpack-4.19.1, 1457 days
+Branch greenkeeper/webpack-4.20.0, 1450 days
+Branch greenkeeper/webpack-4.20.1, 1450 days
+Branch greenkeeper/webpack-4.20.2, 1449 days
+Branch greenkeeper/webpack-4.21.0, 1427 days
+Branch greenkeeper/webpack-4.22.0, 1424 days
+Branch greenkeeper/webpack-4.23.0, 1420 days
+Branch greenkeeper/webpack-4.23.1, 1420 days
+Branch greenkeeper/webpack-4.25.0, 1409 days
+Branch greenkeeper/webpack-4.25.1, 1408 days
+Branch greenkeeper/webpack-4.26.0, 1395 days
+Branch greenkeeper/webpack-4.26.1, 1388 days
+Branch greenkeeper/webpack-4.27.0, 1380 days
+Branch greenkeeper/webpack-4.27.1, 1378 days
+Branch greenkeeper/webpack-4.28.0, 1365 days
+Branch greenkeeper/webpack-4.28.1, 1363 days
+Branch greenkeeper/webpack-cli-3.0.0, 1565 days
+Branch greenkeeper/webpack-cli-3.0.1, 1564 days
+Branch greenkeeper/webpack-cli-3.0.2, 1562 days
+Branch greenkeeper/webpack-cli-3.0.3, 1560 days
+Branch greenkeeper/webpack-cli-3.0.4, 1555 days
+Branch greenkeeper/webpack-cli-3.0.5, 1553 days
+Branch greenkeeper/webpack-cli-3.0.6, 1553 days
+Branch greenkeeper/webpack-cli-3.0.7, 1552 days
+Branch greenkeeper/webpack-cli-3.0.8, 1551 days
+Branch greenkeeper/webpack-cli-3.1.0, 1519 days
+Branch greenkeeper/webpack-cli-3.1.1, 1452 days
+Branch greenkeeper/webpack-cli-3.1.2, 1445 days
+Branch greenkeeper/webpack-pin-4.17.2, 1464 days
+Branch turn-on-semantic-release, 1581 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

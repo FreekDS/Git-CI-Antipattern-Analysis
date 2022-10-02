@@ -1,0 +1,81 @@
+{
+  "slow_build": {
+    "pattern-hafuhafu": {
+      "data": {
+        "2021-04-19T20:02:39Z": 58666.666666666664,
+        "2021-05-07T02:44:36Z": 57750.0,
+        "2021-05-27T07:31:31Z": 57666.666666666664,
+        "2021-06-04T22:22:13Z": 56666.666666666664
+      },
+      "tool": "TravisCI",
+      "total avg": 57687.49999999999,
+      "quartiles": {
+        "q1": 57416.666666666664,
+        "q3": 57979.166666666664,
+        "iqr": 562.5
+      },
+      "classification": {
+        "high_severity": {
+          "200": 60000,
+          "201": 60000,
+          "203": 59000,
+          "204": 60000,
+          "206": 59000,
+          "209": 61000
+        },
+        "medium_severity": {
+          "198": 58000,
+          "199": 58000,
+          "213": 58000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/acorn-6.4.2": 0,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "dependabot/npm_and_yarn/ini-1.3.7": 0,
+      "dependabot/npm_and_yarn/ini-1.3.8": 0,
+      "master": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/acorn-6.4.2": 497,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 436,
+      "dependabot/npm_and_yarn/ini-1.3.7": 586,
+      "dependabot/npm_and_yarn/ini-1.3.8": 497,
+      "master": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/acorn-6.4.2": 0,
+      "dependabot/npm_and_yarn/hosted-git-info-2.8.9": 0,
+      "dependabot/npm_and_yarn/ini-1.3.7": 0,
+      "dependabot/npm_and_yarn/ini-1.3.8": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/ini-1.3.7"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "pattern-hafuhafu": {
+      "data": [],
+      "release_build_count": 11
+    }
+  },
+  "skip_failing_tests": {}
+}

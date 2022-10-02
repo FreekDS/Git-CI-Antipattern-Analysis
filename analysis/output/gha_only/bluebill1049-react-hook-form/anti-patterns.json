@@ -1,0 +1,728 @@
+{
+  "slow_build": {
+    "CodeQL": {
+      "data": {
+        "2021-04-17T10:33:12Z": 186535.7142857143,
+        "2021-04-24T11:03:30Z": 1133364.8648648649,
+        "2021-05-02T07:27:55Z": 210540.81632653062,
+        "2021-05-09T08:45:43Z": 474686.7469879518,
+        "2021-05-16T09:03:46Z": 3622957.4468085105,
+        "2021-05-23T10:15:00Z": 623966.9421487603,
+        "2021-05-30T10:21:07Z": 169550.5617977528,
+        "2021-06-06T10:36:06Z": 167138.88888888888,
+        "2021-06-15T03:00:56Z": 336296.2962962963,
+        "2021-06-22T08:26:34Z": 551718.75,
+        "2021-06-29T08:35:09Z": 174723.40425531915,
+        "2021-07-06T11:10:59Z": 164166.66666666666
+      },
+      "tool": "Github Actions",
+      "total avg": 651303.924943938,
+      "quartiles": {
+        "q1": 173430.19364092755,
+        "q3": 569780.7980371901,
+        "iqr": 396350.60439626256
+      },
+      "classification": {
+        "high_severity": {
+          "1769": 2622000,
+          "1770": 1807000,
+          "1878": 28757000,
+          "1913": 16948000,
+          "1924": 25473000,
+          "1932": 2786000,
+          "2074": 20580000,
+          "2113": 4037000,
+          "2115": 1709000,
+          "2116": 41595000,
+          "2117": 21045000,
+          "2118": 69132000,
+          "2131": 29480000,
+          "2171": 44153000,
+          "2235": 11470000,
+          "2495": 4952000,
+          "2499": 12415000
+        },
+        "medium_severity": {
+          "2003": 1069000,
+          "2114": 806000
+        }
+      }
+    },
+    "E2E Test": {
+      "data": {
+        "2021-04-08T07:39:03Z": 702830.985915493,
+        "2021-04-15T09:50:49Z": 371317.64705882355,
+        "2021-04-22T23:44:38Z": 1105580.6451612904,
+        "2021-04-30T07:24:32Z": 1211382.3529411764,
+        "2021-05-07T07:32:22Z": 584637.1681415929,
+        "2021-05-15T11:15:26Z": 2650511.6279069767,
+        "2021-05-23T10:15:00Z": 1098880.9523809524,
+        "2021-05-30T10:21:07Z": 429057.97101449274,
+        "2021-06-06T10:36:06Z": 421290.32258064515,
+        "2021-06-15T03:00:56Z": 721294.1176470588,
+        "2021-06-22T08:26:33Z": 911080.0,
+        "2021-06-29T08:35:09Z": 419085.71428571426,
+        "2021-07-06T11:10:59Z": 459666.6666666667
+      },
+      "tool": "Github Actions",
+      "total avg": 852816.6285923757,
+      "quartiles": {
+        "q1": 429057.97101449274,
+        "q3": 1098880.9523809524,
+        "iqr": 669822.9813664597
+      },
+      "classification": {
+        "high_severity": {
+          "2464": 22438000,
+          "2551": 2845000,
+          "2630": 28971000,
+          "2656": 17193000,
+          "2664": 25715000,
+          "2670": 2943000,
+          "2797": 20902000,
+          "2825": 4048000,
+          "2827": 41655000,
+          "2828": 21035000,
+          "2839": 29801000,
+          "2859": 44408000,
+          "2903": 11804000,
+          "3101": 5226000,
+          "3104": 12752000
+        },
+        "medium_severity": {
+          "2552": 2061000
+        }
+      }
+    },
+    "Unit Test / Lint": {
+      "data": {
+        "2021-04-15T10:27:25Z": 246730.15873015873,
+        "2021-04-22T23:44:38Z": 961968.253968254,
+        "2021-04-30T07:24:32Z": 1080529.4117647058,
+        "2021-05-07T07:32:22Z": 588123.8938053098,
+        "2021-05-15T11:15:26Z": 3498571.4285714286,
+        "2021-05-23T10:15:00Z": 909833.3333333334,
+        "2021-05-30T10:21:07Z": 236478.26086956522,
+        "2021-06-06T10:36:06Z": 264193.5483870968,
+        "2021-06-15T03:00:56Z": 540000.0,
+        "2021-06-22T08:26:33Z": 695840.0,
+        "2021-06-29T08:35:09Z": 212685.7142857143,
+        "2021-07-06T11:10:59Z": 259333.33333333334
+      },
+      "tool": "Github Actions",
+      "total avg": 791190.6114207418,
+      "quartiles": {
+        "q1": 256182.5396825397,
+        "q3": 922867.0634920635,
+        "iqr": 666684.5238095238
+      },
+      "classification": {
+        "high_severity": {
+          "25": 2648000,
+          "26": 1925000,
+          "104": 28844000,
+          "130": 17086000,
+          "138": 25569000,
+          "144": 2735000,
+          "266": 21626000,
+          "271": 20500000,
+          "299": 4053000,
+          "300": 41570000,
+          "301": 41566000,
+          "302": 21021000,
+          "313": 29574000,
+          "333": 44244000,
+          "377": 11612000,
+          "575": 4998000,
+          "578": 12500000
+        },
+        "medium_severity": {}
+      }
+    },
+    "Package Size": {
+      "data": {
+        "2021-04-08T07:39:03Z": 216464.78873239437,
+        "2021-04-15T09:50:50Z": 223058.82352941178,
+        "2021-04-22T23:44:38Z": 925206.3492063492,
+        "2021-04-30T07:24:32Z": 1038147.0588235294,
+        "2021-05-07T07:32:22Z": 385415.9292035398,
+        "2021-05-15T11:15:26Z": 2427627.906976744,
+        "2021-05-23T10:15:00Z": 860857.1428571428,
+        "2021-05-30T10:21:07Z": 194434.78260869565,
+        "2021-06-06T10:36:06Z": 199870.96774193548,
+        "2021-06-15T03:00:56Z": 485470.5882352941,
+        "2021-06-22T08:26:33Z": 714600.0,
+        "2021-06-29T08:35:09Z": 215685.7142857143,
+        "2021-07-06T11:10:59Z": 192333.33333333334
+      },
+      "tool": "Github Actions",
+      "total avg": 621474.8758103142,
+      "quartiles": {
+        "q1": 215685.7142857143,
+        "q3": 860857.1428571428,
+        "iqr": 645171.4285714285
+      },
+      "classification": {
+        "high_severity": {
+          "25": 2676000,
+          "26": 1841000,
+          "104": 28791000,
+          "130": 16970000,
+          "138": 25485000,
+          "144": 2721000,
+          "271": 20588000,
+          "299": 4058000,
+          "301": 41561000,
+          "302": 21037000,
+          "313": 29474000,
+          "333": 44165000,
+          "377": 11517000,
+          "575": 4955000,
+          "578": 12446000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/unitTest.yml": {
+      "data": {
+        "2021-04-08T07:38:02Z": 0.0,
+        "2021-04-15T07:45:10Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/codeql-analysis.yml": {
+      "data": {
+        "2021-04-08T07:38:01Z": 0.0,
+        "2021-04-15T07:45:09Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/build-test.yml": {
+      "data": {
+        "2021-04-17T10:35:26Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "bugfix/8945/get-proxy-form-state-is-valid": 0,
+      "ci/add-react-16-17-job": 0,
+      "ci/pr-build": 0,
+      "close-3950": 0,
+      "close-7279": 0,
+      "close-7472": 0,
+      "close-8596": 0,
+      "close-8619": 0,
+      "dependabot/npm_and_yarn/app/vite-2.9.13": 0,
+      "dx-improvement-control-object": 0,
+      "feature/aysnc-defaultValues": 0,
+      "feature/batch-state-update": 0,
+      "feature/context-field-array": 0,
+      "feature/include-defaultValues-in-formState": 0,
+      "feature/reset-callback-syntax": 0,
+      "fix/Path-type": 0,
+      "fix-7594": 0,
+      "fix-8351": 0,
+      "form-novalidate-with-native-valiation-fallback": 0,
+      "formstate-snapshot": 0,
+      "master": 0,
+      "react-18": 0,
+      "support-return-errors-values-handleSubmit": 0,
+      "typescript-4.7": 0,
+      "v6": 0,
+      "v8-state-useEffect": 0
+    },
+    "branch deviation": {
+      "bugfix/8945/get-proxy-form-state-is-valid": 15,
+      "ci/add-react-16-17-job": 79,
+      "ci/pr-build": 135,
+      "close-3950": 213,
+      "close-7279": 179,
+      "close-7472": 126,
+      "close-8596": 74,
+      "close-8619": 69,
+      "dependabot/npm_and_yarn/app/vite-2.9.13": 3,
+      "dx-improvement-control-object": 298,
+      "feature/aysnc-defaultValues": -5,
+      "feature/batch-state-update": 259,
+      "feature/context-field-array": 214,
+      "feature/include-defaultValues-in-formState": -4,
+      "feature/reset-callback-syntax": -5,
+      "fix/Path-type": 281,
+      "fix-7594": 235,
+      "fix-8351": 123,
+      "form-novalidate-with-native-valiation-fallback": 283,
+      "formstate-snapshot": 230,
+      "master": 0,
+      "react-18": 115,
+      "support-return-errors-values-handleSubmit": 152,
+      "typescript-4.7": 85,
+      "v6": 462,
+      "v8-state-useEffect": 135
+    },
+    "unsynced activity": {
+      "bugfix/8945/get-proxy-form-state-is-valid": 0,
+      "ci/add-react-16-17-job": 0,
+      "ci/pr-build": 0,
+      "close-3950": 0,
+      "close-7279": 0,
+      "close-7472": 0,
+      "close-8596": 0,
+      "close-8619": 0,
+      "dependabot/npm_and_yarn/app/vite-2.9.13": 0,
+      "dx-improvement-control-object": 0,
+      "feature/aysnc-defaultValues": 0,
+      "feature/batch-state-update": 0,
+      "feature/context-field-array": 0,
+      "feature/include-defaultValues-in-formState": 0,
+      "feature/reset-callback-syntax": 0,
+      "fix/Path-type": 0,
+      "fix-7594": 0,
+      "fix-8351": 0,
+      "form-novalidate-with-native-valiation-fallback": 0,
+      "formstate-snapshot": 0,
+      "master": 0,
+      "react-18": 0,
+      "support-return-errors-values-handleSubmit": 0,
+      "typescript-4.7": 0,
+      "v6": 0,
+      "v8-state-useEffect": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dx-improvement-control-object",
+          "feature/batch-state-update",
+          "fix/Path-type",
+          "fix-7594",
+          "form-novalidate-with-native-valiation-fallback",
+          "formstate-snapshot"
+        ],
+        "high_severity": [
+          "v6"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 7
+  },
+  "broken_release": {
+    "CodeQL": {
+      "data": [],
+      "release_build_count": 203
+    },
+    "E2E Test": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "Unit Test / Lint": {
+      "data": [],
+      "release_build_count": 1
+    },
+    "Package Size": {
+      "data": [],
+      "release_build_count": 1
+    },
+    ".github/workflows/unitTest.yml": {
+      "data": [
+        {
+          "started_at": "2021-04-08T08:02:19Z",
+          "used_tool": "Github Actions",
+          "number": 3208
+        },
+        {
+          "started_at": "2021-04-08T10:12:41Z",
+          "used_tool": "Github Actions",
+          "number": 3210
+        },
+        {
+          "started_at": "2021-04-08T13:00:14Z",
+          "used_tool": "Github Actions",
+          "number": 3214
+        },
+        {
+          "started_at": "2021-04-08T22:53:31Z",
+          "used_tool": "Github Actions",
+          "number": 3216
+        },
+        {
+          "started_at": "2021-04-09T11:43:04Z",
+          "used_tool": "Github Actions",
+          "number": 3218
+        },
+        {
+          "started_at": "2021-04-09T12:14:02Z",
+          "used_tool": "Github Actions",
+          "number": 3220
+        },
+        {
+          "started_at": "2021-04-09T12:22:37Z",
+          "used_tool": "Github Actions",
+          "number": 3221
+        },
+        {
+          "started_at": "2021-04-09T13:15:00Z",
+          "used_tool": "Github Actions",
+          "number": 3222
+        },
+        {
+          "started_at": "2021-04-09T13:21:44Z",
+          "used_tool": "Github Actions",
+          "number": 3223
+        },
+        {
+          "started_at": "2021-04-09T13:55:33Z",
+          "used_tool": "Github Actions",
+          "number": 3224
+        },
+        {
+          "started_at": "2021-04-09T13:55:34Z",
+          "used_tool": "Github Actions",
+          "number": 3225
+        },
+        {
+          "started_at": "2021-04-10T08:16:55Z",
+          "used_tool": "Github Actions",
+          "number": 3229
+        },
+        {
+          "started_at": "2021-04-10T22:30:10Z",
+          "used_tool": "Github Actions",
+          "number": 3230
+        },
+        {
+          "started_at": "2021-04-12T01:52:03Z",
+          "used_tool": "Github Actions",
+          "number": 3253
+        },
+        {
+          "started_at": "2021-04-12T07:45:26Z",
+          "used_tool": "Github Actions",
+          "number": 3258
+        },
+        {
+          "started_at": "2021-04-12T07:46:03Z",
+          "used_tool": "Github Actions",
+          "number": 3259
+        },
+        {
+          "started_at": "2021-04-12T07:46:03Z",
+          "used_tool": "Github Actions",
+          "number": 3260
+        },
+        {
+          "started_at": "2021-04-12T10:51:06Z",
+          "used_tool": "Github Actions",
+          "number": 3264
+        },
+        {
+          "started_at": "2021-04-12T10:57:55Z",
+          "used_tool": "Github Actions",
+          "number": 3265
+        },
+        {
+          "started_at": "2021-04-12T10:58:18Z",
+          "used_tool": "Github Actions",
+          "number": 3266
+        },
+        {
+          "started_at": "2021-04-12T10:58:19Z",
+          "used_tool": "Github Actions",
+          "number": 3267
+        },
+        {
+          "started_at": "2021-04-13T07:34:19Z",
+          "used_tool": "Github Actions",
+          "number": 3271
+        },
+        {
+          "started_at": "2021-04-13T08:03:34Z",
+          "used_tool": "Github Actions",
+          "number": 3273
+        },
+        {
+          "started_at": "2021-04-13T10:39:02Z",
+          "used_tool": "Github Actions",
+          "number": 3275
+        },
+        {
+          "started_at": "2021-04-13T10:55:24Z",
+          "used_tool": "Github Actions",
+          "number": 3277
+        },
+        {
+          "started_at": "2021-04-14T08:20:02Z",
+          "used_tool": "Github Actions",
+          "number": 3280
+        },
+        {
+          "started_at": "2021-04-14T10:02:17Z",
+          "used_tool": "Github Actions",
+          "number": 3284
+        },
+        {
+          "started_at": "2021-04-14T10:06:32Z",
+          "used_tool": "Github Actions",
+          "number": 3285
+        },
+        {
+          "started_at": "2021-04-14T10:06:33Z",
+          "used_tool": "Github Actions",
+          "number": 3286
+        },
+        {
+          "started_at": "2021-04-15T07:19:56Z",
+          "used_tool": "Github Actions",
+          "number": 3294
+        },
+        {
+          "started_at": "2021-04-15T07:45:10Z",
+          "used_tool": "Github Actions",
+          "number": 3298
+        },
+        {
+          "started_at": "2021-04-15T12:02:20Z",
+          "used_tool": "Github Actions",
+          "number": 3301
+        },
+        {
+          "started_at": "2021-04-15T12:02:21Z",
+          "used_tool": "Github Actions",
+          "number": 3302
+        },
+        {
+          "started_at": "2021-04-16T14:14:10Z",
+          "used_tool": "Github Actions",
+          "number": 3305
+        },
+        {
+          "started_at": "2021-04-17T00:18:38Z",
+          "used_tool": "Github Actions",
+          "number": 3306
+        },
+        {
+          "started_at": "2021-04-17T07:49:49Z",
+          "used_tool": "Github Actions",
+          "number": 3312
+        },
+        {
+          "started_at": "2021-04-17T08:13:57Z",
+          "used_tool": "Github Actions",
+          "number": 3314
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 37
+    },
+    ".github/workflows/codeql-analysis.yml": {
+      "data": [
+        {
+          "started_at": "2021-04-08T08:02:19Z",
+          "used_tool": "Github Actions",
+          "number": 1626
+        },
+        {
+          "started_at": "2021-04-08T10:12:41Z",
+          "used_tool": "Github Actions",
+          "number": 1628
+        },
+        {
+          "started_at": "2021-04-08T13:00:14Z",
+          "used_tool": "Github Actions",
+          "number": 1632
+        },
+        {
+          "started_at": "2021-04-09T12:22:37Z",
+          "used_tool": "Github Actions",
+          "number": 1639
+        },
+        {
+          "started_at": "2021-04-09T13:15:00Z",
+          "used_tool": "Github Actions",
+          "number": 1640
+        },
+        {
+          "started_at": "2021-04-09T13:21:43Z",
+          "used_tool": "Github Actions",
+          "number": 1641
+        },
+        {
+          "started_at": "2021-04-09T13:55:33Z",
+          "used_tool": "Github Actions",
+          "number": 1642
+        },
+        {
+          "started_at": "2021-04-09T13:55:34Z",
+          "used_tool": "Github Actions",
+          "number": 1643
+        },
+        {
+          "started_at": "2021-04-10T08:16:55Z",
+          "used_tool": "Github Actions",
+          "number": 1647
+        },
+        {
+          "started_at": "2021-04-10T22:30:09Z",
+          "used_tool": "Github Actions",
+          "number": 1648
+        },
+        {
+          "started_at": "2021-04-12T01:52:03Z",
+          "used_tool": "Github Actions",
+          "number": 1671
+        },
+        {
+          "started_at": "2021-04-12T07:45:26Z",
+          "used_tool": "Github Actions",
+          "number": 1676
+        },
+        {
+          "started_at": "2021-04-12T07:46:02Z",
+          "used_tool": "Github Actions",
+          "number": 1677
+        },
+        {
+          "started_at": "2021-04-12T07:46:03Z",
+          "used_tool": "Github Actions",
+          "number": 1678
+        },
+        {
+          "started_at": "2021-04-12T10:51:05Z",
+          "used_tool": "Github Actions",
+          "number": 1682
+        },
+        {
+          "started_at": "2021-04-12T10:57:55Z",
+          "used_tool": "Github Actions",
+          "number": 1683
+        },
+        {
+          "started_at": "2021-04-12T10:58:18Z",
+          "used_tool": "Github Actions",
+          "number": 1684
+        },
+        {
+          "started_at": "2021-04-12T10:58:19Z",
+          "used_tool": "Github Actions",
+          "number": 1685
+        },
+        {
+          "started_at": "2021-04-13T08:03:34Z",
+          "used_tool": "Github Actions",
+          "number": 1691
+        },
+        {
+          "started_at": "2021-04-13T10:39:02Z",
+          "used_tool": "Github Actions",
+          "number": 1693
+        },
+        {
+          "started_at": "2021-04-13T10:55:24Z",
+          "used_tool": "Github Actions",
+          "number": 1695
+        },
+        {
+          "started_at": "2021-04-14T08:20:02Z",
+          "used_tool": "Github Actions",
+          "number": 1698
+        },
+        {
+          "started_at": "2021-04-14T10:02:16Z",
+          "used_tool": "Github Actions",
+          "number": 1702
+        },
+        {
+          "started_at": "2021-04-14T10:06:32Z",
+          "used_tool": "Github Actions",
+          "number": 1703
+        },
+        {
+          "started_at": "2021-04-14T10:06:33Z",
+          "used_tool": "Github Actions",
+          "number": 1704
+        },
+        {
+          "started_at": "2021-04-15T07:19:56Z",
+          "used_tool": "Github Actions",
+          "number": 1712
+        },
+        {
+          "started_at": "2021-04-15T07:45:09Z",
+          "used_tool": "Github Actions",
+          "number": 1716
+        },
+        {
+          "started_at": "2021-04-15T12:02:20Z",
+          "used_tool": "Github Actions",
+          "number": 1718
+        },
+        {
+          "started_at": "2021-04-15T12:02:20Z",
+          "used_tool": "Github Actions",
+          "number": 1719
+        },
+        {
+          "started_at": "2021-04-16T14:14:10Z",
+          "used_tool": "Github Actions",
+          "number": 1722
+        },
+        {
+          "started_at": "2021-04-17T00:18:37Z",
+          "used_tool": "Github Actions",
+          "number": 1723
+        },
+        {
+          "started_at": "2021-04-17T07:49:48Z",
+          "used_tool": "Github Actions",
+          "number": 1729
+        },
+        {
+          "started_at": "2021-04-17T08:13:57Z",
+          "used_tool": "Github Actions",
+          "number": 1731
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 33
+    }
+  },
+  "skip_failing_tests": {}
+}

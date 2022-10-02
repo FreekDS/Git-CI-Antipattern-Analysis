@@ -1,0 +1,34 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -38.916666666666664 days
+Branch dependabot/npm_and_yarn/mongodb-4.9.1 moved away from main with -38 days, 0.9166666666666643 more than average
+Branch dependabot/npm_and_yarn/pg-8.8.0 moved away from main with -30 days, 8.916666666666664 more than average
+Branch dependabot/npm_and_yarn/ts-jest-28.0.8 moved away from main with -21 days, 17.916666666666664 more than average
+Branch dependabot/npm_and_yarn/types/jest-28.1.8 moved away from main with -31 days, 7.916666666666664 more than average
+Branch main moved away from main with 0 days, 38.916666666666664 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch dependabot/npm_and_yarn/eslint-8.23.1, -49 days
+Branch dependabot/npm_and_yarn/mongodb-4.9.1, -38 days
+Branch dependabot/npm_and_yarn/mongoose-6.6.1, -52 days
+Branch dependabot/npm_and_yarn/pg-8.8.0, -30 days
+Branch dependabot/npm_and_yarn/ts-jest-28.0.8, -21 days
+Branch dependabot/npm_and_yarn/types/jest-28.1.8, -31 days
+Branch dependabot/npm_and_yarn/types/node-18.7.18, -51 days
+Branch dependabot/npm_and_yarn/typescript-4.8.3, -46 days
+Branch dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.37.0, -50 days
+Branch dependabot/npm_and_yarn/typescript-eslint/parser-5.37.0, -50 days
+Branch development, -49 days
+Branch main, 0 days
+
+Unsynced activity
+=========================
+Average unsynced: 4.0 days
+Branch development is unsynced with 48 days, 44.0 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch development, 48 days

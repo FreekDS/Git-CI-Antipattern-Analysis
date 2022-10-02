@@ -1,0 +1,111 @@
+{
+  "slow_build": {
+    "Auto-Assign-Reviewers": {
+      "data": {
+        "2021-04-08T02:14:38Z": 19100.0,
+        "2021-04-15T20:23:16Z": 16500.0,
+        "2021-04-26T12:52:46Z": 4623714.285714285,
+        "2021-05-03T18:21:04Z": 5330720.0,
+        "2021-05-11T18:32:12Z": 631827.5862068966,
+        "2021-05-19T01:11:11Z": 2698000.0,
+        "2021-05-26T12:46:29Z": 923857.1428571428,
+        "2021-06-02T18:59:29Z": 1270319.1489361702,
+        "2021-06-10T10:53:33Z": 17142.85714285714
+      },
+      "tool": "Github Actions",
+      "total avg": 1725686.7800952613,
+      "quartiles": {
+        "q1": 19100.0,
+        "q3": 2698000.0,
+        "iqr": 2678900.0
+      },
+      "classification": {
+        "high_severity": {
+          "1475": 64476000,
+          "1509": 19292000,
+          "1510": 16107000,
+          "1515": 85754000,
+          "1543": 7610000,
+          "1561": 14460000,
+          "1570": 7214000,
+          "1575": 38247000,
+          "1592": 9920000,
+          "1614": 12091000,
+          "1619": 57808000
+        },
+        "medium_severity": {
+          "1496": 3017000,
+          "1497": 2864000,
+          "1547": 5494000,
+          "1559": 3702000,
+          "1587": 3040000,
+          "1601": 5241000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "main": 0,
+      "release/v0.5.0": 0,
+      "release/v0.6.0": 0,
+      "release/v0.6.1": 0,
+      "release/v0.6.2": 0,
+      "release/v0.7.0": 0,
+      "release/0.3.0a-2019-10-30": 0,
+      "release/0.4.0": 0,
+      "release/0.4.2": 0,
+      "rolutz/postprocessing_docs": 0
+    },
+    "branch deviation": {
+      "main": 0,
+      "release/v0.5.0": 675,
+      "release/v0.6.0": 589,
+      "release/v0.6.1": 520,
+      "release/v0.6.2": 496,
+      "release/v0.7.0": 437,
+      "release/0.3.0a-2019-10-30": 1049,
+      "release/0.4.0": 1014,
+      "release/0.4.2": 967,
+      "rolutz/postprocessing_docs": 685
+    },
+    "unsynced activity": {
+      "main": 0,
+      "release/v0.5.0": 0,
+      "release/v0.6.0": 0,
+      "release/v0.6.1": 0,
+      "release/v0.6.2": 0,
+      "release/v0.7.0": 0,
+      "release/0.3.0a-2019-10-30": 0,
+      "release/0.4.0": 0,
+      "release/0.4.2": 0,
+      "rolutz/postprocessing_docs": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "release/0.3.0a-2019-10-30",
+          "release/0.4.0",
+          "release/0.4.2"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Auto-Assign-Reviewers": {
+      "data": [],
+      "release_build_count": 24
+    }
+  },
+  "skip_failing_tests": {}
+}

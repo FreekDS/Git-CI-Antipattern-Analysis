@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch semoal/fix-1098 has 370 days of missed activity!
+MEDIUM SEVERITY
+Branch semoal/fix-1098, 370 seconds
+
+Branch Deviation
+=========================
+Average deviation: 686.6 days
+Branch stable-1.x moved away from main with 1716 days, 1029.4 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch stable-1.x, 1716 days
+
+Unsynced activity
+=========================
+Average unsynced: -1.0 days
+Branch main is unsynced with 0 days, 1.0 more than average
+Branch next is unsynced with 0 days, 1.0 more than average
+Branch stable-1.x is unsynced with 0 days, 1.0 more than average
+Branch stable-2.x is unsynced with 0 days, 1.0 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch semoal/fix-1098, -5 days

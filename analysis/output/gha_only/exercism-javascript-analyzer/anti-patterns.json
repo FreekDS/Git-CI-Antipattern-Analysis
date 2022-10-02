@@ -1,0 +1,302 @@
+{
+  "slow_build": {
+    "Format code": {
+      "data": {
+        "2021-05-05T13:30:46Z": 3000.0,
+        "2021-05-28T14:33:52Z": 2000.0,
+        "2021-06-04T15:07:12Z": 28000.0,
+        "2021-07-02T11:40:16Z": 2400.0
+      },
+      "tool": "Github Actions",
+      "total avg": 8850.0,
+      "quartiles": {
+        "q1": 2300.0,
+        "q3": 9250.0,
+        "iqr": 6950.0
+      },
+      "classification": {
+        "high_severity": {
+          "11": 28000
+        },
+        "medium_severity": {}
+      }
+    },
+    "codeql": {
+      "data": {
+        "2021-04-09T14:02:35Z": 157428.57142857142,
+        "2021-04-16T14:02:43Z": 162000.0,
+        "2021-04-30T14:02:21Z": 156000.0,
+        "2021-05-07T14:09:24Z": 152333.33333333334,
+        "2021-05-14T14:11:26Z": 1069000.0,
+        "2021-05-21T14:11:33Z": 159666.66666666666,
+        "2021-05-28T14:31:53Z": 133666.66666666666,
+        "2021-06-04T14:49:14Z": 125222.22222222222,
+        "2021-06-18T14:02:16Z": 390000.0,
+        "2021-07-02T10:12:58Z": 188000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 269331.74603174604,
+      "quartiles": {
+        "q1": 153250.0,
+        "q3": 181500.0,
+        "iqr": 28250.0
+      },
+      "classification": {
+        "high_severity": {
+          "44": 1069000,
+          "60": 453000,
+          "61": 261000,
+          "62": 456000,
+          "64": 237000
+        },
+        "medium_severity": {
+          "59": 184000
+        }
+      }
+    },
+    "javascript-analyzer / format": {
+      "data": {
+        "2021-04-10T22:08:57Z": 22062.5,
+        "2021-04-18T14:39:43Z": 22666.666666666668,
+        "2021-05-10T03:19:44Z": 23000.0,
+        "2021-05-25T07:34:05Z": 25333.333333333332,
+        "2021-06-04T14:56:06Z": 32285.714285714286,
+        "2021-06-18T16:37:12Z": 241000.0,
+        "2021-07-02T10:12:58Z": 21000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 55335.459183673476,
+      "quartiles": {
+        "q1": 22364.583333333336,
+        "q3": 28809.52380952381,
+        "iqr": 6444.940476190473
+      },
+      "classification": {
+        "high_severity": {
+          "128": 55000,
+          "134": 241000
+        },
+        "medium_severity": {
+          "122": 30000,
+          "123": 32000,
+          "130": 30000,
+          "133": 37000
+        }
+      }
+    },
+    "javascript-analyzer / pr": {
+      "data": {
+        "2021-04-10T22:45:01Z": 61800.0,
+        "2021-04-19T20:26:55Z": 71000.0,
+        "2021-05-10T03:19:44Z": 61000.0,
+        "2021-05-25T07:34:06Z": 71500.0,
+        "2021-06-04T14:56:06Z": 67000.0,
+        "2021-07-02T10:12:58Z": 78000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 68383.33333333333,
+      "quartiles": {
+        "q1": 63100.0,
+        "q3": 71375.0,
+        "iqr": 8275.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "39": 78000,
+          "42": 73000,
+          "43": 78000
+        }
+      }
+    },
+    "Tools": {
+      "data": {
+        "2021-06-04T15:26:12Z": 51500.0,
+        "2021-06-18T16:37:12Z": 217000.0,
+        "2021-07-01T00:05:29Z": 68000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 112166.66666666667,
+      "quartiles": {
+        "q1": 59750.0,
+        "q3": 142500.0,
+        "iqr": 82750.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "3": 217000
+        }
+      }
+    },
+    "javascript-analyzer / deploy": {
+      "data": {
+        "2021-04-10T22:46:15Z": 89200.0,
+        "2021-05-10T03:40:47Z": 94000.0,
+        "2021-05-25T08:16:46Z": 85000.0,
+        "2021-06-04T15:26:00Z": 69200.0,
+        "2021-06-18T16:37:12Z": 348000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 137080.0,
+      "quartiles": {
+        "q1": 85000.0,
+        "q3": 94000.0,
+        "iqr": 9000.0
+      },
+      "classification": {
+        "high_severity": {
+          "29": 348000
+        },
+        "medium_severity": {
+          "17": 96000,
+          "19": 100000,
+          "20": 96000
+        }
+      }
+    },
+    "javascript-analyzer / main": {
+      "data": {
+        "2021-04-10T22:55:49Z": 59250.0,
+        "2021-05-10T03:40:47Z": 66000.0,
+        "2021-05-25T08:16:46Z": 62000.0,
+        "2021-06-04T15:26:00Z": 68600.0,
+        "2021-06-18T16:37:12Z": 126000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 76370.0,
+      "quartiles": {
+        "q1": 62000.0,
+        "q3": 68600.0,
+        "iqr": 6600.0
+      },
+      "classification": {
+        "high_severity": {
+          "17": 83000,
+          "18": 126000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "chore/interface-arg": 0,
+      "ci-amazon-ecr": 0,
+      "ci-dockerhub": 0,
+      "feature/eslint": 0,
+      "feature/fallback-exemplar-analyzer": 0,
+      "feature/resistor-color": 0,
+      "feature/resistor-color-duo": 0,
+      "feature/rna-transcription": 0,
+      "fix/issue64": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "chore/interface-arg": 765,
+      "ci-amazon-ecr": 635,
+      "ci-dockerhub": 635,
+      "feature/eslint": 470,
+      "feature/fallback-exemplar-analyzer": 506,
+      "feature/resistor-color": 1039,
+      "feature/resistor-color-duo": 1039,
+      "feature/rna-transcription": 1198,
+      "fix/issue64": 506,
+      "main": 0
+    },
+    "unsynced activity": {
+      "chore/interface-arg": 0,
+      "ci-amazon-ecr": 0,
+      "ci-dockerhub": 0,
+      "feature/eslint": 0,
+      "feature/fallback-exemplar-analyzer": 0,
+      "feature/resistor-color": 0,
+      "feature/resistor-color-duo": 0,
+      "feature/rna-transcription": 0,
+      "fix/issue64": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "feature/resistor-color",
+          "feature/resistor-color-duo",
+          "feature/rna-transcription"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 7
+  },
+  "broken_release": {
+    "Format code": {
+      "data": [
+        {
+          "started_at": "2021-06-04T15:07:12Z",
+          "used_tool": "Github Actions",
+          "number": 11
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 9
+    },
+    "codeql": {
+      "data": [
+        {
+          "started_at": "2021-05-14T14:11:26Z",
+          "used_tool": "Github Actions",
+          "number": 44
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 26
+    },
+    "javascript-analyzer / format": {
+      "data": [
+        {
+          "started_at": "2021-06-04T15:26:12Z",
+          "used_tool": "Github Actions",
+          "number": 129
+        },
+        {
+          "started_at": "2021-06-04T15:27:42Z",
+          "used_tool": "Github Actions",
+          "number": 130
+        },
+        {
+          "started_at": "2021-06-04T15:30:18Z",
+          "used_tool": "Github Actions",
+          "number": 131
+        },
+        {
+          "started_at": "2021-06-18T16:37:12Z",
+          "used_tool": "Github Actions",
+          "number": 134
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 14
+    },
+    "Tools": {
+      "data": [],
+      "release_build_count": 4
+    },
+    "javascript-analyzer / deploy": {
+      "data": [],
+      "release_build_count": 14
+    },
+    "javascript-analyzer / main": {
+      "data": [],
+      "release_build_count": 13
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,31 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: -100.81818181818181 days
+Branch dependabot/github_actions/actions/checkout-3.0.2 moved away from main with -9 days, 91.81818181818181 more than average
+Branch dependabot/github_actions/actions/setup-node-3.4.1 moved away from main with -93 days, 7.818181818181813 more than average
+Branch dependabot/npm_and_yarn/npm-8.12.0 moved away from main with -51 days, 49.81818181818181 more than average
+Branch dependabot/npm_and_yarn/semver-regex-3.1.4 moved away from main with -52 days, 48.81818181818181 more than average
+Branch main moved away from main with 0 days, 100.81818181818181 more than average
+MEDIUM SEVERITY
+Branch dependabot/github_actions/actions/checkout-3.0.2, -9 days
+Branch dependabot/github_actions/actions/setup-node-3.4.1, -93 days
+Branch dependabot/npm_and_yarn/npm-8.12.0, -51 days
+Branch dependabot/npm_and_yarn/semver-regex-3.1.4, -52 days
+Branch main, 0 days
+HIGH SEVERITY
+Branch dependabot/npm_and_yarn/babel/core-7.19.1, -155 days
+Branch dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1, -155 days
+Branch dependabot/npm_and_yarn/babel/preset-env-7.19.1, -155 days
+Branch dependabot/npm_and_yarn/eslint-8.23.1, -153 days
+Branch dependabot/npm_and_yarn/jest-29.0.3, -153 days
+Branch dependabot/npm_and_yarn/semantic-release-19.0.5, -133 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

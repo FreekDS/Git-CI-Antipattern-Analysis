@@ -1,0 +1,140 @@
+{
+  "slow_build": {
+    "jsonapi-vuex": {
+      "data": {
+        "2021-04-19T15:37:56Z": 144000.0,
+        "2021-05-07T11:34:04Z": 120125.0,
+        "2021-05-17T09:37:55Z": 124000.0,
+        "2021-05-27T08:16:56Z": 142000.0,
+        "2021-06-04T20:52:34Z": 138000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 133625.0,
+      "quartiles": {
+        "q1": 124000.0,
+        "q3": 142000.0,
+        "iqr": 18000.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "581": 148000,
+          "588": 143000,
+          "587": 146000,
+          "596": 152000,
+          "597": 149000,
+          "600": 149000,
+          "599": 150000,
+          "602": 150000,
+          "606": 153000,
+          "609": 151000,
+          "615": 148000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "depthLimit": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "vue2": 0,
+      "vue3": 0
+    },
+    "branch deviation": {
+      "depthLimit": 861,
+      "gh-pages": 432,
+      "master": 0,
+      "vue2": 434,
+      "vue3": 434
+    },
+    "unsynced activity": {
+      "depthLimit": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "vue2": 0,
+      "vue3": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "depthLimit"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "jsonapi-vuex": {
+      "data": [
+        {
+          "started_at": "2021-04-19T15:37:56Z",
+          "used_tool": "TravisCI",
+          "number": 582
+        },
+        {
+          "started_at": "2021-05-07T11:34:07Z",
+          "used_tool": "TravisCI",
+          "number": 584
+        },
+        {
+          "started_at": "2021-05-08T08:08:50Z",
+          "used_tool": "TravisCI",
+          "number": 586
+        },
+        {
+          "started_at": "2021-05-10T02:18:53Z",
+          "used_tool": "TravisCI",
+          "number": 588
+        },
+        {
+          "started_at": "2021-05-17T09:46:41Z",
+          "used_tool": "TravisCI",
+          "number": 592
+        },
+        {
+          "started_at": "2021-05-17T10:07:36Z",
+          "used_tool": "TravisCI",
+          "number": 596
+        },
+        {
+          "started_at": "2021-05-17T10:08:39Z",
+          "used_tool": "TravisCI",
+          "number": 600
+        },
+        {
+          "started_at": "2021-05-17T10:10:31Z",
+          "used_tool": "TravisCI",
+          "number": 601
+        },
+        {
+          "started_at": "2021-05-17T10:11:12Z",
+          "used_tool": "TravisCI",
+          "number": 602
+        },
+        {
+          "started_at": "2021-05-17T10:12:53Z",
+          "used_tool": "TravisCI",
+          "number": 604
+        },
+        {
+          "started_at": "2021-05-19T10:26:56Z",
+          "used_tool": "TravisCI",
+          "number": 612
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 17
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,145 @@
+{
+  "slow_build": {
+    "Deploy": {
+      "data": {
+        "2021-04-10T20:24:22Z": 40111.11111111111,
+        "2021-04-28T09:09:35Z": 41400.0,
+        "2021-05-14T09:11:59Z": 4051833.3333333335,
+        "2021-05-22T16:32:57Z": 41142.857142857145,
+        "2021-06-07T16:09:07Z": 44428.57142857143,
+        "2021-06-22T01:49:02Z": 39800.0,
+        "2021-07-01T20:46:07Z": 37000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 613673.6961451247,
+      "quartiles": {
+        "q1": 39955.555555555555,
+        "q3": 42914.28571428571,
+        "iqr": 2958.7301587301554
+      },
+      "classification": {
+        "high_severity": {
+          "268": 48000,
+          "271": 24107000,
+          "288": 48000
+        },
+        "medium_severity": {
+          "255": 44000,
+          "259": 43000,
+          "262": 43000,
+          "264": 46000,
+          "266": 44000,
+          "275": 45000,
+          "278": 43000,
+          "279": 47000,
+          "281": 45000,
+          "282": 45000,
+          "283": 45000,
+          "284": 47000,
+          "285": 46000,
+          "291": 43000,
+          "294": 44000
+        }
+      }
+    },
+    "Publish": {
+      "data": {
+        "2021-04-10T20:24:22Z": 48222.22222222222,
+        "2021-04-28T09:09:35Z": 151600.0,
+        "2021-05-14T09:11:59Z": 3621000.0,
+        "2021-05-22T16:32:57Z": 55714.28571428572,
+        "2021-06-07T16:09:07Z": 53428.57142857143,
+        "2021-06-22T01:49:02Z": 49500.0,
+        "2021-07-01T20:46:07Z": 46666.666666666664
+      },
+      "tool": "Github Actions",
+      "total avg": 575161.6780045351,
+      "quartiles": {
+        "q1": 48861.11111111111,
+        "q3": 103657.14285714286,
+        "iqr": 54796.031746031746
+      },
+      "classification": {
+        "high_severity": {
+          "394": 548000,
+          "400": 478000,
+          "401": 21022000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "develop": 0,
+      "feature/threeline-performance": 0,
+      "feature/yarn2": 0,
+      "gh-pages": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "develop": 2133,
+      "feature/threeline-performance": 1878,
+      "feature/yarn2": 826,
+      "gh-pages": -1,
+      "main": 0
+    },
+    "unsynced activity": {
+      "develop": 0,
+      "feature/threeline-performance": 0,
+      "feature/yarn2": 0,
+      "gh-pages": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "develop"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "Deploy": {
+      "data": [],
+      "release_build_count": 47
+    },
+    "Publish": {
+      "data": [
+        {
+          "started_at": "2021-04-11T17:17:37Z",
+          "used_tool": "Github Actions",
+          "number": 390
+        },
+        {
+          "started_at": "2021-04-11T17:22:24Z",
+          "used_tool": "Github Actions",
+          "number": 391
+        },
+        {
+          "started_at": "2021-04-28T09:26:54Z",
+          "used_tool": "Github Actions",
+          "number": 394
+        },
+        {
+          "started_at": "2021-05-27T14:21:19Z",
+          "used_tool": "Github Actions",
+          "number": 409
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 47
+    }
+  },
+  "skip_failing_tests": {}
+}

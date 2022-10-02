@@ -1,0 +1,87 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2021-03-08T05:14:52Z": 77250.0,
+        "2021-03-22T05:09:31Z": 84333.33333333333,
+        "2021-03-29T05:12:12Z": 73000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 78194.44444444444,
+      "quartiles": {
+        "q1": 75125.0,
+        "q3": 80791.66666666666,
+        "iqr": 5666.666666666657
+      },
+      "classification": {
+        "high_severity": {
+          "53": 110000,
+          "62": 92000,
+          "65": 145000,
+          "66": 101000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "400-openjpeg": 0,
+      "932-dicom-seg": 0,
+      "dependabot/npm_and_yarn/i18next-21.9.1": 0,
+      "dependabot/npm_and_yarn/jszip-3.10.1": 0,
+      "develop": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "v0.16": 0,
+      "v0.27": 0
+    },
+    "branch deviation": {
+      "400-openjpeg": 1809,
+      "932-dicom-seg": 183,
+      "dependabot/npm_and_yarn/i18next-21.9.1": 25,
+      "dependabot/npm_and_yarn/jszip-3.10.1": 39,
+      "develop": 0,
+      "gh-pages": 274,
+      "master": 255,
+      "v0.16": 2173,
+      "v0.27": 724
+    },
+    "unsynced activity": {
+      "400-openjpeg": 0,
+      "932-dicom-seg": 0,
+      "dependabot/npm_and_yarn/i18next-21.9.1": 0,
+      "dependabot/npm_and_yarn/jszip-3.10.1": 0,
+      "develop": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "v0.16": 0,
+      "v0.27": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [],
+        "high_severity": [
+          "400-openjpeg",
+          "v0.16"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 3
+    }
+  },
+  "skip_failing_tests": {}
+}

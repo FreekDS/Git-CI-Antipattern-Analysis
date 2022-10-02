@@ -1,0 +1,132 @@
+{
+  "slow_build": {
+    "mini-media-player": {
+      "data": {
+        "2021-04-12T18:31:45Z": 100666.66666666667,
+        "2021-04-22T17:32:15Z": 104000.0,
+        "2021-04-30T19:43:02Z": 97500.0,
+        "2021-05-11T21:34:39Z": 96500.0,
+        "2021-05-26T17:35:36Z": 92666.66666666667,
+        "2021-06-19T13:48:32Z": 96500.0,
+        "2021-07-03T17:19:45Z": 92000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 97119.04761904762,
+      "quartiles": {
+        "q1": 94583.33333333334,
+        "q3": 99083.33333333334,
+        "iqr": 4500.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {
+          "573": 103000,
+          "574": 100000,
+          "576": 104000,
+          "578": 101000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "add-dev-container": 0,
+      "add-test-environment": 0,
+      "bundle-menu-component": 0,
+      "checkbox-element": 0,
+      "dev": 1351,
+      "fix-attribute-init": 0,
+      "fix-progress-paused": 0,
+      "fix-vibrant": 0,
+      "icon-missing": 0,
+      "master": 0,
+      "material-cover": 0,
+      "multi-audio-control": 0,
+      "mwc-menu": 0,
+      "refactoring": 0,
+      "remove-idle-view-config": 0,
+      "rewamp": 0,
+      "russian-translations": 0,
+      "speaker-management-toggle": 0
+    },
+    "branch deviation": {
+      "add-dev-container": 259,
+      "add-test-environment": 514,
+      "bundle-menu-component": 97,
+      "checkbox-element": 513,
+      "dev": 17,
+      "fix-attribute-init": 20,
+      "fix-progress-paused": 739,
+      "fix-vibrant": 18,
+      "icon-missing": 411,
+      "master": 0,
+      "material-cover": 668,
+      "multi-audio-control": 517,
+      "mwc-menu": 87,
+      "refactoring": 1121,
+      "remove-idle-view-config": 411,
+      "rewamp": 97,
+      "russian-translations": 401,
+      "speaker-management-toggle": 507
+    },
+    "unsynced activity": {
+      "add-dev-container": 0,
+      "add-test-environment": 0,
+      "bundle-menu-component": 0,
+      "checkbox-element": 0,
+      "dev": 1333,
+      "fix-attribute-init": 0,
+      "fix-progress-paused": 0,
+      "fix-vibrant": 0,
+      "icon-missing": 0,
+      "master": 0,
+      "material-cover": 0,
+      "multi-audio-control": 0,
+      "mwc-menu": 0,
+      "refactoring": 0,
+      "remove-idle-view-config": 0,
+      "rewamp": 0,
+      "russian-translations": 0,
+      "speaker-management-toggle": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dev"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "add-test-environment",
+          "fix-progress-paused",
+          "material-cover",
+          "multi-audio-control",
+          "refactoring"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dev"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "mini-media-player": {
+      "data": [
+        {
+          "started_at": "2021-05-31T13:46:08Z",
+          "used_tool": "TravisCI",
+          "number": 582
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 8
+    }
+  },
+  "skip_failing_tests": {}
+}

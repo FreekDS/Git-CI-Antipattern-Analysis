@@ -1,0 +1,155 @@
+{
+  "slow_build": {
+    "CI/CD Pipeline": {
+      "data": {
+        "2020-02-24T10:04:19Z": 82428.57142857143,
+        "2020-03-22T15:00:10Z": 75600.0,
+        "2020-04-06T08:49:14Z": 5631500.0
+      },
+      "tool": "Github Actions",
+      "total avg": 1929842.8571428573,
+      "quartiles": {
+        "q1": 79014.28571428571,
+        "q3": 2856964.285714286,
+        "iqr": 2777950.0
+      },
+      "classification": {
+        "high_severity": {
+          "18": 7171000
+        },
+        "medium_severity": {
+          "19": 6685000,
+          "20": 4309000,
+          "21": 4361000
+        }
+      }
+    },
+    "Test": {
+      "data": {
+        "2020-02-24T00:12:18Z": 464250.0
+      },
+      "tool": "Github Actions",
+      "total avg": 464250.0,
+      "quartiles": {
+        "q1": 464250.0,
+        "q3": 464250.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {
+          "2": 479000,
+          "5": 520000
+        },
+        "medium_severity": {}
+      }
+    },
+    ".github/workflows/ci.yml": {
+      "data": {
+        "2020-02-24T00:23:51Z": 0.0
+      },
+      "tool": "Github Actions",
+      "total avg": 0.0,
+      "quartiles": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "gatsby-plugin-matomo": {
+      "data": {
+        "2020-02-15T11:54:01Z": 48363.63636363636,
+        "2020-02-23T23:48:37Z": 132250.0
+      },
+      "tool": "TravisCI",
+      "total avg": 90306.81818181818,
+      "quartiles": {
+        "q1": 69335.22727272726,
+        "q3": 111278.40909090909,
+        "iqr": 41943.18181818182
+      },
+      "classification": {
+        "high_severity": {
+          "223": 232000,
+          "224": 202000
+        },
+        "medium_severity": {}
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/npm_and_yarn/babel/cli-7.18.10": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.0": 0,
+      "dependabot/npm_and_yarn/jest-29.0.3": 0,
+      "dependabot/npm_and_yarn/release-it-15.4.1": 0,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "dependabot/npm_and_yarn/babel/cli-7.18.10": -1,
+      "dependabot/npm_and_yarn/eslint-8.23.0": -4,
+      "dependabot/npm_and_yarn/jest-29.0.3": -18,
+      "dependabot/npm_and_yarn/release-it-15.4.1": -12,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": -1,
+      "main": 0
+    },
+    "unsynced activity": {
+      "dependabot/npm_and_yarn/babel/cli-7.18.10": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.0": 0,
+      "dependabot/npm_and_yarn/jest-29.0.3": 0,
+      "dependabot/npm_and_yarn/release-it-15.4.1": 0,
+      "dependabot/npm_and_yarn/shell-quote-1.7.3": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/npm_and_yarn/babel/cli-7.18.10",
+          "dependabot/npm_and_yarn/eslint-8.23.0",
+          "dependabot/npm_and_yarn/release-it-15.4.1",
+          "dependabot/npm_and_yarn/shell-quote-1.7.3",
+          "main"
+        ],
+        "high_severity": [
+          "dependabot/npm_and_yarn/jest-29.0.3"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 4
+  },
+  "broken_release": {
+    "CI/CD Pipeline": {
+      "data": [
+        {
+          "started_at": "2020-02-24T10:34:54Z",
+          "used_tool": "Github Actions",
+          "number": 12
+        },
+        {
+          "started_at": "2020-04-06T08:49:14Z",
+          "used_tool": "Github Actions",
+          "number": 18
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 11
+    },
+    "gatsby-plugin-matomo": {
+      "data": [],
+      "release_build_count": 10
+    }
+  },
+  "skip_failing_tests": {}
+}

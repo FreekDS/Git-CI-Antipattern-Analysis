@@ -1,0 +1,185 @@
+{
+  "slow_build": {
+    "CI": {
+      "data": {
+        "2019-11-11T20:01:28Z": 262400.0,
+        "2019-11-23T21:23:13Z": 179916.66666666666,
+        "2019-12-02T03:21:41Z": 179833.33333333334,
+        "2019-12-09T05:01:38Z": 226250.0,
+        "2019-12-19T03:13:19Z": 145928.57142857142,
+        "2019-12-26T03:15:56Z": 150250.0
+      },
+      "tool": "Github Actions",
+      "total avg": 190763.09523809524,
+      "quartiles": {
+        "q1": 157645.83333333334,
+        "q3": 214666.66666666666,
+        "iqr": 57020.833333333314
+      },
+      "classification": {
+        "high_severity": {
+          "3": 1385000,
+          "46": 340000
+        },
+        "medium_severity": {
+          "47": 299000,
+          "48": 288000,
+          "49": 292000
+        }
+      }
+    },
+    "gatsby-plugin-robots-txt": {
+      "data": {
+        "2019-09-30T03:31:50Z": 410333.3333333333,
+        "2019-10-10T03:20:22Z": 504478.26086956525,
+        "2019-10-21T03:24:32Z": 491666.6666666667,
+        "2019-10-28T04:55:48Z": 438750.0,
+        "2019-11-06T03:13:49Z": 449000.0
+      },
+      "tool": "TravisCI",
+      "total avg": 458845.6521739131,
+      "quartiles": {
+        "q1": 438750.0,
+        "q3": 491666.6666666667,
+        "iqr": 52916.666666666686
+      },
+      "classification": {
+        "high_severity": {
+          "371": 1906000,
+          "396": 587000
+        },
+        "medium_severity": {
+          "386": 509000,
+          "388": 531000,
+          "389": 505000,
+          "390": 500000,
+          "393": 493000,
+          "394": 545000,
+          "405": 492000,
+          "417": 517000,
+          "416": 503000,
+          "433": 495000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/github_actions/actions/checkout-3.0.2": 0,
+      "dependabot/github_actions/actions/setup-node-3.4.1": 0,
+      "dependabot/npm_and_yarn/babel/core-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/preset-env-7.19.1": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/jest-29.0.3": 0,
+      "dependabot/npm_and_yarn/npm-8.12.0": 0,
+      "dependabot/npm_and_yarn/semantic-release-19.0.5": 0,
+      "dependabot/npm_and_yarn/semver-regex-3.1.4": 0,
+      "main": 0
+    },
+    "branch deviation": {
+      "dependabot/github_actions/actions/checkout-3.0.2": -9,
+      "dependabot/github_actions/actions/setup-node-3.4.1": -93,
+      "dependabot/npm_and_yarn/babel/core-7.19.1": -155,
+      "dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1": -155,
+      "dependabot/npm_and_yarn/babel/preset-env-7.19.1": -155,
+      "dependabot/npm_and_yarn/eslint-8.23.1": -153,
+      "dependabot/npm_and_yarn/jest-29.0.3": -153,
+      "dependabot/npm_and_yarn/npm-8.12.0": -51,
+      "dependabot/npm_and_yarn/semantic-release-19.0.5": -133,
+      "dependabot/npm_and_yarn/semver-regex-3.1.4": -52,
+      "main": 0
+    },
+    "unsynced activity": {
+      "dependabot/github_actions/actions/checkout-3.0.2": 0,
+      "dependabot/github_actions/actions/setup-node-3.4.1": 0,
+      "dependabot/npm_and_yarn/babel/core-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1": 0,
+      "dependabot/npm_and_yarn/babel/preset-env-7.19.1": 0,
+      "dependabot/npm_and_yarn/eslint-8.23.1": 0,
+      "dependabot/npm_and_yarn/jest-29.0.3": 0,
+      "dependabot/npm_and_yarn/npm-8.12.0": 0,
+      "dependabot/npm_and_yarn/semantic-release-19.0.5": 0,
+      "dependabot/npm_and_yarn/semver-regex-3.1.4": 0,
+      "main": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/github_actions/actions/checkout-3.0.2",
+          "dependabot/github_actions/actions/setup-node-3.4.1",
+          "dependabot/npm_and_yarn/npm-8.12.0",
+          "dependabot/npm_and_yarn/semver-regex-3.1.4",
+          "main"
+        ],
+        "high_severity": [
+          "dependabot/npm_and_yarn/babel/core-7.19.1",
+          "dependabot/npm_and_yarn/babel/plugin-transform-runtime-7.19.1",
+          "dependabot/npm_and_yarn/babel/preset-env-7.19.1",
+          "dependabot/npm_and_yarn/eslint-8.23.1",
+          "dependabot/npm_and_yarn/jest-29.0.3",
+          "dependabot/npm_and_yarn/semantic-release-19.0.5"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 2
+  },
+  "broken_release": {
+    "CI": {
+      "data": [
+        {
+          "started_at": "2019-11-11T21:01:25Z",
+          "used_tool": "Github Actions",
+          "number": 3
+        }
+      ],
+      "tool": "Github Actions",
+      "release_build_count": 27
+    },
+    "gatsby-plugin-robots-txt": {
+      "data": [
+        {
+          "started_at": "2019-11-06T03:14:11Z",
+          "used_tool": "TravisCI",
+          "number": 404
+        },
+        {
+          "started_at": "2019-11-06T08:38:05Z",
+          "used_tool": "TravisCI",
+          "number": 409
+        },
+        {
+          "started_at": "2019-11-08T10:58:03Z",
+          "used_tool": "TravisCI",
+          "number": 414
+        },
+        {
+          "started_at": "2019-11-09T20:41:05Z",
+          "used_tool": "TravisCI",
+          "number": 420
+        },
+        {
+          "started_at": "2019-11-09T20:50:10Z",
+          "used_tool": "TravisCI",
+          "number": 424
+        },
+        {
+          "started_at": "2019-11-09T21:03:05Z",
+          "used_tool": "TravisCI",
+          "number": 428
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 67
+    }
+  },
+  "skip_failing_tests": {}
+}

@@ -1,0 +1,23 @@
+Missed Activity
+=========================
+MEDIUM SEVERITY
+
+Branch Deviation
+=========================
+Average deviation: 31.285714285714285 days
+Branch release moved away from main with 224 days, 192.71428571428572 more than average
+MEDIUM SEVERITY
+Branch main, 0 days
+HIGH SEVERITY
+Branch dependabot/npm_and_yarn/eslint-plugin-jest-27.0.4, -1 days
+Branch dependabot/npm_and_yarn/jest-and-types/jest-29.0.3, -1 days
+Branch dependabot/npm_and_yarn/mingo-6.1.0, -1 days
+Branch dependabot/npm_and_yarn/ts-jest-29.0.1, -1 days
+Branch dependabot/npm_and_yarn/uuid-9.0.0, -1 days
+Branch release, 224 days
+
+Unsynced activity
+=========================
+Average unsynced: 0.0 days
+MEDIUM SEVERITY
+HIGH SEVERITY

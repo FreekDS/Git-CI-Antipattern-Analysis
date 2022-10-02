@@ -1,0 +1,128 @@
+{
+  "slow_build": {
+    "update-build-config": {
+      "data": {
+        "2021-04-08T00:49:37Z": 107000.0,
+        "2021-04-16T00:49:28Z": 121571.42857142857,
+        "2021-04-23T00:49:31Z": 8665875.0,
+        "2021-05-01T00:49:22Z": 114142.85714285714,
+        "2021-05-08T01:43:34Z": 113000.0,
+        "2021-05-16T00:49:30Z": 106000.0,
+        "2021-05-23T00:49:35Z": 110142.85714285714,
+        "2021-05-30T00:50:19Z": 114500.0,
+        "2021-06-07T00:50:32Z": 109125.0,
+        "2021-06-15T00:49:33Z": 152875.0,
+        "2021-06-23T00:48:55Z": 160250.0,
+        "2021-07-01T00:48:14Z": 168428.57142857142
+      },
+      "tool": "Github Actions",
+      "total avg": 836909.2261904761,
+      "quartiles": {
+        "q1": 109888.39285714286,
+        "q3": 154718.75,
+        "iqr": 44830.357142857145
+      },
+      "classification": {
+        "high_severity": {
+          "125": 68508000,
+          "181": 324000,
+          "185": 282000,
+          "193": 276000
+        },
+        "medium_severity": {
+          "153": 158000,
+          "159": 159000,
+          "160": 176000,
+          "174": 221000,
+          "175": 213000,
+          "177": 157000,
+          "178": 170000,
+          "190": 198000,
+          "192": 214000
+        }
+      }
+    },
+    "release": {
+      "data": {
+        "2021-04-28T19:52:38Z": 4000.0,
+        "2021-05-10T01:51:11Z": 4000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 4000.0,
+      "quartiles": {
+        "q1": 4000.0,
+        "q3": 4000.0,
+        "iqr": 0.0
+      },
+      "classification": {
+        "high_severity": {},
+        "medium_severity": {}
+      }
+    },
+    "test": {
+      "data": {
+        "2021-04-28T00:51:18Z": 112333.33333333333,
+        "2021-05-10T01:48:41Z": 150000.0
+      },
+      "tool": "Github Actions",
+      "total avg": 131166.66666666666,
+      "quartiles": {
+        "q1": 121750.0,
+        "q3": 140583.33333333334,
+        "iqr": 18833.333333333343
+      },
+      "classification": {
+        "high_severity": {
+          "19": 170000
+        },
+        "medium_severity": {
+          "22": 150000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "PLS-431": 1068,
+      "master": 0
+    },
+    "branch deviation": {
+      "PLS-431": 1068,
+      "master": 0
+    },
+    "unsynced activity": {
+      "PLS-431": 0,
+      "master": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [
+          "PLS-431"
+        ],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "PLS-431"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 3
+  },
+  "broken_release": {
+    "update-build-config": {
+      "data": [],
+      "release_build_count": 91
+    },
+    "release": {
+      "data": [],
+      "release_build_count": 2
+    }
+  },
+  "skip_failing_tests": {}
+}

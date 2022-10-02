@@ -1,0 +1,24 @@
+Missed Activity
+=========================
+Branch renovate/flow-bin-0.x has 14 days of missed activity!
+MEDIUM SEVERITY
+Branch renovate/flow-bin-0.x, 14 seconds
+
+Branch Deviation
+=========================
+Average deviation: 239.66666666666666 days
+Branch gh-pages moved away from main with 476 days, 236.33333333333334 more than average
+Branch intl moved away from main with 1052 days, 812.3333333333334 more than average
+Branch next moved away from main with 739 days, 499.33333333333337 more than average
+MEDIUM SEVERITY
+Branch intl, 1052 days
+Branch next, 739 days
+HIGH SEVERITY
+
+Unsynced activity
+=========================
+Average unsynced: 7.666666666666667 days
+Branch renovate/flow-bin-0.x is unsynced with 69 days, 61.333333333333336 more than average
+MEDIUM SEVERITY
+HIGH SEVERITY
+Branch renovate/flow-bin-0.x, 69 days

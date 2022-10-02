@@ -1,0 +1,147 @@
+{
+  "slow_build": {
+    "Node.js CI": {
+      "data": {
+        "2021-04-20T17:07:47Z": 98375.0,
+        "2021-05-01T05:02:08Z": 197500.0,
+        "2021-06-01T05:01:29Z": 233250.0,
+        "2021-06-08T14:26:11Z": 77000.0,
+        "2021-07-01T22:01:34Z": 87200.0
+      },
+      "tool": "Github Actions",
+      "total avg": 138665.0,
+      "quartiles": {
+        "q1": 87200.0,
+        "q3": 197500.0,
+        "iqr": 110300.0
+      },
+      "classification": {
+        "high_severity": {
+          "214": 393000,
+          "220": 475000,
+          "221": 686000
+        },
+        "medium_severity": {
+          "213": 251000,
+          "219": 294000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "bump-deps": 0,
+      "dependabot-npm_and_yarn-chai-4.3.6": 0,
+      "dependabot-npm_and_yarn-ejs-3.1.7": 0,
+      "dependabot-npm_and_yarn-eslint-7.4.0": 0,
+      "dependabot-npm_and_yarn-globby-11.1.0": 0,
+      "dependabot-npm_and_yarn-minimist-1.2.6": 0,
+      "dependabot-npm_and_yarn-nock-13.2.9": 0,
+      "dependabot-npm_and_yarn-oclif-core-1.16.0": 0,
+      "dependabot-npm_and_yarn-shelljs-0.8.5": 0,
+      "dependabot-npm_and_yarn-shx-0.3.4": 0,
+      "dependabot-npm_and_yarn-types-chai-4.3.1": 0,
+      "dependabot-npm_and_yarn-types-node-14.18.26": 0,
+      "dependabot-npm_and_yarn-typescript-4.8.2": 0,
+      "deps-fancy-12012020": 0,
+      "greenkeeper/@oclif/tslint-3.0.1": 0,
+      "greenkeeper/@oclif/tslint-3.1.0": 0,
+      "greenkeeper/@types/node-10.10.1": 0,
+      "greenkeeper/@types/node-10.10.2": 0,
+      "greenkeeper/@types/node-10.10.3": 0,
+      "greenkeeper/@types/node-10.11.0": 0,
+      "greenkeeper/@types/node-10.11.1": 0,
+      "greenkeeper/@types/node-10.11.2": 0,
+      "greenkeeper/@types/node-pin-10.10.0": 0,
+      "main": 0,
+      "master": 0,
+      "non-fancy-helpers": 0
+    },
+    "branch deviation": {
+      "bump-deps": 726,
+      "dependabot-npm_and_yarn-chai-4.3.6": 112,
+      "dependabot-npm_and_yarn-ejs-3.1.7": 112,
+      "dependabot-npm_and_yarn-eslint-7.4.0": 784,
+      "dependabot-npm_and_yarn-globby-11.1.0": 199,
+      "dependabot-npm_and_yarn-minimist-1.2.6": 129,
+      "dependabot-npm_and_yarn-nock-13.2.9": 27,
+      "dependabot-npm_and_yarn-oclif-core-1.16.0": -4,
+      "dependabot-npm_and_yarn-shelljs-0.8.5": 129,
+      "dependabot-npm_and_yarn-shx-0.3.4": 94,
+      "dependabot-npm_and_yarn-types-chai-4.3.1": 112,
+      "dependabot-npm_and_yarn-types-node-14.18.26": -4,
+      "dependabot-npm_and_yarn-typescript-4.8.2": -4,
+      "deps-fancy-12012020": 635,
+      "greenkeeper/@oclif/tslint-3.0.1": 1451,
+      "greenkeeper/@oclif/tslint-3.1.0": 1451,
+      "greenkeeper/@types/node-10.10.1": 1441,
+      "greenkeeper/@types/node-10.10.2": 1437,
+      "greenkeeper/@types/node-10.10.3": 1437,
+      "greenkeeper/@types/node-10.11.0": 1434,
+      "greenkeeper/@types/node-10.11.1": 1432,
+      "greenkeeper/@types/node-10.11.2": 1431,
+      "greenkeeper/@types/node-pin-10.10.0": 1441,
+      "main": 0,
+      "master": 263,
+      "non-fancy-helpers": 725
+    },
+    "unsynced activity": {
+      "bump-deps": 0,
+      "dependabot-npm_and_yarn-chai-4.3.6": 0,
+      "dependabot-npm_and_yarn-ejs-3.1.7": 0,
+      "dependabot-npm_and_yarn-eslint-7.4.0": 0,
+      "dependabot-npm_and_yarn-globby-11.1.0": 0,
+      "dependabot-npm_and_yarn-minimist-1.2.6": 0,
+      "dependabot-npm_and_yarn-nock-13.2.9": 0,
+      "dependabot-npm_and_yarn-oclif-core-1.16.0": 0,
+      "dependabot-npm_and_yarn-shelljs-0.8.5": 0,
+      "dependabot-npm_and_yarn-shx-0.3.4": 0,
+      "dependabot-npm_and_yarn-types-chai-4.3.1": 0,
+      "dependabot-npm_and_yarn-types-node-14.18.26": 0,
+      "dependabot-npm_and_yarn-typescript-4.8.2": 0,
+      "deps-fancy-12012020": 0,
+      "greenkeeper/@oclif/tslint-3.0.1": 0,
+      "greenkeeper/@oclif/tslint-3.1.0": 0,
+      "greenkeeper/@types/node-10.10.1": 0,
+      "greenkeeper/@types/node-10.10.2": 0,
+      "greenkeeper/@types/node-10.10.3": 0,
+      "greenkeeper/@types/node-10.11.0": 0,
+      "greenkeeper/@types/node-10.11.1": 0,
+      "greenkeeper/@types/node-10.11.2": 0,
+      "greenkeeper/@types/node-pin-10.10.0": 0,
+      "main": 0,
+      "master": 0,
+      "non-fancy-helpers": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": []
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "greenkeeper/@oclif/tslint-3.0.1",
+          "greenkeeper/@oclif/tslint-3.1.0",
+          "greenkeeper/@types/node-10.10.1",
+          "greenkeeper/@types/node-10.10.2",
+          "greenkeeper/@types/node-10.10.3",
+          "greenkeeper/@types/node-10.11.0",
+          "greenkeeper/@types/node-pin-10.10.0"
+        ],
+        "high_severity": []
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": []
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "Node.js CI": {
+      "data": [],
+      "release_build_count": 8
+    }
+  },
+  "skip_failing_tests": {}
+}

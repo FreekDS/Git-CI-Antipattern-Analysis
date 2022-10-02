@@ -1,0 +1,147 @@
+{
+  "slow_build": {
+    "d3-funnel": {
+      "data": {
+        "2021-04-28T16:50:40Z": 193000.0,
+        "2021-05-25T10:50:02Z": 324500.0,
+        "2021-06-04T10:51:37Z": 193517.24137931035,
+        "2021-06-14T10:20:36Z": 203333.33333333334
+      },
+      "tool": "TravisCI",
+      "total avg": 228587.64367816094,
+      "quartiles": {
+        "q1": 193387.93103448275,
+        "q3": 233625.0,
+        "iqr": 40237.06896551725
+      },
+      "classification": {
+        "high_severity": {
+          "645": 724000
+        },
+        "medium_severity": {
+          "641": 266000,
+          "642": 266000,
+          "643": 272000,
+          "644": 271000,
+          "646": 276000,
+          "647": 262000,
+          "648": 259000,
+          "649": 256000
+        }
+      }
+    }
+  },
+  "late_merging": {
+    "missed activity": {
+      "dependabot/add-v2-config-file": 466,
+      "dependabot/npm_and_yarn/nanoid-4.0.0": 0,
+      "dependabot/npm_and_yarn/stylelint-14.11.0": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "orientation": 0
+    },
+    "branch deviation": {
+      "dependabot/add-v2-config-file": 502,
+      "dependabot/npm_and_yarn/nanoid-4.0.0": 97,
+      "dependabot/npm_and_yarn/stylelint-14.11.0": 0,
+      "gh-pages": 466,
+      "master": 0,
+      "orientation": 2456
+    },
+    "unsynced activity": {
+      "dependabot/add-v2-config-file": -37,
+      "dependabot/npm_and_yarn/nanoid-4.0.0": 0,
+      "dependabot/npm_and_yarn/stylelint-14.11.0": 0,
+      "gh-pages": 0,
+      "master": 0,
+      "orientation": 0
+    },
+    "classification": {
+      "missed activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/add-v2-config-file"
+        ]
+      },
+      "branch deviation": {
+        "medium_severity": [
+          "dependabot/add-v2-config-file"
+        ],
+        "high_severity": [
+          "orientation"
+        ]
+      },
+      "unsynced activity": {
+        "medium_severity": [],
+        "high_severity": [
+          "dependabot/add-v2-config-file"
+        ]
+      }
+    },
+    "build_count": 1
+  },
+  "broken_release": {
+    "d3-funnel": {
+      "data": [
+        {
+          "started_at": "2021-05-25T10:50:03Z",
+          "used_tool": "TravisCI",
+          "number": 642
+        },
+        {
+          "started_at": "2021-05-26T10:44:09Z",
+          "used_tool": "TravisCI",
+          "number": 644
+        },
+        {
+          "started_at": "2021-05-27T10:43:19Z",
+          "used_tool": "TravisCI",
+          "number": 646
+        },
+        {
+          "started_at": "2021-05-31T10:37:43Z",
+          "used_tool": "TravisCI",
+          "number": 648
+        },
+        {
+          "started_at": "2021-06-04T10:51:37Z",
+          "used_tool": "TravisCI",
+          "number": 649
+        },
+        {
+          "started_at": "2021-06-07T10:14:46Z",
+          "used_tool": "TravisCI",
+          "number": 661
+        },
+        {
+          "started_at": "2021-06-07T10:18:51Z",
+          "used_tool": "TravisCI",
+          "number": 663
+        },
+        {
+          "started_at": "2021-06-07T10:21:14Z",
+          "used_tool": "TravisCI",
+          "number": 665
+        },
+        {
+          "started_at": "2021-06-07T10:24:54Z",
+          "used_tool": "TravisCI",
+          "number": 667
+        },
+        {
+          "started_at": "2021-06-08T18:20:12Z",
+          "used_tool": "TravisCI",
+          "number": 675
+        },
+        {
+          "started_at": "2021-06-08T18:23:18Z",
+          "used_tool": "TravisCI",
+          "number": 677
+        }
+      ],
+      "tool": "TravisCI",
+      "release_build_count": 25
+    }
+  },
+  "skip_failing_tests": {}
+}
