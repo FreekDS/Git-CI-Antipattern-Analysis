@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 HEADER = {
-    'Authorization': f'token {os.environ.get("GH_TOKEN_1")}',
+    'Authorization': f'token {os.environ.get("GH_TOKEN_2")}',
     'User-Agent': 'FreekDS/git-ci-analyzer',
 }
 
